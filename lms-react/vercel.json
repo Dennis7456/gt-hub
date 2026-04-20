@@ -1,0 +1,12 @@
+{
+  "buildCommand": "npm run build",
+  "outputDirectory": "dist",
+  "installCommand": "npm install",
+  "framework": "vite",
+  "rewrites": [
+    {
+      "source": "/((?!assets/|clearance-one/|customs-in-international-context/|customs-valuation-i/|wto-customs-valuation/|history-of-taxation/|theory-of-taxation/|tax-and-customs-theory/|eaccma/|article-vii-valuation/|flashcards/).*)",
+      "destination": "/index.html"
+    }
+  ]
+}

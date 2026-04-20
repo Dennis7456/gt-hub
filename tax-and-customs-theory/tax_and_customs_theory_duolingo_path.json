@@ -1,0 +1,1427 @@
+{
+  "topic": "Tax and Customs Theory 2026 - Overview of Customs",
+  "format": "duolingo_style_learning_path",
+  "source": "Tax and Customs Theory-2026.pptx",
+  "design_principles": {
+    "structure": "map_based_progression",
+    "progression_style": "foundations_to_application_to_mastery",
+    "lesson_pattern": [
+      "learn",
+      "match",
+      "quiz",
+      "scenario",
+      "checkpoint"
+    ],
+    "scoring": {
+      "xp_per_micro_lesson": 10,
+      "xp_per_quiz": 15,
+      "xp_per_scenario": 20,
+      "xp_per_checkpoint": 30,
+      "perfect_lesson_bonus": 5,
+      "streak_bonus_every_5_days": 20
+    },
+    "hearts_system": {
+      "starting_hearts": 5,
+      "heart_loss_per_wrong_answer": 1,
+      "heart_recovery": [
+        "practice_old_lesson",
+        "daily_review",
+        "wait_timer"
+      ]
+    },
+    "mastery_levels": [
+      "introduced",
+      "practicing",
+      "strong",
+      "mastered"
+    ]
+  },
+  "course_outcomes": [
+    "Define Customs",
+    "Explain the historical evolution of Customs",
+    "Explain the evolution of modern day Customs Administrations",
+    "Discuss the future roles of Customs Administrations"
+  ],
+  "units": [
+    {
+      "unit_id": 1,
+      "title": "What Customs Is",
+      "theme": "Foundations",
+      "unlock_rule": "available_from_start",
+      "unit_goal": "Understand the meaning of Customs, the course objectives, and the broad idea of customs administration.",
+      "recommended_days": 2,
+      "lessons": [
+        {
+          "lesson_id": "1.1",
+          "title": "Course Mission",
+          "type": "learn",
+          "goal": "Understand what the course expects you to know by the end.",
+          "skills": [
+            "course objectives",
+            "scope of tax and customs theory"
+          ],
+          "micro_steps": [
+            "Read the course objectives",
+            "Identify the four main expected outcomes",
+            "Explain the difference between defining Customs and discussing its future roles"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "1.2",
+          "title": "Meaning of Customs",
+          "type": "learn",
+          "goal": "Memorize and explain the definition of Customs under EACCMA.",
+          "skills": [
+            "definition of Customs",
+            "link to EACCMA section 2"
+          ],
+          "micro_steps": [
+            "Read the formal definition",
+            "Restate it in simple words",
+            "Connect Customs to Partner States"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "1.3",
+          "title": "Customs in Simple Terms",
+          "type": "match",
+          "goal": "Match core customs words to their meanings.",
+          "skills": [
+            "Customs",
+            "Partner States",
+            "taxes",
+            "trade regulation"
+          ],
+          "micro_steps": [
+            "Match 'Customs' to 'departments of Partner States'",
+            "Match 'taxes' to 'revenue collection'",
+            "Match 'trade regulation' to 'control of imports and exports'"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "1.4",
+          "title": "Foundations Quiz",
+          "type": "quiz",
+          "goal": "Test understanding of the definition and course scope.",
+          "skills": [
+            "recall",
+            "basic explanation"
+          ],
+          "micro_steps": [
+            "5 quick multiple choice questions",
+            "2 short definition questions",
+            "1 explain-in-your-own-words prompt"
+          ],
+          "xp": 15
+        },
+        {
+          "lesson_id": "1.5",
+          "title": "Unit 1 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Prove you can define Customs and state the course goals.",
+          "skills": [
+            "definition mastery",
+            "objective mastery"
+          ],
+          "micro_steps": [
+            "State the legal definition",
+            "List the four course outcomes",
+            "Explain why Customs matters in trade and taxation"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 2,
+      "title": "Origins of Customs",
+      "theme": "History",
+      "unlock_rule": "complete_unit_1_checkpoint",
+      "unit_goal": "Understand how taxation and customs duties began in early societies.",
+      "recommended_days": 2,
+      "lessons": [
+        {
+          "lesson_id": "2.1",
+          "title": "Gifts to Chiefs",
+          "type": "learn",
+          "goal": "Understand how early taxation began.",
+          "skills": [
+            "origin of taxation",
+            "gift to ruler concept"
+          ],
+          "micro_steps": [
+            "Learn how communities gave gifts to leaders",
+            "Explain why gifts became expected payments",
+            "Connect gifts to early taxation"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "2.2",
+          "title": "Trade and Tribute",
+          "type": "learn",
+          "goal": "Understand how expanding trade led to customs duties.",
+          "skills": [
+            "trade routes",
+            "tribute on goods",
+            "rulers and treasury"
+          ],
+          "micro_steps": [
+            "Study how traders paid rulers when passing through land",
+            "Study payments made on return journeys",
+            "Explain why customs became a revenue tool"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "2.3",
+          "title": "First Entry Points",
+          "type": "match",
+          "goal": "Recognize how bridges, gates, and specified points became customs entry and exit points.",
+          "skills": [
+            "bridges",
+            "gates",
+            "duty collectors"
+          ],
+          "micro_steps": [
+            "Match entry points to their role",
+            "Match collectors to revenue collection",
+            "Match customs points to public finance"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "2.4",
+          "title": "Old Smuggling",
+          "type": "scenario",
+          "goal": "Think historically about how smugglers avoided early customs points.",
+          "skills": [
+            "historical reasoning",
+            "anti-smuggling thinking"
+          ],
+          "micro_steps": [
+            "Imagine pre-19th century smuggling routes",
+            "Suggest how Customs might have responded",
+            "Compare lawful trade points with hidden routes"
+          ],
+          "xp": 20
+        },
+        {
+          "lesson_id": "2.5",
+          "title": "Unit 2 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show you understand the historical roots of Customs.",
+          "skills": [
+            "historical sequence",
+            "cause and effect"
+          ],
+          "micro_steps": [
+            "Explain how gifts became tax",
+            "Explain how trade created customs duties",
+            "Explain why entry points were created"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 3,
+      "title": "Customs Across Continents",
+      "theme": "Comparative History",
+      "unlock_rule": "complete_unit_2_checkpoint",
+      "unit_goal": "Learn major customs milestones in Europe, North America, Asia, Africa, and East Africa.",
+      "recommended_days": 4,
+      "lessons": [
+        {
+          "lesson_id": "3.1",
+          "title": "Europe Timeline",
+          "type": "learn",
+          "goal": "Learn key milestones in English and UK customs development.",
+          "skills": [
+            "1203-1204 centralized English customs",
+            "1298 collectors",
+            "1643 Board of Customs",
+            "1823 merger"
+          ],
+          "micro_steps": [
+            "Place the English milestones in order",
+            "Explain why centralization mattered",
+            "Recall the 1823 merger reform"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "3.2",
+          "title": "North America Timeline",
+          "type": "learn",
+          "goal": "Learn customs development milestones in Canada and early North America.",
+          "skills": [
+            "1767 American Board of Customs",
+            "1788 St. Jean office",
+            "1845 customs ports",
+            "1868 Customs Act"
+          ],
+          "micro_steps": [
+            "Place milestones in order",
+            "Identify the St. Jean border role",
+            "Recall the 1868 Customs Act point"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "3.3",
+          "title": "Asia and Africa Timeline",
+          "type": "learn",
+          "goal": "Learn customs milestones from China and Ghana.",
+          "skills": [
+            "1854 Chinese Maritime Customs Service",
+            "1900 China scale",
+            "1839 Ghana customs department",
+            "1897 preventive service",
+            "1947 customs and excise"
+          ],
+          "micro_steps": [
+            "Compare China and Ghana customs evolution",
+            "Recall why the Chinese maritime service was created",
+            "Recall the semi-military preventive service in Ghana"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "3.4",
+          "title": "East Africa Timeline",
+          "type": "learn",
+          "goal": "Learn the historical foundation of East African customs.",
+          "skills": [
+            "1917 customs union",
+            "1923 CET and internal free trade",
+            "1927 Tanganyika joins",
+            "1967 EAC cooperation",
+            "1977 collapse",
+            "1984 mediation agreement"
+          ],
+          "micro_steps": [
+            "Arrange East African milestones",
+            "Identify customs union features",
+            "Explain the significance of 1977 and 1984"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "3.5",
+          "title": "Continents Challenge",
+          "type": "quiz",
+          "goal": "Distinguish customs milestones across continents without mixing them up.",
+          "skills": [
+            "timeline precision",
+            "regional comparison"
+          ],
+          "micro_steps": [
+            "Match dates to regions",
+            "Choose which event belongs to which continent",
+            "Correct false pairings"
+          ],
+          "xp": 15
+        },
+        {
+          "lesson_id": "3.6",
+          "title": "Unit 3 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Demonstrate broad mastery of customs history across regions.",
+          "skills": [
+            "cross-continental comparison",
+            "timeline recall"
+          ],
+          "micro_steps": [
+            "Name one key milestone per region",
+            "Explain one common pattern in customs evolution",
+            "Explain one unique East African feature"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 4,
+      "title": "East African Customs Union",
+      "theme": "Regional Integration",
+      "unlock_rule": "complete_unit_3_checkpoint",
+      "unit_goal": "Understand East African customs features, integration goals, and reasons for collapse.",
+      "recommended_days": 3,
+      "lessons": [
+        {
+          "lesson_id": "4.1",
+          "title": "Features of East African Customs",
+          "type": "learn",
+          "goal": "Memorize the key features of East African customs arrangements.",
+          "skills": [
+            "single collection center",
+            "free movement of goods capital and labor",
+            "free trade in East African products",
+            "common administration"
+          ],
+          "micro_steps": [
+            "List the customs features",
+            "Explain each in plain language",
+            "Compare them with ordinary national customs systems"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "4.2",
+          "title": "Why the EAC Collapsed",
+          "type": "learn",
+          "goal": "Understand the main reasons for EAC collapse.",
+          "skills": [
+            "political will",
+            "participation gaps",
+            "derivation principle",
+            "unequal benefit sharing",
+            "lack of grievance policies"
+          ],
+          "micro_steps": [
+            "Identify each collapse factor",
+            "Explain the derivation issue",
+            "Explain why unequal benefit sharing mattered"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "4.3",
+          "title": "Benefits vs Problems",
+          "type": "match",
+          "goal": "Separate East African customs strengths from integration weaknesses.",
+          "skills": [
+            "regional benefits",
+            "collapse causes"
+          ],
+          "micro_steps": [
+            "Match feature to benefit",
+            "Match problem to consequence",
+            "Distinguish customs success from political failure"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "4.4",
+          "title": "Union Scenario",
+          "type": "scenario",
+          "goal": "Apply customs union thinking to a regional trade case.",
+          "skills": [
+            "regional customs reasoning",
+            "policy analysis"
+          ],
+          "micro_steps": [
+            "Consider a good entering one member state for another",
+            "Explain single collection point logic",
+            "Explain how revenue sharing can become contentious"
+          ],
+          "xp": 20
+        },
+        {
+          "lesson_id": "4.5",
+          "title": "Unit 4 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show clear understanding of the East African customs union and its weaknesses.",
+          "skills": [
+            "integration analysis",
+            "cause and effect"
+          ],
+          "micro_steps": [
+            "State three features",
+            "State three collapse causes",
+            "Explain how customs integration needs political support"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 5,
+      "title": "Global Customs Cooperation and WCO",
+      "theme": "International Institutions",
+      "unlock_rule": "complete_unit_4_checkpoint",
+      "unit_goal": "Understand why international customs cooperation developed and how the WCO works.",
+      "recommended_days": 4,
+      "lessons": [
+        {
+          "lesson_id": "5.1",
+          "title": "Why Global Customs Cooperation Began",
+          "type": "learn",
+          "goal": "Understand the post-war need for coordinated customs systems.",
+          "skills": [
+            "protective tariffs",
+            "complex procedures",
+            "trader demand for reform",
+            "League of Nations 1924"
+          ],
+          "micro_steps": [
+            "Explain why states became protectionist",
+            "Explain why traders demanded change",
+            "Recall the 1924 League of Nations point"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "5.2",
+          "title": "Birth of the CCC and WCO",
+          "type": "learn",
+          "goal": "Learn the timeline from CCC to WCO.",
+          "skills": [
+            "1948 study group",
+            "1950 Brussels convention",
+            "1952 entry into force",
+            "1953 inaugural session",
+            "1994 WCO working name"
+          ],
+          "micro_steps": [
+            "Place the institutional milestones in order",
+            "Explain why International Customs Day is celebrated",
+            "Explain why the name changed to WCO"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "5.3",
+          "title": "What the WCO Does",
+          "type": "learn",
+          "goal": "Understand the mission and technical roles of the WCO.",
+          "skills": [
+            "HS nomenclature",
+            "valuation",
+            "rules of origin",
+            "reform and modernization"
+          ],
+          "micro_steps": [
+            "Link the WCO to HS",
+            "Link the WCO to valuation and origin",
+            "Explain how WCO supports reform"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "5.4",
+          "title": "WCO Structure",
+          "type": "match",
+          "goal": "Learn how the WCO is administered.",
+          "skills": [
+            "Council",
+            "Secretariat",
+            "Secretary General",
+            "Brussels headquarters",
+            "working languages"
+          ],
+          "micro_steps": [
+            "Match Council to governing body",
+            "Match Secretariat to administration",
+            "Match English and French to working languages"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "5.5",
+          "title": "WCO Objectives Quiz",
+          "type": "quiz",
+          "goal": "Master the WCO objectives and packages.",
+          "skills": [
+            "trade facilitation",
+            "security",
+            "revenue",
+            "protection",
+            "capacity building",
+            "cooperation"
+          ],
+          "micro_steps": [
+            "Pick the right objective for each package",
+            "Identify revenue versus security roles",
+            "Choose which actions improve customs administration"
+          ],
+          "xp": 15
+        },
+        {
+          "lesson_id": "5.6",
+          "title": "Unit 5 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show working understanding of international customs cooperation and the WCO.",
+          "skills": [
+            "institutional understanding",
+            "timeline recall",
+            "objective mapping"
+          ],
+          "micro_steps": [
+            "Explain why the WCO exists",
+            "Name core WCO functions",
+            "Differentiate WCO governance from technical work"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 6,
+      "title": "Core Roles of Customs",
+      "theme": "Functions",
+      "unlock_rule": "complete_unit_5_checkpoint",
+      "unit_goal": "Master the practical and legal roles of Customs in trade, revenue, safety, and statistics.",
+      "recommended_days": 4,
+      "lessons": [
+        {
+          "lesson_id": "6.1",
+          "title": "Trade and Revenue",
+          "type": "learn",
+          "goal": "Understand the trade and tax functions of Customs.",
+          "skills": [
+            "facilitation of legitimate trade",
+            "collection of taxes"
+          ],
+          "micro_steps": [
+            "Explain legitimate trade facilitation",
+            "Explain tax collection role",
+            "Explain why both roles must be balanced"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "6.2",
+          "title": "Protection and Enforcement",
+          "type": "learn",
+          "goal": "Understand the protective and enforcement roles of Customs.",
+          "skills": [
+            "prohibitions and restrictions",
+            "treaties and conventions",
+            "IPR",
+            "environment"
+          ],
+          "micro_steps": [
+            "Explain how Customs protects society",
+            "Explain treaty enforcement role",
+            "Explain IPR protection role"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "6.3",
+          "title": "Assessment and Collection of Taxes",
+          "type": "learn",
+          "goal": "Learn the key tax collection activities performed by Customs.",
+          "skills": [
+            "valuation",
+            "document verification",
+            "classification",
+            "tax computation",
+            "declaration checking",
+            "monitoring exemptions"
+          ],
+          "micro_steps": [
+            "Put the tax collection steps in order",
+            "Explain each step briefly",
+            "Link exemptions to revenue protection"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "6.4",
+          "title": "Trade Statistics",
+          "type": "match",
+          "goal": "Understand why Customs collects statistics.",
+          "skills": [
+            "international trade statistics",
+            "regional trade statistics",
+            "money movement statistics",
+            "planning",
+            "balance of trade"
+          ],
+          "micro_steps": [
+            "Match each type of statistic to its use",
+            "Distinguish planning from balance of trade",
+            "Explain why Customs records trade flows"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "6.5",
+          "title": "Customs Roles Quiz",
+          "type": "quiz",
+          "goal": "Test broad mastery of Customs functions.",
+          "skills": [
+            "multi-role understanding"
+          ],
+          "micro_steps": [
+            "Identify whether an activity is trade, revenue, protection, or statistics",
+            "Distinguish customs from non-customs roles",
+            "Choose best examples of each function"
+          ],
+          "xp": 15
+        },
+        {
+          "lesson_id": "6.6",
+          "title": "Unit 6 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show complete understanding of the role of Customs.",
+          "skills": [
+            "functional mastery"
+          ],
+          "micro_steps": [
+            "List the main roles of Customs",
+            "Give examples of each",
+            "Explain why modern Customs is broader than tax collection alone"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 7,
+      "title": "Facilitation, Protection, and Smuggling Control",
+      "theme": "Border Management",
+      "unlock_rule": "complete_unit_6_checkpoint",
+      "unit_goal": "Understand how Customs facilitates lawful trade while controlling risks and preventing smuggling.",
+      "recommended_days": 4,
+      "lessons": [
+        {
+          "lesson_id": "7.1",
+          "title": "How Customs Facilitates Trade",
+          "type": "learn",
+          "goal": "Learn the operational tools of trade facilitation.",
+          "skills": [
+            "Revised Kyoto Convention",
+            "Incoterms",
+            "ICMS",
+            "AEO",
+            "training",
+            "facilitation incentives"
+          ],
+          "micro_steps": [
+            "Recall the facilitation methods",
+            "Explain what AEO partnership means",
+            "Identify examples such as SEZ and EPZ"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "7.2",
+          "title": "How Customs Protects Society and Industry",
+          "type": "learn",
+          "goal": "Learn how Customs enforces social and economic protection.",
+          "skills": [
+            "prohibitions",
+            "restrictions",
+            "environmental conservation",
+            "counterfeits",
+            "quotas",
+            "money laundering",
+            "human trafficking"
+          ],
+          "micro_steps": [
+            "Group protection roles into categories",
+            "Explain why each category matters",
+            "Relate border control to public safety"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "7.3",
+          "title": "Stopping Smuggling",
+          "type": "learn",
+          "goal": "Learn the anti-smuggling powers and actions highlighted in the slides.",
+          "skills": [
+            "requiring conveyances to dock or depart",
+            "patrols",
+            "stopping conveyances",
+            "boarding and search",
+            "questioning people",
+            "power to arrest"
+          ],
+          "micro_steps": [
+            "Put the anti-smuggling actions in order",
+            "Explain how they deter smuggling",
+            "Connect them to customs enforcement powers"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "7.4",
+          "title": "Trade vs Enforcement",
+          "type": "scenario",
+          "goal": "Balance facilitation and control in a border scenario.",
+          "skills": [
+            "risk-based customs reasoning",
+            "balancing speed and control"
+          ],
+          "micro_steps": [
+            "Decide which goods should move faster",
+            "Identify where stronger checks are justified",
+            "Explain why facilitation does not mean no control"
+          ],
+          "xp": 20
+        },
+        {
+          "lesson_id": "7.5",
+          "title": "Unit 7 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show you can explain both facilitation and enforcement together.",
+          "skills": [
+            "balanced customs thinking"
+          ],
+          "micro_steps": [
+            "Explain trade facilitation tools",
+            "Explain protection tools",
+            "Explain how anti-smuggling fits into modern Customs"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 8,
+      "title": "Customs Control and Barriers",
+      "theme": "Control Logic",
+      "unlock_rule": "complete_unit_7_checkpoint",
+      "unit_goal": "Understand customs control, customs barriers, and their economic and social logic.",
+      "recommended_days": 4,
+      "lessons": [
+        {
+          "lesson_id": "8.1",
+          "title": "Meaning of Customs Control",
+          "type": "learn",
+          "goal": "Understand what customs control means and what it seeks to achieve.",
+          "skills": [
+            "compliance",
+            "movement of resources",
+            "fiscal obligations",
+            "prohibitions and restrictions"
+          ],
+          "micro_steps": [
+            "Define customs control",
+            "Explain why customs control is broader than taxes",
+            "Explain how it regulates movement of resources"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "8.2",
+          "title": "Physical vs Legislative Barriers",
+          "type": "learn",
+          "goal": "Differentiate physical and legislative customs barriers.",
+          "skills": [
+            "physical barriers",
+            "legislative barriers",
+            "tariff barriers",
+            "non-tariff barriers"
+          ],
+          "micro_steps": [
+            "Define physical barriers",
+            "Define legislative barriers",
+            "Differentiate tariff from non-tariff barriers"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "8.3",
+          "title": "Non-Tariff Barriers",
+          "type": "match",
+          "goal": "Recognize common non-tariff barriers.",
+          "skills": [
+            "bans",
+            "quotas",
+            "pre-shipment inspection",
+            "quality control",
+            "exchange controls",
+            "licenses"
+          ],
+          "micro_steps": [
+            "Match each barrier to its description",
+            "Identify which are non-tariff",
+            "Distinguish them from direct taxes"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "8.4",
+          "title": "Why Barriers Exist",
+          "type": "learn",
+          "goal": "Understand the justifications and downsides of barriers.",
+          "skills": [
+            "infant industry protection",
+            "arms control",
+            "food security",
+            "culture and heritage",
+            "health protection",
+            "trade reduction",
+            "cost increase"
+          ],
+          "micro_steps": [
+            "List the justifications",
+            "List the cons",
+            "Explain how a barrier can protect and also distort trade"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "8.5",
+          "title": "Barrier Debate",
+          "type": "scenario",
+          "goal": "Apply customs barrier logic to a policy scenario.",
+          "skills": [
+            "policy reasoning",
+            "trade-off analysis"
+          ],
+          "micro_steps": [
+            "Argue for a barrier",
+            "Argue against the same barrier",
+            "Choose when a barrier is justified"
+          ],
+          "xp": 20
+        },
+        {
+          "lesson_id": "8.6",
+          "title": "Unit 8 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Prove you can explain customs control and barriers clearly.",
+          "skills": [
+            "control systems mastery",
+            "trade policy reasoning"
+          ],
+          "micro_steps": [
+            "Define customs control",
+            "Compare physical and legislative barriers",
+            "Explain tariff versus non-tariff barriers",
+            "Give benefits and disadvantages of barriers"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 9,
+      "title": "Basic Control Tools and Customs Areas",
+      "theme": "Operational Control",
+      "unlock_rule": "complete_unit_8_checkpoint",
+      "unit_goal": "Master the practical tools Customs uses to control movement of goods and conveyances.",
+      "recommended_days": 4,
+      "lessons": [
+        {
+          "lesson_id": "9.1",
+          "title": "Basic Control Tools",
+          "type": "learn",
+          "goal": "Learn the practical tools Customs uses to maintain control.",
+          "skills": [
+            "gazetted entry and exit points",
+            "customs areas",
+            "conveyance control",
+            "mandatory declarations",
+            "scope of control"
+          ],
+          "micro_steps": [
+            "List the control tools",
+            "Explain why each tool exists",
+            "Connect each tool to compliance"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "9.2",
+          "title": "Customs Areas under EACCMA",
+          "type": "learn",
+          "goal": "Identify the types of customs areas listed in the presentation.",
+          "skills": [
+            "sections 11 and 12",
+            "ports",
+            "border stations",
+            "loading and unloading places",
+            "boarding stations",
+            "warehouses",
+            "sufferance wharves",
+            "baggage halls",
+            "transit sheds",
+            "routes"
+          ],
+          "micro_steps": [
+            "Recall the sections",
+            "Group customs areas by function",
+            "Explain why each area matters operationally"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "9.3",
+          "title": "Area Recognition",
+          "type": "match",
+          "goal": "Match each customs area to its purpose.",
+          "skills": [
+            "area-purpose mapping"
+          ],
+          "micro_steps": [
+            "Match baggage hall to passenger control",
+            "Match transit shed to temporary holding",
+            "Match route to movement under customs control"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "9.4",
+          "title": "Entry Point Scenario",
+          "type": "scenario",
+          "goal": "Apply customs area concepts to a real-world movement scenario.",
+          "skills": [
+            "operational flow thinking"
+          ],
+          "micro_steps": [
+            "Decide where a conveyance should report",
+            "Choose where goods should be verified",
+            "Identify the correct movement route under customs control"
+          ],
+          "xp": 20
+        },
+        {
+          "lesson_id": "9.5",
+          "title": "Unit 9 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show that you understand customs areas and basic operational control tools.",
+          "skills": [
+            "location-based customs mastery"
+          ],
+          "micro_steps": [
+            "List the core control tools",
+            "Name the major customs areas",
+            "Explain how areas and control tools work together"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 10,
+      "title": "Reports, Declarations, and Goods under Customs Control",
+      "theme": "Procedures",
+      "unlock_rule": "complete_unit_9_checkpoint",
+      "unit_goal": "Understand report requirements, customs entry, and the meaning of goods under customs control.",
+      "recommended_days": 5,
+      "lessons": [
+        {
+          "lesson_id": "10.1",
+          "title": "Inward and Outward Reports",
+          "type": "learn",
+          "goal": "Understand report obligations for conveyances.",
+          "skills": [
+            "owner or agent obligations",
+            "arrival and departure reports",
+            "24-hour vessel reporting",
+            "no unloading before report"
+          ],
+          "micro_steps": [
+            "Identify who reports",
+            "Identify which conveyances must be reported",
+            "Recall the vessel reporting timing rule",
+            "Explain the no-unloading rule"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "10.2",
+          "title": "Customs Entry and Declaration",
+          "type": "learn",
+          "goal": "Understand customs declaration requirements and legal entry points in the process.",
+          "skills": [
+            "sections 34, 73, and 94",
+            "importer declaration",
+            "specified declaration period",
+            "no loading or unloading before entry"
+          ],
+          "micro_steps": [
+            "Recall the key sections",
+            "State who makes declaration",
+            "Explain the timing rule",
+            "Explain why entry comes before loading or unloading"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "10.3",
+          "title": "Goods under Customs Control",
+          "type": "learn",
+          "goal": "Understand section 16 and the examples of goods deemed under customs control.",
+          "skills": [
+            "section 16",
+            "imports",
+            "drawback goods",
+            "dutiable exports",
+            "restricted exports",
+            "goods in customs areas",
+            "goods in aircraft or vessels",
+            "unpaid duty goods",
+            "seized goods"
+          ],
+          "micro_steps": [
+            "Define goods under customs control",
+            "List the categories in the slides",
+            "Explain why Customs may examine such goods at any time"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "10.4",
+          "title": "Procedure Flow Match",
+          "type": "match",
+          "goal": "Link reports, declarations, and control status together.",
+          "skills": [
+            "procedural sequence"
+          ],
+          "micro_steps": [
+            "Match report to arrival",
+            "Match entry to declaration",
+            "Match customs control to examination power"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "10.5",
+          "title": "Control Scenario",
+          "type": "scenario",
+          "goal": "Apply customs control logic to imports and exports in motion.",
+          "skills": [
+            "operational procedure reasoning"
+          ],
+          "micro_steps": [
+            "Decide whether goods are under customs control",
+            "Determine whether unloading is allowed",
+            "Determine whether Customs may examine the goods"
+          ],
+          "xp": 20
+        },
+        {
+          "lesson_id": "10.6",
+          "title": "Unit 10 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Prove mastery of reporting, declaration, and customs control basics.",
+          "skills": [
+            "procedure mastery"
+          ],
+          "micro_steps": [
+            "Explain inward and outward reports",
+            "Explain customs entry",
+            "Explain goods under customs control using examples"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 11,
+      "title": "Legal Framework of Customs Work",
+      "theme": "Law and Instruments",
+      "unlock_rule": "complete_unit_10_checkpoint",
+      "unit_goal": "Master the legal authorities, EACCMA schedules, and regulations that govern customs work.",
+      "recommended_days": 4,
+      "lessons": [
+        {
+          "lesson_id": "11.1",
+          "title": "Legal Authority Basics",
+          "type": "learn",
+          "goal": "Understand the sources of legal authority for customs work.",
+          "skills": [
+            "international agreements",
+            "statutes",
+            "administrative instructions"
+          ],
+          "micro_steps": [
+            "List the forms of legal authority",
+            "Explain why customs work must be anchored in law",
+            "Differentiate statutes from administrative guidance"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "11.2",
+          "title": "EACCMA as Principal Law",
+          "type": "learn",
+          "goal": "Understand the place of EACCMA in customs practice.",
+          "skills": [
+            "principal law on customs",
+            "Kenya and EAC use",
+            "importance of schedules"
+          ],
+          "micro_steps": [
+            "Explain why EACCMA is principal law",
+            "State where it applies",
+            "Explain why schedules matter"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "11.3",
+          "title": "Schedules Mastery",
+          "type": "match",
+          "goal": "Memorize all six EACCMA schedules.",
+          "skills": [
+            "1st to 6th schedule"
+          ],
+          "micro_steps": [
+            "Match each schedule number to its content",
+            "Distinguish valuation from exemptions",
+            "Distinguish imports from exports schedules"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "11.4",
+          "title": "Regulations and Other Legal References",
+          "type": "learn",
+          "goal": "Understand the role of regulations and other customs instruments.",
+          "skills": [
+            "EACCMR",
+            "Rules of Origin",
+            "CET",
+            "Revised Kyoto Convention",
+            "WTO Trade Facilitation Agreement"
+          ],
+          "micro_steps": [
+            "Explain what regulations do",
+            "List other legal references",
+            "Connect international instruments to customs practice"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "11.5",
+          "title": "Law Application Scenario",
+          "type": "scenario",
+          "goal": "Choose the correct legal authority for a customs issue.",
+          "skills": [
+            "source selection"
+          ],
+          "micro_steps": [
+            "Choose whether an issue belongs to the Act, Regulations, Schedule, or external instrument",
+            "Explain why the chosen source fits",
+            "Recognize when multiple sources apply"
+          ],
+          "xp": 20
+        },
+        {
+          "lesson_id": "11.6",
+          "title": "Unit 11 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show you understand the customs legal framework.",
+          "skills": [
+            "legal framework mastery"
+          ],
+          "micro_steps": [
+            "Name key legal authorities",
+            "Explain the role of EACCMA",
+            "List all schedules",
+            "Explain the role of regulations"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 12,
+      "title": "Smart Customs and Final Mastery",
+      "theme": "Future of Customs",
+      "unlock_rule": "complete_unit_11_checkpoint",
+      "unit_goal": "Understand the future of customs administrations and consolidate the whole course.",
+      "recommended_days": 4,
+      "lessons": [
+        {
+          "lesson_id": "12.1",
+          "title": "Smart Customs Vision",
+          "type": "learn",
+          "goal": "Understand the future-facing model of Smart Customs.",
+          "skills": [
+            "speed and cost reduction",
+            "intelligent management of goods and vehicles",
+            "IoT",
+            "AI",
+            "data analytics"
+          ],
+          "micro_steps": [
+            "Explain the goal of Smart Customs",
+            "Identify enabling technologies",
+            "Explain why intelligence matters in customs control"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "12.2",
+          "title": "Strategic Themes of Future Customs",
+          "type": "learn",
+          "goal": "Understand the broader policy themes of future customs administrations.",
+          "skills": [
+            "green customs",
+            "strategic trade control",
+            "integrity",
+            "international cooperation",
+            "capacity building"
+          ],
+          "micro_steps": [
+            "Explain each theme",
+            "Connect integrity to customs effectiveness",
+            "Connect capacity building to modernization"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "12.3",
+          "title": "Traditional vs Modern Customs",
+          "type": "match",
+          "goal": "Master the recap transitions from older customs models to modern ones.",
+          "skills": [
+            "manual to automated",
+            "physical to non-intrusive inspection",
+            "enforcement to facilitation",
+            "revenue to supply chain security and environment"
+          ],
+          "micro_steps": [
+            "Match old model to new model",
+            "Explain each transition",
+            "Identify which changes reflect modernization"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "12.4",
+          "title": "Future Customs Scenario",
+          "type": "scenario",
+          "goal": "Apply Smart Customs thinking to a realistic future customs case.",
+          "skills": [
+            "technology application",
+            "risk management",
+            "policy reasoning"
+          ],
+          "micro_steps": [
+            "Choose which smart tools fit a case",
+            "Decide when automation is enough and when manual intervention is needed",
+            "Explain how modern Customs balances speed, security, and integrity"
+          ],
+          "xp": 20
+        },
+        {
+          "lesson_id": "12.5",
+          "title": "Grand Checkpoint",
+          "type": "checkpoint",
+          "goal": "Demonstrate full-course mastery from foundations to future customs.",
+          "skills": [
+            "full-topic synthesis"
+          ],
+          "micro_steps": [
+            "Define Customs",
+            "Explain the historical evolution of Customs",
+            "Explain the evolution of modern customs administrations",
+            "Discuss the future roles of customs administrations"
+          ],
+          "xp": 30
+        },
+        {
+          "lesson_id": "12.6",
+          "title": "Legendary Review Path",
+          "type": "quiz",
+          "goal": "A final mixed review that recycles all major ideas in the course.",
+          "skills": [
+            "long-term retention",
+            "mixed recall",
+            "applied understanding"
+          ],
+          "micro_steps": [
+            "Mixed history questions",
+            "Mixed legal authority questions",
+            "Mixed customs role questions",
+            "Mixed smart customs questions"
+          ],
+          "xp": 15
+        }
+      ]
+    }
+  ],
+  "review_system": {
+    "daily_practice": {
+      "description": "Recycles weak lessons and recently completed checkpoints.",
+      "daily_target_xp": 30
+    },
+    "spaced_repetition_buckets": [
+      {
+        "bucket": "same_day",
+        "trigger": "after first lesson completion"
+      },
+      {
+        "bucket": "next_day",
+        "trigger": "if learner scores below 80 percent"
+      },
+      {
+        "bucket": "three_day_review",
+        "trigger": "for all new concepts"
+      },
+      {
+        "bucket": "seven_day_review",
+        "trigger": "for all checkpoint skills"
+      },
+      {
+        "bucket": "mastery_refresh",
+        "trigger": "every 14 days for mastered units"
+      }
+    ]
+  },
+  "gamification": {
+    "badges": [
+      {
+        "name": "Customs Rookie",
+        "unlock": "complete Unit 1"
+      },
+      {
+        "name": "History Tracker",
+        "unlock": "complete Units 2 to 4"
+      },
+      {
+        "name": "Global Customs Explorer",
+        "unlock": "complete Unit 5"
+      },
+      {
+        "name": "Revenue and Trade Guardian",
+        "unlock": "complete Unit 6"
+      },
+      {
+        "name": "Border Defender",
+        "unlock": "complete Units 7 and 8"
+      },
+      {
+        "name": "Procedure Master",
+        "unlock": "complete Units 9 and 10"
+      },
+      {
+        "name": "Legal Navigator",
+        "unlock": "complete Unit 11"
+      },
+      {
+        "name": "Smart Customs Visionary",
+        "unlock": "complete Unit 12"
+      }
+    ],
+    "streak_rewards": [
+      {
+        "days": 3,
+        "reward": "bonus review chest"
+      },
+      {
+        "days": 7,
+        "reward": "checkpoint retry without heart loss"
+      },
+      {
+        "days": 14,
+        "reward": "legendary review unlock"
+      },
+      {
+        "days": 30,
+        "reward": "course mastery badge"
+      }
+    ]
+  },
+  "estimated_course_totals": {
+    "total_units": 12,
+    "total_lessons": 66,
+    "estimated_base_xp": 940,
+    "estimated_completion_days": 42
+  }
+}

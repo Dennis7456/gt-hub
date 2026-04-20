@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>History of Taxation - Tax and Customs Theory - Main Test 6</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+</head>
+<body class="bg-gray-50">
+  <!-- Intro Screen -->
+  <div id="intro-screen" class="min-h-screen flex items-center justify-center p-4">
+    <div class="max-w-2xl w-full bg-white rounded-lg shadow-lg p-8">
+      <h1 id="test-title" class="text-3xl font-bold text-gray-800 mb-4"></h1>
+      
+      <div class="bg-blue-50 border-l-4 border-blue-500 p-4 mb-6">
+        <h2 class="font-bold text-lg mb-2">Test Information</h2>
+        <ul class="space-y-2">
+          <li>📝 <strong>Questions:</strong> <span id="total-questions"></span></li>
+          <li>⏱️ <strong>Time Limit:</strong> <span id="time-limit"></span> minutes</li>
+          <li>✅ <strong>Passing Score:</strong> 70%</li>
+          <li>💡 <strong>Format:</strong> Multiple choice</li>
+        </ul>
+      </div>
+      
+      <div class="bg-yellow-50 border-l-4 border-yellow-500 p-4 mb-6">
+        <h2 class="font-bold text-lg mb-2">Instructions</h2>
+        <ul class="list-disc list-inside space-y-1 text-sm">
+          <li>Answer all questions to the best of your ability</li>
+          <li>You can navigate between questions using Previous/Next buttons</li>
+          <li>Review your answers before submitting</li>
+          <li>The test will auto-submit when time expires</li>
+        </ul>
+      </div>
+      
+      <button id="start-btn" class="w-full bg-blue-600 hover:bg-blue-700 text-white font-bold py-4 px-6 rounded-lg transition-colors">
+        Start Test
+      </button>
+    </div>
+  </div>
+
+  <!-- Test Screen -->
+  <div id="test-screen" class="hidden min-h-screen p-4">
+    <div class="max-w-4xl mx-auto">
+      <!-- Header -->
+      <div class="bg-white rounded-lg shadow-lg p-4 mb-4">
+        <div class="flex justify-between items-center">
+          <div>
+            <span class="text-sm text-gray-600">Question </span>
+            <span id="current-question" class="font-bold">1</span>
+            <span class="text-sm text-gray-600"> of </span>
+            <span id="question-progress" class="font-bold">50</span>
+          </div>
+          <div class="text-2xl font-bold" id="timer">45:00</div>
+        </div>
+        <div class="mt-2 bg-gray-200 rounded-full h-2">
+          <div id="progress-bar" class="bg-blue-600 h-2 rounded-full transition-all" style="width: 0%"></div>
+        </div>
+      </div>
+
+      <!-- Question -->
+      <div class="bg-white rounded-lg shadow-lg p-6 mb-4">
+        <div class="mb-4">
+          <h2 id="question-number" class="text-xl font-bold text-gray-800 mb-2">Question 1</h2>
+          <p id="question-topic" class="text-sm text-gray-600 mb-4">Topic: General</p>
+          <p id="question-text" class="text-lg text-gray-700"></p>
+        </div>
+        
+        <div id="options-container" class="space-y-3">
+          <!-- Options will be inserted here -->
+        </div>
+      </div>
+
+      <!-- Navigation -->
+      <div class="flex justify-between">
+        <button id="prev-btn" onclick="previousQuestion()" class="bg-gray-600 hover:bg-gray-700 text-white font-bold py-3 px-6 rounded-lg disabled:opacity-50 disabled:cursor-not-allowed">
+          ← Previous
+        </button>
+        <button id="next-btn" onclick="nextQuestion()" class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-6 rounded-lg">
+          Next →
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Review Screen -->
+  <div id="review-screen" class="hidden min-h-screen flex items-center justify-center p-4">
+    <div class="max-w-2xl w-full bg-white rounded-lg shadow-lg p-8">
+      <h2 class="text-2xl font-bold text-gray-800 mb-6">Review Your Answers</h2>
+      
+      <div class="bg-blue-50 border-l-4 border-blue-500 p-4 mb-6">
+        <p class="mb-2">✓ <strong>Answered:</strong> <span id="answered-count">0</span> questions</p>
+        <p>⚠️ <strong>Unanswered:</strong> <span id="unanswered-count">0</span> questions</p>
+      </div>
+      
+      <div class="space-y-3">
+        <button onclick="backToTest()" class="w-full bg-gray-600 hover:bg-gray-700 text-white font-bold py-3 px-6 rounded-lg">
+          ← Back to Test
+        </button>
+        <button onclick="confirmSubmit()" class="w-full bg-green-600 hover:bg-green-700 text-white font-bold py-3 px-6 rounded-lg">
+          Submit Test
+        </button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Results Screen -->
+  <div id="results-screen" class="hidden min-h-screen p-4">
+    <div class="max-w-4xl mx-auto">
+      <div class="bg-white rounded-lg shadow-lg p-8 mb-6">
+        <h2 class="text-3xl font-bold text-gray-800 mb-6 text-center">Test Results</h2>
+        
+        <div class="text-center mb-6">
+          <div class="text-6xl font-bold text-gray-800 mb-2">
+            <span id="final-score">0</span>/<span id="total-score">50</span>
+          </div>
+          <div class="text-4xl font-bold text-gray-600 mb-4">
+            <span id="percentage">0</span>%
+          </div>
+          <div id="pass-status" class="text-2xl font-bold"></div>
+        </div>
+        
+        <div class="text-center">
+          <button onclick="retakeTest()" class="bg-blue-600 hover:bg-blue-700 text-white font-bold py-3 px-8 rounded-lg">
+            Retake Test
+          </button>
+        </div>
+      </div>
+
+      <!-- Detailed Results -->
+      <div class="bg-white rounded-lg shadow-lg p-8">
+        <h3 class="text-2xl font-bold text-gray-800 mb-4">Detailed Results</h3>
+        <div id="detailed-results" class="space-y-4">
+          <!-- Results will be inserted here -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <script src="questions.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

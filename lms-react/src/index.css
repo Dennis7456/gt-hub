@@ -1,0 +1,259 @@
+@import "tailwindcss";
+
+/* ============================================================
+   Tailwind v4: use class-based dark mode so ThemeContext controls it
+   ============================================================ */
+@variant dark (&:where(.dark, .dark *));
+
+/* ============================================================
+   GT Hub Design System — KRA Graduate Trainee Hub
+   Brand palette: KRA Green (#006633) + Gold (#FFB800) + clean neutrals
+   ============================================================ */
+@theme {
+  /* Responsive breakpoints (mobile-first) */
+  --breakpoint-xs: 320px;
+  --breakpoint-sm: 640px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 1024px;
+  --breakpoint-xl: 1280px;
+  --breakpoint-2xl: 1536px;
+
+  /* Touch-friendly minimum sizes */
+  --spacing-touch: 44px;
+
+  /* Brand colours */
+  --color-brand-green: #006633;
+  --color-brand-green-light: #008844;
+  --color-brand-green-dark: #004d26;
+  --color-brand-gold: #FFB800;
+  --color-brand-gold-light: #FFC933;
+  --color-brand-gold-dark: #CC9200;
+}
+
+/* ============================================================
+   CSS custom properties — light & dark tokens
+   ============================================================ */
+:root {
+  font-synthesis: none;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+
+  /* Surface colours */
+  --surface-bg: #f8fafc;
+  --surface-card: #ffffff;
+  --surface-nav: #ffffff;
+  --surface-border: #e2e8f0;
+
+  /* Text colours */
+  --text-primary: #0f172a;
+  --text-secondary: #475569;
+  --text-muted: #94a3b8;
+
+  /* Brand */
+  --brand-primary: #006633;
+  --brand-primary-hover: #008844;
+  --brand-accent: #FFB800;
+  --brand-accent-hover: #FFC933;
+}
+
+.dark {
+  /* Surface colours — rich dark, not pure black */
+  --surface-bg: #0f1923;
+  --surface-card: #1a2535;
+  --surface-nav: #111d2b;
+  --surface-border: #2d3f55;
+
+  /* Text colours — always high contrast on dark */
+  --text-primary: #f1f5f9;
+  --text-secondary: #cbd5e1;
+  --text-muted: #94a3b8;
+
+  /* Brand stays the same */
+  --brand-primary: #00a854;
+  --brand-primary-hover: #00c463;
+  --brand-accent: #FFB800;
+  --brand-accent-hover: #FFC933;
+}
+
+body {
+  margin: 0;
+  font-family: 'Inter', system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+/* ============================================================
+   Skip-to-main-content link (accessibility)
+   ============================================================ */
+.skip-to-main {
+  position: absolute;
+  top: -100%;
+  left: 0;
+  z-index: 9999;
+  padding: 0.75rem 1.5rem;
+  background: var(--brand-primary);
+  color: #fff;
+  font-weight: 600;
+  border-radius: 0 0 0.5rem 0;
+  text-decoration: none;
+  transition: top 0.1s;
+}
+
+.skip-to-main:focus {
+  top: 0;
+}
+
+/* ============================================================
+   Focus-visible styles for keyboard navigation
+   ============================================================ */
+:focus-visible {
+  outline: 2px solid var(--brand-accent);
+  outline-offset: 2px;
+}
+
+:focus:not(:focus-visible) {
+  outline: none;
+}
+
+/* ============================================================
+   Touch-friendly tap targets (min 44x44px)
+   ============================================================ */
+button,
+[role="button"],
+a,
+input,
+select,
+textarea {
+  min-height: 44px;
+}
+
+p a,
+li a,
+.prose a {
+  min-height: unset;
+}
+
+/* ============================================================
+   Responsive typography scale (mobile-first)
+   ============================================================ */
+html {
+  font-size: 16px;
+}
+
+@media (max-width: 640px) {
+  html {
+    font-size: 15px;
+  }
+}
+
+/* ============================================================
+   Responsive container max-widths
+   ============================================================ */
+.container {
+  width: 100%;
+  max-width: 1280px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* ============================================================
+   GT Hub utility classes
+   ============================================================ */
+
+/* Brand gradient — used on hero sections and cards */
+.gt-gradient {
+  background: linear-gradient(135deg, var(--brand-primary) 0%, #004d26 100%);
+}
+
+.gt-gradient-gold {
+  background: linear-gradient(135deg, var(--brand-accent) 0%, var(--brand-accent-hover) 100%);
+}
+
+/* Card surface */
+.gt-card {
+  background-color: var(--surface-card);
+  border: 1px solid var(--surface-border);
+  border-radius: 0.75rem;
+  box-shadow: 0 1px 3px rgba(0,0,0,0.08), 0 1px 2px rgba(0,0,0,0.04);
+  transition: box-shadow 0.2s, transform 0.2s;
+}
+
+.gt-card:hover {
+  box-shadow: 0 4px 12px rgba(0,0,0,0.12), 0 2px 4px rgba(0,0,0,0.06);
+}
+
+.gt-card-interactive:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 24px rgba(0,0,0,0.14), 0 4px 8px rgba(0,0,0,0.08);
+}
+
+/* Primary button */
+.gt-btn-primary {
+  background-color: var(--brand-primary);
+  color: #ffffff;
+  font-weight: 600;
+  border-radius: 0.5rem;
+  padding: 0.625rem 1.25rem;
+  transition: background-color 0.15s, transform 0.1s;
+  border: none;
+  cursor: pointer;
+}
+
+.gt-btn-primary:hover {
+  background-color: var(--brand-primary-hover);
+  transform: translateY(-1px);
+}
+
+.gt-btn-primary:active {
+  transform: translateY(0);
+}
+
+/* Gold accent button */
+.gt-btn-accent {
+  background-color: var(--brand-accent);
+  color: #1a1a1a;
+  font-weight: 600;
+  border-radius: 0.5rem;
+  padding: 0.625rem 1.25rem;
+  transition: background-color 0.15s, transform 0.1s;
+  border: none;
+  cursor: pointer;
+}
+
+.gt-btn-accent:hover {
+  background-color: var(--brand-accent-hover);
+  transform: translateY(-1px);
+}
+
+/* Nav bar */
+.gt-nav {
+  background-color: var(--surface-nav);
+  border-bottom: 2px solid var(--brand-primary);
+  box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+}
+
+/* Progress bar track */
+.gt-progress-track {
+  background-color: var(--surface-border);
+  border-radius: 9999px;
+  overflow: hidden;
+}
+
+/* Smooth scrollbar */
+* {
+  scrollbar-width: thin;
+  scrollbar-color: var(--surface-border) transparent;
+}
+
+*::-webkit-scrollbar {
+  width: 6px;
+  height: 6px;
+}
+
+*::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: var(--surface-border);
+  border-radius: 3px;
+}

@@ -1,0 +1,3342 @@
+const flashcards = [
+  {
+    topic: "1. Definitions",
+    front: "What is the short title of the Act?",
+    back: "The East African Community Customs Management Act, 2004."
+  },
+  {
+    topic: "1. Definitions",
+    front: "To whom does the Act apply?",
+    back: "It applies to the Partner States."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is an “agent” in relation to an aircraft, vehicle, or vessel?",
+    back: "A person who acts on behalf of the owner and does anything required by the Act to be done by an agent; if no agent is appointed, the owner or representative may be deemed the agent."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is an approved place of loading or unloading?",
+    back: "A quay, jetty, wharf, or other place, including part of a Customs airport, appointed by the Commissioner where goods may be loaded or unloaded."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is a boarding station?",
+    back: "A place appointed by the Commissioner where aircraft or vessels arriving at or departing from a port or place bring to for boarding or disembarkation of officers."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is a bonded warehouse?",
+    back: "A warehouse or other place licensed by the Commissioner for storing dutiable goods on which import duty has not been paid and which have been entered for warehousing."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What does “cargo” include?",
+    back: "All goods imported or exported in an aircraft, vehicle, or vessel except stores for use or consumption by the craft, crew, and passengers, and bona fide personal baggage of crew and passengers."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is COMESA?",
+    back: "The organisation established by the Treaty establishing the Common Market for Eastern and Southern Africa, 1994."
+  },
+  {
+    topic: "1. Definitions",
+    front: "Who is the Commissioner under the Act?",
+    back: "The Commissioner of Customs appointed under section 5 of the Act."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is countervailing duty?",
+    back: "A specific duty levied to offset a subsidy bestowed directly or indirectly on the manufacture, production, or export of a product."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What are countervailing measures?",
+    back: "Actions taken to counter the effect of subsidies."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What does “Customs” mean?",
+    back: "The customs departments of the Partner States."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is a Customs area?",
+    back: "A place appointed by the Commissioner for carrying out customs operations, including a place designated for deposit of goods subject to customs control."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What are Customs laws?",
+    back: "This Act, Acts of the Partner States and Community relating to Customs, relevant Treaty provisions, the Protocol, Council regulations and directives, and relevant principles of international law."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is the Customs Co-operation Council?",
+    back: "The council established by the Convention establishing the Customs Co-operation Council, 1952."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is Customs revenue?",
+    back: "Amounts collectable by Customs in accordance with the Customs laws."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is a Customs warehouse?",
+    back: "A place approved by the Commissioner for depositing unentered, unexamined, abandoned, detained, or seized goods for their security or for the security of duty due on them."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is the Directorate?",
+    back: "The Directorate of Customs established by the Council under Article 75(3) of the Treaty."
+  },
+  {
+    topic: "1. Definitions",
+    front: "Who is the Director General?",
+    back: "The Director General of Customs in the Directorate of Customs."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What does “document” include under the Act?",
+    back: "An electronic document, magnetic tape, disk, and microfilm."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What does “dollar” mean in the Act?",
+    back: "United States dollar, including the equivalent in the currency of the Partner States."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is duty drawback?",
+    back: "A refund of all or part of import duty paid on goods that are later exported or used in a qualifying prescribed manner."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What are dutiable goods?",
+    back: "Goods chargeable with duty."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What does “duty” include?",
+    back: "Any cess, levy, imposition, tax, or surtax imposed by any Act."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What does “export” mean?",
+    back: "To take or cause to be taken out of the Partner States."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What are export duties?",
+    back: "Customs duties and other charges having an effect equivalent to customs duties payable on exportation of goods."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is an export processing zone?",
+    back: "A designated part of customs territory where goods introduced are generally regarded, for import duties and taxes, as outside customs territory, but are restricted by controlled access."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is a foreign country?",
+    back: "Any country other than a Partner State."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is a foreign port?",
+    back: "Any port in a foreign country."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What does “goods” include?",
+    back: "All kinds of articles, wares, merchandise, livestock, and currency, and where goods are sold under the Act, the proceeds of sale."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is a Government warehouse?",
+    back: "A place provided by the Government of a Partner State and approved by the Commissioner for storing dutiable goods on which duty has not been paid and which have been entered for warehousing."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is the green channel?",
+    back: "The part of the exit from a customs arrival area for passengers with goods in quantities or values not exceeding admissible limits."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What does “import” mean?",
+    back: "To bring or cause to be brought into the Partner States from a foreign country."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What are import duties?",
+    back: "Customs duties and other charges of equivalent effect levied on imported goods."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is manufacturing under bond?",
+    back: "A facility allowing manufacturers to import plant, machinery, equipment, and raw materials tax free for exclusive use in manufacturing goods for export."
+  },
+  {
+    topic: "1. Definitions",
+    front: "Who is the master?",
+    back: "Any person for the time being having or taking charge or command of an aircraft or vessel."
+  },
+  {
+    topic: "1. Definitions",
+    front: "Who is an officer?",
+    back: "Any person, other than a labourer, employed in the service of Customs or performing duties related to Customs."
+  },
+  {
+    topic: "1. Definitions",
+    front: "Who is an owner of an aircraft, vessel, or vehicle?",
+    back: "It includes every person acting as agent for the owner, receiving freight or charges, or having possession or control of the craft."
+  },
+  {
+    topic: "1. Definitions",
+    front: "Who is an owner of goods under the Act?",
+    back: "Any person other than an officer acting officially who is or holds themselves out as owner, importer, exporter, consignee, agent, possessor, beneficially interested person, or one having control or power of disposition over the goods."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is a package?",
+    back: "Every means by which goods may be cased, covered, enclosed, contained, or packed for conveyance."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is a port?",
+    back: "A place appointed by the Council by Gazette notice as a port for purposes of customs law; for aircraft, a port means a Customs airport."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is a postal article?",
+    back: "Any letter, postcard, newspaper, book, document, pamphlet, pattern, sample packet, small packet, parcel, package, or other article in transmission by post."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is the Post Office?",
+    back: "A Partner State posts body established under that Partner State’s communication law."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What are prohibited goods?",
+    back: "Goods whose importation, exportation, or carriage coastwise is prohibited under the Act or any law in force in the Partner States."
+  },
+  {
+    topic: "1. Definitions",
+    front: "Who is a proper officer?",
+    back: "Any officer whose right or duty it is to require the performance of, or to perform, the acts referred to in the Act."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is the Protocol?",
+    back: "The Protocol on the Establishment of the East African Community Customs Union and its annexes."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What are re-exports?",
+    back: "Goods that are imported and remain under customs control for re-exportation."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is the red channel?",
+    back: "The part of the exit from a customs arrival area for passengers with goods in quantities or values exceeding passenger allowance."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is a refinery under the Act?",
+    back: "A bonded warehouse licensed by the Commissioner for the treatment of oils."
+  },
+  {
+    topic: "1. Definitions",
+    front: "Who is a registered user?",
+    back: "A person authorised to access the customs computerised system."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What are restricted goods?",
+    back: "Goods whose importation, exportation, transfer, or carriage coastwise is prohibited except in accordance with conditions, or otherwise regulated by customs laws."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is SADC?",
+    back: "The organisation established by the Southern African Development Community Treaty, 1992."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is smuggling?",
+    back: "Importation, exportation, carriage coastwise, transfer, or removal of goods into or out of a Partner State with intent to defraud customs revenue or evade any prohibition, restriction, regulation, or condition."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What are stores?",
+    back: "Goods for use in aircraft, vessels, and trains engaged in international transport for consumption by passengers and crew, and goods for sale on board."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is a subsidy?",
+    back: "Assistance by a government of a Partner State or a public body to production, manufacture, or export of specific goods through direct payments or equivalent support such as guarantees, services, facilities, or fiscal incentives."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is a sufferance wharf?",
+    back: "A place, other than an approved place of loading or unloading, where the Commissioner may allow goods to be loaded or unloaded."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What are tons register?",
+    back: "The tons of a ship’s net tonnage ascertained and registered according to tonnage regulations applied in a Partner State."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is transfer?",
+    back: "Movement of goods from one Partner State directly or indirectly to another Partner State, excluding transit, transshipment, and warehousing in a bonded warehouse."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is transshipment?",
+    back: "Transfer of goods from an arriving aircraft, vehicle, or vessel from a foreign place to another aircraft, vehicle, or vessel departing to a foreign destination."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is a transire?",
+    back: "A certificate of clearance issued under section 100 to carry goods coastwise or to transfer goods."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is transit?",
+    back: "Movement of goods imported from a foreign place through the territory of one or more Partner States to a foreign destination."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is a transit shed?",
+    back: "A building or premises appointed by the Commissioner in writing for deposit of goods subject to customs control."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What are uncustomed goods?",
+    back: "Dutiable goods on which full duties due have not been paid, and any goods dealt with contrary to customs law whether dutiable or not."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is a vehicle?",
+    back: "Every description of conveyance for transport by land of persons or goods."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is a vessel?",
+    back: "Every description of conveyance for transport by water of persons or goods."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What does voyage include?",
+    back: "It includes flight by aircraft."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What does warehoused mean?",
+    back: "Deposited in a Government or bonded warehouse with the authority of the person in charge of that warehouse."
+  },
+  {
+    topic: "1. Definitions",
+    front: "Who is a warehouse keeper?",
+    back: "The holder of a licence granted in respect of a bonded warehouse."
+  },
+  {
+    topic: "1. Definitions",
+    front: "Who is a wharf owner?",
+    back: "Any owner or occupier of an approved place of loading or unloading or of a sufferance wharf."
+  },
+  {
+    topic: "1. Definitions",
+    front: "When are goods deemed to be entered?",
+    back: "When entry in the prescribed manner is made and lodged by the owner, and any duty, deposit, or required security has been paid or given."
+  },
+  {
+    topic: "1. Definitions",
+    front: "When are goods deemed to be entered for home consumption?",
+    back: "When they have been declared for use in a Partner State, other than temporary use, and the entry requirements have been fulfilled."
+  },
+  {
+    topic: "1. Definitions",
+    front: "When is the time of importation deemed to occur?",
+    back: "When the goods come within the boundaries of the Partner States."
+  },
+  {
+    topic: "1. Definitions",
+    front: "When is the time of exportation deemed to occur for aircraft or vessels?",
+    back: "When the carrying aircraft or vessel departs from its final position, anchorage, or berth at the port or place where the goods are shipped for exportation."
+  },
+  {
+    topic: "1. Definitions",
+    front: "When is the time of exportation deemed to occur for overland goods?",
+    back: "When the goods pass across the boundaries of the Partner States."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is the rule where an aircraft or vessel arrives in a Partner State from a foreign port?",
+    back: "In relation to each port or place within a Partner State at which it arrives, it is deemed to have arrived from a foreign port."
+  },
+  {
+    topic: "1. Definitions",
+    front: "What is the rule where an aircraft or vessel departs a Partner State for a foreign port?",
+    back: "In relation to each port or place within a Partner State from which it departs, it is deemed to be departing to a foreign port."
+  },
+  {
+    topic: "1. Definitions",
+    front: "Do references to a Partner State include territorial waters?",
+    back: "Yes. References to a Partner State or neighbouring Partner States include their territorial waters."
+  },
+  {
+    topic: "1. Definitions",
+    front: "Can acts done by an officer appointed by the Commissioner be treated as acts of the Commissioner?",
+    back: "Yes. Acts done by an officer appointed for that purpose are deemed to be done by the Commissioner."
+  },
+  {
+    topic: "1. Definitions",
+    front: "Who is deemed to be the proper officer for a particular customs duty or service?",
+    back: "Every person employed on that duty or service by order of, or with the concurrence of, the Commissioner."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What body is responsible for initiation of policies on Customs and related trade matters in the Community?",
+    back: "The Directorate of Customs."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What is the main role of the Directorate of Customs under section 3?",
+    back: "To initiate policies on Customs and related trade matters in the Community and coordinate those policies in the Partner States."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What does the Directorate coordinate and monitor in relation to Customs management and administration?",
+    back: "Administration of the Common External Tariff, enforcement of Customs law, trade facilitation, Rules of Origin, trade statistics, use of information technology, training, quality control and compliance, customs-related negotiations, and activities of the Commissioners in implementing the Act."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What does the Directorate coordinate regarding tariffs?",
+    back: "The administration of the Common External Tariff."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What does the Directorate coordinate regarding enforcement?",
+    back: "The enforcement of the Customs law of the Community."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What does the Directorate coordinate regarding trade facilitation?",
+    back: "Trade facilitation as provided for in Article 6 of the Protocol."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What does the Directorate coordinate regarding origin of goods?",
+    back: "The administration of the Rules of Origin."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What does the Directorate coordinate regarding statistics?",
+    back: "The compilation and dissemination of trade statistics."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What does the Directorate coordinate regarding technology?",
+    back: "The application and interfacing of information technology in Customs administration."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What does the Directorate coordinate regarding staff development?",
+    back: "Training in Customs-related matters."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What does the Directorate coordinate regarding standards and compliance?",
+    back: "Quality control in Customs operations and enforcement of compliance."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What does the Directorate coordinate regarding external dealings?",
+    back: "Customs-related negotiations."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What does the Directorate coordinate regarding national customs heads?",
+    back: "The activities of the Commissioners in implementation of the Act."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "In performing its functions, to whose general direction is the Directorate subject?",
+    back: "The Council."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Can the Directorate perform other functions apart from those expressly listed in section 4(1)?",
+    back: "Yes. It may perform such other functions as may be prescribed by the Council."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Can the Directorate consult with Commissioners in performing its functions?",
+    back: "Yes. It shall consult with the Commissioners and may, where necessary, delegate functions to a Commissioner."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Can the Directorate delegate any of its functions?",
+    back: "Yes. It may delegate functions to a Commissioner where necessary."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Who makes regulations for the working arrangements between the Directorate and Customs?",
+    back: "The Council."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What committee must the Council establish within the Community’s institutional framework?",
+    back: "A committee charged with facilitating Customs policy/programme formulation, information exchange between the Directorate and Commissioners, and other working arrangements between the Directorate and Customs."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What is the committee’s first function under section 4(4)?",
+    back: "To facilitate the Directorate’s formulation of policies and programmes on Customs management and administration."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What is the committee’s second function under section 4(4)?",
+    back: "To facilitate the exchange of information between the Directorate and the Commissioners."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What is the committee’s third function under section 4(4)?",
+    back: "To deal with any other matters on working arrangements between the Directorate and the Customs."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Who is appointed in each Partner State to manage Customs?",
+    back: "A Commissioner appointed in accordance with that Partner State’s legislation."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What else may be appointed besides the Commissioner?",
+    back: "Such other staff as may be necessary for administration of the Act and efficient working of Customs."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What is the Commissioner responsible for in a Partner State?",
+    back: "The management and control of Customs, including collection of and accounting for Customs revenue."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Does the Commissioner control Customs revenue matters?",
+    back: "Yes. The Commissioner is responsible for the collection and accounting for Customs revenue in the respective Partner State."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Can the Commissioner authorize an officer to exercise powers conferred on the Commissioner?",
+    back: "Yes, subject to any limitations the Commissioner may impose."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What must an officer appointed to permanent office or employment in Customs do upon appointment?",
+    back: "Make and subscribe before a magistrate or commissioner for oaths a declaration in the form set out in the First Schedule."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Where is the prescribed declaration of officer found?",
+    back: "In the First Schedule."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What official seal does the Customs Union have?",
+    back: "A seal of the Customs Union, officially and judicially noticed, with design and description prescribed by regulations."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What is the official seal of Customs?",
+    back: "The seal of the Customs Union."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Does the Customs Union have a flag?",
+    back: "Yes. It has a flag whose design and description are prescribed by regulations."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What is the purpose of the Customs Union flag and the Community flag on vessels?",
+    back: "They distinguish vessels employed in the service of Customs from other vessels."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What powers does every officer have when carrying out the Act?",
+    back: "All the powers, rights, privileges, and protection of a police officer of the Partner State where the officer performs duty."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Why is section 7 important for a proper officer?",
+    back: "Because it gives an officer police-type authority and protection while enforcing the Act."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Who prescribes the working days and hours of general attendance of officers?",
+    back: "The Commissioner."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What must a person do if they want an officer to attend outside normal hours?",
+    back: "Make a request on the prescribed form to the proper officer at the port or place concerned, subject to regulations and payment of prescribed fees."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Can a request for attendance outside hours be refused in overland or inland waters cases?",
+    back: "No. In those cases, it shall not be refused by the proper officer."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "In cases other than overland or inland waters, how may a request for attendance outside hours be treated?",
+    back: "It must not be unreasonably refused by the proper officer."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What if a person wants an officer to attend premises where customs business is not normally carried on?",
+    back: "The person must request it on the prescribed form, and the grant is in the discretion of the proper officer, subject to regulations and payment of prescribed fees."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Is it an offence for an officer to ask for or take an unlawful payment or reward?",
+    back: "Yes. An officer who directly or indirectly asks for or takes an unlawful payment or reward in connection with duties commits an offence."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Is it an offence for an officer to connive in acts that defraud Customs revenue?",
+    back: "Yes. Entering into or acquiescing in such an agreement is an offence."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What is the penalty for an officer taking unlawful reward or conniving in fraud?",
+    back: "Imprisonment for a term not exceeding three years."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Is unlawful disclosure of information acquired in the course of customs duty an offence?",
+    back: "Yes, unless disclosed for purposes of the Act, as a court witness, or with approval of the Commissioner."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What is the penalty for unlawful disclosure of customs information?",
+    back: "A fine not exceeding 2,500 dollars, or imprisonment not exceeding three years, or both."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Is it an offence for a person to bribe or attempt to influence an officer?",
+    back: "Yes. Offering or giving payment or reward, or proposing an agreement to influence the officer improperly, is an offence."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What is the penalty for offering unlawful inducement to an officer?",
+    back: "Imprisonment for a term not exceeding three years."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What information must Commissioners furnish each other with?",
+    back: "Information, certificates, official reports, and documents relating to prevention, investigation, and suppression of offences under the Act and other relevant customs matters."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What joint border systems may Commissioners establish?",
+    back: "Common border posts, joint customs controls, and joint steps to ensure imports and exports pass through competent customs offices and approved routes."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Can the Commissioner exchange customs information with foreign states?",
+    back: "Yes, subject to reciprocal arrangements, to prevent, investigate, or suppress offences against import/export laws."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Who appoints and fixes the limits of ports, customs airports, and places of loading and unloading within ports?",
+    back: "The Council, by notice in the Gazette."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Can ports and customs airports be appointed for limited purposes?",
+    back: "Yes. They may be appointed for specified limited purposes."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Who appoints boarding stations, customs areas, and sufferance wharves?",
+    back: "The Commissioner, by notice in the Gazette."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Who appoints places for landing and embarkation of persons?",
+    back: "The Commissioner."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Who appoints places for examination of goods, including baggage?",
+    back: "The Commissioner."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Who appoints roads or routes for goods in transit or transfer between Partner States?",
+    back: "The Commissioner."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Who appoints entrances and exits to and from customs areas or customs airports?",
+    back: "The Commissioner."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Who appoints transit sheds and internal container depots?",
+    back: "The Commissioner."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Can appointments under section 12 be made subject to conditions?",
+    back: "Yes, including conditions such as provision of suitable accommodation for officers."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Can the Commissioner permit a place to be used as if it had been appointed under section 12?",
+    back: "Yes, in a particular case and subject to conditions the Commissioner considers fit."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Can the Commissioner revoke appointment of a customs area?",
+    back: "Yes, if the conditions imposed under section 12(2) have not been complied with."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What must a wharf owner provide to the satisfaction of the Commissioner?",
+    back: "Suitable office accommodation for the exclusive use of the officer employed at the wharf and shed accommodation for protection of goods."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What can happen if a wharf owner fails to provide required accommodation?",
+    back: "Appointment of the place may be withheld, or an existing appointment may be revoked."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Can the Commissioner license an internal container depot?",
+    back: "Yes, on application. The Commissioner may also refuse or revoke the licence."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Must the Commissioner give reasons for refusing or revoking an internal container depot licence?",
+    back: "Yes. Reasons must be given."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What facilities must an internal container depot owner provide?",
+    back: "Office accommodation and weights, scales, measures, and other facilities needed for examining, accounting for, and securing goods."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What record-keeping duty does an internal container depot owner have?",
+    back: "To keep a record of all goods in the depot and keep it available for examination by the proper officer."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What labour-related obligation does an internal container depot owner have?",
+    back: "To provide necessary labour and materials for storing, examining, packing, marking, coopering, weighing, and stock-taking when required by the proper officer."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What accounting obligation does an internal container depot owner have?",
+    back: "To maintain records and accounts relating to goods and operations in the required form and make them available for examination."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Can the Commissioner impose additional requirements on an internal container depot owner?",
+    back: "Yes. The owner must comply with any other requirement specified by the Commissioner."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What can the Commissioner do if an internal container depot owner contravenes section 14?",
+    back: "Direct that no other goods shall be kept in the depot until compliance is achieved."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What is the penalty for contravening section 14 on internal container depots?",
+    back: "A fine not exceeding 1,000 dollars."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Can persons, vehicles, or goods enter or leave a customs area or customs airport except through appointed entrances or exits?",
+    back: "No. They must use entrances or exits appointed under section 12."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Can a person remain in a customs area or customs airport after being requested to leave by an officer?",
+    back: "No. Doing so contravenes the Act."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Can persons, vehicles, and goods entering or leaving a customs area be detained?",
+    back: "Yes, for purposes of search or examination by an officer."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What is the penalty for contravening section 15 on customs areas?",
+    back: "A fine not exceeding 1,000 dollars, and the goods involved are liable to forfeiture."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What goods are subject to customs control under section 16?",
+    back: "Imported goods, drawback goods, export-duty goods, restricted export goods, goods stored pending export, goods on board aircraft or vessels within a Partner State, certain duty-free goods transferred to non-exempt persons, goods declared for transfer, and seized goods."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Can an officer examine goods subject to customs control at any time?",
+    back: "Yes. Any officer may examine such goods at any time."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Can anyone interfere with goods under customs control without authority?",
+    back: "No. No person may interfere except with authority of the Commissioner or in accordance with the Act."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Can goods under customs control be abandoned to Customs?",
+    back: "Yes, with permission of the Commissioner."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What may happen to goods abandoned to Customs?",
+    back: "They may, at the owner’s expense, be destroyed or otherwise disposed of as directed by the Commissioner, and the duty may be remitted or refunded as appropriate."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What is the penalty for unlawful interference with goods under customs control?",
+    back: "A fine not exceeding 1,000 dollars, or imprisonment for up to three years, or both, and the goods are liable to forfeiture."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Can an action lie against the Commissioner or officer for wilful or negligent loss or damage to goods under customs control?",
+    back: "Yes. An action lies against the Commissioner or officer."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "What are the three most important administrative actors in the Act?",
+    back: "The Council, the Directorate, and the Commissioner."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Who makes high-level appointments like ports and customs airports?",
+    back: "The Council."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Who makes operational appointments like customs areas, routes, sheds, and ICDs?",
+    back: "The Commissioner."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Who runs customs policy coordination at Community level?",
+    back: "The Directorate of Customs."
+  },
+  {
+    topic: "2. Administrative structure",
+    front: "Who runs customs administration and revenue control at Partner State level?",
+    back: "The Commissioner."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Which Part of the Act deals with import procedure?",
+    back: "Part III: Importation. It covers prohibited and restricted imports, arrival and report of aircraft and vessels, arrival overland, clearance by pipeline, unloading and removal of cargo, entry/examination/delivery, and passenger clearance."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Which sections make up the main import procedure in Part III?",
+    back: "Sections 18 to 46."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Where are prohibited and restricted imports listed?",
+    back: "In the Second Schedule. Prohibited goods are in Part A, and restricted goods are in Part B."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What are prohibited imports under section 18(1)?",
+    back: "Goods specified in Part A of the Second Schedule; their importation is prohibited."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What are restricted imports under section 18(2)?",
+    back: "Goods specified in Part B of the Second Schedule; their importation is prohibited except in accordance with the conditions regulating their importation."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can the Council amend the list of prohibited or restricted imports?",
+    back: "Yes. The Council may amend the Second Schedule by order published in the Gazette."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can the Council prohibit importation generally or only for a particular Partner State?",
+    back: "Yes. It may prohibit goods generally or in relation to a specific Partner State."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can the Council impose conditions on importation instead of an outright ban?",
+    back: "Yes. It may prohibit importation unless specified conditions are met."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can the Council limit the application of the Second Schedule for a particular Partner State?",
+    back: "Yes. It may limit how the Second Schedule applies in respect of all or any specified goods for that Partner State."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can an order under section 19 target goods from a particular country or place?",
+    back: "Yes. It may prohibit or restrict goods generally or in a particular manner, from all places or from a specified country or place."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Do sections 18 and 19 always apply to goods in transit, for transshipment, or as stores?",
+    back: "No. They generally do not apply unless the goods fall within special prohibited categories or are expressly prohibited or restricted in that form."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What condition applies to goods in transit, for transshipment, or as stores when exempted from sections 18 and 19?",
+    back: "They must be duly re-exported within the time and conditions specified by the Commissioner."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What happens if such exempt goods are not re-exported in time?",
+    back: "They are deemed, from the last date they should have been re-exported, to be prohibited or restricted goods and to have been imported on that date."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What is the first general rule for an aircraft or vessel arriving from outside the Partner States?",
+    back: "It must not land, touch at, or enter any place other than a lawful port, unless the proper officer allows otherwise in special circumstances."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "After arrival, where must the master take the aircraft or vessel?",
+    back: "As quickly as conditions allow, to the proper place of mooring or unloading, without touching any other place."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What must the aircraft or vessel do before proceeding to the proper place?",
+    back: "It must bring to at the boarding station appointed for boarding of aircraft or vessels."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can an aircraft or vessel depart from the proper place after arrival however it wants?",
+    back: "No. It may depart only directly to another approved place, another lawful port or place in the Partner States, or directly on a lawful foreign voyage in accordance with the Act."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "After departure on a foreign voyage, can the craft bring to again within the Partner States?",
+    back: "Only in accordance with the Act, with permission of the proper officer, or for a cause explained to the proper officer’s satisfaction."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What happens if the master contravenes section 21?",
+    back: "The master commits an offence."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Who decides the exact part of the port where an aircraft or vessel shall moor or discharge cargo?",
+    back: "The proper officer."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can anyone board a vessel before the proper officer?",
+    back: "No, except the port pilot, health officer, or another duly authorised public officer acting in the exercise of duty, unless the proper officer gives permission."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What is the penalty for boarding a vessel before the proper officer without authority?",
+    back: "A fine not exceeding 250 dollars."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What report must the master or agent of every aircraft or vessel make?",
+    back: "A report on the prescribed form of the craft’s cargo and stores, and any package for which there is no bill of lading."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "When must a vessel report be made?",
+    back: "Not less than 24 hours before arrival from a foreign port."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "When must an aircraft report be made?",
+    back: "Immediately after take-off from a foreign port destined for a port in a Partner State."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What if the master or agent cannot report within the required time because of special or unavoidable circumstances?",
+    back: "The report must be made within such further time as may be allowed by the proper officer."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What goods must be shown separately in the report?",
+    back: "Goods in transit, goods for transshipment, goods remaining on board for other Partner State ports, and goods for re-exportation on the same aircraft or vessel."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What special rule applies to vessels of less than 250 tons register?",
+    back: "The report must, unless otherwise allowed by the proper officer, be made before bulk is broken."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can the proper officer allow amendment of the report?",
+    back: "Yes, where there is an intended change in destination, ownership, or status of goods, or to correct an obvious error or accidental omission."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What happens if a master or agent fails to make report, makes a false report, breaks bulk unlawfully, or staves/destroys/throws overboard goods without consent?",
+    back: "It is an offence unless satisfactorily explained, and the goods involved are liable to forfeiture."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What must the master or agent do when questioned by the proper officer?",
+    back: "Answer fully and immediately all questions relating to the craft, cargo, stores, baggage, crew, and passengers."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What documents must the master or agent produce when required?",
+    back: "All books and documents in his or her custody or control relating to the craft, cargo, stores, baggage, crew, and passengers."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Before passengers disembark, what list must the master or agent deliver?",
+    back: "A correct list in the prescribed form showing separately passengers disembarking and those remaining on board, and when required, the master, officers, and crew."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can the proper officer require the clearance from the port of departure?",
+    back: "Yes. The master or agent must deliver the clearance, if any, from the port from which the aircraft or vessel arrived."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What happens if the master or agent contravenes section 25?",
+    back: "He or she commits an offence."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Once imported goods are unloaded into a transit shed or customs area, how are they treated legally?",
+    back: "They are deemed to be still in the importing aircraft or vessel until delivered from the transit shed or customs area."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Who remains responsible for such goods while they remain in the transit shed or customs area?",
+    back: "The owners or agents of the importing aircraft or vessel, as if the goods had not been removed from the craft."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "If the goods are handed over to a transit shed owner who is not an agent of the importing craft, who becomes responsible?",
+    back: "The owner of the transit shed."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Who may be liable to pay duty if goods are not delivered or otherwise accounted for?",
+    back: "The owner or agent of the aircraft or vessel, or the transit shed owner, as the case may be."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What happens if responsible persons fail to account for the goods to the satisfaction of the proper officer?",
+    back: "They commit an offence."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Who bears the cost of reshipment or destruction of condemned goods?",
+    back: "The owner or agent of the aircraft or vessel, or the owner of the transit shed, as applicable."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What happens if they fail to meet the cost of reshipment or destruction?",
+    back: "They commit an offence."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What if goods reported for discharge are not duly unloaded and deposited in a transit shed or customs area?",
+    back: "The master or agent must pay duty on the goods unless the failure is explained to the satisfaction of the proper officer."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What must the master or agent do if an aircraft or vessel is lost, wrecked, or compelled to land or bring to by accident, weather, or other unavoidable cause?",
+    back: "Make report with all reasonable speed of the craft and its cargo and stores to the nearest officer or administrative officer."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What happens if an aircraft or vessel is found abandoned within the Partner States?",
+    back: "Unless compliance with the Act is proved to the satisfaction of the Commissioner, the craft and its cargo and stores are liable to forfeiture."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Where must a vehicle arriving overland from outside the Partner States enter?",
+    back: "Through a port appointed under section 11, unless otherwise permitted by the proper officer."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What must the person in charge of an arriving overland vehicle do first?",
+    back: "Report arrival to the officer stationed at the frontier port where entry is made."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What information must the person in charge of an arriving overland vehicle provide?",
+    back: "Information on the prescribed form concerning the vehicle and any goods in it."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Must the person in charge of an arriving overland vehicle make a declaration?",
+    back: "Yes. He or she must make and subscribe a declaration as to the truth of all particulars contained in the form."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Must the person in charge of an arriving overland vehicle answer questions and produce documents?",
+    back: "Yes. He or she must answer relevant questions fully and immediately and produce consignment notes or other relevant documents demanded by the proper officer."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Must the person in charge of an arriving overland vehicle make due entry of the vehicle and goods?",
+    back: "Yes, unless otherwise provided by customs laws."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can vehicles or goods arriving overland be removed from the customs area before due entry?",
+    back: "No, unless permission for removal has been granted by the proper officer."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What happens if section 29 is contravened?",
+    back: "It is an offence, and the goods involved are liable to forfeiture."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What must the station master deliver when a train carrying goods under customs control arrives?",
+    back: "Copies of invoices, way-bills, consignment notes, or other documents relating to those goods."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can goods under customs control conveyed by rail be removed or forwarded without permission?",
+    back: "No. Written permission of the proper officer is required."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can a station master deliver goods required to be entered at another station without written permission?",
+    back: "No."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can private railway sidings receive wagons with goods under customs control without approval?",
+    back: "No, unless written permission has been granted by the Commissioner."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What happens if section 30 is contravened?",
+    back: "It is an offence, and the goods involved are liable to forfeiture."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What must a person arriving overland otherwise than by vehicle do if carrying goods?",
+    back: "Report arrival to the nearest Customs house, furnish prescribed information, make a declaration, answer questions, produce documents, and make due entry of the goods."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can such goods be removed from the customs area before due entry?",
+    back: "No, unless permission is granted by the proper officer."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can the Commissioner exempt persons or classes of persons from section 31?",
+    back: "Yes, subject to specified conditions."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What happens if section 31 is contravened?",
+    back: "It is an offence, and the goods involved are liable to forfeiture."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "How must goods imported or exported through a pipeline be controlled?",
+    back: "Their nature and quantities must be recorded and reported by the operator in the manner directed by the Commissioner."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Who provides the apparatus and appliances needed for pipeline records and reports?",
+    back: "The operator, at his or her own expense."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can goods be unloaded from an aircraft or vessel arriving from a foreign port before being duly entered?",
+    back: "No, unless the proper officer gives written permission and subject to conditions imposed."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can imported goods be unloaded at any time?",
+    back: "No. They may be unloaded only as prescribed by the Commissioner, unless written permission is given."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Where may imported goods be unloaded?",
+    back: "Only at an approved place of unloading or a sufferance wharf, unless otherwise permitted."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can imported goods be unloaded into another vessel in order to be landed?",
+    back: "Yes. They must then be taken directly and without delay to an approved place of unloading or sufferance wharf."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can goods reported for re-exportation by another aircraft or vessel be unloaded into another craft pending re-exportation?",
+    back: "Yes, with permission of the proper officer and subject to conditions."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "After unloading, where must all goods be conveyed?",
+    back: "To a Customs area, and if required, deposited in a transit shed or Customs warehouse."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What if goods are unsuitable for storage in a transit shed or customs warehouse?",
+    back: "They are deposited in another place directed by the proper officer, and that place is deemed to be a transit shed for that purpose."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can goods be removed from a customs area, transit shed, or customs warehouse before being duly reported and entered?",
+    back: "No, unless authority for removal or delivery has been given by the proper officer."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can the proper officer direct goods to be moved from one transit shed or customs warehouse to another place?",
+    back: "Yes, and if the agent fails to remove them, the proper officer may have them removed at the agent’s risk and expense."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "How must goods entered for warehousing be moved?",
+    back: "By routes, in a manner, and within a time directed by the proper officer, to the warehouse for which they were entered."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can the proper officer require a bond before warehousing imported goods?",
+    back: "Yes. The owner may be required to enter into a bond for due warehousing of the goods."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What happens if section 33 or the conditions or directions under it are contravened?",
+    back: "It is an offence, and the goods involved are liable to forfeiture."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Within what time must the whole of the unloaded cargo be entered?",
+    back: "Within 21 days after commencement of discharge, or on arrival in the case of vehicles, unless the proper officer allows a further period."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Into what customs procedures may imported cargo be entered?",
+    back: "Home consumption, warehousing, transshipment, transit, or export processing zones."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What must the owner provide when delivering an entry to the proper officer?",
+    back: "Full particulars of the goods supported by documentary evidence."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can goods be entered before the arrival of the importing aircraft or vessel?",
+    back: "Yes. Entries may be delivered for checking before arrival, and the Commissioner may permit early entry."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What happens if goods remain unentered within the required period?",
+    back: "They may, if the proper officer so requires, be removed by or at the expense of the agent to a Customs warehouse."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What happens if entered goods are not removed from the first point of entry within 14 days from the date of entry?",
+    back: "They become liable to customs warehouse rent."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can surplus stores of an aircraft or vessel be entered?",
+    back: "Yes, with the permission of the proper officer, for home consumption or warehousing."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can mail bags and postal articles in transmission be unloaded and delivered without entry?",
+    back: "Yes, they may be delivered to an officer of the Post Office without entry."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can bona fide personal baggage of passengers or crew be unloaded and delivered without entry?",
+    back: "Yes, subject to regulations."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can human remains be released without entry?",
+    back: "Yes."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can diplomatic bags be released without entry?",
+    back: "Yes."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can bullion, currency notes, coin, or perishable goods be delivered without entry?",
+    back: "Yes, if the proper officer permits and the owner undertakes to furnish the necessary entry within 48 hours of delivery."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Who must disembark only in accordance with the Act and directions of the proper officer?",
+    back: "Passengers, crew, and other persons covered by the passenger clearance provisions."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can the Commissioner require advance passenger information?",
+    back: "Yes. The owner or agent of an aircraft or vessel conveying passengers may be required to provide advance passenger information before arrival."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What system must be established at every place of arrival and baggage room at every major port?",
+    back: "A dual channel system."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What are the two channels in the dual channel system?",
+    back: "The green channel and the red channel."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Who uses the green channel?",
+    back: "Passengers with nothing to declare or only goods within the prescribed passenger allowance under Part B of the Fifth Schedule."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Who uses the red channel?",
+    back: "Passengers carrying dutiable or restricted goods; crew members of vessels or aircraft must also use the red channel."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What must a person do with baggage and uncustomed goods on arrival?",
+    back: "Without delay take them to the place appointed for examination of baggage."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Can baggage or goods be removed from the baggage room before authorization?",
+    back: "No. Removal requires authorization by the proper officer."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What happens if section 45 is contravened?",
+    back: "The person commits an offence."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What declaration must a person make on entering the Partner States?",
+    back: "A declaration to the proper officer of his or her baggage and the articles contained in it or carried with him or her."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "Is baggage declaration always in one fixed form?",
+    back: "No. The declaration is at the discretion of the proper officer."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What is the correct basic order of import procedure under Part III?",
+    back: "Prohibited/restricted imports → arrival/report → overland arrival/pipeline → unloading/removal → entry/examination/delivery → passenger clearance."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What are the three most tested import deadlines in this Part?",
+    back: "24 hours before arrival for vessel report, immediately after take-off for aircraft report, and 21 days for cargo entry after discharge begins."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What are the five main import entry options under section 34?",
+    back: "Home consumption, warehousing, transshipment, transit, and export processing zones."
+  },
+  {
+    topic: "3. Import procedure",
+    front: "What are the two passenger channels on arrival?",
+    back: "Green channel for nothing to declare/allowance goods, and red channel for dutiable or restricted goods."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Which Part of the Act deals with warehousing?",
+    back: "Part IV: Warehousing of Goods."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Which sections cover warehousing under the Act?",
+    back: "Sections 47 to 69."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What are the two main subdivisions of Part IV?",
+    back: "General Provisions and Bonded Warehouses."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What is the basic rule in section 47?",
+    back: "Dutiable goods may be warehoused."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What does it mean for goods to be warehoused?",
+    back: "It means the goods are deposited in a Government or bonded warehouse with proper authority, under customs control, before final clearance."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What kind of goods are usually warehoused?",
+    back: "Dutiable goods that have not yet been cleared for home consumption or another final customs procedure."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Why is warehousing important in customs practice?",
+    back: "It allows goods to remain under customs control while duty payment or final disposal is deferred."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What is the main difference between a Government warehouse and a bonded warehouse?",
+    back: "A Government warehouse is provided by the government and approved by the Commissioner, while a bonded warehouse is licensed by the Commissioner and operated by a warehouse keeper."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Who is a warehouse keeper?",
+    back: "The holder of a licence granted in respect of a bonded warehouse."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "After goods are entered for warehousing, where must they be taken?",
+    back: "To the warehouse for which they were entered, by the route, in the manner, and within the time directed by the proper officer."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Into whose custody must warehoused goods be delivered?",
+    back: "Into the custody of the person in charge of the warehouse."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Can the proper officer require a bond before goods are warehoused?",
+    back: "Yes. The owner may be required to enter into a bond for the due warehousing of the goods."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Can goods already entered for warehousing be removed to the warehouse only as the owner wishes?",
+    back: "No. The route, time, and manner are controlled by the proper officer."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What is the significance of section 48 on warehousing procedure?",
+    back: "It governs the lawful placing of dutiable goods into warehouse under customs supervision."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What does section 49 deal with?",
+    back: "Removal to warehouse of goods entered in a warehouse."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What does section 50 deal with?",
+    back: "Entry of warehoused goods."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Why are sections 49 and 50 important for exams?",
+    back: "They help explain how goods move from import entry into actual warehouse control and how warehoused goods are formally dealt with afterward."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What does section 51 deal with?",
+    back: "Operations in a warehouse."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Are warehouse operations unrestricted?",
+    back: "No. Operations in a warehouse are controlled by customs and must comply with the Act and directions of the proper officer."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Why are warehouse operations controlled?",
+    back: "To protect customs revenue and ensure goods remain properly accounted for while under customs control."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What does section 52 deal with?",
+    back: "Re-gauging and re-valuation."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Why might re-gauging or re-valuation of warehoused goods be necessary?",
+    back: "To verify quantity, measure, or value before delivery, duty assessment, or other customs action."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What does section 53 deal with?",
+    back: "Delivery from warehouse in special circumstances."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Can delivery from a warehouse occur only in ordinary situations?",
+    back: "No. The Act also provides for delivery in special circumstances."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What does section 54 allow?",
+    back: "Removal of warehoused goods to another warehouse."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Can warehoused goods be moved from one warehouse to another?",
+    back: "Yes, as provided by the Act and subject to customs control."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Why is movement from one warehouse to another controlled?",
+    back: "Because the goods remain under customs control and revenue must be safeguarded."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What does section 55 provide?",
+    back: "Warehoused goods may be delivered as stores."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Can warehoused goods be delivered for use as stores?",
+    back: "Yes. The Act specifically allows warehoused goods to be delivered as stores."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What are stores in customs law?",
+    back: "Goods for use in aircraft, vessels, and trains engaged in international transport for consumption by passengers and crew, and goods for sale on board."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What does section 56 deal with?",
+    back: "Abandonment, etc., of warehoused goods."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Can warehoused goods be abandoned?",
+    back: "Yes. The Act provides for abandonment of warehoused goods."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Why is abandonment significant in customs warehousing?",
+    back: "Because it affects liability, disposal of goods, and treatment of duty."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What does section 57 deal with?",
+    back: "Period of warehousing and sale of goods."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Can warehoused goods stay in the warehouse indefinitely?",
+    back: "No. The Act provides for a period of warehousing and for sale of goods in appropriate cases."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Why is the warehousing period important?",
+    back: "Because once the lawful warehousing period expires, customs may take further action, including sale."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What does section 58 deal with?",
+    back: "Examination of warehoused goods on delivery."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Can warehoused goods be examined when being delivered out of the warehouse?",
+    back: "Yes. The Act provides for examination on delivery."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Why is examination on delivery important?",
+    back: "To confirm the goods being delivered match the goods warehoused and that duty and control requirements are satisfied."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What does section 59 deal with?",
+    back: "Access to warehouse."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Is access to a customs warehouse unrestricted?",
+    back: "No. Access is controlled under the Act."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Why is access to warehouse controlled?",
+    back: "To protect goods under customs control and prevent interference, loss, or fraud."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What does section 60 deal with?",
+    back: "Removal of goods after entry for home consumption, export, etc."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "After warehoused goods are entered for home consumption or export, can they just be removed without control?",
+    back: "No. Their removal is still governed by the Act and customs supervision."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What does section 61 create?",
+    back: "A penalty for unlawfully taking, etc., warehoused goods."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Is it an offence to unlawfully take warehoused goods?",
+    back: "Yes. Section 61 expressly penalizes unlawful taking or interference with warehoused goods."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Why is unlawful taking of warehoused goods serious?",
+    back: "Because warehoused goods are still under customs control and customs revenue may not yet have been settled."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Who may license a bonded warehouse?",
+    back: "The Commissioner."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What does section 62 deal with?",
+    back: "Commissioner may license warehouse."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What does section 63 deal with?",
+    back: "Procedure on revocation or expiry of licence."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Can a bonded warehouse licence be revoked or expire?",
+    back: "Yes. The Act provides a procedure for revocation or expiry."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Why is licensing important in bonded warehousing?",
+    back: "Because only properly licensed premises may operate as bonded warehouses under customs law."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What does section 64 deal with?",
+    back: "Warehouse keeper to provide facilities."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What is one of the main obligations of the warehouse keeper?",
+    back: "To provide the facilities required for customs supervision and control of warehoused goods."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What does section 65 deal with?",
+    back: "Stowage and storage of goods in bonded warehouse."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Why are stowage and storage rules important in a bonded warehouse?",
+    back: "To ensure proper custody, identification, examination, and protection of the goods."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What does section 67 deal with?",
+    back: "Warehouse keeper to produce goods deposited."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Must a warehouse keeper be able to produce goods deposited in the warehouse?",
+    back: "Yes. The warehouse keeper must produce deposited goods when required under the Act."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Why is the duty to produce goods deposited important?",
+    back: "Because customs must be able to inspect, verify, and account for goods at all times."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What does section 66 provide?",
+    back: "Removal of goods from private to general warehouse."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Can goods be removed from a private warehouse to a general warehouse?",
+    back: "Yes, under the Act and subject to customs control."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What does section 68 deal with?",
+    back: "Goods in Government warehouse liable to rent, etc."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Are goods in a Government warehouse free from warehouse charges?",
+    back: "No. Goods in a Government warehouse may be liable to rent and related charges."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What does section 69 deal with?",
+    back: "Removal, etc., of goods in Government warehouse."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "Is removal of goods from a Government warehouse regulated?",
+    back: "Yes. Removal and related treatment of such goods are controlled by the Act."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What is the difference between a Customs warehouse and a bonded warehouse?",
+    back: "A Customs warehouse is a broad customs-approved place for unentered, unexamined, abandoned, detained, or seized goods, while a bonded warehouse is specifically a licensed place for deposit of dutiable goods on which import duty has not been paid and which have been entered for warehousing."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What is the difference between warehousing and home consumption?",
+    back: "Warehousing keeps goods under customs control with duty deferred; home consumption releases goods for use in a Partner State after proper entry and compliance."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What is the difference between a Government warehouse and a bonded warehouse in management?",
+    back: "A Government warehouse is government-provided and approved by the Commissioner, while a bonded warehouse is licensed by the Commissioner and managed by a warehouse keeper."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What is the basic flow of warehousing under Part IV?",
+    back: "Dutiable goods may be warehoused → warehousing procedure → warehouse operations/control → delivery/removal/transfer → licensing and obligations of bonded warehouses → government warehouse rules."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What are the most tested warehousing themes?",
+    back: "Procedure on warehousing, operations in warehouse, period of warehousing, access to warehouse, unlawful removal, licensing of bonded warehouses, and duties of the warehouse keeper."
+  },
+  {
+    topic: "4. Warehousing",
+    front: "What are the two biggest warehousing risks customs law tries to control?",
+    back: "Loss of revenue and unlawful interference with goods under customs control."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "Which Part of the Act deals with export procedure?",
+    back: "Part V: Exportation."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "Which sections cover exportation under the Act?",
+    back: "Sections 70 to 87."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What are the main subdivisions of Part V?",
+    back: "Prohibited and Restricted Exports, Entry Outwards and Loading of Aircraft and Vessels, Departure Overland, and Goods in Transit or for Transhipment."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "Where are prohibited and restricted exports listed?",
+    back: "In the Third Schedule."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What are prohibited exports under section 70?",
+    back: "Goods whose exportation is prohibited under the Act, especially those specified as prohibited in the Third Schedule or by order under the Act."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What are restricted exports under section 70?",
+    back: "Goods whose exportation is prohibited unless the prescribed conditions regulating their exportation are complied with."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "Can the Council prohibit exports generally or in relation to a specific Partner State?",
+    back: "Yes. The Council may prohibit exports generally or in relation to a Partner State by order published in the Gazette."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "Can the Council restrict exports subject to conditions?",
+    back: "Yes. Exportation may be prohibited unless specified conditions are met."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "Can the Council amend the Third Schedule?",
+    back: "Yes, by order published in the Gazette."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "Can an export restriction target goods to a specific destination or from a specific area?",
+    back: "Yes. Orders may be framed generally or in a particular manner, depending on the goods or circumstances."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "Are goods in transit, for transhipment, or as stores automatically caught by export prohibitions and restrictions?",
+    back: "Not always. The Act provides exemptions for some such goods, subject to the applicable conditions."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What is the basic rule for export cargo?",
+    back: "Export cargo must be entered in accordance with the Act before exportation."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "Who enters cargo for export?",
+    back: "The owner of the cargo."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What must the export entry contain?",
+    back: "Full particulars of the goods supported by documentary evidence, as required by the proper officer."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "For what purpose are export goods entered?",
+    back: "For exportation in accordance with customs law."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "Why is entry of export cargo important?",
+    back: "It places the goods under the correct customs procedure and enables customs control, examination, and duty administration where applicable."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What does “entry outwards” refer to?",
+    back: "The formal customs clearance step allowing an aircraft or vessel to proceed outward with export cargo or stores."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "Must an aircraft or vessel obtain entry outwards before loading for export?",
+    back: "Yes, subject to the Act and any exceptions or permissions under it."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "Why is entry outwards important in export procedure?",
+    back: "It is the customs authorization linking the craft’s outward movement to lawful loading and exportation."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "Can export goods be loaded without customs control?",
+    back: "No. Loading is controlled under the Act and must comply with the proper customs procedure."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "Why is loading of export goods controlled by Customs?",
+    back: "To prevent unlawful export, protect revenue, and ensure that only duly entered goods are exported."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What is the relationship between entry outwards and loading?",
+    back: "Entry outwards is a key customs step that supports lawful loading of export goods onto the aircraft or vessel."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "Does the Act contain special provisions for personal baggage on export?",
+    back: "Yes. Section 76 provides provisions relating to personal baggage."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "Why is personal baggage separately treated in export procedure?",
+    back: "Because baggage is part of passenger movement and may require special customs handling distinct from ordinary cargo."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What does section 77 provide?",
+    back: "Goods for export are not to be discharged in Partner States."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "Why is it important that export goods are not discharged in Partner States?",
+    back: "To preserve the integrity of the export procedure and prevent diversion of goods that were cleared for export."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What does section 78 deal with?",
+    back: "Provisions relating to exports of certain goods."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "Why does the Act single out certain goods for special export rules?",
+    back: "Because some goods require stricter control, documentation, licensing, or conditions before exportation."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What does section 79 deal with?",
+    back: "Stores for aircraft and vessels."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What are stores in customs law?",
+    back: "Goods for use in aircraft, vessels, and trains engaged in international transport for consumption by passengers and crew, and goods for sale on board."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "Are stores part of export procedure?",
+    back: "Yes. The Act separately regulates stores for aircraft and vessels within Part V."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What does section 80 deal with?",
+    back: "Short shipment of non-bonded goods."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What is short shipment in export procedure?",
+    back: "A situation where goods entered or intended for export are not shipped as expected or in full."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What does section 81 provide?",
+    back: "Export goods stored at risk of owner."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "At whose risk are export goods stored?",
+    back: "At the risk of the owner."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What does section 82 deal with?",
+    back: "Goods liable to export duty."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "Are all exports subject to export duty?",
+    back: "No. Only goods specified as liable to export duty are subject to it."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "Why is section 82 important?",
+    back: "Because it connects export procedure with customs revenue on goods that attract export duty."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What does section 83 deal with?",
+    back: "Vehicles departing overland."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What does section 84 deal with?",
+    back: "Departure overland otherwise than by vehicle."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "Why does the Act separately regulate overland export departures?",
+    back: "Because exports moving by land need their own control rules, just as imports arriving overland do."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What does section 85 deal with?",
+    back: "Treatment of goods under transit and transhipment."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What does section 86 deal with?",
+    back: "Control of entry."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What does section 87 deal with?",
+    back: "Termination of transit procedure."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "Why are transit and transhipment included in Part V?",
+    back: "Because export control does not only cover goods produced locally for export, but also goods passing through or being transferred onward under customs supervision."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What is transit?",
+    back: "Movement of goods imported from a foreign place through the territory of one or more Partner States to a foreign destination."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What is transhipment?",
+    back: "Transfer of goods from an arriving aircraft, vehicle, or vessel from a foreign place to another aircraft, vehicle, or vessel departing to a foreign destination."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What is the purpose of control of entry in transit/transhipment?",
+    back: "To ensure the goods are properly entered, supervised, and accounted for while still under customs control."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What is meant by termination of transit procedure?",
+    back: "The lawful conclusion of the transit movement once the goods reach the approved destination or are otherwise properly accounted for under customs law."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "Which Schedule should a customs officer revise together with export procedure?",
+    back: "The Third Schedule, because it contains prohibited and restricted exports generally."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "Why is the Third Schedule important in export exams?",
+    back: "Because questions on prohibited or restricted exports are often tested alongside Part V procedure."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What is the difference between import procedure and export procedure in structure?",
+    back: "Import procedure focuses on arrival, reporting, unloading, entry, and passenger clearance, while export procedure focuses on prohibited/restricted exports, export entry, entry outwards, loading, departure, and transit/transhipment control."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What is the difference between export cargo and stores?",
+    back: "Export cargo is cargo entered for exportation, while stores are goods for use or sale on board aircraft, vessels, or trains in international transport."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What is the difference between transit and transhipment?",
+    back: "Transit is movement through the territory of one or more Partner States to a foreign destination; transhipment is transfer from one arriving craft to another departing craft for a foreign destination."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What is the basic order of export procedure under Part V?",
+    back: "Prohibited/restricted exports → entry of cargo for export → entry outwards → loading → baggage/stores/special goods → departure overland → transit/transhipment control."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What are the most tested export themes in Part V?",
+    back: "Prohibited and restricted exports, entry of cargo for export, entry outwards, stores, export duty, and transit/transhipment."
+  },
+  {
+    topic: "5. Export procedure",
+    front: "What are the three most important customs control points in export procedure?",
+    back: "Entry of export cargo, loading under customs control, and lawful departure or termination of transit/transhipment procedure."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "Which Part of the Act deals with duties and valuation?",
+    back: "Part X: Duties."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "Which sections cover duties and valuation under the Act?",
+    back: "Sections 110 to 144."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What are the main subdivisions of Part X?",
+    back: "Liability to Duty, Computation of Duty, Payment etc. of Duty, Anti-Dumping and Countervailing Duties, and Drawback/Remission/Rebate/Refund."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What is the basic rule on rates of duty under section 110?",
+    back: "Duty shall be paid on goods at the rate and in the circumstances specified in the Protocol."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "If goods are liable to duty on leaving a Partner State, how does the Act treat them?",
+    back: "The Act applies as if those goods were exported when leaving the Partner State."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What tariff treatment is given to goods originating from Partner States?",
+    back: "They are accorded Community tariff treatment in accordance with the Rules of Origin under the Protocol."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What may Customs require as proof of origin for Community tariff treatment?",
+    back: "A Certificate of Origin and other supporting documents."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "When is preferential tariff treatment applied under COMESA and SADC?",
+    back: "To goods imported under those arrangements as prescribed in Partner States’ legislation, and under any other tariff arrangement approved by the Council."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "Are goods remaining on board and re-exported in the same aircraft or vessel liable to duty?",
+    back: "No. Subject to customs laws, they are exempt from import or export duties."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "Where is the exemptions regime found?",
+    back: "In the Fifth Schedule."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "On what goods does duty not get charged under Part A of the Fifth Schedule?",
+    back: "Goods listed in Part A when imported, or purchased before customs clearance, for use by the person named there and subject to the attached conditions."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "On what goods does duty not get charged under Part B of the Fifth Schedule?",
+    back: "Goods listed in Part B when imported in accordance with the attached conditions."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "Can the Council amend the Fifth Schedule?",
+    back: "Yes, by notice in the Gazette."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "When are goods entered under bond exempt from import duty?",
+    back: "When entered for exportation, re-exportation, transhipment, transit, or use as stores, and proved to the Commissioner’s satisfaction to have been duly exported or so used."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "When can certain re-imported goods be exempt from import duty?",
+    back: "Where the Commissioner is satisfied that prior import duty was paid, drawback/refund was not allowed or has been repaid, and the goods have not materially changed in form or character."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What does section 117 deal with?",
+    back: "Exemption from import duty of temporary imports."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What does section 118 deal with?",
+    back: "Derelict goods, etc., liable to duty."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What does section 119 deal with?",
+    back: "Goods imported duty free liable to certain duties on disposal."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What is the key idea in section 119?",
+    back: "Goods imported duty free may later become liable to duty if they are disposed of contrary to the conditions of the exemption."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What determines the rate of duty under section 120?",
+    back: "Time of entry determines rate of duty."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What does section 121 provide?",
+    back: "Duties, etc., apply proportionately."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "Which section deals with determination of value of imported goods liable to ad valorem duty?",
+    back: "Section 122."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "Where are the valuation rules for imported goods liable to ad valorem duty found?",
+    back: "In the Fourth Schedule."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What is ad valorem duty?",
+    back: "Duty based on the value of the goods rather than quantity, weight, or volume."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What does section 123 deal with?",
+    back: "The value of goods for export."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What does section 124 deal with?",
+    back: "Adjustment for fractions of a dollar."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What does section 125 deal with?",
+    back: "Duty computed on gross weight of package in certain cases."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What does section 126 deal with?",
+    back: "Duty computed on reputed quantity in certain cases."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What power does the Commissioner have under section 127?",
+    back: "To fix litre equivalent of other liquid measurement."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What does section 128 deal with?",
+    back: "Allowance for tare."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What does section 129 deal with?",
+    back: "Duty on package in certain cases."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What is the main legal source for customs valuation of imported goods in Part X?",
+    back: "Section 122 and the Fourth Schedule."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "Why is the Fourth Schedule important for exams?",
+    back: "Because it contains the rules for determining customs value of imported goods liable to ad valorem import duty."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What broad issue does customs valuation answer?",
+    back: "It answers how much the imported goods are worth for duty purposes."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What broad issue does export valuation answer?",
+    back: "It answers how the value of goods for export is determined under section 123."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What does section 130 deal with?",
+    back: "Recovery of duty by distress."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What Schedule is connected to recovery of duty by distress?",
+    back: "The Sixth Schedule, which contains the warrant of distress."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What does section 131 deal with?",
+    back: "Agency notices."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What does section 132 deal with?",
+    back: "Security on property on an unpaid duty, etc."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What does section 133 deal with?",
+    back: "Effect of obligation to pay duty."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What does section 134 deal with?",
+    back: "Effect of alteration in classification of goods."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What does section 135 deal with?",
+    back: "Short levy or erroneous refund."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What is a short levy?",
+    back: "A case where duty was undercharged and customs may seek recovery of the unpaid amount."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What is an erroneous refund?",
+    back: "A case where duty was wrongly refunded, allowing customs to recover the amount."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What does section 136 allow?",
+    back: "Samples may be taken without immediate payment of duty."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "Which section deals with anti-dumping and countervailing duties?",
+    back: "Section 137."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What does section 137 provide for?",
+    back: "Collection of anti-dumping and countervailing duties."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What is the purpose of anti-dumping duty?",
+    back: "To counter unfair low-priced imports that injure domestic industry."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What is the purpose of countervailing duty?",
+    back: "To offset subsidies granted directly or indirectly on production, manufacture, or export of a product."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What does section 138 deal with?",
+    back: "Drawback of duty."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What is duty drawback?",
+    back: "Refund of all or part of import duty paid on goods later exported or used in a qualifying prescribed manner."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What does section 139 deal with?",
+    back: "Drawback to be allowed in respect of certain goods."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What does section 140 deal with?",
+    back: "Council may grant remission of duty on goods for manufacture."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What does section 141 deal with?",
+    back: "Remission of duty."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What is remission of duty?",
+    back: "Relief from payment of duty granted under the Act or by Council authority in qualifying cases."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What does section 142 deal with?",
+    back: "Rebate of duty."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What does section 143 deal with?",
+    back: "Repayment of Customs duties when goods are returned or destroyed by fire."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What does section 144 deal with?",
+    back: "Refund of duty."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What is the difference between drawback and refund?",
+    back: "Drawback usually concerns duty previously paid on goods later exported or specially used; refund is repayment of duty in cases allowed by law, including overpayment or other qualifying situations."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What is the difference between remission and rebate?",
+    back: "Both are duty reliefs, but remission is usually relief granted before or instead of payment in qualifying cases, while rebate is duty relief allowed under specific statutory conditions."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What is the difference between liability to duty and computation of duty?",
+    back: "Liability to duty asks whether duty is payable; computation of duty asks how much duty is payable and how it is calculated."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What is the difference between valuation and rate of duty?",
+    back: "Valuation determines the customs value of the goods; rate of duty determines the percentage, amount, or treatment applied to that value or quantity."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What is the difference between exemption and drawback?",
+    back: "Exemption means duty is not charged in the first place under qualifying conditions; drawback means duty already paid is later refunded wholly or partly."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What is the basic order of Part X?",
+    back: "Liability to duty → computation of duty → payment/recovery → anti-dumping and countervailing duties → drawback/remission/rebate/refund."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "Which two Schedules are most important for duties and valuation?",
+    back: "The Fourth Schedule for customs valuation and the Fifth Schedule for exemptions."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "Which Schedule is important for recovery by distress?",
+    back: "The Sixth Schedule."
+  },
+  {
+    topic: "6. Duties and valuation",
+    front: "What are the most tested themes in Duties and Valuation?",
+    back: "Rates of duty, preferential tariff treatment, exemptions, customs valuation, time of entry, short levy/erroneous refund, anti-dumping/countervailing duty, drawback, remission, rebate, and refund."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "Which Parts of the Act are most important for officer powers?",
+    back: "Part II for the general status of an officer, especially section 7, and Part XII for specific enforcement powers used in preventing smuggling."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "Which section gives an officer the powers of a police officer?",
+    back: "Section 7."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "What does section 7 provide about an officer’s legal status?",
+    back: "Every officer, in performing his or her duty, has all the powers, rights, privileges, and protection of a police officer of the Partner State where the officer performs duty."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "Why is section 7 important for a proper officer?",
+    back: "It gives the officer police-type authority and protection when enforcing customs law."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "Which Part of the Act specifically lists enforcement powers of officers?",
+    back: "Part XII – Prevention of Smuggling."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "Which sections in Part XII contain the main powers of officers?",
+    back: "Sections 149 to 159."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "What is the overall purpose of Part XII powers?",
+    back: "To enable officers to detect, prevent, investigate, and suppress smuggling and other customs offences."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "What does section 149 deal with?",
+    back: "Power to require vessels, etc., to bring to."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "What does section 150 deal with?",
+    back: "Power to require vessel, etc., to depart."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "What does section 151 deal with?",
+    back: "Power to patrol freely and moor vessels, etc."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "What does section 152 deal with?",
+    back: "Power to board vessel, etc., and search."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "Why are sections 149 to 152 important in customs enforcement?",
+    back: "They give officers control over vessels and similar craft by allowing them to require them to stop, depart, be boarded, and be searched."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "What happens if goods are found on a searched aircraft or vessel in relation to which an offence under the Act has been committed?",
+    back: "Those goods are liable to forfeiture."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "Is an officer personally liable for actions taken in good faith under the power to board and search a vessel?",
+    back: "No. An officer is not liable to legal proceedings for action taken in good faith in accordance with that section."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "What happens if goods found on a vessel during one boarding are missing on a later boarding and the master cannot account for them?",
+    back: "The master commits an offence and is liable to a fine equal to 10% of the dutiable value of the goods and to payment of the duties due."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "Which section gives the officer power to stop a vehicle suspected of conveying uncustomed goods?",
+    back: "Section 153."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "When may an officer stop and search a vehicle under section 153?",
+    back: "When the officer has reasonable grounds to believe the vehicle is conveying uncustomed goods, whether or not in transit, or goods being transferred from one Partner State to another."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "Can an officer require goods in the vehicle to be unloaded during a search?",
+    back: "Yes. The officer may require the goods to be unloaded at the expense of the owner of the vehicle."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "If an officer cannot get free access to a place or container in a vehicle during a search, what may the officer do?",
+    back: "The officer may open the place or container in such manner, including by force, as the officer deems necessary."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "What happens if the person in charge of a vehicle refuses to stop or permit a search?",
+    back: "That person commits an offence."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "What happens if offending goods are found during a vehicle search?",
+    back: "The goods are liable to forfeiture."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "Is an officer protected from legal proceedings for actions taken in good faith during a vehicle search?",
+    back: "Yes. The officer is not liable to legal proceedings for action taken in good faith under section 153."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "Which section requires persons entering or leaving a Partner State to answer questions concerning baggage?",
+    back: "Section 154."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "What must a person entering or leaving a Partner State do under section 154(1)?",
+    back: "Answer questions put by the proper officer concerning his or her baggage and any articles contained in or carried with it."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "What must a person in charge of a vehicle carrying transferred goods do under section 154(2)?",
+    back: "Answer questions about the vehicle and goods, and produce books or documents relating to the vehicle and goods that are or should be carried in the vehicle."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "Why is section 154 important for customs control?",
+    back: "It supports examination, verification, and detection of undeclared or irregular goods in baggage and vehicles."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "Which section gives the officer power to search persons?",
+    back: "Section 155."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "When may an officer search a person under section 155?",
+    back: "When the officer has reasonable grounds to believe that the person has uncustomed goods in his or her possession, whether on the person or in baggage."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "Can the officer use force when searching a person?",
+    back: "Yes, but only reasonable force."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "What special rule applies when searching a female?",
+    back: "A female shall not be searched except by a female officer."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "Which section gives the officer power of arrest?",
+    back: "Section 156."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "Why is the power of arrest important to a proper officer?",
+    back: "It allows the officer to take enforcement action against persons suspected of customs offences."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "Which section gives the officer power to search premises?",
+    back: "Section 157."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "Why is the power to search premises important in customs law?",
+    back: "Because uncustomed goods or related evidence may be concealed in buildings, stores, compounds, or other premises."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "Which section deals with search warrants?",
+    back: "Section 158."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "When may a magistrate issue a search warrant under section 158?",
+    back: "When an officer declares on oath that he or she has reasonable grounds to believe that there are uncustomed goods or documents relating to uncustomed goods in any premises."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "What does a search warrant under section 158 authorize the officer to do?",
+    back: "Enter and search the premises, by day or night, with such force as may be necessary, and seize and carry away any uncustomed goods or related documents found there."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "Can an officer executing a search warrant ask for police assistance?",
+    back: "Yes. The officer may require a police officer to assist in execution of the warrant."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "Must a police officer assist when required under section 158?",
+    back: "Yes. The police officer shall render assistance accordingly."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "Which section gives the proper officer power to require production of books and documents?",
+    back: "Section 159."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "In what two situations may the proper officer require books and documents under section 159?",
+    back: "When information has been given that goods have been or are intended to be smuggled, undervalued, or otherwise dealt with contrary to the Act, or when any goods or thing have been seized under the Act."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "Who may be required to produce books and documents under section 159?",
+    back: "The owner of the goods or thing."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "What kinds of records may the proper officer require under section 159?",
+    back: "All books and documents, whether written, on microfilm, magnetic tape, or any other mechanical or electronic data retrieval form, relating to the goods or thing and certain related goods transactions."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "How far back may the proper officer require records under section 159?",
+    back: "Up to five years immediately preceding the requirement."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "What may the proper officer do once books or documents are produced?",
+    back: "Inspect them, take copies of entries, and seize and detain any book or document that may afford evidence of an offence."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "Can an officer detain persons, vehicles, and goods entering or leaving a customs area?",
+    back: "Yes. Under section 15(3), they may be detained for purposes of search or examination."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "Can an officer examine goods under customs control at any time?",
+    back: "Yes. Under section 16(2)(a), any officer may at any time examine goods subject to customs control."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "Can persons interfere with goods under customs control without authority?",
+    back: "No. Except with authority of the Commissioner or in accordance with the Act, no person may interfere with such goods."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "What is the difference between the power to search a person and the power to search premises?",
+    back: "Search of a person focuses on goods on the body or in baggage under section 155, while search of premises focuses on buildings or places where uncustomed goods or related documents may be concealed under sections 157 and 158."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "What is the difference between searching a vehicle and searching a vessel?",
+    back: "A vehicle may be stopped and searched under section 153 if suspected of conveying uncustomed goods, while a vessel may be required to bring to, be boarded, and be searched under sections 149 to 152."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "What is the difference between an officer’s general status under section 7 and the specific powers in Part XII?",
+    back: "Section 7 gives the officer general police-type powers and protection, while Part XII gives the officer specific customs enforcement powers like stopping, boarding, searching, arresting, and demanding records."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "What is the easiest way to remember the officer powers sequence in Part XII?",
+    back: "Bring to → depart → patrol/moor → board/search vessel → stop/search vehicle → question baggage → search person → arrest → search premises → warrant → demand books/documents."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "What are the most tested officer powers in exams?",
+    back: "Powers of police officer, stop/search vehicle, search persons, arrest, search premises, search warrants, and production of books/documents."
+  },
+  {
+    topic: "7. Officer powers",
+    front: "What repeated legal threshold appears in search powers?",
+    back: "Reasonable grounds to believe."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Which Part of the Act deals with offences, forfeiture, and seizure?",
+    back: "Part XVII: Offences, Penalties, Forfeitures and Seizures."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Which sections cover offences, forfeiture, and seizure?",
+    back: "Sections 193 to 218."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What are the main themes in Part XVII?",
+    back: "Offences, penalties, payment of duty in addition to fines, forfeiture of goods and vessels, seizure, condemnation, and restoration."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What does section 193 deal with?",
+    back: "Conspiring to contravene provisions of the Act."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Is conspiracy to break the Act itself an offence?",
+    back: "Yes. Conspiring to contravene the Act is an offence."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What does section 194 deal with?",
+    back: "Offences with violence, etc."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Why are offences with violence treated seriously under customs law?",
+    back: "Because they interfere with lawful customs enforcement and public authority."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What does section 195 deal with?",
+    back: "Removing or defacing Customs seals."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Is removing or defacing a Customs seal an offence?",
+    back: "Yes."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Why are Customs seals important?",
+    back: "They protect goods and conveyances under customs control and help preserve integrity of customs supervision."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What does section 196 deal with?",
+    back: "Inducing another to commit offence."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Is persuading or inducing another person to commit a customs offence itself an offence?",
+    back: "Yes."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What does section 197 deal with?",
+    back: "Offence to warn offender."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Is warning a person so they evade customs enforcement an offence?",
+    back: "Yes."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What does section 198 deal with?",
+    back: "Offence to assume character of officer."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Is pretending to be a customs officer an offence?",
+    back: "Yes."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What does section 199 deal with?",
+    back: "Master of vessel, etc., used for smuggling commits an offence."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Can the master of a vessel or craft used for smuggling commit an offence under the Act?",
+    back: "Yes."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What does section 200 deal with?",
+    back: "Offences related to prohibited, restricted, and uncustomed goods."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What are uncustomed goods?",
+    back: "Dutiable goods on which full duty has not been paid, and goods dealt with contrary to customs law whether dutiable or not."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Why are prohibited, restricted, and uncustomed goods central in customs offences?",
+    back: "Because many customs offences arise from unlawful importation, exportation, possession, movement, or concealment of such goods."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What does section 201 provide?",
+    back: "Payment of duty in addition to fine."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "If a person is fined for a customs offence, can duty still remain payable?",
+    back: "Yes. Payment of duty may still be required in addition to the fine."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What does section 202 deal with?",
+    back: "Offence to import or export concealed goods."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Is importing or exporting concealed goods an offence?",
+    back: "Yes."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Why is concealment of goods treated as a serious customs offence?",
+    back: "Because concealment is often used to evade duty, prohibition, restriction, or customs control."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What does section 203 deal with?",
+    back: "Offence to make or use false documents."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Is making or using a false customs document an offence?",
+    back: "Yes."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What does section 204 deal with?",
+    back: "Offence to refuse to produce documents, etc."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Is refusing to produce required customs documents an offence?",
+    back: "Yes."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What does section 205 deal with?",
+    back: "Offence to interfere with Customs gear."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Is interfering with customs gear an offence?",
+    back: "Yes."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What does section 206 deal with?",
+    back: "Uncustomed goods found to be reported."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What does section 207 deal with?",
+    back: "Goods offered on pretence of being smuggled."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Why is pretence that goods are smuggled also regulated?",
+    back: "Because customs law also targets deceptive conduct connected to unlawful goods handling."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What does section 208 deal with?",
+    back: "Aiders, abettors, etc."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Can aiders and abettors be liable for customs offences?",
+    back: "Yes."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What does section 209 deal with?",
+    back: "General penalty."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Why is a general penalty section important?",
+    back: "It covers contraventions where a specific penalty may not be separately stated."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What does section 210 deal with?",
+    back: "Goods liable to forfeiture."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What does it mean for goods to be liable to forfeiture?",
+    back: "It means the goods may legally be taken away from the owner and condemned under customs law because of an offence or unlawful status."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What does section 211 deal with?",
+    back: "Vessels, etc., liable to forfeiture."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Can vessels, vehicles, or similar things also be liable to forfeiture?",
+    back: "Yes. The Act extends forfeiture beyond goods to vessels and other things in appropriate cases."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What does section 212 deal with?",
+    back: "Provisions relating to goods liable to forfeiture."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Why is forfeiture important in customs law?",
+    back: "Because it removes offending goods or offending conveyances from circulation and strengthens enforcement of customs control."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What does section 213 deal with?",
+    back: "Power to seize goods liable to forfeiture, etc."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What is seizure in customs law?",
+    back: "The act of taking possession of goods or things liable to forfeiture under the Act."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What does section 214 deal with?",
+    back: "Procedure on seizure."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Why is seizure different from forfeiture?",
+    back: "Seizure is the initial taking into custody; forfeiture is the legal loss of the property after the law is applied."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What does section 215 deal with?",
+    back: "Effect of conviction, etc. on things liable to forfeiture."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What does section 216 deal with?",
+    back: "Procedure after notice of claim."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What does section 217 deal with?",
+    back: "Provisions relating to condemnation."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What is condemnation in customs law?",
+    back: "The legal process by which seized goods or things are formally declared forfeited."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Why is a notice of claim important after seizure?",
+    back: "Because it triggers the next legal procedure for determining whether the seizure will be upheld and the goods condemned."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What does section 218 deal with?",
+    back: "Restoration of seizures."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Can seized goods or things ever be restored?",
+    back: "Yes. The Act provides for restoration of seizures."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What does restoration mean in customs law?",
+    back: "It means goods or things that were seized may be returned in accordance with the Act."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Is unlawful interference with goods under customs control an offence?",
+    back: "Yes. A person who unlawfully interferes with goods under customs control commits an offence, and the goods may be forfeited."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Is entering or leaving a customs area through an unauthorized point an offence?",
+    back: "Yes. It is an offence, and the goods involved may be forfeited."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Is failure to report or false reporting on arrival of aircraft or vessels an offence?",
+    back: "Yes. Such contraventions are offences and the goods may be liable to forfeiture."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Is unlawful unloading or removal of imported goods an offence?",
+    back: "Yes. Contravention of unloading and removal rules is an offence and the goods may be forfeited."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Is refusing to stop a vehicle or permit a vehicle search an offence?",
+    back: "Yes. The person in charge commits an offence."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "Is bribing or unlawfully influencing an officer an offence?",
+    back: "Yes. Offering unlawful payment or inducement to an officer is an offence."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What is the difference between an offence and a penalty?",
+    back: "An offence is the unlawful act; a penalty is the punishment or legal consequence that follows."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What is the difference between forfeiture and condemnation?",
+    back: "Forfeiture is the liability or legal loss of the goods or thing; condemnation is the formal legal process confirming that forfeiture."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What is the difference between seizure and restoration?",
+    back: "Seizure is taking custody of the property under customs law; restoration is returning it under the Act."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What is the difference between a false document offence and refusal-to-produce-documents offence?",
+    back: "A false document offence involves making or using untrue documents, while refusal to produce documents involves failing to provide documents that Customs lawfully requires."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What is the difference between concealed goods and uncustomed goods?",
+    back: "Concealed goods are hidden to evade control; uncustomed goods are goods whose full duty has not been paid or which are dealt with contrary to customs law."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What is the easiest way to remember the Part XVII sequence?",
+    back: "Offences → penalties → duty in addition to fine → forfeiture of goods/vessels → seizure → claim procedure → condemnation → restoration."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What are the most tested offences in this Part?",
+    back: "Conspiracy, removing seals, impersonating an officer, concealed goods, false documents, refusal to produce documents, interfering with customs gear, and aiding/abetting."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What are the three most tested property consequences in this Part?",
+    back: "Forfeiture, seizure, and condemnation."
+  },
+  {
+    topic: "8. Offences, forfeiture, and seizure",
+    front: "What additional financial consequence may arise even after conviction and fine?",
+    back: "Payment of duty in addition to fine."
+  },
+  {
+    topic: "9. Appeals",
+    front: "Which Part of the Act deals with appeals?",
+    back: "Part XX: Appeals."
+  },
+  {
+    topic: "9. Appeals",
+    front: "Which sections cover appeals under the Act?",
+    back: "Sections 229 to 231."
+  },
+  {
+    topic: "9. Appeals",
+    front: "What are the three core appeal provisions in Part XX?",
+    back: "Application for review to the Commissioner, appeals to the Tax Appeals Tribunal, and establishment of the Tax Appeals Tribunal."
+  },
+  {
+    topic: "9. Appeals",
+    front: "What is the first step when a person is dissatisfied with a customs decision under Part XX?",
+    back: "The person should make an application for review to the Commissioner."
+  },
+  {
+    topic: "9. Appeals",
+    front: "Which section provides for application for review to the Commissioner?",
+    back: "Section 229."
+  },
+  {
+    topic: "9. Appeals",
+    front: "Why is review to the Commissioner important?",
+    back: "It is the first internal remedy under the Act before the matter proceeds to the Tribunal."
+  },
+  {
+    topic: "9. Appeals",
+    front: "In the appeals structure of the Act, who is approached before the Tribunal?",
+    back: "The Commissioner."
+  },
+  {
+    topic: "9. Appeals",
+    front: "What is the purpose of review by the Commissioner?",
+    back: "To allow the customs administration to reconsider a disputed decision before formal appeal to the Tribunal."
+  },
+  {
+    topic: "9. Appeals",
+    front: "After review by the Commissioner, where does a further appeal go?",
+    back: "To the Tax Appeals Tribunal."
+  },
+  {
+    topic: "9. Appeals",
+    front: "Which section provides for appeals to the Tax Appeals Tribunal?",
+    back: "Section 230."
+  },
+  {
+    topic: "9. Appeals",
+    front: "What is the second formal level in the appeal structure under the Act?",
+    back: "The Tax Appeals Tribunal."
+  },
+  {
+    topic: "9. Appeals",
+    front: "Why is the Tax Appeals Tribunal important in customs law?",
+    back: "It provides the formal appellate forum for challenging customs decisions after review by the Commissioner."
+  },
+  {
+    topic: "9. Appeals",
+    front: "Which section deals with establishment of the Tax Appeals Tribunal?",
+    back: "Section 231."
+  },
+  {
+    topic: "9. Appeals",
+    front: "What institutional appellate body is recognized in Part XX?",
+    back: "The Tax Appeals Tribunal."
+  },
+  {
+    topic: "9. Appeals",
+    front: "Why does the Act specifically provide for establishment of the Tribunal?",
+    back: "To ensure there is a recognized legal body to hear customs appeals beyond the Commissioner’s review stage."
+  },
+  {
+    topic: "9. Appeals",
+    front: "Which Part comes immediately before Appeals in the Act?",
+    back: "Part XIX: Legal Proceedings."
+  },
+  {
+    topic: "9. Appeals",
+    front: "Which Part comes immediately after Appeals in the Act?",
+    back: "Part XXI: Miscellaneous Provisions."
+  },
+  {
+    topic: "9. Appeals",
+    front: "What is the difference between legal proceedings and appeals under the Act?",
+    back: "Legal proceedings deal with matters like trial, proof, prosecution, and court-related rules, while appeals deal with reviewing and challenging customs decisions through the Commissioner and then the Tribunal."
+  },
+  {
+    topic: "9. Appeals",
+    front: "What is the difference between review and appeal?",
+    back: "A review is reconsideration by the Commissioner, while an appeal is escalation to the Tax Appeals Tribunal."
+  },
+  {
+    topic: "9. Appeals",
+    front: "What is the difference between the first and second appeal stages under the Act?",
+    back: "The first stage is application for review to the Commissioner; the second stage is appeal to the Tax Appeals Tribunal."
+  },
+  {
+    topic: "9. Appeals",
+    front: "What is the difference between the Commissioner’s role in administration and in appeals?",
+    back: "In administration, the Commissioner manages and controls Customs; in appeals, the Commissioner is the first review authority for disputed customs decisions."
+  },
+  {
+    topic: "9. Appeals",
+    front: "What is the easiest way to remember Part XX?",
+    back: "Review → Tribunal → Establishment."
+  },
+  {
+    topic: "9. Appeals",
+    front: "What are the three key words to remember for appeals?",
+    back: "Commissioner, review, Tribunal."
+  },
+  {
+    topic: "9. Appeals",
+    front: "What is the full appeal path under the Act?",
+    back: "Application for review to the Commissioner, then appeal to the Tax Appeals Tribunal."
+  },
+  {
+    topic: "10. Schedules",
+    front: "Where are the Schedules listed in the Act?",
+    back: "At the end of the Act, after Part XXI, under the heading Schedules."
+  },
+  {
+    topic: "10. Schedules",
+    front: "How many Schedules are listed in the Act?",
+    back: "Six Schedules."
+  },
+  {
+    topic: "10. Schedules",
+    front: "Why are the Schedules important in exam revision?",
+    back: "Because they contain practical legal details that support the main sections of the Act, especially on declarations, prohibited and restricted goods, valuation, exemptions, and distress."
+  },
+  {
+    topic: "10. Schedules",
+    front: "What is in the First Schedule?",
+    back: "Declaration of Officer."
+  },
+  {
+    topic: "10. Schedules",
+    front: "What is in the Second Schedule?",
+    back: "Prohibited and Restricted Imports Generally."
+  },
+  {
+    topic: "10. Schedules",
+    front: "What is in the Third Schedule?",
+    back: "Prohibited and Restricted Exports Generally."
+  },
+  {
+    topic: "10. Schedules",
+    front: "What is in the Fourth Schedule?",
+    back: "Determination of Value of Imported Goods Liable to ad Valorem Import Duty."
+  },
+  {
+    topic: "10. Schedules",
+    front: "What is in the Fifth Schedule?",
+    back: "Exemptions Regime."
+  },
+  {
+    topic: "10. Schedules",
+    front: "What is in the Sixth Schedule?",
+    back: "Warrant of Distress."
+  },
+  {
+    topic: "10. Schedules",
+    front: "What is the purpose of the First Schedule?",
+    back: "It contains the formal declaration of officer to be made by a customs officer appointed to permanent office or employment."
+  },
+  {
+    topic: "10. Schedules",
+    front: "Which section refers directly to the First Schedule?",
+    back: "Section 5(4), which requires a permanently appointed officer to make and subscribe the declaration in the First Schedule."
+  },
+  {
+    topic: "10. Schedules",
+    front: "Why is the First Schedule important for customs administration?",
+    back: "It reinforces the legal and ethical commitment of officers entering customs service."
+  },
+  {
+    topic: "10. Schedules",
+    front: "What is the purpose of the Second Schedule?",
+    back: "It lists prohibited and restricted imports generally."
+  },
+  {
+    topic: "10. Schedules",
+    front: "Which sections are most closely linked to the Second Schedule?",
+    back: "Sections 18, 19, and 20 on prohibited and restricted imports and related exemptions."
+  },
+  {
+    topic: "10. Schedules",
+    front: "What is the difference between Part A and Part B of the Second Schedule?",
+    back: "Part A covers prohibited imports, while Part B covers restricted imports that are only allowed if conditions are met."
+  },
+  {
+    topic: "10. Schedules",
+    front: "What does it mean if goods are in Part A of the Second Schedule?",
+    back: "Their importation is prohibited."
+  },
+  {
+    topic: "10. Schedules",
+    front: "What does it mean if goods are in Part B of the Second Schedule?",
+    back: "Their importation is prohibited except in accordance with specified conditions."
+  },
+  {
+    topic: "10. Schedules",
+    front: "Can the Second Schedule be amended?",
+    back: "Yes. The Council may amend it by order published in the Gazette."
+  },
+  {
+    topic: "10. Schedules",
+    front: "Why is the Second Schedule highly testable in exams?",
+    back: "Because customs exam questions often test whether a good is prohibited, restricted, or conditionally admissible on import."
+  },
+  {
+    topic: "10. Schedules",
+    front: "What is the purpose of the Third Schedule?",
+    back: "It lists prohibited and restricted exports generally."
+  },
+  {
+    topic: "10. Schedules",
+    front: "Which sections are most closely linked to the Third Schedule?",
+    back: "Sections 70, 71, and 72 on prohibited and restricted exports and related exemptions."
+  },
+  {
+    topic: "10. Schedules",
+    front: "What is the difference between prohibited exports and restricted exports in the Third Schedule?",
+    back: "Prohibited exports cannot be exported at all, while restricted exports may only be exported if the required conditions are satisfied."
+  },
+  {
+    topic: "10. Schedules",
+    front: "Can the Third Schedule be amended?",
+    back: "Yes. The Council may amend it by order published in the Gazette."
+  },
+  {
+    topic: "10. Schedules",
+    front: "Why is the Third Schedule important for a customs officer?",
+    back: "Because it helps the officer identify goods whose export is unlawful or tightly controlled."
+  },
+  {
+    topic: "10. Schedules",
+    front: "What is the purpose of the Fourth Schedule?",
+    back: "It provides the rules for determination of value of imported goods liable to ad valorem import duty."
+  },
+  {
+    topic: "10. Schedules",
+    front: "Which section refers directly to the Fourth Schedule?",
+    back: "Section 122 on determination of value of imported goods liable to ad valorem duty."
+  },
+  {
+    topic: "10. Schedules",
+    front: "Why is the Fourth Schedule important in customs practice?",
+    back: "Because it determines the customs value used to calculate ad valorem import duty."
+  },
+  {
+    topic: "10. Schedules",
+    front: "What is the core question answered by the Fourth Schedule?",
+    back: "“What is the value of these imported goods for duty purposes?”"
+  },
+  {
+    topic: "10. Schedules",
+    front: "Why is the Fourth Schedule one of the most important schedules for exams?",
+    back: "Because valuation is a major customs topic and ad valorem duty depends directly on correct customs value."
+  },
+  {
+    topic: "10. Schedules",
+    front: "What type of duty is most directly linked to the Fourth Schedule?",
+    back: "Ad valorem import duty."
+  },
+  {
+    topic: "10. Schedules",
+    front: "What is the purpose of the Fifth Schedule?",
+    back: "It sets out the Exemptions Regime."
+  },
+  {
+    topic: "10. Schedules",
+    front: "Which section refers directly to the Fifth Schedule?",
+    back: "Section 114 on the exemptions regime."
+  },
+  {
+    topic: "10. Schedules",
+    front: "What is the general purpose of the Fifth Schedule in customs law?",
+    back: "To identify goods and circumstances in which duty is not charged, subject to stated conditions."
+  },
+  {
+    topic: "10. Schedules",
+    front: "What is the difference between Part A and Part B of the Fifth Schedule?",
+    back: "Part A covers goods that are not liable to duty when imported or purchased before clearance for use by specified persons, while Part B covers goods exempted when imported subject to stated conditions."
+  },
+  {
+    topic: "10. Schedules",
+    front: "Can the Fifth Schedule be amended?",
+    back: "Yes. The Council may amend it by notice in the Gazette."
+  },
+  {
+    topic: "10. Schedules",
+    front: "Why is the Fifth Schedule important for passenger and institutional exemptions?",
+    back: "Because it contains the legal exemption framework used in many duty-relief situations."
+  },
+  {
+    topic: "10. Schedules",
+    front: "What is the purpose of the Sixth Schedule?",
+    back: "It contains the Warrant of Distress."
+  },
+  {
+    topic: "10. Schedules",
+    front: "Which section is most closely linked to the Sixth Schedule?",
+    back: "Section 130 on recovery of duty by distress."
+  },
+  {
+    topic: "10. Schedules",
+    front: "Why is the Sixth Schedule important in customs enforcement?",
+    back: "Because it supports the legal process of recovering unpaid duty through distress."
+  },
+  {
+    topic: "10. Schedules",
+    front: "What is the main practical function of the Sixth Schedule?",
+    back: "To provide the formal legal instrument used when Customs moves to recover unpaid duty by distress."
+  },
+  {
+    topic: "10. Schedules",
+    front: "What is the difference between the Second and Third Schedules?",
+    back: "The Second Schedule deals with prohibited and restricted imports, while the Third Schedule deals with prohibited and restricted exports."
+  },
+  {
+    topic: "10. Schedules",
+    front: "What is the difference between the Fourth and Fifth Schedules?",
+    back: "The Fourth Schedule determines customs value for ad valorem import duty, while the Fifth Schedule sets out duty exemptions."
+  },
+  {
+    topic: "10. Schedules",
+    front: "What is the difference between the First and Sixth Schedules?",
+    back: "The First Schedule concerns the officer’s declaration, while the Sixth Schedule concerns enforcement through a warrant of distress."
+  },
+  {
+    topic: "10. Schedules",
+    front: "Which Schedules are most connected to imports?",
+    back: "The Second Schedule, Fourth Schedule, and Fifth Schedule."
+  },
+  {
+    topic: "10. Schedules",
+    front: "Which Schedule is most connected to exports?",
+    back: "The Third Schedule."
+  },
+  {
+    topic: "10. Schedules",
+    front: "Which Schedule is most connected to officer appointment and integrity?",
+    back: "The First Schedule."
+  },
+  {
+    topic: "10. Schedules",
+    front: "Which Schedule is most connected to recovery of unpaid duty?",
+    back: "The Sixth Schedule."
+  },
+  {
+    topic: "10. Schedules",
+    front: "What is the easiest way to remember all six Schedules in order?",
+    back: "Officer declaration → Imports → Exports → Valuation → Exemptions → Distress."
+  },
+  {
+    topic: "10. Schedules",
+    front: "Which three Schedules are most commonly tested together with duty questions?",
+    back: "The Fourth Schedule, Fifth Schedule, and Sixth Schedule."
+  },
+  {
+    topic: "10. Schedules",
+    front: "Which two Schedules are most commonly tested together with prohibited/restricted goods questions?",
+    back: "The Second Schedule and the Third Schedule."
+  },
+  {
+    topic: "10. Schedules",
+    front: "Which one Schedule should you immediately think of when you hear “customs valuation”?",
+    back: "The Fourth Schedule."
+  },
+  {
+    topic: "10. Schedules",
+    front: "Which one Schedule should you immediately think of when you hear “exemptions regime”?",
+    back: "The Fifth Schedule."
+  },
+  {
+    topic: "10. Schedules",
+    front: "Which one Schedule should you immediately think of when you hear “warrant of distress”?",
+    back: "The Sixth Schedule."
+  }
+];

@@ -1,0 +1,1232 @@
+{
+  "topic": "History of Taxation - Tax and Customs Theory",
+  "format": "duolingo_style_learning_path",
+  "source": "History of Taxation.pptx",
+  "design_principles": {
+    "structure": "map_based_progression",
+    "progression_style": "origins_to_eras_to_themes_to_mastery",
+    "lesson_pattern": [
+      "learn",
+      "match",
+      "quiz",
+      "scenario",
+      "checkpoint"
+    ],
+    "scoring": {
+      "xp_per_micro_lesson": 10,
+      "xp_per_quiz": 15,
+      "xp_per_scenario": 20,
+      "xp_per_checkpoint": 30,
+      "perfect_lesson_bonus": 5,
+      "streak_bonus_every_5_days": 20
+    },
+    "hearts_system": {
+      "starting_hearts": 5,
+      "heart_loss_per_wrong_answer": 1,
+      "heart_recovery": [
+        "practice_old_lesson",
+        "daily_review",
+        "wait_timer"
+      ]
+    },
+    "mastery_levels": [
+      "introduced",
+      "practicing",
+      "strong",
+      "mastered"
+    ]
+  },
+  "course_outcomes": [
+    "Explain how taxation began in ancient societies",
+    "Trace the development of taxation across major historical eras",
+    "Compare how different societies used taxes for governance and revenue",
+    "Explain the major themes in the evolution of tax systems"
+  ],
+  "units": [
+    {
+      "unit_id": 1,
+      "title": "What Tax History Is About",
+      "theme": "Foundations",
+      "unlock_rule": "available_from_start",
+      "unit_goal": "Understand the big picture of tax history and why studying it matters.",
+      "recommended_days": 2,
+      "lessons": [
+        {
+          "lesson_id": "1.1",
+          "title": "5,000 Years of Tax",
+          "type": "learn",
+          "goal": "Understand the long historical span of taxation.",
+          "skills": [
+            "historical overview",
+            "tax evolution",
+            "simple to complex systems"
+          ],
+          "micro_steps": [
+            "Learn that taxes have existed for over 5,000 years",
+            "Identify early grain levies as simple tax forms",
+            "Recognize income tax and VAT as examples of modern complexity"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "1.2",
+          "title": "Why Tax Systems Changed",
+          "type": "learn",
+          "goal": "Understand what tax evolution reflects.",
+          "skills": [
+            "governance",
+            "economies",
+            "social structures"
+          ],
+          "micro_steps": [
+            "Connect taxation to governance",
+            "Connect taxation to economic change",
+            "Connect taxation to social structure"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "1.3",
+          "title": "Big Idea Match",
+          "type": "match",
+          "goal": "Match major historical forces to tax system change.",
+          "skills": [
+            "cause and effect",
+            "historical thinking"
+          ],
+          "micro_steps": [
+            "Match governance to tax administration",
+            "Match trade growth to tariffs and customs duties",
+            "Match social complexity to tax complexity"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "1.4",
+          "title": "History Starter Quiz",
+          "type": "quiz",
+          "goal": "Check understanding of the broad introduction.",
+          "skills": [
+            "historical overview",
+            "concept recall"
+          ],
+          "micro_steps": [
+            "Answer quick multiple-choice questions",
+            "Identify why tax systems became more complex",
+            "Recognize the shift from ancient levies to modern tax systems"
+          ],
+          "xp": 15
+        },
+        {
+          "lesson_id": "1.5",
+          "title": "Unit 1 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show you understand the broad historical purpose of the topic.",
+          "skills": [
+            "overview mastery"
+          ],
+          "micro_steps": [
+            "Explain how long taxes have existed",
+            "Explain what tax evolution reflects",
+            "Explain why studying tax history matters"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 2,
+      "title": "Ancient Civilizations",
+      "theme": "Origins",
+      "unlock_rule": "complete_unit_1_checkpoint",
+      "unit_goal": "Understand the earliest forms of taxation in ancient societies.",
+      "recommended_days": 3,
+      "lessons": [
+        {
+          "lesson_id": "2.1",
+          "title": "Why Ancient States Taxed",
+          "type": "learn",
+          "goal": "Understand why early tax systems emerged.",
+          "skills": [
+            "organized governance",
+            "resource allocation",
+            "public financing"
+          ],
+          "micro_steps": [
+            "Explain why governance required taxes",
+            "Explain the need for resource allocation",
+            "Link early taxes to state functions"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "2.2",
+          "title": "Egypt and Mesopotamia",
+          "type": "learn",
+          "goal": "Learn early taxation in Egypt and Mesopotamia.",
+          "skills": [
+            "grain taxes",
+            "labor taxes",
+            "land and livestock taxes",
+            "clay tablet records"
+          ],
+          "micro_steps": [
+            "Identify grain and labor taxes in Egypt",
+            "Identify land and livestock taxes in Mesopotamia",
+            "Explain how scribes recorded payments on clay tablets"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "2.3",
+          "title": "Ancient Greece",
+          "type": "learn",
+          "goal": "Understand taxation in Ancient Greece.",
+          "skills": [
+            "property tax",
+            "wealth tax",
+            "eisphora",
+            "wartime taxation"
+          ],
+          "micro_steps": [
+            "Identify taxation on property and wealth",
+            "Define eisphora",
+            "Explain why wartime taxation mattered"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "2.4",
+          "title": "Rome's Tax System",
+          "type": "learn",
+          "goal": "Understand the Roman tax framework.",
+          "skills": [
+            "direct taxes",
+            "indirect taxes",
+            "census tax",
+            "tribute system",
+            "tax farming"
+          ],
+          "micro_steps": [
+            "Differentiate Roman direct and indirect taxes",
+            "Explain the census tax",
+            "Explain tribute and tax farming"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "2.5",
+          "title": "Ancient Match Challenge",
+          "type": "match",
+          "goal": "Separate ancient systems clearly.",
+          "skills": [
+            "civilization comparison",
+            "timeline recall"
+          ],
+          "micro_steps": [
+            "Match Egypt to grain and labor",
+            "Match Mesopotamia to clay tablet records",
+            "Match Greece to eisphora",
+            "Match Rome to census tax and tax farming"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "2.6",
+          "title": "Unit 2 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Demonstrate mastery of ancient taxation systems.",
+          "skills": [
+            "ancient history mastery"
+          ],
+          "micro_steps": [
+            "Explain why early taxes existed",
+            "Compare Egypt, Mesopotamia, Greece, and Rome",
+            "Identify early tax forms and purposes"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 3,
+      "title": "The Medieval Period",
+      "theme": "Feudal and Religious Taxation",
+      "unlock_rule": "complete_unit_2_checkpoint",
+      "unit_goal": "Understand how feudal systems and the Church shaped taxation in medieval society.",
+      "recommended_days": 3,
+      "lessons": [
+        {
+          "lesson_id": "3.1",
+          "title": "Medieval Tax Structure",
+          "type": "learn",
+          "goal": "Understand the broad medieval tax environment.",
+          "skills": [
+            "monarchies",
+            "feudal systems",
+            "state financing",
+            "authority"
+          ],
+          "micro_steps": [
+            "Explain why taxes were important to monarchies",
+            "Explain why feudal systems shaped taxation",
+            "Connect taxation to authority and state financing"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "3.2",
+          "title": "Feudal Taxes",
+          "type": "learn",
+          "goal": "Understand obligations within the feudal system.",
+          "skills": [
+            "vassals",
+            "lords",
+            "military service",
+            "financial payments",
+            "land rents"
+          ],
+          "micro_steps": [
+            "Identify who paid feudal taxes",
+            "Explain military and financial obligations",
+            "Recognize land rents, produce, and labor contributions"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "3.3",
+          "title": "Church Tithes",
+          "type": "learn",
+          "goal": "Understand religious taxation in medieval times.",
+          "skills": [
+            "church taxes",
+            "tithe",
+            "10 percent",
+            "ecclesiastical support"
+          ],
+          "micro_steps": [
+            "Define tithe",
+            "Recall that it was one-tenth of income or produce",
+            "Explain why it strengthened Church influence"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "3.4",
+          "title": "Byzantine Comparison",
+          "type": "match",
+          "goal": "Compare feudal Europe and Byzantine taxation.",
+          "skills": [
+            "centralized system",
+            "land and trade taxes",
+            "comparison"
+          ],
+          "micro_steps": [
+            "Match feudal Europe to dues and obligations",
+            "Match the Church to tithe",
+            "Match Byzantium to centralized land and trade taxes"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "3.5",
+          "title": "Unit 3 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show you understand medieval taxation clearly.",
+          "skills": [
+            "medieval history mastery"
+          ],
+          "micro_steps": [
+            "Explain feudal taxation",
+            "Explain church taxation",
+            "Compare feudal Europe with the Byzantine Empire"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 4,
+      "title": "The Age of Enlightenment",
+      "theme": "Ideas and Reform",
+      "unlock_rule": "complete_unit_3_checkpoint",
+      "unit_goal": "Understand how tax thought changed during the Enlightenment.",
+      "recommended_days": 2,
+      "lessons": [
+        {
+          "lesson_id": "4.1",
+          "title": "Reason and Reform",
+          "type": "learn",
+          "goal": "Understand the intellectual shift in tax thinking.",
+          "skills": [
+            "reason",
+            "individual rights",
+            "social responsibility"
+          ],
+          "micro_steps": [
+            "Explain the role of reason in tax reform",
+            "Connect tax reform to rights and responsibility",
+            "Explain why traditional tax practices were questioned"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "4.2",
+          "title": "Three Enlightenment Principles",
+          "type": "learn",
+          "goal": "Master the main tax ideas emphasized in this period.",
+          "skills": [
+            "equity",
+            "transparency",
+            "public goods funding"
+          ],
+          "micro_steps": [
+            "Define equity in taxation",
+            "Explain why transparency mattered",
+            "Explain why taxes were linked to public goods"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "4.3",
+          "title": "Principle Match",
+          "type": "match",
+          "goal": "Match Enlightenment ideas to the right tax principle.",
+          "skills": [
+            "concept mapping"
+          ],
+          "micro_steps": [
+            "Match ability to pay to equity",
+            "Match anti-corruption to transparency",
+            "Match essential state support to public goods funding"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "4.4",
+          "title": "Unit 4 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Demonstrate understanding of Enlightenment tax thought.",
+          "skills": [
+            "idea mastery"
+          ],
+          "micro_steps": [
+            "State the key Enlightenment tax ideas",
+            "Explain why they mattered",
+            "Show how they influenced later tax systems"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 5,
+      "title": "The Early Modern Era",
+      "theme": "Income Tax, Tariffs, and VAT",
+      "unlock_rule": "complete_unit_4_checkpoint",
+      "unit_goal": "Understand major tax developments in the Early Modern Era.",
+      "recommended_days": 3,
+      "lessons": [
+        {
+          "lesson_id": "5.1",
+          "title": "Rise of Income Tax",
+          "type": "learn",
+          "goal": "Understand how and why income tax emerged.",
+          "skills": [
+            "income tax",
+            "wartime finance",
+            "fiscal policy"
+          ],
+          "micro_steps": [
+            "Explain why income tax emerged",
+            "Recognize its early wartime use",
+            "Explain how it became a fiscal staple"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "5.2",
+          "title": "Rise of Trade Tariffs",
+          "type": "learn",
+          "goal": "Understand the growing importance of tariffs.",
+          "skills": [
+            "trade tariffs",
+            "market regulation",
+            "industry protection",
+            "revenue generation"
+          ],
+          "micro_steps": [
+            "Explain why tariffs became prominent",
+            "Explain their role in market regulation",
+            "Explain their role in protecting local industries"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "5.3",
+          "title": "VAT Modernization",
+          "type": "learn",
+          "goal": "Understand why VAT became important.",
+          "skills": [
+            "value-added tax",
+            "efficient collection",
+            "modern systems"
+          ],
+          "micro_steps": [
+            "Explain why VAT matters",
+            "Explain how it streamlined collection",
+            "Connect VAT to modern state revenue needs"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "5.4",
+          "title": "American Revolution Link",
+          "type": "scenario",
+          "goal": "Understand why tax disputes can affect political legitimacy.",
+          "skills": [
+            "tax protest",
+            "political legitimacy",
+            "historical causation"
+          ],
+          "micro_steps": [
+            "Explain the tax link to the American Revolution",
+            "Recall the Boston Tea Party example",
+            "Connect tax disputes to political legitimacy"
+          ],
+          "xp": 20
+        },
+        {
+          "lesson_id": "5.5",
+          "title": "Unit 5 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show you understand the major shifts of the Early Modern Era.",
+          "skills": [
+            "era mastery"
+          ],
+          "micro_steps": [
+            "Explain the rise of income tax",
+            "Explain the rise of tariffs",
+            "Explain why VAT mattered in modern tax systems"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 6,
+      "title": "Industrial Revolution and Industrial Age",
+      "theme": "Organized Tax Systems",
+      "unlock_rule": "complete_unit_5_checkpoint",
+      "unit_goal": "Understand how industrialization transformed taxation.",
+      "recommended_days": 3,
+      "lessons": [
+        {
+          "lesson_id": "6.1",
+          "title": "Why Industry Changed Taxation",
+          "type": "learn",
+          "goal": "Understand why industrialization reshaped tax systems.",
+          "skills": [
+            "urbanization",
+            "public services",
+            "factories",
+            "trade expansion"
+          ],
+          "micro_steps": [
+            "Explain the impact of urban growth",
+            "Explain why public services needed funding",
+            "Connect factory growth and trade expansion to taxation"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "6.2",
+          "title": "Taxes of the Industrial Age",
+          "type": "learn",
+          "goal": "Identify tax forms associated with industrialization.",
+          "skills": [
+            "income tax",
+            "property tax",
+            "tariffs",
+            "corporate tax",
+            "excise tax"
+          ],
+          "micro_steps": [
+            "Identify industrial-age tax forms",
+            "Recall Britain's 1799 income tax example",
+            "Explain emergence of corporate and excise taxes"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "6.3",
+          "title": "Industrial Match",
+          "type": "match",
+          "goal": "Match industrial changes to tax developments.",
+          "skills": [
+            "cause and effect",
+            "economic change"
+          ],
+          "micro_steps": [
+            "Match factories to organized taxation",
+            "Match urban populations to public spending needs",
+            "Match trade expansion to tariffs"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "6.4",
+          "title": "Unit 6 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Demonstrate understanding of industrial-era tax changes.",
+          "skills": [
+            "industrial-era mastery"
+          ],
+          "micro_steps": [
+            "Explain why industrialization changed taxation",
+            "List taxes influenced by the Industrial Revolution",
+            "Explain the role of Britain's 1799 income tax"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 7,
+      "title": "The Contemporary Era",
+      "theme": "Modern Tax Systems",
+      "unlock_rule": "complete_unit_6_checkpoint",
+      "unit_goal": "Understand the main tax features of the contemporary era.",
+      "recommended_days": 3,
+      "lessons": [
+        {
+          "lesson_id": "7.1",
+          "title": "VAT Around the World",
+          "type": "learn",
+          "goal": "Understand the spread of VAT in the modern world.",
+          "skills": [
+            "VAT",
+            "France in the 1950s",
+            "global adoption"
+          ],
+          "micro_steps": [
+            "Recall where VAT was introduced",
+            "Recall the period of introduction",
+            "Recognize how widely VAT is used today"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "7.2",
+          "title": "Digital and Environmental Taxes",
+          "type": "learn",
+          "goal": "Understand new tax forms in the contemporary era.",
+          "skills": [
+            "digital taxes",
+            "environmental taxes",
+            "sustainability",
+            "online commerce"
+          ],
+          "micro_steps": [
+            "Explain what digital taxes target",
+            "Explain what environmental taxes aim to do",
+            "Connect these taxes to modern economic realities"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "7.3",
+          "title": "Global Coordination",
+          "type": "learn",
+          "goal": "Understand the role of global cooperation in tax policy.",
+          "skills": [
+            "OECD",
+            "G20",
+            "multinational taxation",
+            "tax evasion prevention"
+          ],
+          "micro_steps": [
+            "Identify OECD and G20",
+            "Explain global tax coordination",
+            "Explain the goal of fair taxation of multinational corporations"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "7.4",
+          "title": "Modern Era Quiz",
+          "type": "quiz",
+          "goal": "Test understanding of contemporary taxation themes.",
+          "skills": [
+            "modern tax knowledge",
+            "policy recall"
+          ],
+          "micro_steps": [
+            "Identify modern tax types",
+            "Distinguish digital from environmental taxes",
+            "Recognize why global coordination matters"
+          ],
+          "xp": 15
+        },
+        {
+          "lesson_id": "7.5",
+          "title": "Unit 7 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show you understand the contemporary era of taxation.",
+          "skills": [
+            "modern-era mastery"
+          ],
+          "micro_steps": [
+            "Explain VAT's global role",
+            "Explain digital and environmental taxes",
+            "Explain global tax coordination"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 8,
+      "title": "Big Themes in Tax Evolution",
+      "theme": "Pattern Recognition",
+      "unlock_rule": "complete_unit_7_checkpoint",
+      "unit_goal": "Understand the major themes that run across the whole history of taxation.",
+      "recommended_days": 3,
+      "lessons": [
+        {
+          "lesson_id": "8.1",
+          "title": "Administrative Ease",
+          "type": "learn",
+          "goal": "Understand why early taxes focused on visible, measurable things.",
+          "skills": [
+            "land",
+            "imports",
+            "headcount",
+            "easy administration"
+          ],
+          "micro_steps": [
+            "Explain administrative ease",
+            "Identify examples like land and imports",
+            "Explain why easy-to-identify assets were taxed first"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "8.2",
+          "title": "Equity and Justice",
+          "type": "learn",
+          "goal": "Understand the fairness theme in tax evolution.",
+          "skills": [
+            "equity",
+            "justice",
+            "progressive taxation"
+          ],
+          "micro_steps": [
+            "Explain the meaning of equity and justice",
+            "Connect fairness to modern tax systems",
+            "Recognize the role of progressive taxation"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "8.3",
+          "title": "Political Power and Revolt",
+          "type": "learn",
+          "goal": "Understand how taxation shaped political power.",
+          "skills": [
+            "revolts",
+            "legitimacy",
+            "governance"
+          ],
+          "micro_steps": [
+            "Explain why taxation can trigger revolt",
+            "Explain how it shapes governance",
+            "Use the American Revolution example"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "8.4",
+          "title": "Economic Strategy",
+          "type": "learn",
+          "goal": "Understand taxation as an economic policy tool.",
+          "skills": [
+            "trade",
+            "investment",
+            "development priorities"
+          ],
+          "micro_steps": [
+            "Explain how taxes influence trade",
+            "Explain how taxes influence investment",
+            "Explain how taxes reflect development priorities"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "8.5",
+          "title": "Theme Sorter",
+          "type": "match",
+          "goal": "Match examples to the correct historical theme.",
+          "skills": [
+            "theme recognition",
+            "application"
+          ],
+          "micro_steps": [
+            "Match land taxes to administrative ease",
+            "Match progressive taxation to equity and justice",
+            "Match revolts to political power",
+            "Match tariffs to economic strategy"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "8.6",
+          "title": "Unit 8 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show you can identify the major themes in tax history.",
+          "skills": [
+            "theme mastery"
+          ],
+          "micro_steps": [
+            "List the major themes",
+            "Explain each theme",
+            "Give one example of each from tax history"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 9,
+      "title": "Compare the Eras",
+      "theme": "Synthesis",
+      "unlock_rule": "complete_unit_8_checkpoint",
+      "unit_goal": "Compare tax systems across historical periods and understand change over time.",
+      "recommended_days": 3,
+      "lessons": [
+        {
+          "lesson_id": "9.1",
+          "title": "Ancient vs Medieval",
+          "type": "learn",
+          "goal": "Compare early imperial systems with feudal and church taxation.",
+          "skills": [
+            "comparison",
+            "continuity",
+            "change"
+          ],
+          "micro_steps": [
+            "Compare Rome with feudal Europe",
+            "Compare state systems with church influence",
+            "Identify one continuity and one difference"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "9.2",
+          "title": "Medieval vs Enlightenment",
+          "type": "learn",
+          "goal": "Compare authority-based taxes with fairness-based reform ideas.",
+          "skills": [
+            "obligation",
+            "fairness",
+            "reform thought"
+          ],
+          "micro_steps": [
+            "Compare medieval obligations with Enlightenment equity",
+            "Explain the role of transparency",
+            "Identify what changed in tax philosophy"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "9.3",
+          "title": "Early Modern vs Contemporary",
+          "type": "learn",
+          "goal": "Compare classic modern taxes with today's global and digital tax environment.",
+          "skills": [
+            "income tax",
+            "tariffs",
+            "VAT",
+            "digital taxes",
+            "global coordination"
+          ],
+          "micro_steps": [
+            "Compare early modern income tax with modern digital taxes",
+            "Compare tariffs with global coordination",
+            "Explain what makes the contemporary era distinct"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "9.4",
+          "title": "Era Comparison Challenge",
+          "type": "scenario",
+          "goal": "Use examples to decide which era they belong to.",
+          "skills": [
+            "historical classification",
+            "analytical thinking"
+          ],
+          "micro_steps": [
+            "Place tax examples into the correct era",
+            "Explain why they fit that era",
+            "Identify shifts in administrative style and purpose"
+          ],
+          "xp": 20
+        },
+        {
+          "lesson_id": "9.5",
+          "title": "Unit 9 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Demonstrate that you can compare tax systems across eras.",
+          "skills": [
+            "comparative mastery"
+          ],
+          "micro_steps": [
+            "Compare at least three eras",
+            "Explain what changed across time",
+            "Explain what remained continuous"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 10,
+      "title": "Tax, Society, and Power",
+      "theme": "Interpretation",
+      "unlock_rule": "complete_unit_9_checkpoint",
+      "unit_goal": "Understand how taxation interacts with power, legitimacy, religion, war, trade, and state-building.",
+      "recommended_days": 3,
+      "lessons": [
+        {
+          "lesson_id": "10.1",
+          "title": "Tax and War",
+          "type": "learn",
+          "goal": "Understand how war repeatedly influenced taxation.",
+          "skills": [
+            "wartime taxes",
+            "eisphora",
+            "1799 income tax"
+          ],
+          "micro_steps": [
+            "Explain wartime taxation in Greece",
+            "Explain wartime taxation in Britain",
+            "Recognize war as a driver of tax innovation"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "10.2",
+          "title": "Tax and Religion",
+          "type": "learn",
+          "goal": "Understand religious taxation in history.",
+          "skills": [
+            "church tithe",
+            "religious institutions",
+            "ecclesiastical power"
+          ],
+          "micro_steps": [
+            "Explain the tithe",
+            "Explain how religious taxation supported institutions",
+            "Recognize religion as a tax authority in history"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "10.3",
+          "title": "Tax and Political Legitimacy",
+          "type": "learn",
+          "goal": "Understand taxation as a source of political tension and legitimacy.",
+          "skills": [
+            "revolt",
+            "legitimacy",
+            "authority"
+          ],
+          "micro_steps": [
+            "Explain the link between tax and legitimacy",
+            "Use the American Revolution example",
+            "Connect taxation to governance and revolt"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "10.4",
+          "title": "Tax and Trade",
+          "type": "match",
+          "goal": "Understand the long relationship between trade and taxation.",
+          "skills": [
+            "trade taxes",
+            "customs duties",
+            "tariffs",
+            "commerce"
+          ],
+          "micro_steps": [
+            "Match Rome to duties on imports and exports",
+            "Match early modern states to tariffs",
+            "Match modern systems to global tax coordination"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "10.5",
+          "title": "Unit 10 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show you understand taxation as a force in broader society and politics.",
+          "skills": [
+            "interpretive mastery"
+          ],
+          "micro_steps": [
+            "Explain how tax relates to war",
+            "Explain how tax relates to religion",
+            "Explain how tax relates to trade and political legitimacy"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 11,
+      "title": "Revision Power Pack",
+      "theme": "Consolidation",
+      "unlock_rule": "complete_unit_10_checkpoint",
+      "unit_goal": "Strengthen weak areas and improve long-term retention.",
+      "recommended_days": 2,
+      "lessons": [
+        {
+          "lesson_id": "11.1",
+          "title": "Timeline Drill",
+          "type": "quiz",
+          "goal": "Reinforce era order and major developments.",
+          "skills": [
+            "timeline recall",
+            "period order"
+          ],
+          "micro_steps": [
+            "Put eras in order",
+            "Match developments to eras",
+            "Distinguish ancient, medieval, modern, and contemporary tax features"
+          ],
+          "xp": 15
+        },
+        {
+          "lesson_id": "11.2",
+          "title": "Theme Drill",
+          "type": "quiz",
+          "goal": "Reinforce the major themes in tax evolution.",
+          "skills": [
+            "theme recall",
+            "example identification"
+          ],
+          "micro_steps": [
+            "Identify which theme fits an example",
+            "Distinguish equity from administrative ease",
+            "Distinguish political power from economic strategy"
+          ],
+          "xp": 15
+        },
+        {
+          "lesson_id": "11.3",
+          "title": "Mixed Recall Review",
+          "type": "match",
+          "goal": "Mix civilizations, eras, and themes together.",
+          "skills": [
+            "mixed retention"
+          ],
+          "micro_steps": [
+            "Match tax forms to civilizations",
+            "Match periods to innovations",
+            "Match historical events to tax consequences"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "11.4",
+          "title": "Unit 11 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Confirm you are ready for final mastery.",
+          "skills": [
+            "retention mastery"
+          ],
+          "micro_steps": [
+            "Recall the full tax timeline",
+            "Recall the main tax innovations",
+            "Recall the key themes in evolution"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 12,
+      "title": "Grand Mastery Path",
+      "theme": "Full Synthesis",
+      "unlock_rule": "complete_unit_11_checkpoint",
+      "unit_goal": "Consolidate the entire topic from origins to the modern era.",
+      "recommended_days": 3,
+      "lessons": [
+        {
+          "lesson_id": "12.1",
+          "title": "Era Mastery",
+          "type": "quiz",
+          "goal": "Test full understanding of all historical periods.",
+          "skills": [
+            "era synthesis",
+            "high-level recall"
+          ],
+          "micro_steps": [
+            "Answer mixed questions from all eras",
+            "Identify the right period for a tax development",
+            "Explain changes across time"
+          ],
+          "xp": 15
+        },
+        {
+          "lesson_id": "12.2",
+          "title": "Theme Mastery",
+          "type": "quiz",
+          "goal": "Test understanding of major themes in tax evolution.",
+          "skills": [
+            "theme synthesis",
+            "applied interpretation"
+          ],
+          "micro_steps": [
+            "Link historical examples to themes",
+            "Explain why tax systems evolved",
+            "Connect tax systems to governance and economic change"
+          ],
+          "xp": 15
+        },
+        {
+          "lesson_id": "12.3",
+          "title": "Historical Scenario Lab",
+          "type": "scenario",
+          "goal": "Use historical reasoning to interpret taxation problems.",
+          "skills": [
+            "applied historical reasoning",
+            "synthesis"
+          ],
+          "micro_steps": [
+            "Interpret a historical taxation scenario",
+            "Identify its era and purpose",
+            "Explain what it reveals about society and power"
+          ],
+          "xp": 20
+        },
+        {
+          "lesson_id": "12.4",
+          "title": "Grand Checkpoint",
+          "type": "checkpoint",
+          "goal": "Demonstrate full-course mastery of the history of taxation topic.",
+          "skills": [
+            "full-topic synthesis"
+          ],
+          "micro_steps": [
+            "Explain the origins of taxation",
+            "Compare the major eras of taxation",
+            "Explain the main themes in tax evolution",
+            "Explain why modern tax systems became complex"
+          ],
+          "xp": 30
+        },
+        {
+          "lesson_id": "12.5",
+          "title": "Legendary Review Path",
+          "type": "quiz",
+          "goal": "Complete a final mixed review of all concepts.",
+          "skills": [
+            "long-term retention",
+            "mixed recall",
+            "interpretive understanding"
+          ],
+          "micro_steps": [
+            "Mixed civilization questions",
+            "Mixed period questions",
+            "Mixed theme questions",
+            "Mixed comparison questions"
+          ],
+          "xp": 15
+        }
+      ]
+    }
+  ],
+  "review_system": {
+    "daily_practice": {
+      "description": "Recycles weak lessons, commonly confused eras, and major historical comparisons.",
+      "daily_target_xp": 30
+    },
+    "spaced_repetition_buckets": [
+      {
+        "bucket": "same_day",
+        "trigger": "after first lesson completion"
+      },
+      {
+        "bucket": "next_day",
+        "trigger": "if learner scores below 80 percent"
+      },
+      {
+        "bucket": "three_day_review",
+        "trigger": "for all new concepts"
+      },
+      {
+        "bucket": "seven_day_review",
+        "trigger": "for all checkpoint skills"
+      },
+      {
+        "bucket": "mastery_refresh",
+        "trigger": "every 14 days for mastered units"
+      }
+    ]
+  },
+  "gamification": {
+    "badges": [
+      {
+        "name": "Tax Origins Explorer",
+        "unlock": "complete Units 1 and 2"
+      },
+      {
+        "name": "Feudal and Empire Tracker",
+        "unlock": "complete Units 3 and 4"
+      },
+      {
+        "name": "Modern Tax Builder",
+        "unlock": "complete Units 5 to 7"
+      },
+      {
+        "name": "Theme Detective",
+        "unlock": "complete Units 8 and 9"
+      },
+      {
+        "name": "Tax History Interpreter",
+        "unlock": "complete Units 10 and 11"
+      },
+      {
+        "name": "History of Taxation Master",
+        "unlock": "complete Unit 12"
+      }
+    ],
+    "streak_rewards": [
+      {
+        "days": 3,
+        "reward": "bonus review chest"
+      },
+      {
+        "days": 7,
+        "reward": "checkpoint retry without heart loss"
+      },
+      {
+        "days": 14,
+        "reward": "legendary review unlock"
+      },
+      {
+        "days": 30,
+        "reward": "course mastery badge"
+      }
+    ]
+  },
+  "estimated_course_totals": {
+    "total_units": 12,
+    "total_lessons": 61,
+    "estimated_base_xp": 880,
+    "estimated_completion_days": 32
+  }
+}

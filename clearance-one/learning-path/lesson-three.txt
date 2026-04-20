@@ -1,0 +1,258 @@
+Topic 2: Import Procedures and Customs Terms
+
+Topic goal: By the end of this topic, the learner should be able to:
+- explain the main import categories,
+- define core Customs terms,
+- distinguish similar terms correctly,
+- identify where each term applies in practice,
+- use the terms confidently in questions and scenarios.
+
+Topic total XP: 600 base XP 
+Mastery bonus: +50 XP 
+Perfect boss bonus: +100 XP
+
+Step 1: Learn
+Purpose: introduce the topic vocabulary in simple form.
+Lesson format: 6 short concept cards + 4 micro-checks
+Estimated time: 4–6 minutes 
+Pass type: completion-based 
+XP: up to 100
+
+Learning cards
+Card 1: Import categories
+- direct imports
+- temporary imports
+- re-imports
+- warehoused goods
+
+Card 2: Approved place of loading/unloading
+
+Card 3: Boarding station
+
+Card 4: Cargo and what is excluded from cargo
+
+Card 5: Customs area, Customs warehouse, transit shed
+
+Card 6: Port, proper officer, master, sufferance wharf, uncustomed goods
+
+Micro-check examples
+- Which one is an import category?
+- Which term refers to a place appointed for Customs operations?
+- What is excluded from cargo?
+- Who is a proper officer?
+
+Pass rule
+Complete all cards and answer at least 3 out of 4 correctly.
+
+Reward
+70 XP for completion
++30 XP for getting all micro-checks correct
+
+Step 2: Recall
+Purpose: build immediate memory of the terms.
+Lesson format: 10 short recall questions
+Estimated time: 4–6 minutes 
+Pass threshold: 60% 
+XP: up to 100
+
+Challenge types
+- multiple choice
+- true/false
+- "choose the correct definition"
+- "which term matches this meaning?"
+
+Example questions
+- A Customs area is: A. a railway wagon B. a place appointed for Customs operations C. a passenger queue D. a private yard
+- A transit shed is: A. a place for depositing goods under Customs control B. a place for officers to sleep C. an export-only zone D. a passenger terminal
+- Uncustomed goods include: A. only prohibited goods B. goods whose full duties have not been paid or goods dealt with contrary to Customs law C. only passenger baggage D. only warehoused exports
+- A port for aircraft means: A. a boarding station B. a Customs airport C. a warehouse D. a transit shed
+
+Reward
+60 XP for pass
++20 XP for 80%+
++20 XP for first-try pass
+
+Step 3: Match and Distinguish
+Purpose: train the learner to tell similar terms apart.
+Lesson format: 8 matching tasks + 4 distinction tasks
+Estimated time: 5–7 minutes 
+Pass threshold: 70% 
+XP: up to 100
+
+Matching exercises
+Match the term to the meaning:
+- approved place of unloading → place appointed by Commissioner for loading/unloading
+- boarding station → place for boarding/disembarkation of officers
+- Customs warehouse → deposit of unentered, detained, seized, abandoned goods
+- transit shed → premises appointed for goods under Customs control
+- master → person in charge of aircraft or vessel
+- proper officer → officer authorized to require/perform acts under the Act
+
+Distinction tasks
+Ask the learner to separate:
+- Customs area vs Customs warehouse
+- approved place vs sufferance wharf
+- cargo vs bona fide personal baggage
+- transit shed vs Customs warehouse
+
+Example distinction question
+Which statement is correct? 
+A. A Customs warehouse and Customs area are the same 
+B. A Customs area is for Customs operations generally, while a Customs warehouse is for deposit of certain goods 
+C. A transit shed is only for passengers 
+D. A sufferance wharf is always a port
+
+Reward
+70 XP for pass
++10 XP for first-half perfect
++20 XP for full accuracy
+
+Step 4: Scenario Challenge
+Purpose: move from definitions to use in practice.
+Lesson format: 6 short scenarios
+Estimated time: 6–8 minutes 
+Pass threshold: 70% 
+XP: up to 100
+
+Example scenarios
+Scenario 1: A shipment is being held because the goods are unentered and duties are not settled. Which place is most suitable under the notes? A. Boarding station B. Customs warehouse C. Passenger hall D. Port health office
+
+Scenario 2: A place has been formally appointed for loading and unloading by the Commissioner. What is it called? A. Transit shed B. Approved place of loading/unloading C. Sufferance wharf only D. Customs area only
+
+Scenario 3: An importer says the crew's suitcases are cargo. What is the best answer? A. Always true B. Bona fide personal baggage is excluded from cargo C. Cargo means baggage only D. Cargo means only sea freight
+
+Scenario 4: Goods are loaded at a place that is not an approved place of loading, but the Commissioner specially allows it. What is that place called? A. Boarding station B. Sufferance wharf C. Customs airport D. Coasting port
+
+Scenario 5: An officer lawfully requires performance of an act under the Act. Which term best describes that officer? A. Station master B. Master C. Proper officer D. Declarant
+
+Scenario 6: A plane arrives carrying imported goods. For Customs law purposes, the "port" in relation to the aircraft is: A. any runway B. Customs airport C. transit shed D. bonded warehouse
+
+Reward
+70 XP for pass
++15 XP first try
++15 XP for all correct
+
+Step 5: Timed Sprint
+Purpose: improve recognition speed.
+Lesson format: 15 rapid prompts
+Estimated time: 2–3 minutes 
+Timer: 90–120 seconds 
+Pass threshold: 10/15 
+XP: up to 100
+
+Prompt style
+Very short, fast-response items:
+- Goods under Customs control in a building = ?
+- Person in command of vessel = ?
+- Goods with unpaid full duty = ?
+- Place appointed for loading/unloading = ?
+- Officer authorized by law = ?
+- Goods excluding bona fide baggage = ?
+- Aircraft port = ?
+
+UX feel
+- large buttons
+- combo multiplier
+- fast success sounds
+- visible countdown bar
+
+Reward
+50 XP for pass
++20 XP speed bonus
++20 XP combo streak
++10 XP perfect run
+
+Step 6: Boss Challenge
+Purpose: prove mastery and unlock Topic 3.
+Lesson format: 12 mixed questions
+Estimated time: 7–10 minutes 
+Pass threshold: 75% 
+XP: up to 100
+
+Question mix
+- 4 direct definition questions
+- 3 distinction questions
+- 3 practical scenarios
+- 2 trap questions
+
+Example boss questions
+- Which term refers to goods whose full duties due have not been paid?
+- Which one is excluded from cargo?
+- Which term refers to a place appointed for deposit of unentered or seized goods?
+- What is the difference between a Customs area and a Customs warehouse?
+- What is a sufferance wharf?
+- In relation to aircraft, what does "port" mean?
+- A place appointed in writing for goods under Customs control is called what?
+- Who is a master?
+- Which statement best describes a proper officer?
+- A place is not an approved place of unloading, but the Commissioner allows unloading there. What is it?
+- Trap: "All goods carried by a vessel are cargo."
+- Trap: "A transit shed and a Customs warehouse always mean exactly the same thing."
+
+Unlock rule
+75%+ = Topic 3 unlocked
+85%+ = Topic 2 marked mastered
+100% = perfect badge
+
+Reward
+70 XP for pass
++30 XP for 90%+
++50 topic completion bonus
++100 perfect boss bonus if full marks
+
+Topic 2 progress math
+Since Topic 2 also has 6 steps:
+- 1 step completed = 16.7% of Topic 2
+- all 6 steps = 100% of Topic 2
+
+For the full chapter with 72 steps:
+- 1 completed step = 1.39% of whole chapter
+- full Topic 2 = 8.33% of whole chapter
+
+If the learner already finished Topic 1 and then completes Topic 2 fully:
+- 2 topics done = 16.67% of the whole chapter
+
+Best UI behavior for Topic 2
+On the path map
+Topic 2 should unlock only after Topic 1 boss completion.
+It should appear as a new cluster of 6 nodes:
+- Learn
+- Recall
+- Match
+- Scenario
+- Timed Sprint
+- Boss
+
+Visual identity
+Use an icon such as:
+- shipping box
+- document stamp
+- port gate
+- or customs building
+
+This helps the learner associate Topic 2 with foundational Customs vocabulary and infrastructure.
+
+Feedback moments
+- Step clear = small XP burst
+- Topic clear = badge with "Terms Master"
+- Perfect boss = gold document/shield icon
+
+Suggested content density for Topic 2
+A strong first version:
+- Step 1: 10 interactions
+- Step 2: 10 questions
+- Step 3: 12 interactions
+- Step 4: 6 scenarios
+- Step 5: 15 rapid prompts
+- Step 6: 12 boss questions
+
+That gives about 65 total interactions, which is very solid for vocabulary mastery.
+
+What Topic 2 teaches at a deeper level
+This topic is important because it builds the language needed for the rest of the chapter. If the learner does not master these terms, later topics like:
+- arrival and reporting,
+- entry of goods,
+- transit sheds,
+- warehousing,
+- and vessel clearance
+will feel harder than they should.

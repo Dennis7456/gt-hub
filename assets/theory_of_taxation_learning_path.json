@@ -1,0 +1,1334 @@
+{
+  "topic": "Theory of Taxation - Tax and Customs Theory",
+  "format": "duolingo_style_learning_path",
+  "source": "Theory of Taxation(1).pptx",
+  "design_principles": {
+    "structure": "map_based_progression",
+    "progression_style": "concepts_to_functions_to_policy_to_application",
+    "lesson_pattern": [
+      "learn",
+      "match",
+      "quiz",
+      "scenario",
+      "checkpoint"
+    ],
+    "scoring": {
+      "xp_per_micro_lesson": 10,
+      "xp_per_quiz": 15,
+      "xp_per_scenario": 20,
+      "xp_per_checkpoint": 30,
+      "perfect_lesson_bonus": 5,
+      "streak_bonus_every_5_days": 20
+    },
+    "hearts_system": {
+      "starting_hearts": 5,
+      "heart_loss_per_wrong_answer": 1,
+      "heart_recovery": [
+        "practice_old_lesson",
+        "daily_review",
+        "wait_timer"
+      ]
+    },
+    "mastery_levels": [
+      "introduced",
+      "practicing",
+      "strong",
+      "mastered"
+    ]
+  },
+  "course_outcomes": [
+    "Understand what taxes are",
+    "Explain the functions of taxes",
+    "Explain the principles of taxation",
+    "Describe features of a good tax system"
+  ],
+  "units": [
+    {
+      "unit_id": 1,
+      "title": "What Taxes Are",
+      "theme": "Foundations",
+      "unlock_rule": "available_from_start",
+      "unit_goal": "Understand the meaning of taxes, why they matter, and how they differ from other revenue sources.",
+      "recommended_days": 2,
+      "lessons": [
+        {
+          "lesson_id": "1.1",
+          "title": "Tax Basics",
+          "type": "learn",
+          "goal": "Understand the definition of taxes.",
+          "skills": [
+            "meaning of taxes",
+            "compulsory nature",
+            "government enforcement"
+          ],
+          "micro_steps": [
+            "Read the formal definition of taxes",
+            "Identify why taxes are involuntary",
+            "Explain who imposes taxes"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "1.2",
+          "title": "Compulsory but Unrequited",
+          "type": "learn",
+          "goal": "Understand why taxes are compulsory and unrequited.",
+          "skills": [
+            "compulsory levies",
+            "unrequited nature",
+            "public welfare"
+          ],
+          "micro_steps": [
+            "Explain what compulsory means",
+            "Explain what unrequited means",
+            "Distinguish taxes from direct personal payment for services"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "1.3",
+          "title": "Other Revenue Sources",
+          "type": "match",
+          "goal": "Differentiate taxes from fees, fines, and investment income.",
+          "skills": [
+            "fees",
+            "fines",
+            "returns from assets",
+            "taxes"
+          ],
+          "micro_steps": [
+            "Match examples to the correct revenue source",
+            "Distinguish taxes from licence fees",
+            "Identify non-tax revenue streams"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "1.4",
+          "title": "Why Government Needs Taxes",
+          "type": "quiz",
+          "goal": "Test understanding of why taxation is central to government financing.",
+          "skills": [
+            "public finance",
+            "revenue importance"
+          ],
+          "micro_steps": [
+            "Answer quick multiple-choice questions",
+            "Identify why taxes matter more than optional charges",
+            "Explain why governments rely on taxation"
+          ],
+          "xp": 15
+        },
+        {
+          "lesson_id": "1.5",
+          "title": "Unit 1 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Prove you can define taxes and distinguish them from other funding sources.",
+          "skills": [
+            "definition mastery",
+            "source comparison"
+          ],
+          "micro_steps": [
+            "Define taxes clearly",
+            "State why taxes are compulsory",
+            "Compare taxes with fees, fines, and dividends"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 2,
+      "title": "Taxation Law",
+      "theme": "Legal Foundations",
+      "unlock_rule": "complete_unit_1_checkpoint",
+      "unit_goal": "Understand taxation law and the main Kenyan tax laws listed in the presentation.",
+      "recommended_days": 2,
+      "lessons": [
+        {
+          "lesson_id": "2.1",
+          "title": "What Taxation Law Covers",
+          "type": "learn",
+          "goal": "Understand the scope of taxation law.",
+          "skills": [
+            "liability to tax",
+            "incidence of tax",
+            "tax base",
+            "enforcement"
+          ],
+          "micro_steps": [
+            "Explain what taxation law is",
+            "Identify what it says about liability",
+            "Connect it to collection and recovery"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "2.2",
+          "title": "Kenya's Main Tax Laws",
+          "type": "learn",
+          "goal": "Memorize the primary tax laws listed in the presentation.",
+          "skills": [
+            "Income Tax Act",
+            "VAT Act",
+            "Excise Duty Act",
+            "Tax Procedures Act",
+            "EACCMA",
+            "Miscellaneous Fees and Levies Act"
+          ],
+          "micro_steps": [
+            "Read the list of laws",
+            "Match each law to its main area",
+            "Differentiate substantive tax laws from procedural law"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "2.3",
+          "title": "Law Match",
+          "type": "match",
+          "goal": "Match each tax law to the tax area it governs.",
+          "skills": [
+            "legal mapping"
+          ],
+          "micro_steps": [
+            "Match VAT Act to VAT",
+            "Match Excise Duty Act to excise",
+            "Match Tax Procedures Act to administration and enforcement"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "2.4",
+          "title": "Law Checkpoint Quiz",
+          "type": "quiz",
+          "goal": "Test understanding of tax law foundations.",
+          "skills": [
+            "legal recall",
+            "application of law names"
+          ],
+          "micro_steps": [
+            "Choose the correct law for a tax issue",
+            "Differentiate tax base from tax administration",
+            "Identify where recovery rules fit"
+          ],
+          "xp": 15
+        },
+        {
+          "lesson_id": "2.5",
+          "title": "Unit 2 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show you understand taxation law and the main laws in Kenya.",
+          "skills": [
+            "law mastery"
+          ],
+          "micro_steps": [
+            "Define taxation law",
+            "List the main tax laws",
+            "Explain what taxation law covers beyond the tax charge itself"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 3,
+      "title": "Types and Classification of Taxes",
+      "theme": "Tax Structure",
+      "unlock_rule": "complete_unit_2_checkpoint",
+      "unit_goal": "Master types of taxes and the difference between direct and indirect taxation.",
+      "recommended_days": 4,
+      "lessons": [
+        {
+          "lesson_id": "3.1",
+          "title": "Income Tax",
+          "type": "learn",
+          "goal": "Understand what income tax is and why it is important.",
+          "skills": [
+            "income tax definition",
+            "earnings",
+            "importance in modern systems"
+          ],
+          "micro_steps": [
+            "Define income tax",
+            "Explain why it is widely imposed",
+            "Distinguish income from consumption"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "3.2",
+          "title": "Consumption Taxes",
+          "type": "learn",
+          "goal": "Understand VAT, GST, and sales tax as consumption taxes.",
+          "skills": [
+            "consumption tax",
+            "VAT",
+            "GST",
+            "sales tax"
+          ],
+          "micro_steps": [
+            "Define consumption tax",
+            "Explain why VAT is a consumption tax",
+            "Explain value added in a supply chain"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "3.3",
+          "title": "Other Taxes",
+          "type": "learn",
+          "goal": "Understand excise duties, customs duties, and stamp duties.",
+          "skills": [
+            "excise",
+            "customs duty",
+            "stamp duty"
+          ],
+          "micro_steps": [
+            "Define excise duty",
+            "Define customs duty",
+            "Define stamp duty"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "3.4",
+          "title": "Direct vs Indirect Tax",
+          "type": "match",
+          "goal": "Differentiate direct and indirect taxes clearly.",
+          "skills": [
+            "incidence",
+            "impact",
+            "shifting of burden"
+          ],
+          "micro_steps": [
+            "Match examples to direct or indirect",
+            "Explain burden shifting",
+            "Explain why indirect taxes raise prices"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "3.5",
+          "title": "Tax Classification Quiz",
+          "type": "quiz",
+          "goal": "Test understanding of tax types and classification.",
+          "skills": [
+            "classification accuracy"
+          ],
+          "micro_steps": [
+            "Identify whether a tax is direct or indirect",
+            "Choose the best tax type for an example",
+            "Distinguish income from consumption taxes"
+          ],
+          "xp": 15
+        },
+        {
+          "lesson_id": "3.6",
+          "title": "Unit 3 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Demonstrate mastery of tax types and classification.",
+          "skills": [
+            "classification mastery"
+          ],
+          "micro_steps": [
+            "Define major tax types",
+            "Explain direct vs indirect tax",
+            "Give examples of each from Kenya"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 4,
+      "title": "Functions of Taxation",
+      "theme": "Why Taxes Exist",
+      "unlock_rule": "complete_unit_3_checkpoint",
+      "unit_goal": "Understand the revenue, social, political, economic, and redistribution functions of taxation.",
+      "recommended_days": 4,
+      "lessons": [
+        {
+          "lesson_id": "4.1",
+          "title": "Revenue Function",
+          "type": "learn",
+          "goal": "Understand taxation as the main source of government revenue.",
+          "skills": [
+            "raising revenue",
+            "public spending",
+            "public services"
+          ],
+          "micro_steps": [
+            "Explain why taxation funds government",
+            "List examples of services funded by taxes",
+            "Explain diversion of private wealth to public use"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "4.2",
+          "title": "Social and Political Function",
+          "type": "learn",
+          "goal": "Understand how taxes shape behaviour and policy.",
+          "skills": [
+            "tax concessions",
+            "tax burdens",
+            "social engineering"
+          ],
+          "micro_steps": [
+            "Explain tax as a carrot",
+            "Explain tax as a stick",
+            "Use the retirement benefit and cigarette examples"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "4.3",
+          "title": "Economic Function",
+          "type": "learn",
+          "goal": "Understand the microeconomic and macroeconomic effects of taxation.",
+          "skills": [
+            "microeconomic effects",
+            "domestic industry protection",
+            "deflationary effect",
+            "inflationary effect"
+          ],
+          "micro_steps": [
+            "Explain how taxes change prices",
+            "Explain how taxes protect domestic industries",
+            "Explain higher tax versus lower tax effects on spending"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "4.4",
+          "title": "Redistribution Function",
+          "type": "learn",
+          "goal": "Understand taxation as a tool for economic equality.",
+          "skills": [
+            "redistribution",
+            "egalitarian society",
+            "wealth concentration"
+          ],
+          "micro_steps": [
+            "Explain taxation and redistribution",
+            "Explain the idea of taxing the rich to support the poor",
+            "Explain the social consequences of no taxation"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "4.5",
+          "title": "Function Sorter",
+          "type": "match",
+          "goal": "Match examples to the correct function of taxation.",
+          "skills": [
+            "revenue",
+            "social",
+            "economic",
+            "redistribution"
+          ],
+          "micro_steps": [
+            "Classify examples by function",
+            "Separate revenue from redistribution",
+            "Distinguish economic from social function"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "4.6",
+          "title": "Unit 4 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show you understand the major functions of taxation.",
+          "skills": [
+            "functional mastery"
+          ],
+          "micro_steps": [
+            "List the main functions",
+            "Give one example for each",
+            "Explain why taxation is more than just revenue raising"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 5,
+      "title": "Structural Features of Taxes",
+      "theme": "Core Tax Architecture",
+      "unlock_rule": "complete_unit_4_checkpoint",
+      "unit_goal": "Master taxpayers, tax base, tax periods, and tax rates.",
+      "recommended_days": 3,
+      "lessons": [
+        {
+          "lesson_id": "5.1",
+          "title": "Taxpayers and Tax Base",
+          "type": "learn",
+          "goal": "Understand the first two structural features of taxes.",
+          "skills": [
+            "taxpayer",
+            "tax base"
+          ],
+          "micro_steps": [
+            "Define taxpayer",
+            "Define tax base",
+            "Identify examples from income tax, VAT, and excise"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "5.2",
+          "title": "Tax Periods",
+          "type": "learn",
+          "goal": "Understand how tax periods operate.",
+          "skills": [
+            "tax period",
+            "year of income",
+            "monthly tax periods"
+          ],
+          "micro_steps": [
+            "Define tax period",
+            "Identify the income tax period in Kenya",
+            "Identify the VAT tax period in Kenya"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "5.3",
+          "title": "Tax Rates",
+          "type": "learn",
+          "goal": "Understand flat and varying tax rates.",
+          "skills": [
+            "tax rates",
+            "flat rate",
+            "marginal rates",
+            "VAT rates"
+          ],
+          "micro_steps": [
+            "Define tax rates",
+            "Identify company income tax rate",
+            "Identify individual marginal rates and VAT rates"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "5.4",
+          "title": "Structure Match",
+          "type": "match",
+          "goal": "Connect each structural feature to the correct example.",
+          "skills": [
+            "feature-example mapping"
+          ],
+          "micro_steps": [
+            "Match taxpayer to liable person",
+            "Match tax base to taxable subject",
+            "Match period to timing",
+            "Match rate to percentage applied"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "5.5",
+          "title": "Unit 5 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Prove you understand the four structural features of taxes.",
+          "skills": [
+            "structure mastery"
+          ],
+          "micro_steps": [
+            "List the four features",
+            "Define each one",
+            "Give Kenyan examples"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 6,
+      "title": "Tax Rate Structures",
+      "theme": "How Tax Rates Work",
+      "unlock_rule": "complete_unit_5_checkpoint",
+      "unit_goal": "Understand proportional, progressive, regressive, marginal, average, and effective tax rates.",
+      "recommended_days": 3,
+      "lessons": [
+        {
+          "lesson_id": "6.1",
+          "title": "Proportional, Progressive, Regressive",
+          "type": "learn",
+          "goal": "Differentiate major tax rate structures.",
+          "skills": [
+            "proportional tax",
+            "progressive tax",
+            "regressive tax"
+          ],
+          "micro_steps": [
+            "Define each rate structure",
+            "Use VAT and income tax examples",
+            "Explain how the rate changes with the tax base"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "6.2",
+          "title": "Marginal Rate",
+          "type": "learn",
+          "goal": "Understand marginal tax rate.",
+          "skills": [
+            "incremental taxation",
+            "progressive brackets"
+          ],
+          "micro_steps": [
+            "Define marginal tax rate",
+            "Explain incremental amounts",
+            "Connect it to progressive tax systems"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "6.3",
+          "title": "Average vs Effective Rate",
+          "type": "learn",
+          "goal": "Understand average and effective tax rates.",
+          "skills": [
+            "average tax rate",
+            "effective tax rate",
+            "economic income"
+          ],
+          "micro_steps": [
+            "Define average tax rate",
+            "Define effective tax rate",
+            "Explain why economic income may differ from taxable income"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "6.4",
+          "title": "Rate Logic Match",
+          "type": "match",
+          "goal": "Match tax rate concepts to the correct descriptions.",
+          "skills": [
+            "rate concept accuracy"
+          ],
+          "micro_steps": [
+            "Match proportional to same rate",
+            "Match progressive to rising rates",
+            "Match marginal, average, and effective to their calculations"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "6.5",
+          "title": "Unit 6 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Demonstrate mastery of tax rate structures.",
+          "skills": [
+            "rate mastery"
+          ],
+          "micro_steps": [
+            "Define all major rate concepts",
+            "Give Kenyan examples",
+            "Compare marginal, average, and effective tax rates"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 7,
+      "title": "Tax Expenditures",
+      "theme": "Policy Tools Inside the Tax System",
+      "unlock_rule": "complete_unit_6_checkpoint",
+      "unit_goal": "Understand tax incentives, concessions, advantages, disadvantages, and costs of tax expenditures.",
+      "recommended_days": 3,
+      "lessons": [
+        {
+          "lesson_id": "7.1",
+          "title": "What Tax Expenditures Are",
+          "type": "learn",
+          "goal": "Understand the meaning and categories of tax expenditures.",
+          "skills": [
+            "tax expenditures",
+            "tax incentives",
+            "tax concessions"
+          ],
+          "micro_steps": [
+            "Define tax expenditures",
+            "Differentiate tax incentives and concessions",
+            "Link them to policy goals"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "7.2",
+          "title": "How Tax Expenditures Are Delivered",
+          "type": "learn",
+          "goal": "Understand the forms tax expenditures can take.",
+          "skills": [
+            "exemptions",
+            "deductions",
+            "offsets",
+            "concessional rates"
+          ],
+          "micro_steps": [
+            "List the delivery methods",
+            "Match each to an example",
+            "Explain why each reduces tax burden"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "7.3",
+          "title": "Costs, Advantages, and Disadvantages",
+          "type": "learn",
+          "goal": "Understand the trade-offs of tax expenditure programs.",
+          "skills": [
+            "cost to revenue",
+            "efficiency",
+            "poor targeting",
+            "complexity",
+            "visibility"
+          ],
+          "micro_steps": [
+            "Explain why tax expenditures cost revenue",
+            "Explain the advantage of avoiding double handling",
+            "Explain disadvantages such as complexity and weak monitoring"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "7.4",
+          "title": "Expenditure Sorter",
+          "type": "match",
+          "goal": "Classify different tax expenditure features correctly.",
+          "skills": [
+            "policy sorting"
+          ],
+          "micro_steps": [
+            "Match examples to incentive or concession",
+            "Match features to advantage or disadvantage",
+            "Identify direct versus indirect government spending"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "7.5",
+          "title": "Unit 7 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show you understand tax expenditures deeply.",
+          "skills": [
+            "policy mastery"
+          ],
+          "micro_steps": [
+            "Define tax expenditures",
+            "Differentiate incentives and concessions",
+            "Explain costs and trade-offs"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 8,
+      "title": "Canons of Taxation and Good Tax Policy",
+      "theme": "Principles",
+      "unlock_rule": "complete_unit_7_checkpoint",
+      "unit_goal": "Master classic canons of taxation and modern principles of good tax policy.",
+      "recommended_days": 5,
+      "lessons": [
+        {
+          "lesson_id": "8.1",
+          "title": "Main Canons of Taxation",
+          "type": "learn",
+          "goal": "Memorize and explain equity, certainty, convenience, and economy.",
+          "skills": [
+            "equity",
+            "certainty",
+            "convenience",
+            "economy"
+          ],
+          "micro_steps": [
+            "List the four canons",
+            "Explain each canon in simple terms",
+            "Connect each canon to taxpayer experience"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "8.2",
+          "title": "Equity and Fairness",
+          "type": "learn",
+          "goal": "Understand fairness in tax policy.",
+          "skills": [
+            "equity",
+            "horizontal equity",
+            "vertical equity"
+          ],
+          "micro_steps": [
+            "Define equity and fairness",
+            "Explain horizontal equity",
+            "Explain vertical equity"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "8.3",
+          "title": "System Qualities",
+          "type": "learn",
+          "goal": "Understand certainty, simplicity, accountability, and transparency.",
+          "skills": [
+            "certainty",
+            "simplicity",
+            "accountability",
+            "transparency"
+          ],
+          "micro_steps": [
+            "Define each principle",
+            "Explain why simplicity matters",
+            "Explain parliamentary scrutiny and access to information"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "8.4",
+          "title": "Efficiency, Flexibility, Neutrality",
+          "type": "learn",
+          "goal": "Understand advanced principles of tax policy.",
+          "skills": [
+            "efficiency",
+            "flexibility",
+            "neutrality",
+            "economic growth"
+          ],
+          "micro_steps": [
+            "Explain efficiency in collection",
+            "Explain flexibility in changing economies",
+            "Explain neutrality and why governments sometimes depart from it"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "8.5",
+          "title": "Fiscal and Policy Objectives",
+          "type": "learn",
+          "goal": "Understand why a good tax system must meet revenue and policy goals together.",
+          "skills": [
+            "fiscal objectives",
+            "policy alignment"
+          ],
+          "micro_steps": [
+            "Explain primary revenue objective",
+            "Explain harmony with socio-economic agenda",
+            "Connect policy design to system effectiveness"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "8.6",
+          "title": "Principles Challenge",
+          "type": "quiz",
+          "goal": "Test all major taxation principles together.",
+          "skills": [
+            "principle recognition",
+            "principle comparison"
+          ],
+          "micro_steps": [
+            "Identify which principle matches a scenario",
+            "Differentiate equity from neutrality",
+            "Differentiate certainty from simplicity"
+          ],
+          "xp": 15
+        },
+        {
+          "lesson_id": "8.7",
+          "title": "Unit 8 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Demonstrate mastery of taxation principles and good tax policy.",
+          "skills": [
+            "principles mastery"
+          ],
+          "micro_steps": [
+            "List the canons",
+            "List the good tax policy principles",
+            "Explain how a good tax system should look in practice"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 9,
+      "title": "The Tax Unit",
+      "theme": "Who Is Taxed",
+      "unlock_rule": "complete_unit_8_checkpoint",
+      "unit_goal": "Understand individuals, families, partnerships, trusts, and companies as tax units.",
+      "recommended_days": 3,
+      "lessons": [
+        {
+          "lesson_id": "9.1",
+          "title": "What Is a Tax Unit?",
+          "type": "learn",
+          "goal": "Understand the basic concept of the tax unit.",
+          "skills": [
+            "tax unit",
+            "taxpayer design"
+          ],
+          "micro_steps": [
+            "Define tax unit",
+            "Explain why tax systems must choose a subject of taxation",
+            "Connect tax unit to tax design"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "9.2",
+          "title": "Individuals and Families",
+          "type": "learn",
+          "goal": "Understand how Kenya generally treats individuals and spouses.",
+          "skills": [
+            "individual taxation",
+            "family treatment",
+            "spouse exception"
+          ],
+          "micro_steps": [
+            "Explain separate taxation of individuals",
+            "Explain why spouse income is usually not aggregated",
+            "Explain the employee-spouse exception"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "9.3",
+          "title": "Entities and Their Members",
+          "type": "learn",
+          "goal": "Understand how partnerships, trusts, and companies are treated.",
+          "skills": [
+            "flow-through entities",
+            "opaque entities",
+            "partners",
+            "beneficiaries",
+            "shareholders"
+          ],
+          "micro_steps": [
+            "Explain flow-through treatment for partnerships and trusts",
+            "Explain opaque treatment for companies",
+            "Distinguish entity-level and member-level taxation"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "9.4",
+          "title": "Entity Match",
+          "type": "match",
+          "goal": "Match entities to the correct tax treatment.",
+          "skills": [
+            "entity classification"
+          ],
+          "micro_steps": [
+            "Match partnership to flow-through",
+            "Match trust to flow-through",
+            "Match company to opaque entity"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "9.5",
+          "title": "Unit 9 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show that you understand who may be treated as a tax unit.",
+          "skills": [
+            "tax unit mastery"
+          ],
+          "micro_steps": [
+            "Define tax unit",
+            "Explain individual versus family treatment",
+            "Compare partnerships, trusts, and companies"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 10,
+      "title": "Sovereignty and Jurisdiction to Tax",
+      "theme": "Taxing Power",
+      "unlock_rule": "complete_unit_9_checkpoint",
+      "unit_goal": "Understand sovereign power, source-based jurisdiction, and residence-based jurisdiction.",
+      "recommended_days": 3,
+      "lessons": [
+        {
+          "lesson_id": "10.1",
+          "title": "Sovereign Right to Tax",
+          "type": "learn",
+          "goal": "Understand the sovereign right of states to design tax systems.",
+          "skills": [
+            "sovereign right to tax",
+            "constitutional limits",
+            "law-making and administration"
+          ],
+          "micro_steps": [
+            "Explain sovereign right to tax",
+            "Identify constitutional limits",
+            "Identify Parliament, KRA, and Judiciary roles"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "10.2",
+          "title": "Territorial Jurisdiction",
+          "type": "learn",
+          "goal": "Understand source-based taxation.",
+          "skills": [
+            "territorial approach",
+            "source-based rules"
+          ],
+          "micro_steps": [
+            "Define source-based jurisdiction",
+            "Explain what locally sourced income means",
+            "Explain why it is the narrower approach"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "10.3",
+          "title": "Worldwide Jurisdiction",
+          "type": "learn",
+          "goal": "Understand residence-based taxation.",
+          "skills": [
+            "worldwide approach",
+            "residence-based rules"
+          ],
+          "micro_steps": [
+            "Define residence-based jurisdiction",
+            "Explain treatment of residents and non-residents",
+            "Compare it to source-based taxation"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "10.4",
+          "title": "Jurisdiction Sorter",
+          "type": "match",
+          "goal": "Differentiate source and residence rules accurately.",
+          "skills": [
+            "jurisdiction comparison"
+          ],
+          "micro_steps": [
+            "Match examples to source-based or residence-based approach",
+            "Identify which approach is broader",
+            "Compare local and foreign source income treatment"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "10.5",
+          "title": "Unit 10 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Demonstrate understanding of sovereignty and tax jurisdiction.",
+          "skills": [
+            "jurisdiction mastery"
+          ],
+          "micro_steps": [
+            "Explain sovereign right to tax",
+            "Compare source and residence approaches",
+            "Identify roles of Parliament, KRA, and Judiciary"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 11,
+      "title": "International Taxation and DTAs",
+      "theme": "Cross-Border Taxation",
+      "unlock_rule": "complete_unit_10_checkpoint",
+      "unit_goal": "Understand international tax enforcement problems and the purpose of Double Taxation Agreements.",
+      "recommended_days": 3,
+      "lessons": [
+        {
+          "lesson_id": "11.1",
+          "title": "International Tax Enforcement",
+          "type": "learn",
+          "goal": "Understand why cross-border tax enforcement is difficult.",
+          "skills": [
+            "foreign taxpayers",
+            "enforcement problems",
+            "extraterritorial limits"
+          ],
+          "micro_steps": [
+            "Explain why foreigners can be hard to tax in practice",
+            "Explain the role of offshore assets",
+            "Explain the principle that countries do not usually enforce each other's tax laws"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "11.2",
+          "title": "What DTAs Are",
+          "type": "learn",
+          "goal": "Understand the role and purpose of Double Taxation Agreements.",
+          "skills": [
+            "DTAs",
+            "bilateral agreements",
+            "double taxation"
+          ],
+          "micro_steps": [
+            "Define DTA",
+            "Explain double taxation",
+            "Explain why DTAs are usually bilateral"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "11.3",
+          "title": "How DTAs Work",
+          "type": "learn",
+          "goal": "Understand allocation of taxing rights and foreign tax credits.",
+          "skills": [
+            "allocation of taxing rights",
+            "residence state",
+            "source state",
+            "foreign tax credit",
+            "exchange of information"
+          ],
+          "micro_steps": [
+            "Explain how DTAs allocate taxing rights",
+            "Explain foreign tax credit relief",
+            "Explain exchange of information clauses"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "11.4",
+          "title": "Cross-Border Scenario",
+          "type": "scenario",
+          "goal": "Apply DTA logic to a double taxation example.",
+          "skills": [
+            "cross-border reasoning"
+          ],
+          "micro_steps": [
+            "Identify where double taxation arises",
+            "Decide which country may give relief",
+            "Explain why countries negotiate reciprocal arrangements"
+          ],
+          "xp": 20
+        },
+        {
+          "lesson_id": "11.5",
+          "title": "Unit 11 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show you understand international taxation agreements.",
+          "skills": [
+            "DTA mastery"
+          ],
+          "micro_steps": [
+            "Define DTA",
+            "Explain double taxation",
+            "Explain allocation of taxing rights and exchange of information"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 12,
+      "title": "Tax Evasion, Avoidance, and Planning",
+      "theme": "Compliance and Strategy",
+      "unlock_rule": "complete_unit_11_checkpoint",
+      "unit_goal": "Master the difference between evasion, avoidance, and planning, then consolidate the whole topic.",
+      "recommended_days": 3,
+      "lessons": [
+        {
+          "lesson_id": "12.1",
+          "title": "Tax Evasion",
+          "type": "learn",
+          "goal": "Understand what tax evasion is and why it is serious.",
+          "skills": [
+            "illegal underpayment",
+            "fraudulent concealment",
+            "penalties"
+          ],
+          "micro_steps": [
+            "Define tax evasion",
+            "Identify common methods of evasion",
+            "Explain why it leads to penalties and jail terms"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "12.2",
+          "title": "Tax Avoidance",
+          "type": "learn",
+          "goal": "Understand what tax avoidance is.",
+          "skills": [
+            "lawful reduction of liability",
+            "arranging affairs",
+            "loopholes"
+          ],
+          "micro_steps": [
+            "Define tax avoidance",
+            "Explain lawful arrangement of affairs",
+            "Explain the idea of paying no more tax than legally required"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "12.3",
+          "title": "Tax Planning",
+          "type": "learn",
+          "goal": "Understand tax planning and tax efficiency.",
+          "skills": [
+            "tax planning",
+            "tax efficiency",
+            "financial analysis"
+          ],
+          "micro_steps": [
+            "Define tax planning",
+            "Explain what makes a plan tax-efficient",
+            "Differentiate planning from evasion"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "12.4",
+          "title": "Compliance Sorter",
+          "type": "match",
+          "goal": "Distinguish evasion, avoidance, and planning accurately.",
+          "skills": [
+            "behaviour classification"
+          ],
+          "micro_steps": [
+            "Match conduct to evasion, avoidance, or planning",
+            "Identify illegal versus lawful conduct",
+            "Explain why similar-looking actions can differ legally"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "12.5",
+          "title": "Grand Checkpoint",
+          "type": "checkpoint",
+          "goal": "Demonstrate full mastery of the Theory of Taxation topic.",
+          "skills": [
+            "full-topic synthesis"
+          ],
+          "micro_steps": [
+            "Explain what taxes are",
+            "Explain functions of taxes",
+            "Explain principles of taxation",
+            "Explain features of a good tax system",
+            "Differentiate tax evasion, avoidance, and planning"
+          ],
+          "xp": 30
+        },
+        {
+          "lesson_id": "12.6",
+          "title": "Legendary Review Path",
+          "type": "quiz",
+          "goal": "Mixed final review across the entire module.",
+          "skills": [
+            "long-term retention",
+            "mixed recall",
+            "applied understanding"
+          ],
+          "micro_steps": [
+            "Mixed tax definition questions",
+            "Mixed classification questions",
+            "Mixed principles and tax policy questions",
+            "Mixed jurisdiction and DTA questions",
+            "Mixed compliance questions"
+          ],
+          "xp": 15
+        }
+      ]
+    }
+  ],
+  "review_system": {
+    "daily_practice": {
+      "description": "Recycles weak lessons, recent checkpoints, and commonly confused comparisons like direct vs indirect tax and evasion vs avoidance.",
+      "daily_target_xp": 30
+    },
+    "spaced_repetition_buckets": [
+      {
+        "bucket": "same_day",
+        "trigger": "after first lesson completion"
+      },
+      {
+        "bucket": "next_day",
+        "trigger": "if learner scores below 80 percent"
+      },
+      {
+        "bucket": "three_day_review",
+        "trigger": "for all new concepts"
+      },
+      {
+        "bucket": "seven_day_review",
+        "trigger": "for all checkpoint skills"
+      },
+      {
+        "bucket": "mastery_refresh",
+        "trigger": "every 14 days for mastered units"
+      }
+    ]
+  },
+  "gamification": {
+    "badges": [
+      {
+        "name": "Tax Rookie",
+        "unlock": "complete Unit 1"
+      },
+      {
+        "name": "Law Decoder",
+        "unlock": "complete Unit 2"
+      },
+      {
+        "name": "Tax Classifier",
+        "unlock": "complete Unit 3"
+      },
+      {
+        "name": "Revenue Strategist",
+        "unlock": "complete Unit 4"
+      },
+      {
+        "name": "Structure Builder",
+        "unlock": "complete Units 5 and 6"
+      },
+      {
+        "name": "Policy Architect",
+        "unlock": "complete Units 7 and 8"
+      },
+      {
+        "name": "Jurisdiction Navigator",
+        "unlock": "complete Units 9 to 11"
+      },
+      {
+        "name": "Compliance Master",
+        "unlock": "complete Unit 12"
+      }
+    ],
+    "streak_rewards": [
+      {
+        "days": 3,
+        "reward": "bonus review chest"
+      },
+      {
+        "days": 7,
+        "reward": "checkpoint retry without heart loss"
+      },
+      {
+        "days": 14,
+        "reward": "legendary review unlock"
+      },
+      {
+        "days": 30,
+        "reward": "course mastery badge"
+      }
+    ]
+  },
+  "estimated_course_totals": {
+    "total_units": 12,
+    "total_lessons": 67,
+    "estimated_base_xp": 955,
+    "estimated_completion_days": 38
+  }
+}

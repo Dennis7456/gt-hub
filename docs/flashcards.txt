@@ -1,0 +1,1041 @@
+Below are mastery flashcards built from your **Customs Clearance I** notes. I organized them from basic recall to exam-style application so you can use them for memorization, oral questioning, and quick revision. They are based on the uploaded notes. 
+
+Use them in 3 rounds:
+
+1. Read the **front** only and answer aloud.
+2. Cover the **back** and explain it in your own words.
+3. Revisit the “trap” and calculation cards until you can answer instantly.
+
+## 1) Prohibited and restricted goods
+
+These cards cover definitions, examples, legal effect, and handling logic from the notes. 
+
+**1. Front:** What are prohibited goods?
+**Back:** Goods that are not allowed to be imported, exported, or transferred into or outside Partner States.
+
+**2. Front:** How does EACCMA define prohibited goods?
+**Back:** Goods whose importation, exportation, or carriage coastwise is prohibited under the Act or any law in force in the Partner States.
+
+**3. Front:** What are restricted goods?
+**Back:** Goods whose importation or exportation is allowed only after specific conditions are met.
+
+**4. Front:** What is the main difference between prohibited and restricted goods?
+**Back:** Prohibited goods are not allowed at all; restricted goods are allowed only with permits, certificates, or approvals.
+
+**5. Front:** Name four examples of prohibited goods.
+**Back:** Counterfeit currency, pornographic materials, matches made with white phosphorus, narcotic drugs under international control.
+
+**6. Front:** Which kind of false money is prohibited?
+**Back:** Counterfeit currency notes and coins, and money not of the established standard in weight or fineness.
+
+**7. Front:** Why are pornographic and obscene materials prohibited?
+**Back:** Mainly for social and moral control.
+
+**8. Front:** Why are narcotic drugs prohibited?
+**Back:** For health, safety, and international control reasons.
+
+**9. Front:** Why are hazardous wastes prohibited?
+**Back:** For environmental and health protection.
+
+**10. Front:** Give examples of restricted goods.
+**Back:** Postal franking machines, traps for game animals, unwrought precious metals, arms and ammunition, worked ivory, GM products, second-hand tyres.
+
+**11. Front:** Why are arms and ammunition restricted?
+**Back:** Because of security and safety concerns.
+
+**12. Front:** Why are endangered flora and fauna products restricted?
+**Back:** To comply with CITES and protect biodiversity.
+
+**13. Front:** Why are genetically modified products restricted?
+**Back:** Because they require regulatory control and safety assessment.
+
+**14. Front:** Why are second-hand tyres restricted?
+**Back:** For safety, environmental, and quality-control reasons.
+
+**15. Front:** Which schedule deals with prohibited and restricted exports?
+**Back:** The Third Schedule.
+
+**16. Front:** What does Section 70 of EACCMA say about prohibited exports?
+**Back:** Goods specified in Part A of the Third Schedule are prohibited goods, and their exportation is prohibited.
+
+**17. Front:** Give two examples of prohibited exports from the notes.
+**Back:** Used or scrap cables and conductors of aluminium, steel, and copper.
+
+**18. Front:** What are restricted exports?
+**Back:** Goods in Part B of the Third Schedule whose export is allowed only if conditions regulating their export are met.
+
+**19. Front:** Give five examples of restricted exports.
+**Back:** Waste and scrap of ferrous cast iron, timber, fresh unprocessed Nile perch and tilapia, wood charcoal, used automobile batteries and lead scrap.
+
+**20. Front:** What vessel-size rule applies to some restricted exports?
+**Back:** Warehoused goods, goods under duty drawback, and transshipped goods shall not be exported in vessels of less than 250 tons register.
+
+**21. Front:** What document support must exist before restricted goods are cleared?
+**Back:** Import permits, certificates, or authority from the relevant agency.
+
+**22. Front:** Who controls restricted goods besides Customs?
+**Back:** Specific government agencies depending on the nature of the goods.
+
+**23. Front:** Name six reasons goods may be prohibited or restricted.
+**Back:** Political, health, economic, safety and security, environmental and agricultural, and social reasons.
+
+**24. Front:** How should prohibited imports generally be handled?
+**Back:** They should not be cleared for import; they are liable to seizure and other enforcement action.
+
+**25. Front:** How should restricted imports generally be handled?
+**Back:** They may be cleared only after the importer satisfies all permit and agency requirements.
+
+**26. Front:** How should prohibited exports be handled?
+**Back:** Exportation should be stopped because the law prohibits it.
+
+**27. Front:** How should restricted exports be handled?
+**Back:** Export is allowed only if conditions and authorizations are satisfied.
+
+**28. Front:** Exam trap: Are all dangerous goods prohibited?
+**Back:** No. Some are prohibited, while others are only restricted and may move with approval.
+
+---
+
+## 2) Core import customs procedures and basic terms
+
+These cards cover definitions the examiner can ask directly. 
+
+**29. Front:** What are the four import categories in the notes?
+**Back:** Direct imports, temporary imports, re-imports, and warehoused goods.
+
+**30. Front:** What is an approved place of loading/unloading?
+**Back:** A quay, jetty, wharf, or other place, including part of a Customs airport, appointed by the Commissioner for loading or unloading goods.
+
+**31. Front:** What is a boarding station?
+**Back:** A place appointed by the Commissioner for aircraft or vessels to bring to for boarding or disembarkation of officers.
+
+**32. Front:** What is cargo?
+**Back:** All goods imported or exported in an aircraft, vehicle, or vessel, excluding stores for use by the craft, crew and passengers, and bona fide personal baggage.
+
+**33. Front:** What is a Customs area?
+**Back:** A place appointed under section 12 for Customs operations, including deposit of goods under Customs control.
+
+**34. Front:** What is a Customs warehouse?
+**Back:** A place approved for deposit of unentered, unexamined, abandoned, detained, or seized goods for security of goods or duties.
+
+**35. Front:** Who is a master?
+**Back:** Any person having or taking charge or command of an aircraft or vessel.
+
+**36. Front:** What does “import” mean?
+**Back:** To bring or cause to be brought into the Partner States from a foreign country.
+
+**37. Front:** What is a port under Customs law?
+**Back:** A place appointed by the Council for purposes of Customs law; for aircraft, a port means a Customs airport.
+
+**38. Front:** Who is a proper officer?
+**Back:** Any officer whose right or duty it is to require or perform acts referred to in the Act.
+
+**39. Front:** What is a sufferance wharf?
+**Back:** A place other than an approved loading or unloading place where the Commissioner may allow goods to be loaded or unloaded.
+
+**40. Front:** What is a transit shed?
+**Back:** A building or premises appointed by the Commissioner in writing for deposit of goods under Customs control.
+
+**41. Front:** What are uncustomed goods?
+**Back:** Dutiable goods whose full duty has not been paid, and any goods dealt with contrary to Customs laws whether dutiable or not.
+
+**42. Front:** What are the three main modes of cargo arrival mentioned?
+**Back:** Overland, by air, and by sea.
+
+---
+
+## 3) Arrival overland, reporting duties, and special arrivals
+
+These cards test practical procedure. 
+
+**43. Front:** How may cargo arrive overland according to the notes?
+**Back:** By motor vehicle, train, pipeline, animal, and cables.
+
+**44. Front:** What does Section 29 require of a person in charge of a vehicle arriving overland?
+**Back:** Report arrival, furnish information, declare truth of particulars, answer questions, produce documents, and make due entry.
+
+**45. Front:** To whom must the driver report arrival?
+**Back:** The officer stationed at the frontier port where the vehicle entered the Partner State.
+
+**46. Front:** What declaration form is mentioned for overland vehicle arrival?
+**Back:** Form C17.
+
+**47. Front:** What documents may the proper officer demand from the driver?
+**Back:** Consignment notes and other relevant documents.
+
+**48. Front:** What happens if a person conveys goods by other means, not vehicle or train?
+**Back:** Under Section 31, that person must still fulfill reporting, documentation, questioning, and declaration duties similar to Section 29.
+
+**49. Front:** How is wet cargo arriving overland treated?
+**Back:** Section 32 applies; the pipeline operator must report and record the nature and quantities and provide apparatus for proper records.
+
+**50. Front:** Give examples of wet cargo.
+**Back:** Petroleum and gas.
+
+**51. Front:** What is the Customs area for cargo arriving on an international train?
+**Back:** The border railway station.
+
+**52. Front:** Who acts on behalf of the railway company at the station?
+**Back:** The station master or other person in charge.
+
+**53. Front:** What must the station master submit on arrival of the train?
+**Back:** Copies of invoices, consignment notes, waybills, and other documents relating to the goods in wagons.
+
+**54. Front:** Can the station master allow goods to leave the Customs area without permission?
+**Back:** No. That is an offence.
+
+**55. Front:** Can goods required to be entered at another station be delivered without written permission?
+**Back:** No.
+
+**56. Front:** Through where must a person in charge bring goods into a Partner State?
+**Back:** Through a port appointed under Section 11, unless otherwise permitted.
+
+---
+
+## 4) Rummaging and search powers
+
+These cards are good for oral exams because they test sequence, legality, and officer powers. 
+
+**57. Front:** What is rummaging?
+**Back:** An intense search of a vessel or aircraft by the proper officer, usually on a risk basis.
+
+**58. Front:** Which section gives the proper officer power to search aircraft or vessels?
+**Back:** Section 246 of EACCMA.
+
+**59. Front:** What does Regulation 25 require during rummaging?
+**Back:** The crew must provide all necessary assistance to officers conducting the search.
+
+**60. Front:** Who must be informed first when a rummage squad boards a vessel?
+**Back:** The Master, or in his absence the Chief Officer.
+
+**61. Front:** What should the officer in charge request from the Master?
+**Back:** A ship’s officer to accompany the squad and crew assistance if dismantling is needed.
+
+**62. Front:** What is checked against Form C.9 during rummage?
+**Back:** Crew declarations against goods held in their quarters.
+
+**63. Front:** Which part of a vessel should be rummaged first?
+**Back:** The crew’s quarters.
+
+**64. Front:** Why are crew quarters searched first?
+**Back:** To check undeclared dutiable goods while officers are still clean enough to handle personal effects.
+
+**65. Front:** Can living quarters be rummaged in the absence of occupants?
+**Back:** No. At least one occupant must be present.
+
+**66. Front:** When may personal effects and lockers be searched?
+**Back:** Only in the presence of the owner.
+
+**67. Front:** What caution applies when searching passenger accommodation and public rooms?
+**Back:** Do not disturb passengers or damage fittings and furnishings.
+
+**68. Front:** What caution applies when searching machinery and structural fittings?
+**Back:** Do not endanger safety or mechanical operation; consult a competent ship’s officer.
+
+**69. Front:** What should officers do if undeclared goods are found during rummage?
+**Back:** Note the concealment, seize the goods, report to the officer in charge, show them to the Master, and try to trace the owner.
+
+**70. Front:** What happens to seized goods after rummage?
+**Back:** They are marked for identification and taken ashore to the Customs warehouse.
+
+**71. Front:** What must be issued or prepared after seizure?
+**Back:** A report, and possibly a Notice of Seizure and offence report.
+
+**72. Front:** Why are coastal vessels occasionally rummaged?
+**Back:** As a revenue precaution against hoarding, illicit transfers, smuggling, and evasion of prohibitions and restrictions.
+
+**73. Front:** Are rummages of all scheduled foreign flights mandatory?
+**Back:** No. Scheduled services should be rummaged minimally consistent with revenue control.
+
+**74. Front:** Which aircraft rummages are mandatory?
+**Back:** Non-scheduled, charter, and private aircraft arriving from foreign.
+
+**75. Front:** What is the purpose of rummaging an aircraft?
+**Back:** To ensure all goods, baggage, stores, and cargo are lawfully on board and properly accounted for.
+
+**76. Front:** What happens to goods on an aircraft not accounted for to the officer’s satisfaction?
+**Back:** They must be detained and the facts reported.
+
+**77. Front:** When may a person be searched?
+**Back:** When an officer has reasonable grounds to believe the person has uncustomed goods.
+
+**78. Front:** What if the person objects to being searched?
+**Back:** The person must be taken before the station manager or senior officer to decide whether the search should proceed.
+
+**79. Front:** Where should searches of persons take place?
+**Back:** In a cabin, Customs office, or other private place.
+
+**80. Front:** Who may search a female suspect?
+**Back:** Only a female officer.
+
+---
+
+## 5) Arrival by air and sea: documents and clearance
+
+These are straight exam cards on inward reporting and clearance of vessels/aircraft. 
+
+**81. Front:** What must the master or agent produce on arrival?
+**Back:** All books and documents relating to the craft, cargo, stores, baggage, crew, and passengers as required by the proper officer.
+
+**82. Front:** What is Form C2?
+**Back:** Inward report for a vessel.
+
+**83. Front:** What is Form C4?
+**Back:** Inward report for an aircraft; it is also mentioned as the clearance form for an aircraft.
+
+**84. Front:** What information is contained in the inward report?
+**Back:** Particulars such as nationality, tonnage, crew numbers, and port of landing.
+
+**85. Front:** What is Form C3?
+**Back:** Parcels list showing packages or parcels imported for which no bill of lading was issued.
+
+**86. Front:** What is included in the crew list?
+**Back:** Full name, gender, nationality, and details of the master and crew members.
+
+**87. Front:** What is Form C5?
+**Back:** Passenger list showing passengers disembarking and those remaining on board.
+
+**88. Front:** What is Form C6?
+**Back:** Declaration Advice Consumable Stores, giving details of all dutiable stores on board.
+
+**89. Front:** What is Form C7?
+**Back:** Crew Declaration of all dutiable goods in possession of each crew member.
+
+**90. Front:** What is the last port of call list?
+**Back:** A list of the vessel’s last ten port calls in chronological order.
+
+**91. Front:** What does the arms and ammunition list show?
+**Back:** Details of all arms and ammunition on board.
+
+**92. Front:** What does the narcotics list show?
+**Back:** Details of all narcotics on board.
+
+**93. Front:** When should the cargo manifest be submitted?
+**Back:** Before arrival of the vessel or aircraft, under Section 24.
+
+**94. Front:** What does Regulation 23 say about dutiable stores?
+**Back:** Stores for crew and passengers may be produced separately and approved or placed under seal by the proper officer.
+
+**95. Front:** What are the duty-free allowable stores per crew member?
+**Back:** 200 cigarettes or 200g tobacco, 750 ml potable spirits, and 3 litres of wine or beer.
+
+**96. Front:** What happens to quantities above the allowable stores?
+**Back:** They are sealed by the proper officer.
+
+**97. Front:** Is breaking the seal without approval an offence?
+**Back:** Yes.
+
+**98. Front:** What is issued once the proper officer is satisfied all requirements are met?
+**Back:** A certificate of clearance.
+
+**99. Front:** What fee is mentioned for certificate of clearance?
+**Back:** USD 3.
+
+---
+
+## 6) Manifest amendment, supplementary manifest, short landed and excess landed cargo
+
+These are common trick areas. 
+
+**100. Front:** What can the proper officer permit to be amended in an inward report?
+**Back:** Destination, ownership, status of goods, or obvious errors/omissions.
+
+**101. Front:** What documents support amendment of a manifest?
+**Back:** A manifest corrector and an affidavit.
+
+**102. Front:** What fee is paid for amendment of inward report?
+**Back:** USD 10.
+
+**103. Front:** What is short landed cargo?
+**Back:** Cargo that was manifested but is not physically on board for unloading.
+
+**104. Front:** What is excess landed cargo?
+**Back:** Cargo not manifested but physically on board for unloading.
+
+**105. Front:** Name three reasons that may justify short landed cargo.
+**Back:** Goods were not shipped, were discharged at a previous port, were overcarried to a later port.
+
+**106. Front:** Give four more possible explanations for short landed cargo.
+**Back:** Returned after overcarriage, carried by another craft, lost at sea, stolen or destroyed before arrival within EAC ports.
+
+**107. Front:** How is excess landed cargo regularized?
+**Back:** By a supplementary manifest.
+
+**108. Front:** What is the fee for a supplementary manifest?
+**Back:** USD 10.
+
+---
+
+## 7) Coasting vessels and aircraft
+
+These cards test special movement within Partner States. 
+
+**109. Front:** What does “carried coastwise” mean?
+**Back:** Goods conveyed by sea or air from one part of a Partner State to another part thereof.
+
+**110. Front:** What is a coasting vessel or aircraft?
+**Back:** A vessel or aircraft carrying goods coastwise within the Partner States.
+
+**111. Front:** Which provisions govern coasting vessels and aircraft?
+**Back:** Sections 96–109 of EACCMA and Regulations 123–130 of EACCMR.
+
+**112. Front:** What document must the master present for coastwise carriage or transfer?
+**Back:** A transire.
+
+**113. Front:** What does the transire do?
+**Back:** It authorizes carriage of the goods and also serves as certificate of clearance for the coastwise voyage.
+
+**114. Front:** In what form must the account for coastwise cargo be delivered?
+**Back:** In triplicate on the prescribed form.
+
+**115. Front:** Where must coastwise goods be loaded or unloaded?
+**Back:** At an approved place of loading or a sufferance wharf.
+
+**116. Front:** What may the proper officer require after unloading coastwise goods?
+**Back:** That goods be conveyed immediately to a Customs area or transit shed.
+
+**117. Front:** What may the proper officer require for goods transferred by road?
+**Back:** Immediate conveyance to a Customs house or another directed place.
+
+---
+
+## 8) Damaged cargo, shipwreck, and goods reported but not unloaded
+
+These are short but important. 
+
+**118. Front:** What happens if goods reported to be unloaded are in fact not unloaded?
+**Back:** The master or agent must pay duty unless acceptable explanation is given.
+
+**119. Front:** What must a master do if a vessel or aircraft is accidentally forced to land in EAC States?
+**Back:** Immediately report the cargo and stores to the nearest Customs or administrative officer.
+
+**120. Front:** What happens to cargo and stores of an abandoned vessel or aircraft?
+**Back:** They are liable to seizure unless satisfactory explanation is given.
+
+**121. Front:** In case of loss or wreck, what must the master or agent do?
+**Back:** Report the aircraft or vessel and its cargo and stores with all reasonable speed to the nearest officer.
+
+---
+
+## 9) Entry of goods and timelines
+
+These are core exam cards because dates and definitions are often tested. 
+
+**122. Front:** When are goods deemed to be entered under Section 2(2)(a)?
+**Back:** When entry is made and lodged properly and duty or deposit is paid, or security is given.
+
+**123. Front:** When are goods deemed to be entered for home consumption?
+**Back:** When declared for use in a Partner State other than temporary use and requirements of entry are fulfilled.
+
+**124. Front:** Within how many days must goods be entered?
+**Back:** Within 21 days after commencement of discharge, or on arrival for vehicles, unless further time is allowed.
+
+**125. Front:** What happens if cargo remains unentered after 21 days?
+**Back:** It becomes liable to Customs warehouse rent.
+
+**126. Front:** What if cargo is entered but not removed from the port within 21 days?
+**Back:** It is deemed to be in a Customs warehouse.
+
+**127. Front:** Can goods be entered before arrival?
+**Back:** Yes, under Section 34(3), allowing pre-arrival processing.
+
+**128. Front:** Why is pre-arrival processing important?
+**Back:** It reduces clearance time and costs.
+
+**129. Front:** Who bears the burden of proving correctness of entry particulars?
+**Back:** The owner, not Customs.
+
+**130. Front:** For what purposes may cargo be entered?
+**Back:** Home consumption, warehousing, transhipment, transit, or export processing zones.
+
+---
+
+## 10) Supporting documents and declarations
+
+These cards help you answer “what documents are required?” on the spot. 
+
+**131. Front:** Name five basic supporting documents for import entry.
+**Back:** Bill of lading/airway bill/road manifest, packing list, commercial invoice, freight invoice, insurance debit note.
+
+**132. Front:** Name five more supporting documents.
+**Back:** Certificate of export, certificate of conformity, registration/incorporation/ID, TIN, certificate of origin.
+
+**133. Front:** Name five additional possible supporting documents.
+**Back:** Import Declaration Form, motor vehicle logbook, certificate of roadworthiness, permits/licenses, chemical analysis report.
+
+**134. Front:** What proof of payment may support entry?
+**Back:** Telegraphic transfer, letter of credit, and similar evidence.
+
+**135. Front:** What is Form C36?
+**Back:** Declaration of Value, a statement by the importer about trading terms with the foreign supplier.
+
+**136. Front:** Who must complete Form C36?
+**Back:** The owner of the goods, not the Customs agent.
+
+**137. Front:** Who completes Certificate A on Form C36?
+**Back:** An importer not related to the supplier.
+
+**138. Front:** Who completes Certificate B on Form C36?
+**Back:** An importer related to the supplier.
+
+**139. Front:** What is a provisional entry?
+**Back:** An entry lodged when there are insufficient documents or information.
+
+**140. Front:** What security may the Commissioner require for provisional entry?
+**Back:** Cash deposit, bank guarantee, or bond.
+
+**141. Front:** Within how long must a provisional entry be perfected?
+**Back:** Within three months, or further period allowed.
+
+**142. Front:** What are the uses of a Customs declaration?
+**Back:** Tax assessment, tax payment arrangement, determination of bond in force, document processing across institutions, and obtaining genuine clearance.
+
+**143. Front:** Why must Customs declarations be standardized internationally?
+**Back:** To facilitate trade and ensure uniform minimum data requirements.
+
+**144. Front:** Which international instrument influences declaration layout?
+**Back:** The Revised Kyoto Convention through the UN layout key.
+
+**145. Front:** What did the UN layout key lead to?
+**Back:** Development of the Single Administrative Document (SAD).
+
+---
+
+## 11) Goods that may be cleared without entry
+
+These are easy marks if memorized exactly. 
+
+**146. Front:** Name goods that may be cleared without an entry.
+**Back:** Mail bags and postal articles, bona fide passenger baggage, human remains, diplomatic bags.
+
+**147. Front:** Which sensitive goods may be cleared without entry subject to an undertaking?
+**Back:** Bullion, currency notes, coin, and perishable goods.
+
+**148. Front:** Within how long must the owner furnish the necessary entry for those exceptions?
+**Back:** Within 48 hours of delivery.
+
+---
+
+## 12) Goods in transit shed
+
+These test legal responsibility. 
+
+**149. Front:** How are goods in a transit shed legally treated?
+**Back:** They are deemed to be in the importing vessel or aircraft until delivered.
+
+**150. Front:** Who remains responsible for goods in a transit shed?
+**Back:** The owner or agent.
+
+**151. Front:** What if reported goods are not duly unloaded and deposited in a transit shed or Customs area?
+**Back:** The master or agent must pay duty unless he explains satisfactorily.
+
+**152. Front:** Who commits an offence if goods in custody are not accounted for?
+**Back:** The owner of vessel/aircraft, his agent, or the transit shed owner.
+
+**153. Front:** Who is liable for reshipment or destruction costs of condemned goods?
+**Back:** The owner of vessel or aircraft, his agent, or the transit shed owner.
+
+---
+
+## 13) Import customs regimes
+
+These are classification cards. 
+
+**154. Front:** Name the main import Customs regimes in the notes.
+**Back:** Imports for home use, temporary imports, re-imports, and warehousing.
+
+**155. Front:** Give examples under imports for home use.
+**Back:** Duty paid, provisional import declaration, release of perishables, tax free by tariff.
+
+**156. Front:** Give examples of ex-warehouse home use entries.
+**Back:** Duty paid, duty paid for regional market, tax free, duty exempt under Third Schedule.
+
+**157. Front:** Give examples of home use after temporary importation.
+**Back:** Home use after temporary importation in unaltered state, and after temporary importation for repair.
+
+**158. Front:** What is EX-EPZ home use?
+**Back:** Home use entry for goods moving from an Export Processing Zone into home consumption.
+
+**159. Front:** What are the two temporary import regimes listed?
+**Back:** Temporary importation for return in unaltered state, and temporary importation for repair.
+
+**160. Front:** Give examples of re-import regimes.
+**Back:** Re-import after temporary export for repair with charge, without charge, after substantial change, and rejected/returned exports.
+
+**161. Front:** Give examples of warehousing regimes.
+**Back:** Warehousing of goods, warehousing for regional market, warehousing for crude petroleum products, ex-warehouse removal.
+
+**162. Front:** Give examples involving MUB and EPZ.
+**Back:** Entry into MUB/EPZ from foreign, entry of home-produced goods into MUB/EPZ, and transfer between MUBs or EPZs.
+
+---
+
+## 14) Form C17 and declaration data
+
+These are excellent for viva/oral questioning. 
+
+**163. Front:** What is Form C17 mainly used for in the notes?
+**Back:** Customs declaration/entry for goods and for overland arrival declaration.
+
+**164. Front:** Name five data items on Form C17.
+**Back:** Importer details, exporter details, declarant details, processing office, manifest number.
+
+**165. Front:** Name five more data items on Form C17.
+**Back:** Date of arrival, agent details, mode of transport, nationality of transport, marks and numbers.
+
+**166. Front:** Name five more data items on Form C17.
+**Back:** Description of goods, Customs value, total gross weight, net weight, unit of quantity.
+
+**167. Front:** Name four more data items on Form C17.
+**Back:** Country of origin, rate of duty, duty payable, other charges, grand total payable.
+
+---
+
+## 15) Partner Government Agencies (PGAs)
+
+These cards help with border coordination questions. 
+
+**168. Front:** What are PGAs?
+**Back:** Partner Government Agencies involved in clearance of goods; previously called OGAs.
+
+**169. Front:** What broad roles do PGAs play?
+**Back:** Regulatory, security, and tax collection roles.
+
+**170. Front:** Name six PGAs from the notes.
+**Back:** KEBS, KEPHIS, KPA, NIS, KPS, Immigration Department.
+
+**171. Front:** Name six more PGAs from the notes.
+**Back:** Port Health, Kenya Radiation Authority, KMA, NBA, KWS, ACA.
+
+**172. Front:** Why are PGAs important in clearance?
+**Back:** Customs works with them to ensure compliance, regulation, security, and specialized approvals.
+
+**173. Front:** Which PGA would most likely handle standards compliance?
+**Back:** KEBS.
+
+**174. Front:** Which PGA would most likely handle plant-health matters?
+**Back:** KEPHIS.
+
+**175. Front:** Which PGA would most likely handle wildlife-related goods?
+**Back:** KWS.
+
+**176. Front:** Which PGA would most likely handle biosafety or GM products?
+**Back:** NBA.
+
+---
+
+## 16) Sources of Customs law and EAC legal framework
+
+These are high-value theory cards. 
+
+**177. Front:** According to Article 39 of the Customs Union Protocol, what are sources of Customs law?
+**Back:** Treaty provisions, Customs Union Protocol and annexes, Council regulations/directives, court decisions, Community Acts, and relevant principles of international law.
+
+**178. Front:** What is a common market in simple terms?
+**Back:** A group of countries working together mainly to promote trade and common interests.
+
+**179. Front:** Which countries formed the EAC in 1967?
+**Back:** Kenya, Uganda, and Tanzania.
+
+**180. Front:** Name the presidents associated with the 1967 EAC formation.
+**Back:** Jomo Kenyatta, Julius Nyerere, and Milton Obote.
+
+**181. Front:** Give four aims of the original EAC.
+**Back:** Promote trade, promote unity/cooperation, create a common market, allow free movement of goods and services.
+
+**182. Front:** Why did the EAC collapse in 1977?
+**Back:** Political differences, lack of common currency, shortage of funds, misunderstandings among presidents, and differing ideologies.
+
+**183. Front:** When was the EAC revived according to the notes?
+**Back:** 4 March 1996.
+
+**184. Front:** Which heads of state revived the EAC?
+**Back:** Yoweri Museveni, Daniel arap Moi, and Benjamin Mkapa.
+
+**185. Front:** When was the EAC Treaty signed and when did it enter into force?
+**Back:** Signed on 30 November 1999 and came into force on 7 July 2000.
+
+**186. Front:** When was the Customs Union Protocol signed?
+**Back:** 2 March 2004 in Arusha, Tanzania.
+
+**187. Front:** What does the EAC Customs Union provide for?
+**Back:** Elimination of Customs duties among Partner States, removal of non-tariff barriers, and a common external tariff for imports from foreign countries.
+
+**188. Front:** Which countries joined later and when?
+**Back:** Rwanda and Burundi joined in 2008 and began applying instruments in July 2009; South Sudan joined in 2016.
+
+**189. Front:** What is the role of Council regulations and directives?
+**Back:** They are binding on Partner States and Community organs within their jurisdictions.
+
+**190. Front:** What is EACCMA, 2004?
+**Back:** The Act providing for management and administration of Customs and related matters.
+
+**191. Front:** What is the structure of EACCMA, 2004 according to the notes?
+**Back:** 21 parts, 253 sections, and 6 schedules.
+
+**192. Front:** What is EACCMR, 2010?
+**Back:** Regulations made under Section 251 to give effect to EACCMA and govern Customs business.
+
+**193. Front:** What is covered by the Compliance and Enforcement Regulations, 2012?
+**Back:** Customs administration, cross-border cooperation, post-clearance audit, AEOs, and information management.
+
+**194. Front:** Why must freight logistics practitioners know other national laws too?
+**Back:** Because company registration, licensing, standards, phytosanitary, pharmaceutical, and poisons laws also affect operations.
+
+---
+
+## 17) EAC organs
+
+These are classic theory questions. 
+
+**195. Front:** Name the main organs of the EAC listed in the notes.
+**Back:** Summit, Council, Coordination Committee, Sectoral Committees, East African Court of Justice, East African Legislative Assembly, and Secretariat.
+
+**196. Front:** What is the Summit?
+**Back:** The Heads of State who provide general direction and impetus.
+
+**197. Front:** What is the Council?
+**Back:** The policy organ made up of ministers responsible for EAC affairs and Attorneys General.
+
+**198. Front:** What does the Coordination Committee do?
+**Back:** Submits reports to Council, implements decisions, and coordinates Sectoral Committees.
+
+**199. Front:** What do Sectoral Committees do?
+**Back:** Prepare implementation programs, monitor implementation, and recommend action.
+
+**200. Front:** What is the East African Court of Justice?
+**Back:** The judicial body ensuring adherence to law in implementing the Treaty.
+
+**201. Front:** What is the East African Legislative Assembly?
+**Back:** The legislative organ of the Community.
+
+**202. Front:** What is the Secretariat?
+**Back:** The executive organ of the Community.
+
+---
+
+## 18) Customs instruments: RKC, WTO TFA, SAFE
+
+These cards help link theory to practical modernization. 
+
+**203. Front:** What are Customs instruments?
+**Back:** Conventions and agreements related to Customs clearance of goods.
+
+**204. Front:** Name the three instruments emphasized in the notes.
+**Back:** Revised Kyoto Convention, WTO Trade Facilitation Agreement, and WCO SAFE Framework.
+
+**205. Front:** What is the Revised Kyoto Convention?
+**Back:** An international agreement providing modern Customs procedures to facilitate legitimate trade while maintaining control.
+
+**206. Front:** Give four key principles of the RKC.
+**Back:** Transparency and predictability, standardization and simplification, simplified procedures for authorized persons, maximum use of IT.
+
+**207. Front:** Give four benefits of the RKC to Partner States’ economies.
+**Back:** Reduced transaction costs, increased competitiveness, promotion of FDI and industry, increased SME participation.
+
+**208. Front:** Give three benefits of the RKC to the trade community.
+**Back:** Faster and predictable clearance, transparent procedures and appeals, greater facilitation for compliant traders.
+
+**209. Front:** Give three benefits of the RKC to Customs administrations.
+**Back:** Enhanced controls, increased trade facilitation, better resource deployment.
+
+**210. Front:** What is the WTO TFA?
+**Back:** A WTO agreement aimed at making trade flows smoother, freer, and more predictable.
+
+**211. Front:** When did the WTO TFA enter into force?
+**Back:** 22 February 2017.
+
+**212. Front:** What impacts of the TFA are mentioned for Partner States?
+**Back:** Reform of national procedures, less red tape, and added export potential.
+
+**213. Front:** What is the SAFE Framework?
+**Back:** A WCO framework to secure and facilitate global trade and improve supply-chain security.
+
+**214. Front:** Give four aims of the SAFE Framework.
+**Back:** Global security standards, harmonized supply chain management, enhanced Customs capability, better detection of high-risk consignments.
+
+**215. Front:** What cooperation does SAFE promote between Customs administrations?
+**Back:** Information exchange, mutual recognition of controls, recognition of AEOs, and administrative assistance.
+
+**216. Front:** What cooperation does SAFE promote beyond Customs?
+**Back:** Cooperation with other government agencies and with business, including Single Window systems.
+
+**217. Front:** Give two benefits of SAFE to governments.
+**Back:** Secure trade against terrorism/transnational crime and improve economic growth/development.
+
+**218. Front:** Give two benefits of SAFE to Customs authorities.
+**Back:** Better risk management and better allocation of resources.
+
+**219. Front:** Give three benefits of SAFE to business.
+**Back:** Faster processing for AEOs, uniform standards, and reduced multiple reporting requirements.
+
+---
+
+## 19) Tax assessment and customs valuation
+
+These cards help you answer both theory and calculations fast. 
+
+**220. Front:** What is Customs value in the basic import tax example?
+**Back:** CIF value in local currency.
+
+**221. Front:** What does CIF stand for?
+**Back:** Cost, Insurance, and Freight.
+
+**222. Front:** What is the formula for CIF in local currency?
+**Back:** (FOB + Insurance + Freight) × Exchange rate.
+
+**223. Front:** In the whiskey example, what are the FOB, insurance, and freight values?
+**Back:** FOB USD 5000, insurance USD 200, freight USD 900.
+
+**224. Front:** In the whiskey example, what is the CIF in USD?
+**Back:** USD 6100.
+
+**225. Front:** In the whiskey example, what is the CIF in Ksh at 130?
+**Back:** Ksh 793,000.
+
+**226. Front:** How is import duty computed in the example?
+**Back:** 25% × Customs value.
+
+**227. Front:** What is the import duty in the whiskey example?
+**Back:** Ksh 198,250.
+
+**228. Front:** How is excise duty computed in the example?
+**Back:** (CIF + Import Duty) × Excise rate.
+
+**229. Front:** What is the excise duty in the whiskey example?
+**Back:** About Ksh 644,313.
+
+**230. Front:** How is VAT computed in the example?
+**Back:** (CIF + Import Duty + Excise Duty) × VAT rate.
+
+**231. Front:** What is the VAT in the whiskey example?
+**Back:** About Ksh 261,690.
+
+**232. Front:** What is the total tax payable in the whiskey example?
+**Back:** Ksh 1,104,253.
+
+**233. Front:** In what order are taxes normally built on imports?
+**Back:** Customs value first, then import duty, then excise, then VAT.
+
+**234. Front:** Why is tax on multiple-item consignments tricky?
+**Back:** Because freight and insurance may be shared across items.
+
+**235. Front:** What is the factor method?
+**Back:** A method of allocating total CIF to each item using total CIF divided by total FOB.
+
+**236. Front:** What is the factor formula?
+**Back:** Factor = Total CIF in Ksh / Total FOB in USD.
+
+**237. Front:** In the hammers and helmets example, what is total CIF in Ksh?
+**Back:** Ksh 270,000.
+
+**238. Front:** In that example, what is the factor?
+**Back:** 150.
+
+**239. Front:** How is Customs value per item obtained using the factor?
+**Back:** FOB of each item × factor.
+
+**240. Front:** What are the Customs values of hammers and helmets in the example?
+**Back:** Hammers Ksh 150,000; helmets Ksh 120,000.
+
+**241. Front:** What extra levies, besides duty and VAT, appear in the multiple-item example?
+**Back:** RDL and IDF.
+
+---
+
+## 20) CRSP method for used motor vehicles
+
+These are common viva questions. 
+
+**242. Front:** What does CRSP stand for?
+**Back:** Current Retail Selling Price.
+
+**243. Front:** Why do some Customs administrations use CRSP for used vehicles?
+**Back:** To levy duties in a transparent, fair, and predictable manner despite pricing variations in used cars.
+
+**244. Front:** What is the source of CRSP?
+**Back:** Local retail selling prices from manufacturers or designated dealers.
+
+**245. Front:** What is subtracted from CRSP to move toward Customs value?
+**Back:** Standard profit margin, depreciation, VAT, excise duty, and import duty loaded in the local price.
+
+**246. Front:** What special point is made when reversing from residual value to Customs value?
+**Back:** The tax calculation is done in reverse order and by subtraction.
+
+**247. Front:** In the Hilux example, what was the brand-new CRSP?
+**Back:** Ksh 2,700,000.
+
+**248. Front:** What depreciation was used in the example?
+**Back:** 40%.
+
+**249. Front:** What residual value remained after depreciation?
+**Back:** Ksh 1,620,000.
+
+**250. Front:** What Customs value was reached in the example?
+**Back:** Ksh 816,480.
+
+**251. Front:** If transaction value is higher than CRSP-derived value, which one is used?
+**Back:** The higher value.
+
+---
+
+## 21) Customs warehouse rent
+
+These are frequently tested calculations and timelines. 
+
+**252. Front:** What is a Customs warehouse under Section 2?
+**Back:** A place approved for deposit of unentered, unexamined, abandoned, detained, or seized goods for securing duties.
+
+**253. Front:** What is warehousing in situ?
+**Back:** Treating goods as warehoused in another place ordered by the proper officer.
+
+**254. Front:** When may warehouse rent arise?
+**Back:** When goods remain unentered beyond 21 days or are entered but not removed within 21 days.
+
+**255. Front:** Can the Commissioner waive warehouse rent?
+**Back:** Yes, wholly or partly, but only in exceptional or extraordinary circumstances.
+
+**256. Front:** How may goods in Customs warehouse be disposed of?
+**Back:** Public auction, destruction, private treaty, or any method the Commissioner deems fit.
+
+**257. Front:** Are the 21 days calendar days or working days?
+**Back:** Working days; weekends and public holidays are excluded.
+
+**258. Front:** What is the Customs Warehouse Date (CWD)?
+**Back:** The 22nd working day from the date of discharge.
+
+**259. Front:** What is the warehouse rent formula?
+**Back:** CBM × number of rent days × rate per CBM × exchange rate.
+
+**260. Front:** What simplified rate is given?
+**Back:** $0.3 × exchange rate × CBM × number of days.
+
+---
+
+## 22) Rapid-fire challenge cards
+
+These are designed for oral defense, quizzes, or when someone tries to catch you off guard. 
+
+**261. Front:** Is every restricted good illegal?
+**Back:** No. It is legal if the required conditions are met.
+
+**262. Front:** Is every prohibited good detainable only after permit review?
+**Back:** No. Prohibited goods are not allowed at all; permits do not legalize them unless the law specifically allows.
+
+**263. Front:** Who carries the burden of proving correctness of the entry?
+**Back:** The owner.
+
+**264. Front:** Can goods be entered before the ship lands?
+**Back:** Yes, through pre-arrival processing.
+
+**265. Front:** Can bona fide personal baggage be cleared without entry?
+**Back:** Yes.
+
+**266. Front:** Are goods in a transit shed treated as already delivered?
+**Back:** No. They are deemed still in the importing vessel or aircraft until delivery.
+
+**267. Front:** Can a female suspect be searched by a male officer?
+**Back:** No.
+
+**268. Front:** If excess landed cargo is found, what regularization is used?
+**Back:** Supplementary manifest.
+
+**269. Front:** If cargo was manifested but is absent physically, what is that called?
+**Back:** Short landed cargo.
+
+**270. Front:** If cargo is present physically but absent from the manifest, what is that called?
+**Back:** Excess landed cargo.
+
+**271. Front:** What document authorizes coastwise carriage?
+**Back:** Transire.
+
+**272. Front:** What is the first tax built on Customs value in ordinary import computation?
+**Back:** Import duty.
+
+**273. Front:** What is the last major tax in the whiskey example?
+**Back:** VAT.
+
+**274. Front:** In CRSP reverse computation, do you add taxes or subtract them?
+**Back:** Subtract them.
+
+**275. Front:** What are the three headline roles of PGAs?
+**Back:** Regulatory, security, and tax collection.
+
+---
+
+## 23) Mini oral-test prompts
+
+Use these to train yourself to explain, not just recite. They are also drawn from the same notes. 
+
+**276. Front:** Explain prohibited vs restricted goods in one minute.
+**Back:** Define both, mention legal effect, give examples, and explain that restricted goods may be cleared only with agency approvals.
+
+**277. Front:** Explain the procedure when cargo arrives overland by vehicle.
+**Back:** Mention reporting at frontier port, declaration, documents, answering questions, and due entry under Section 29.
+
+**278. Front:** Explain how wet cargo by pipeline is controlled.
+**Back:** State Section 32 duties: report and record quantities/nature and provide apparatus for records.
+
+**279. Front:** Explain rummaging in one minute.
+**Back:** Define it, cite officer power, mention crew assistance, order of search, seizure of undeclared goods, and reporting.
+
+**280. Front:** Explain the difference between short landed and excess landed cargo.
+**Back:** One is manifested but missing; the other is unmanifested but present.
+
+**281. Front:** Explain what it means for goods to be “entered.”
+**Back:** Proper lodgment plus payment/deposit/security as required by law.
+
+**282. Front:** Explain why pre-arrival processing is important.
+**Back:** It speeds up release, reduces delays, and lowers costs.
+
+**283. Front:** Explain what Form C36 is and who completes it.
+**Back:** It is the declaration of value completed by the owner, not the agent, depending on supplier relationship.
+
+**284. Front:** Explain why Customs declarations are standardized.
+**Back:** To facilitate international trade and ensure uniform minimum data through the UN layout key/SAD model.
+
+**285. Front:** Explain the legal importance of PGAs at the border.
+**Back:** Customs does not work alone; PGAs regulate specialized goods, security, health, standards, wildlife, biosafety, etc.
+
+**286. Front:** Explain the main purpose of the Revised Kyoto Convention.
+**Back:** Modern, efficient, transparent Customs procedures that both facilitate trade and protect control.
+
+**287. Front:** Explain the logic of import tax computation in order.
+**Back:** Get CIF in local currency, compute import duty, then excise on CIF plus duty, then VAT on CIF plus duty plus excise.
+
+---
+
+## 24) Memory anchors
+
+These are not new facts, just fast memory hooks to lock in the notes. 
+
+**288. Front:** Memory hook for prohibited vs restricted?
+**Back:** **Prohibited = No entry. Restricted = Entry only with conditions.**
+
+**289. Front:** Memory hook for overland arrival duties?
+**Back:** **Report, inform, declare, answer, produce, enter.**
+
+**290. Front:** Memory hook for inward report forms?
+**Back:** **C2 vessel, C4 aircraft, C3 parcels, C5 passengers, C6 stores, C7 crew.**
+
+**291. Front:** Memory hook for tax order?
+**Back:** **CIF → Duty → Excise → VAT.**
+
+**292. Front:** Memory hook for short vs excess landed?
+**Back:** **Short = on paper, not on ship. Excess = on ship, not on paper.**
+
+**293. Front:** Memory hook for C36 certificates?
+**Back:** **A = Apart from supplier. B = Bound/related to supplier.**
+
+**294. Front:** Memory hook for warehouse rent start?
+**Back:** **21 working days free; 22nd working day starts warehouse status.**
+
+**295. Front:** Memory hook for sources of Customs law?
+**Back:** **Treaty, Protocol, Council, Court, Acts, International law.**
+
+---
+
+If you want, I can turn these into:
+
+1. **Anki-style CSV flashcards**, or
+2. **A shorter high-yield set of 50 “must know” cards for exam cramming**.

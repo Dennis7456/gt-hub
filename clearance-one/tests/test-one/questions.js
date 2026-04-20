@@ -1,0 +1,552 @@
+const QUESTIONS = [
+  {
+    id: 1,
+    question: "Prohibited goods are best defined as goods that:",
+    options: [
+      "attract high duty rates only",
+      "are not allowed to be imported, exported, or transferred",
+      "must be warehoused before clearance",
+      "can only be imported through airports"
+    ],
+    correct: 1
+  },
+  {
+    id: 2,
+    question: "Restricted goods are goods whose importation or exportation is:",
+    options: [
+      "completely banned in all cases",
+      "allowed only after meeting specific conditions",
+      "free of all Customs controls",
+      "allowed only by sea"
+    ],
+    correct: 1
+  },
+  {
+    id: 3,
+    question: "Under EACCMA, prohibited goods include goods whose importation, exportation, or carriage coastwise is:",
+    options: [
+      "delayed",
+      "taxed",
+      "prohibited under the Act or any law in force",
+      "processed through PGAs"
+    ],
+    correct: 2
+  },
+  {
+    id: 4,
+    question: "Which of the following best distinguishes prohibited goods from restricted goods?",
+    options: [
+      "Prohibited goods are taxed more heavily",
+      "Restricted goods are always seized",
+      "Prohibited goods are not allowed at all, while restricted goods may be allowed subject to conditions",
+      "Restricted goods are not documented"
+    ],
+    correct: 2
+  },
+  {
+    id: 5,
+    question: "Which of the following is an example of a prohibited good?",
+    options: [
+      "Worked ivory",
+      "Genetically modified products",
+      "Counterfeit currency",
+      "Precious stones"
+    ],
+    correct: 2
+  },
+  {
+    id: 6,
+    question: "Which of the following is listed as a prohibited item in the notes?",
+    options: [
+      "Postal franking machines",
+      "Pornographic materials",
+      "Arms and ammunition under Chapter 93",
+      "Second-hand tyres"
+    ],
+    correct: 1
+  },
+  {
+    id: 7,
+    question: "Matches made using which substance are prohibited?",
+    options: [
+      "Sulphur",
+      "White phosphorus",
+      "Charcoal",
+      "Potassium nitrate"
+    ],
+    correct: 1
+  },
+  {
+    id: 8,
+    question: "Narcotic drugs under international control are treated as:",
+    options: [
+      "unrestricted goods",
+      "prohibited goods",
+      "warehoused goods",
+      "transit goods"
+    ],
+    correct: 1
+  },
+  {
+    id: 9,
+    question: "Hazardous wastes and their disposal are prohibited mainly for:",
+    options: [
+      "tourism reasons",
+      "environmental and health reasons",
+      "documentation reasons",
+      "revenue reasons only"
+    ],
+    correct: 1
+  },
+  {
+    id: 10,
+    question: "Which of the following is a restricted good?",
+    options: [
+      "Counterfeit coins",
+      "Pornographic cards",
+      "Postal franking machines",
+      "False money"
+    ],
+    correct: 2
+  },
+  {
+    id: 11,
+    question: "Arms and ammunition specified under Chapter 93 are classified in the notes as:",
+    options: [
+      "prohibited imports",
+      "restricted goods",
+      "transit-only cargo",
+      "goods exempt from control"
+    ],
+    correct: 1
+  },
+  {
+    id: 12,
+    question: "Worked ivory and articles of ivory are:",
+    options: [
+      "prohibited exports only",
+      "restricted goods",
+      "unrestricted goods",
+      "goods cleared without entry"
+    ],
+    correct: 1
+  },
+  {
+    id: 13,
+    question: "Which of the following is listed as a restricted good?",
+    options: [
+      "Hazardous waste",
+      "Genetically modified products",
+      "Counterfeit currency",
+      "White phosphorus matches"
+    ],
+    correct: 1
+  },
+  {
+    id: 14,
+    question: "Endangered species of world flora and fauna and their products are restricted in accordance with:",
+    options: [
+      "WTO TFA",
+      "Revised Kyoto Convention",
+      "CITES",
+      "EAC Treaty only"
+    ],
+    correct: 2
+  },
+  {
+    id: 15,
+    question: "Commercial casings mentioned in the notes refer to:",
+    options: [
+      "bullet casings",
+      "second-hand tyres",
+      "export crates",
+      "pipeline shells"
+    ],
+    correct: 1
+  },
+  {
+    id: 16,
+    question: "Unwrought precious metals and precious stones are treated as:",
+    options: [
+      "prohibited goods",
+      "restricted goods",
+      "diplomatic goods",
+      "transit shed goods"
+    ],
+    correct: 1
+  },
+  {
+    id: 17,
+    question: "Which of the following is a reason for restricting goods?",
+    options: [
+      "To eliminate all trade",
+      "To avoid all documentation",
+      "To control importation or exportation through specific conditions",
+      "To reduce port staff"
+    ],
+    correct: 2
+  },
+  {
+    id: 18,
+    question: "Restricted goods are usually controlled by:",
+    options: [
+      "private importers alone",
+      "no one once manifested",
+      "specific government agencies depending on their nature",
+      "railway station masters only"
+    ],
+    correct: 2
+  },
+  {
+    id: 19,
+    question: "Goods specified in Part A of the Third Schedule are:",
+    options: [
+      "restricted imports",
+      "prohibited exports",
+      "warehoused exports",
+      "duty-free exports"
+    ],
+    correct: 1
+  },
+  {
+    id: 20,
+    question: "Goods specified in Part B of the Third Schedule are:",
+    options: [
+      "prohibited exports",
+      "restricted exports",
+      "prohibited imports only",
+      "exempt goods"
+    ],
+    correct: 1
+  },
+  {
+    id: 21,
+    question: "According to the notes, clearance for restricted goods shall only be granted against:",
+    options: [
+      "a verbal undertaking",
+      "the importer's ID only",
+      "permits, certificates, or other authority from a relevant agency",
+      "a warehouse receipt"
+    ],
+    correct: 2
+  },
+  {
+    id: 22,
+    question: "Which of the following is listed among restricted exports?",
+    options: [
+      "Used or scrap copper cables",
+      "Fresh unprocessed Nile perch and tilapia",
+      "Pornographic books",
+      "Counterfeit notes"
+    ],
+    correct: 1
+  },
+  {
+    id: 23,
+    question: "Which of the following is listed among prohibited exports?",
+    options: [
+      "Timber grown in Partner States",
+      "Wood charcoal",
+      "Used or scrap cables and conductors of aluminium, steel, and copper",
+      "Fresh unprocessed fish"
+    ],
+    correct: 2
+  },
+  {
+    id: 24,
+    question: "Waste and scrap of ferrous cast iron are classified in the notes as:",
+    options: [
+      "prohibited exports",
+      "restricted exports",
+      "prohibited imports",
+      "unrestricted exports"
+    ],
+    correct: 1
+  },
+  {
+    id: 25,
+    question: "Timber from wood grown in the Partner States is listed as:",
+    options: [
+      "restricted export",
+      "prohibited import",
+      "unrestricted export",
+      "Customs warehouse cargo"
+    ],
+    correct: 0
+  },
+  {
+    id: 26,
+    question: "Wood charcoal is classified under the notes as:",
+    options: [
+      "prohibited import",
+      "restricted export",
+      "prohibited export",
+      "exempt cargo"
+    ],
+    correct: 1
+  },
+  {
+    id: 27,
+    question: "Used automobile batteries, lead scrap, crude and refined lead, and all forms of scrap metal are:",
+    options: [
+      "unrestricted goods",
+      "restricted exports",
+      "prohibited imports",
+      "diplomatic goods"
+    ],
+    correct: 1
+  },
+  {
+    id: 28,
+    question: "Warehoused goods, goods under duty drawback, and transshipped goods should not be exported in vessels of less than:",
+    options: [
+      "50 tons register",
+      "100 tons register",
+      "250 tons register",
+      "500 tons register"
+    ],
+    correct: 2
+  },
+  {
+    id: 29,
+    question: "Which of the following is NOT one of the reasons stated in the notes for prohibiting or restricting goods?",
+    options: [
+      "Health reasons",
+      "Political reasons",
+      "Safety and security reasons",
+      "Entertainment reasons"
+    ],
+    correct: 3
+  },
+  {
+    id: 30,
+    question: "Which of the following is one of the stated reasons for prohibition or restriction?",
+    options: [
+      "Social reasons",
+      "Personal reasons of the importer",
+      "Lack of warehouse space",
+      "Choice of shipping line"
+    ],
+    correct: 0
+  },
+  {
+    id: 31,
+    question: "Which of the following is one of the stated reasons for prohibition or restriction?",
+    options: [
+      "Economic reasons",
+      "Crew preference",
+      "Airline schedules",
+      "Size of packaging only"
+    ],
+    correct: 0
+  },
+  {
+    id: 32,
+    question: "Which of the following is one of the stated reasons for prohibition or restriction?",
+    options: [
+      "Environmental and agricultural reasons",
+      "Port congestion only",
+      "Foreign exchange only",
+      "Lack of Form C17"
+    ],
+    correct: 0
+  },
+  {
+    id: 33,
+    question: "If a good is restricted, this means:",
+    options: [
+      "it is banned in all circumstances",
+      "it may be cleared if the required conditions are fulfilled",
+      "it can bypass Customs",
+      "it must be destroyed immediately"
+    ],
+    correct: 1
+  },
+  {
+    id: 34,
+    question: "If a good is prohibited, this means:",
+    options: [
+      "it may enter after payment of extra duty",
+      "it may be imported with an invoice only",
+      "it is not allowed under the law",
+      "it must first go to a transit shed"
+    ],
+    correct: 2
+  },
+  {
+    id: 35,
+    question: "Which of the following goods is associated mainly with biodiversity and conservation control?",
+    options: [
+      "Worked ivory",
+      "Counterfeit money",
+      "White phosphorus matches",
+      "Pornographic media"
+    ],
+    correct: 0
+  },
+  {
+    id: 36,
+    question: "Which of the following goods is most directly linked to biosafety regulation?",
+    options: [
+      "Genetically modified products",
+      "Counterfeit currency",
+      "Scrap cables",
+      "White phosphorus matches"
+    ],
+    correct: 0
+  },
+  {
+    id: 37,
+    question: "Which of the following is most clearly a security-related restricted item?",
+    options: [
+      "Arms and ammunition",
+      "Fresh fish",
+      "Timber",
+      "Wood charcoal"
+    ],
+    correct: 0
+  },
+  {
+    id: 38,
+    question: "Which of the following is most clearly a health-related prohibited item?",
+    options: [
+      "Distilled beverages containing injurious chemical products",
+      "Timber",
+      "Worked ivory",
+      "Precious stones"
+    ],
+    correct: 0
+  },
+  {
+    id: 39,
+    question: "Which statement is correct?",
+    options: [
+      "All restricted goods are prohibited",
+      "All prohibited goods are restricted",
+      "Restricted goods may be allowed if conditions are met",
+      "Prohibited goods may be cleared by paying warehouse rent"
+    ],
+    correct: 2
+  },
+  {
+    id: 40,
+    question: "Which of the following is an example of a good that would typically require permit-based clearance?",
+    options: [
+      "Restricted goods",
+      "Only diplomatic bags",
+      "Human remains only",
+      "All uncustomed goods"
+    ],
+    correct: 0
+  },
+  {
+    id: 41,
+    question: "A shipment of endangered animal products arrives without the required authority. Under the notes, the goods should be treated as:",
+    options: [
+      "freely importable",
+      "restricted goods lacking the necessary clearance conditions",
+      "home-use goods",
+      "perishable exempt cargo"
+    ],
+    correct: 1
+  },
+  {
+    id: 42,
+    question: "A person attempts to export scrap copper conductors. According to the notes, these are:",
+    options: [
+      "prohibited exports",
+      "restricted imports",
+      "exempt exports",
+      "transit-only goods"
+    ],
+    correct: 0
+  },
+  {
+    id: 43,
+    question: "Fresh unprocessed fish such as Nile perch and tilapia are listed as:",
+    options: [
+      "prohibited imports",
+      "restricted exports",
+      "unrestricted exports",
+      "prohibited coastwise goods"
+    ],
+    correct: 1
+  },
+  {
+    id: 44,
+    question: "Traps capable of killing or capturing game animals are:",
+    options: [
+      "prohibited in all cases",
+      "restricted and require a written permit",
+      "exempt where declared verbally",
+      "allowed only by rail"
+    ],
+    correct: 1
+  },
+  {
+    id: 45,
+    question: "Postal franking machines are:",
+    options: [
+      "prohibited goods",
+      "restricted goods that require a written permit",
+      "duty-free goods",
+      "goods cleared without entry"
+    ],
+    correct: 1
+  },
+  {
+    id: 46,
+    question: "Bone, tortoise shell, horn, antlers, coral, and mother-of-pearl articles are treated as:",
+    options: [
+      "prohibited goods",
+      "restricted goods",
+      "postal articles",
+      "transit shed exceptions"
+    ],
+    correct: 1
+  },
+  {
+    id: 47,
+    question: "Which of the following best describes how prohibited imports should generally be handled?",
+    options: [
+      "Cleared after payment of double duty",
+      "Cleared after entry in C17",
+      "Not allowed and subject to enforcement action",
+      "Automatically warehoused for 21 days"
+    ],
+    correct: 2
+  },
+  {
+    id: 48,
+    question: "Which of the following best describes how restricted imports should generally be handled?",
+    options: [
+      "They are always destroyed",
+      "They may be cleared once the required approvals are obtained",
+      "They are never examined by Customs",
+      "They do not require documentation"
+    ],
+    correct: 1
+  },
+  {
+    id: 49,
+    question: "Which pair is correctly matched?",
+    options: [
+      "Counterfeit currency — restricted good",
+      "Worked ivory — restricted good",
+      "Pornographic media — restricted good",
+      "Scrap copper conductors — unrestricted export"
+    ],
+    correct: 1
+  },
+  {
+    id: 50,
+    question: "Which statement best reflects the overall purpose of controlling prohibited and restricted goods?",
+    options: [
+      "To make all trade impossible",
+      "To ensure goods move without any checks",
+      "To protect society, revenue, security, health, and the environment through legal control of trade",
+      "To replace all partner government agencies"
+    ],
+    correct: 2
+  }
+];

@@ -1,0 +1,8 @@
+export interface LessonProgress {
+  id: string;
+  user_id: string;
+  module_id: string;
+  lesson_id: string;
+  completed: boolean;
+  completed_at: Date | null;
+}

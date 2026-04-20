@@ -1,0 +1,367 @@
+Topic 8: Transit Shed, Regimes, and Warehousing
+
+Topic goal: By the end of this topic, the learner should be able to:
+- explain the legal status of goods in a transit shed,
+- identify who remains responsible for such goods,
+- state the consequences of failing to account for goods,
+- distinguish the main import Customs regimes,
+- explain warehousing concepts, including warehousing in situ,
+- compute and interpret Customs warehouse rent basics.
+
+Topic total XP: 600 base XP
+Mastery bonus: +50 XP
+Perfect boss bonus: +100 XP
+
+Step 1: Learn
+Purpose: introduce transit shed responsibility, regimes, and warehousing basics clearly.
+Lesson format: 6 learning cards + 4 micro-checks
+Estimated time: 4–6 minutes
+Pass type: completion-based
+XP: up to 100
+
+Learning cards
+
+Card 1: Goods in a transit shed
+- goods in a transit shed are deemed to be in the importing vessel or aircraft until delivered
+- the owner or agent remains responsible
+
+Card 2: Failure to account for goods
+- if goods reported for discharge are not duly unloaded and deposited in a transit shed or Customs area, the master/agent must pay duty unless a satisfactory explanation is given
+- failure to account for goods in custody is an offence
+
+Card 3: Condemned goods and costs
+- owner of vessel/aircraft, agent, or transit shed owner is liable for costs of reshipment or destruction of condemned goods
+- failure to meet those costs is an offence
+
+Card 4: Main import Customs regimes
+- imports for home use
+- temporary imports
+- re-imports
+- warehousing
+
+Card 5: Sub-regimes and special movements
+- ex-warehouse home use
+- ex-EPZ home use
+- ex-MUB home use
+- entry into MUB/EPZ
+- transfers between MUBs or EPZs
+
+Card 6: Customs warehouse rent
+- after the 21 working day period, goods may be deemed to be in a Customs warehouse
+- Customs Warehouse Date is the 22nd working day from discharge
+- rent formula uses CBM, rate, days, and exchange rate
+
+Micro-check examples
+- Who remains responsible for goods in a transit shed?
+- What happens if goods are not duly unloaded?
+- Name one import Customs regime.
+- On which day does Customs warehouse status start?
+
+Pass rule
+Complete all cards and answer at least 3 out of 4 micro-checks correctly.
+
+Reward
+- 70 XP for completion
+- +30 XP for full micro-check accuracy
+
+Step 2: Recall
+Purpose: lock in core legal rules and categories.
+Lesson format: 10 short questions
+Estimated time: 4–6 minutes
+Pass threshold: 60%
+XP: up to 100
+
+Challenge types
+- multiple choice
+- true/false
+- choose the correct regime
+- identify the correct liability/rule
+
+Example questions
+
+1. Goods in a transit shed are deemed to be in the:
+   A. warehouse only
+   B. importing vessel or aircraft until delivered
+   C. consignee's premises
+   D. Customs office permanently
+
+2. Who remains responsible for goods in a transit shed?
+   A. only the proper officer
+   B. the owner or agent
+   C. only the consignee
+   D. only the warehouse rent clerk
+
+3. If goods reported for discharge are not duly unloaded and deposited in a transit shed or Customs area, the master/agent must:
+   A. automatically destroy the goods
+   B. pay duty unless satisfactory explanation is given
+   C. issue a transire
+   D. amend the Treaty
+
+4. Which of the following is an import Customs regime?
+   A. home use
+   B. rummaging
+   C. boarding station
+   D. last port of call
+
+5. The Customs Warehouse Date is the:
+   A. 21st calendar day
+   B. 22nd working day
+   C. 30th day
+   D. date of payment only
+
+Reward
+- 60 XP for pass
+- +20 XP for 80%+
+- +20 XP for first-try pass
+
+Step 3: Match and Distinguish
+Purpose: separate related regimes and warehousing concepts.
+Lesson format: 8 matching tasks + 4 distinction tasks
+Estimated time: 5–7 minutes
+Pass threshold: 70%
+XP: up to 100
+
+Matching tasks
+Match the item to the correct meaning:
+- transit shed → goods deemed still in importing vessel/aircraft until delivered
+- home use → goods declared for use in a Partner State
+- temporary importation → goods imported for return in unaltered state or repair
+- re-importation → goods returning after temporary export or rejection/repair
+- warehousing → deposit/storage under Customs warehousing regime
+- MUB → manufacturing under bond movements
+- EPZ → export processing zone movements
+- Customs Warehouse Date → 22nd working day from discharge
+
+Distinction tasks
+Separate:
+- transit shed vs Customs warehouse
+- home use vs warehousing
+- temporary import vs re-import
+- entered but not removed vs unentered cargo
+
+Example distinction question
+Which statement is correct?
+A. A transit shed and a Customs warehouse always mean exactly the same thing
+B. Goods in a transit shed are deemed still in the importing vessel/aircraft until delivery, while a Customs warehouse is a place for deposit of specified goods under Customs control
+C. Temporary import is the same as re-import in every case
+D. Warehouse rent starts on the day of discharge
+
+Reward
+- 70 XP for pass
+- +10 XP for first-half perfect
+- +20 XP for full accuracy
+
+Step 4: Scenario Challenge
+Purpose: apply the rules to practical storage and regime situations.
+Lesson format: 6 scenario questions
+Estimated time: 6–8 minutes
+Pass threshold: 70%
+XP: up to 100
+
+Example scenarios
+
+Scenario 1
+Goods have been discharged and placed in a transit shed but not yet delivered. In law, they are still deemed to be in the:
+A. consignee's shop
+B. importing vessel or aircraft
+C. Customs officer's custody only
+D. railway wagon only
+
+Scenario 2
+The agent cannot account for goods that were in his custody in the transit shed. Under the notes, this may amount to:
+A. normal clearance
+B. an offence
+C. automatic duty exemption
+D. a lawful re-import
+
+Scenario 3
+Goods were imported, entered, but not removed from the port after the prescribed 21 working days. What is the effect?
+A. they become passenger baggage
+B. they are deemed to be in a Customs warehouse
+C. they become coastwise goods
+D. they are automatically abandoned to the importer
+
+Scenario 4
+An importer brings in goods for use temporarily and later return in the same state. Which regime best fits?
+A. home use
+B. temporary importation for return in unaltered state
+C. rejected export
+D. warehouse rent waiver
+
+Scenario 5
+Goods are returning after temporary export for repair, and a repair charge was raised. Which regime best fits?
+A. re-importation after temporary export for repair
+B. home use tax free
+C. coastwise transfer
+D. prohibited goods
+
+Scenario 6
+A 40 ft container remains beyond the free period and rent becomes chargeable. Which concept is now central?
+A. CITES control
+B. Customs warehouse rent
+C. passenger list
+D. crew declaration
+
+Reward
+- 70 XP for pass
+- +15 XP first try
+- +15 XP for all correct
+
+Step 5: Timed Sprint
+Purpose: build speed on regimes, liability, and warehouse-rent basics.
+Lesson format: 15 quick prompts
+Estimated time: 2–3 minutes
+Timer: 90–120 seconds
+Pass threshold: 10/15
+XP: up to 100
+
+Prompt style
+Fast-response items like:
+- Goods in transit shed deemed to be in ?
+- Responsible person = ?
+- Not accounted for in custody = ?
+- Main regime for use in country = ?
+- Return in unaltered state = ?
+- Goods coming back after temporary export = ?
+- 22nd working day = ?
+- Storage charges after free period = ?
+- Entry into EPZ from foreign = ?
+- Ex-warehouse home use = ?
+- Costs of destruction/reshipment paid by ?
+
+UX feel
+- cargo/warehouse icons
+- countdown bar
+- combo streak meter
+- "rent clock" visual for warehouse-date items
+
+Reward
+- 50 XP for pass
+- +20 XP speed bonus
+- +20 XP combo streak
+- +10 XP perfect run
+
+Step 6: Boss Challenge
+Purpose: prove mastery and unlock Topic 9.
+Lesson format: 12 mixed questions
+Estimated time: 7–10 minutes
+Pass threshold: 75%
+XP: up to 100
+
+Question mix
+- 4 direct recall questions
+- 3 regime-identification questions
+- 3 scenario questions
+- 2 trap questions
+
+Example boss questions
+1. What is the legal status of goods in a transit shed?
+2. Who remains responsible for goods in a transit shed?
+3. What happens if goods reported for discharge are not duly unloaded and deposited?
+4. Name the four main import Customs regimes.
+5. Give one example under temporary imports.
+6. Give one example under re-imports.
+7. What is warehousing in situ?
+8. When does Customs warehouse rent start to apply?
+9. What is the Customs Warehouse Date?
+10. State the warehouse rent formula in principle.
+
+Trap questions
+- "Goods in a transit shed are already fully delivered to the owner in law."
+- "The 21 days for warehouse rent are ordinary calendar days, so weekends and public holidays count."
+
+Unlock rule
+- 75%+ = Topic 9 unlocked
+- 85%+ = Topic 8 marked mastered
+- 100% = perfect badge
+
+Reward
+- 70 XP for pass
+- +30 XP for 90%+
+- +50 topic completion bonus
+- +100 perfect boss bonus if full marks
+
+Bonus mini-section inside Topic 8: Warehouse rent calculation basics
+This should appear in the review or boss section.
+
+The learner should know:
+- 21 days are working days, not calendar days
+- weekends and public holidays are excluded
+- Customs Warehouse Date = 22nd working day from discharge
+- rent formula: CBM × number of rent days × rate per CBM × exchange rate
+- simplified expression from the notes: $0.3 × exchange rate × CBM × number of days
+
+This is a great area for future calculation drills.
+
+Key facts this topic should reinforce
+By the end, the learner should know:
+- goods in a transit shed are deemed to remain in the importing vessel/aircraft until delivery
+- owner or agent remains responsible
+- failure to account for goods in custody is an offence
+- master/agent may have to pay duty if goods are not duly unloaded and deposited, unless explanation is satisfactory
+- costs of reshipment or destruction of condemned goods may fall on the owner/agent/transit shed owner
+- main regimes are:
+  * home use
+  * temporary imports
+  * re-imports
+  * warehousing
+- special regimes include ex-warehouse home use, ex-EPZ, ex-MUB, and transfers between EPZs/MUBs
+- Customs warehouse date is the 22nd working day
+- warehouse rent is based on space, time, rate, and exchange rate
+
+Topic 8 progress math
+Since Topic 8 has 6 steps:
+- 1 step completed = 16.7% of Topic 8
+- all 6 steps = 100% of Topic 8
+
+For the full chapter with 72 steps:
+- 1 completed step = 1.39% of whole chapter
+- full Topic 8 = 8.33% of whole chapter
+
+If the learner completes Topics 1–8 fully:
+- 8 topics done = 66.67% of the whole chapter
+
+Best UI behavior for Topic 8
+On the path map
+Topic 8 should feel like a storage/control zone.
+
+Suggested icon
+Use:
+- warehouse building
+- container stack
+- storage clock
+- or transit shed bay
+
+This visually signals custody, storage, regimes, and rent.
+
+Node labels
+- Learn
+- Recall
+- Match
+- Scenario
+- Timed Sprint
+- Boss
+
+Celebration moments
+- Step clear = warehouse stamp animation
+- Topic clear = "Warehousing Specialist" badge
+- Perfect boss = gold warehouse/container badge
+
+Suggested content density for Topic 8
+A strong first version:
+- Step 1: 10 interactions
+- Step 2: 10 questions
+- Step 3: 12 interactions
+- Step 4: 6 scenarios
+- Step 5: 15 rapid prompts
+- Step 6: 12 boss questions
+
+That gives about 65 total interactions.
+
+Why Topic 8 matters
+This topic teaches the learner what happens to goods after arrival but before final release, especially where custody, delay, storage, and liability are involved. It is important because many exam and practice questions turn on:
+- who is still responsible,
+- when goods are deemed warehoused,
+- and when storage charges start.
+
+It is one of the most practical operations topics in the chapter.
