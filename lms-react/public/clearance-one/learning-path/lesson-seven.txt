@@ -1,0 +1,295 @@
+Topic 6: Amendments, Short Landed, Excess Landed, and Coasting
+
+Topic goal: By the end of this topic, the learner should be able to:
+- explain when an inward report may be amended,
+- identify the documents and fee for amendment,
+- distinguish short landed from excess landed cargo,
+- explain the supplementary manifest process,
+- define coasting vessels/aircraft and transire,
+- apply these rules in practical Customs scenarios.
+
+Topic total XP: 600 base XP 
+Mastery bonus: +50 XP 
+Perfect boss bonus: +100 XP
+
+Step 1: Learn
+Purpose: introduce the irregular cargo situations and coasting rules simply.
+Lesson format: 6 learning cards + 4 micro-checks
+Estimated time: 4–6 minutes 
+Pass type: completion-based 
+XP: up to 100
+
+Learning cards
+Card 1: Amendment of inward report
+- the proper officer may permit amendment of destination, ownership, or status of goods
+- obvious errors or omissions may also be amended
+
+Card 2: Amendment process
+- shipping line/airline agent submits request
+- details are filled in
+- supporting documents attached
+- reasons given online
+- officer approves
+- amendment fee paid
+
+Card 3: Supporting documents and fee
+- manifest corrector
+- affidavit
+- fee: USD 10
+
+Card 4: Short landed cargo
+- manifested cargo that is not physically on board for unloading
+
+Card 5: Excess landed cargo
+- cargo not manifested but physically on board for unloading
+- handled through a supplementary manifest
+- supplementary manifest fee: USD 10
+
+Card 6: Coasting vessels and aircraft
+- goods moved by sea or air from one part of a Partner State to another are carried coastwise
+- the authorizing document is transire
+- transire also serves as clearance for coastwise voyage
+
+Micro-check examples
+- What is short landed cargo?
+- What is excess landed cargo?
+- What document regularizes excess landed cargo?
+- What authorizes coastwise carriage?
+
+Pass rule
+Complete all cards and answer at least 3 out of 4 micro-checks correctly.
+
+Reward
+70 XP for completion
++30 XP for full micro-check accuracy
+
+Step 2: Recall
+Purpose: lock in definitions, steps, and fees.
+Lesson format: 10 short questions
+Estimated time: 4–6 minutes 
+Pass threshold: 60% 
+XP: up to 100
+
+Challenge types
+- multiple choice
+- true/false
+- choose the correct term
+- identify fee/document
+
+Example questions
+- Short landed cargo is cargo that: A. was not manifested but is physically on board B. was manifested but is not physically on board for unloading C. was destroyed in warehouse D. is carried coastwise
+- Excess landed cargo is cargo that: A. was manifested but missing B. was not manifested but is physically on board for unloading C. is prohibited export cargo D. is only passenger baggage
+- An inward report amendment requires supporting documents such as: A. passenger list and C7 B. manifest corrector and affidavit C. CITES permit and invoice only D. transire only
+- The amendment fee for inward report is: A. USD 3 B. USD 5 C. USD 10 D. USD 20
+- Excess landed cargo is regularized by: A. C17 B. supplementary manifest C. crew list D. certificate of origin
+
+Reward
+60 XP for pass
++20 XP for 80%+
++20 XP for first-try pass
+
+Step 3: Match and Distinguish
+Purpose: help the learner separate very similar concepts.
+Lesson format: 8 matching tasks + 4 distinction tasks
+Estimated time: 5–7 minutes 
+Pass threshold: 70% 
+XP: up to 100
+
+Matching tasks
+Match the item to the correct meaning:
+- short landed cargo → manifested but absent physically for unloading
+- excess landed cargo → unmanifested but physically present for unloading
+- manifest corrector → supports amendment request
+- affidavit → supports amendment request
+- supplementary manifest → regularizes excess landed cargo
+- transire → authorizes coastwise carriage
+- USD 10 → amendment fee
+- USD 10 → supplementary manifest fee
+
+Distinction tasks
+Separate:
+- short landed vs excess landed
+- inward report amendment vs supplementary manifest
+- coasting goods vs foreign import cargo
+- approved coastwise movement vs irregular landed cargo
+
+Example distinction question
+Which statement is correct? 
+A. Short landed cargo is cargo not manifested but physically present 
+B. Excess landed cargo is cargo manifested but missing physically 
+C. Short landed cargo is manifested cargo not physically on board for unloading 
+D. Supplementary manifest is used for passenger baggage
+
+Reward
+70 XP for pass
++10 XP for first-half perfect
++20 XP for full accuracy
+
+Step 4: Scenario Challenge
+Purpose: move from definitions to applied Customs reasoning.
+Lesson format: 6 scenario questions
+Estimated time: 6–8 minutes 
+Pass threshold: 70% 
+XP: up to 100
+
+Example scenarios
+Scenario 1: A cargo item appears on the manifest, but when the vessel arrives it is not physically on board for unloading. What is the correct term? A. Excess landed cargo B. Short landed cargo C. Coastwise goods D. Warehoused cargo
+
+Scenario 2: A package is found on board for unloading, but it was never included in the manifest. What is the correct term? A. Short landed cargo B. Excess landed cargo C. Passenger baggage D. Temporary import
+
+Scenario 3: A shipping line wants to correct an obvious error in the inward report. What must usually support the request? A. Transire and C17 B. Manifest corrector and affidavit C. Passenger list only D. Warehouse rent receipt
+
+Scenario 4: A vessel carries goods by sea from one part of a Partner State to another part of the same Partner State. These goods are: A. prohibited imports B. carried coastwise C. excess landed cargo D. short landed cargo
+
+Scenario 5: The master wants authority to carry goods coastwise from one port to another within a Partner State. Which document is needed? A. C36 B. transire C. C7 D. supplementary manifest
+
+Scenario 6: Excess landed cargo has been discovered. What is the proper next document-based action? A. create a supplementary manifest B. issue a passenger list C. apply for warehouse rent waiver D. prepare Form C6
+
+Reward
+70 XP for pass
++15 XP first try
++15 XP for all correct
+
+Step 5: Timed Sprint
+Purpose: build fast recognition of key distinctions.
+Lesson format: 15 quick prompts
+Estimated time: 2–3 minutes 
+Timer: 90–120 seconds 
+Pass threshold: 10/15 
+XP: up to 100
+
+Prompt style
+Fast-response items like:
+- Manifested but missing physically = ?
+- Present physically but not manifested = ?
+- Fee for amendment = ?
+- Fee for supplementary manifest = ?
+- Supports amendment request = ?
+- Coastwise movement authorization = ?
+- Sea/air movement within Partner State = ?
+- Transire also serves as ?
+- Correcting obvious inward report error = ?
+- Excess landed regularization = ?
+
+UX feel
+- quick taps
+- red/green cargo icons
+- combo streak meter
+- stopwatch countdown
+- "coastwise unlocked" animation on streaks
+
+Reward
+50 XP for pass
++20 XP speed bonus
++20 XP combo streak
++10 XP perfect run
+
+Step 6: Boss Challenge
+Purpose: prove mastery and unlock Topic 7.
+Lesson format: 12 mixed questions
+Estimated time: 7–10 minutes 
+Pass threshold: 75% 
+XP: up to 100
+
+Question mix
+- 4 direct recall questions
+- 3 distinction questions
+- 3 scenario questions
+- 2 trap questions
+
+Example boss questions
+- What may be amended in an inward report?
+- Which documents support amendment of inward report?
+- What is the amendment fee?
+- Define short landed cargo.
+- Define excess landed cargo.
+- What document regularizes excess landed cargo?
+- What is the fee for a supplementary manifest?
+- What does "carried coastwise" mean?
+- What is transire?
+- Besides authorizing carriage, what else does transire serve as for a coasting vessel or aircraft?
+
+Trap questions
+- "Short landed cargo is cargo that was never manifested."
+- "Excess landed cargo is corrected by an inward report amendment only, never by supplementary manifest."
+
+Unlock rule
+75%+ = Topic 7 unlocked
+85%+ = Topic 6 marked mastered
+100% = perfect badge
+
+Reward
+70 XP for pass
++30 XP for 90%+
++50 topic completion bonus
++100 perfect boss bonus if full marks
+
+Key facts this topic should reinforce
+By the end, the learner should know:
+- inward reports may be amended for destination, ownership, status of goods, and obvious errors/omissions
+- amendment support documents: manifest corrector + affidavit
+- amendment fee: USD 10
+- short landed cargo = manifested but physically absent for unloading
+- excess landed cargo = not manifested but physically present for unloading
+- excess landed cargo is handled by supplementary manifest
+- supplementary manifest fee: USD 10
+- coastwise carriage means movement by sea or air from one part of a Partner State to another
+- transire authorizes coastwise carriage and serves as clearance for that voyage
+
+Topic 6 progress math
+Since Topic 6 has 6 steps:
+- 1 step completed = 16.7% of Topic 6
+- all 6 steps = 100% of Topic 6
+
+For the full chapter with 72 steps:
+- 1 completed step = 1.39% of whole chapter
+- full Topic 6 = 8.33% of whole chapter
+
+If the learner completes Topics 1–6 fully:
+- 6 topics done = 50% of the whole chapter
+
+Best UI behavior for Topic 6
+On the path map
+Topic 6 should feel like a "problem-solving" zone because it deals with irregularities and corrections.
+
+Suggested icon
+Use:
+- split cargo box
+- correction pen over manifest
+- ship with warning marker
+- or route arrows
+
+This visually signals cargo discrepancies and coastwise movement.
+
+Node labels
+- Learn
+- Recall
+- Match
+- Scenario
+- Timed Sprint
+- Boss
+
+Celebration moments
+- Step clear = manifest correction stamp
+- Topic clear = "Cargo Irregularities Expert" badge
+- Perfect boss = gold transire/manifest icon
+
+Suggested content density for Topic 6
+A strong first version:
+- Step 1: 10 interactions
+- Step 2: 10 questions
+- Step 3: 12 interactions
+- Step 4: 6 scenarios
+- Step 5: 15 rapid prompts
+- Step 6: 12 boss questions
+
+That gives about 65 total interactions.
+
+Why Topic 6 matters
+This topic teaches the learner how Customs handles cargo when things do not go exactly as planned. It builds confidence in:
+- correcting records,
+- identifying discrepancies,
+- choosing the right legal remedy,
+- and understanding coastwise movement rules.
+
+It is the first big "irregular situations" topic in the chapter.

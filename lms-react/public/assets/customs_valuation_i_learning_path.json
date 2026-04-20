@@ -1,0 +1,1365 @@
+{
+  "topic": "Customs Valuation I",
+  "format": "duolingo_style_learning_path",
+  "source": "Customs Valuation I.pdf",
+  "design_principles": {
+    "structure": "map_based_progression",
+    "progression_style": "foundations_to_transaction_value_to_adjustments_to_documentation_to_application",
+    "lesson_pattern": [
+      "learn",
+      "match",
+      "quiz",
+      "scenario",
+      "checkpoint"
+    ],
+    "scoring": {
+      "xp_per_micro_lesson": 10,
+      "xp_per_quiz": 15,
+      "xp_per_scenario": 20,
+      "xp_per_checkpoint": 30,
+      "perfect_lesson_bonus": 5,
+      "streak_bonus_every_5_days": 20
+    },
+    "hearts_system": {
+      "starting_hearts": 5,
+      "heart_loss_per_wrong_answer": 1,
+      "heart_recovery": [
+        "practice_old_lesson",
+        "daily_review",
+        "wait_timer"
+      ]
+    },
+    "mastery_levels": [
+      "introduced",
+      "practicing",
+      "strong",
+      "mastered"
+    ]
+  },
+  "course_outcomes": [
+    "Explain the meaning and importance of customs valuation",
+    "Describe the history, objectives, and structure of the WTO Customs Valuation Agreement",
+    "Apply transaction value and identify when it may or may not be used",
+    "Explain Article 8 adjustments including commissions, containers, assists, royalties, proceeds, and optional adjustments",
+    "Use documentation properly in customs valuation analysis"
+  ],
+  "units": [
+    {
+      "unit_id": 1,
+      "title": "Introduction to Customs Valuation",
+      "theme": "Foundations",
+      "unlock_rule": "available_from_start",
+      "unit_goal": "Understand what customs valuation is and why it matters in customs administration.",
+      "recommended_days": 2,
+      "lessons": [
+        {
+          "lesson_id": "1.1",
+          "title": "Meaning of Customs Value",
+          "type": "learn",
+          "goal": "Understand the meaning of customs value.",
+          "skills": [
+            "customs value",
+            "worth of goods",
+            "basis of duty assessment"
+          ],
+          "micro_steps": [
+            "Define customs value",
+            "Connect customs value to imported goods",
+            "Explain why customs value matters in declaration and assessment"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "1.2",
+          "title": "Ad Valorem Duties",
+          "type": "learn",
+          "goal": "Understand the relationship between customs value and ad valorem duty.",
+          "skills": [
+            "ad valorem",
+            "assessment base",
+            "duty calculation"
+          ],
+          "micro_steps": [
+            "Define ad valorem duty",
+            "Explain how customs value becomes the duty base",
+            "Differentiate ad valorem thinking from specific-rate thinking"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "1.3",
+          "title": "Why Valuation Rules Matter",
+          "type": "learn",
+          "goal": "Understand why uniform customs valuation rules were needed.",
+          "skills": [
+            "uniformity",
+            "fairness",
+            "trade certainty"
+          ],
+          "micro_steps": [
+            "Explain why different valuation systems caused problems",
+            "Explain why arbitrary customs values distort trade",
+            "Explain why traders need certainty"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "1.4",
+          "title": "Foundation Match",
+          "type": "match",
+          "goal": "Match basic customs valuation ideas to their meanings.",
+          "skills": [
+            "core term recognition"
+          ],
+          "micro_steps": [
+            "Match customs value to duty basis",
+            "Match ad valorem to percentage-based duty",
+            "Match fair valuation to trade neutrality"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "1.5",
+          "title": "Unit 1 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show you understand the foundations of customs valuation.",
+          "skills": [
+            "foundation mastery"
+          ],
+          "micro_steps": [
+            "Define customs value",
+            "Explain why it is important",
+            "Explain why consistent valuation rules are necessary"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 2,
+      "title": "History and Objectives of Customs Valuation",
+      "theme": "Legal Background",
+      "unlock_rule": "complete_unit_1_checkpoint",
+      "unit_goal": "Understand how the WTO customs valuation system developed and what it seeks to achieve.",
+      "recommended_days": 3,
+      "lessons": [
+        {
+          "lesson_id": "2.1",
+          "title": "Historical Development",
+          "type": "learn",
+          "goal": "Understand the historical development of customs valuation systems.",
+          "skills": [
+            "BDV",
+            "Tokyo Round",
+            "Uruguay Round",
+            "WTO"
+          ],
+          "micro_steps": [
+            "Recognize earlier valuation systems such as the Brussels Definition of Value",
+            "Explain the Tokyo Round shift toward positive valuation rules",
+            "Explain the Uruguay Round and the WTO Customs Valuation Agreement"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "2.2",
+          "title": "Article VII and WTO Context",
+          "type": "learn",
+          "goal": "Understand the legal source of WTO customs valuation.",
+          "skills": [
+            "GATT Article VII",
+            "WTO valuation agreement",
+            "trade facilitation"
+          ],
+          "micro_steps": [
+            "Identify Article VII as the legal foundation",
+            "Explain the connection between GATT and WTO valuation rules",
+            "Explain why customs valuation affects trade access"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "2.3",
+          "title": "Objectives and Principles",
+          "type": "learn",
+          "goal": "Understand the major objectives and general principles of the Agreement.",
+          "skills": [
+            "fairness",
+            "uniformity",
+            "neutrality",
+            "commercial practice"
+          ],
+          "micro_steps": [
+            "Explain fair, uniform, and neutral valuation",
+            "Explain why transaction value is preferred",
+            "Explain the need for simple and equitable criteria consistent with commercial practice"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "2.4",
+          "title": "History and Objective Match",
+          "type": "match",
+          "goal": "Match historical stages and principles correctly.",
+          "skills": [
+            "timeline mapping",
+            "principle recall"
+          ],
+          "micro_steps": [
+            "Match Tokyo Round to price actually paid or payable",
+            "Match Uruguay Round to WTO valuation agreement",
+            "Match fairness and neutrality to the objectives of the Agreement"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "2.5",
+          "title": "Unit 2 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Demonstrate understanding of the history and objectives of customs valuation.",
+          "skills": [
+            "legal history mastery"
+          ],
+          "micro_steps": [
+            "Explain how customs valuation rules developed",
+            "Explain the role of Article VII",
+            "Explain the main objectives of the Agreement"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 3,
+      "title": "Structure of the WTO Customs Valuation Agreement",
+      "theme": "Agreement Architecture",
+      "unlock_rule": "complete_unit_2_checkpoint",
+      "unit_goal": "Understand the parts, annexes, and core article groupings of the Agreement.",
+      "recommended_days": 2,
+      "lessons": [
+        {
+          "lesson_id": "3.1",
+          "title": "Main Parts of the Agreement",
+          "type": "learn",
+          "goal": "Identify the main parts of the WTO Customs Valuation Agreement.",
+          "skills": [
+            "Part I",
+            "Part II",
+            "Part III",
+            "Part IV"
+          ],
+          "micro_steps": [
+            "Identify what Part I covers",
+            "Identify what Part II covers",
+            "Identify what Part III and Part IV cover"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "3.2",
+          "title": "Article Map",
+          "type": "learn",
+          "goal": "Understand the major article groupings within the Agreement.",
+          "skills": [
+            "Articles 1-8",
+            "Articles 9-17",
+            "Articles 18-24"
+          ],
+          "micro_steps": [
+            "Identify Articles 1 to 8 as the valuation methods area",
+            "Identify Articles 9 to 17 as supporting rules",
+            "Identify Articles 18 to 24 as administration, treatment, and final provisions"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "3.3",
+          "title": "Annexes and Notes",
+          "type": "learn",
+          "goal": "Understand the role of the annexes and interpretative notes.",
+          "skills": [
+            "Annex I",
+            "Annex II",
+            "Annex III",
+            "interpretative notes"
+          ],
+          "micro_steps": [
+            "Explain Annex I",
+            "Explain Annex II",
+            "Explain Annex III and the place of interpretative notes"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "3.4",
+          "title": "Structure Match",
+          "type": "match",
+          "goal": "Match parts and annexes to their functions.",
+          "skills": [
+            "agreement structure recall"
+          ],
+          "micro_steps": [
+            "Match Part I to valuation rules",
+            "Match Part II to administration and dispute settlement",
+            "Match Annex I to interpretative notes"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "3.5",
+          "title": "Unit 3 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show that you understand the structure of the Agreement.",
+          "skills": [
+            "structure mastery"
+          ],
+          "micro_steps": [
+            "List the main parts",
+            "Explain the role of articles 1 to 8",
+            "Explain the role of the annexes"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 4,
+      "title": "The Six Methods of Valuation",
+      "theme": "Core Framework",
+      "unlock_rule": "complete_unit_3_checkpoint",
+      "unit_goal": "Learn the six valuation methods and the rule of sequential application.",
+      "recommended_days": 3,
+      "lessons": [
+        {
+          "lesson_id": "4.1",
+          "title": "Method 1 to Method 6",
+          "type": "learn",
+          "goal": "Memorize the six customs valuation methods.",
+          "skills": [
+            "transaction value",
+            "identical goods",
+            "similar goods",
+            "deductive value",
+            "computed value",
+            "fallback"
+          ],
+          "micro_steps": [
+            "Name Method 1 to Method 6",
+            "Recognize transaction value as primary",
+            "Recognize fallback as the last resort"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "4.2",
+          "title": "Sequential Application",
+          "type": "learn",
+          "goal": "Understand that the methods are generally applied in order.",
+          "skills": [
+            "hierarchy",
+            "sequence",
+            "reversal of Articles 5 and 6"
+          ],
+          "micro_steps": [
+            "Explain the rule of sequential application",
+            "Explain why customs cannot skip methods arbitrarily",
+            "Recognize the importer’s option to request reversal of Articles 5 and 6"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "4.3",
+          "title": "Method Order Match",
+          "type": "match",
+          "goal": "Place the valuation methods in the correct order.",
+          "skills": [
+            "method ordering"
+          ],
+          "micro_steps": [
+            "Match Method 1 to transaction value",
+            "Place identical and similar goods correctly",
+            "Place deductive, computed, and fallback correctly"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "4.4",
+          "title": "Methods Quiz",
+          "type": "quiz",
+          "goal": "Test your understanding of the six methods.",
+          "skills": [
+            "method recall",
+            "order recall"
+          ],
+          "micro_steps": [
+            "Identify the six methods",
+            "Identify the order",
+            "Recognize which method has primacy"
+          ],
+          "xp": 15
+        },
+        {
+          "lesson_id": "4.5",
+          "title": "Unit 4 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Demonstrate mastery of the valuation methods and their sequence.",
+          "skills": [
+            "method mastery"
+          ],
+          "micro_steps": [
+            "List all six methods in order",
+            "Explain why transaction value comes first",
+            "Explain the special reversal option for Articles 5 and 6"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 5,
+      "title": "Transaction Value: Core Concept",
+      "theme": "Method 1",
+      "unlock_rule": "complete_unit_4_checkpoint",
+      "unit_goal": "Understand the transaction value method as the primary valuation method.",
+      "recommended_days": 4,
+      "lessons": [
+        {
+          "lesson_id": "5.1",
+          "title": "Meaning of Transaction Value",
+          "type": "learn",
+          "goal": "Define transaction value accurately.",
+          "skills": [
+            "Article 1",
+            "price actually paid or payable",
+            "sold for export",
+            "Article 8 adjustments"
+          ],
+          "micro_steps": [
+            "Define transaction value",
+            "Identify its basic components",
+            "Connect it to Article 8 adjustments"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "5.2",
+          "title": "Three Key Elements",
+          "type": "learn",
+          "goal": "Understand the three core elements needed for transaction value.",
+          "skills": [
+            "sale",
+            "sale for export",
+            "price actually paid or payable"
+          ],
+          "micro_steps": [
+            "Identify the sale requirement",
+            "Identify the sale for export requirement",
+            "Identify the price actually paid or payable requirement"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "5.3",
+          "title": "Why Transaction Value Is Preferred",
+          "type": "learn",
+          "goal": "Understand why transaction value is the starting point.",
+          "skills": [
+            "commercial reality",
+            "actual transaction",
+            "primary method"
+          ],
+          "micro_steps": [
+            "Explain why transaction value is the primary method",
+            "Explain how it reflects the actual transaction",
+            "Explain why it best matches the value of the goods being valued"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "5.4",
+          "title": "Transaction Value Match",
+          "type": "match",
+          "goal": "Match the elements of transaction value correctly.",
+          "skills": [
+            "concept mapping"
+          ],
+          "micro_steps": [
+            "Match sale to ownership transfer for a price",
+            "Match sale for export to the importing country",
+            "Match price actually paid or payable to total payment"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "5.5",
+          "title": "Unit 5 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show that you understand the concept and structure of transaction value.",
+          "skills": [
+            "transaction value foundation mastery"
+          ],
+          "micro_steps": [
+            "Define transaction value",
+            "Explain its three key elements",
+            "Explain why it is the preferred method"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 6,
+      "title": "Transaction Value: Application",
+      "theme": "Sale, Export, and Price",
+      "unlock_rule": "complete_unit_5_checkpoint",
+      "unit_goal": "Apply transaction value in practical valuation situations.",
+      "recommended_days": 5,
+      "lessons": [
+        {
+          "lesson_id": "6.1",
+          "title": "Concept of Sale",
+          "type": "learn",
+          "goal": "Understand what counts as a sale for customs valuation purposes.",
+          "skills": [
+            "sale concept",
+            "ownership transfer",
+            "price"
+          ],
+          "micro_steps": [
+            "Explain the commercial meaning of sale",
+            "Recognize that not all movements of goods involve a sale",
+            "Connect sale to transfer of ownership for a price"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "6.2",
+          "title": "Situations That Are Not Usually Sales",
+          "type": "learn",
+          "goal": "Recognize import situations where transaction value usually cannot be used because there is no sale.",
+          "skills": [
+            "consignment",
+            "intermediaries",
+            "branch transfers",
+            "hire/lease",
+            "loan",
+            "destruction imports",
+            "barter"
+          ],
+          "micro_steps": [
+            "Identify consignment as generally not a sale at importation",
+            "Identify branch transfers as possible non-sales",
+            "Identify leasing, loans, destruction imports, and barter complexities"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "6.3",
+          "title": "Sale for Export",
+          "type": "learn",
+          "goal": "Understand the requirement that the goods be sold for export to the country of importation.",
+          "skills": [
+            "sale for export",
+            "country of importation",
+            "international movement"
+          ],
+          "micro_steps": [
+            "Explain what sold for export means",
+            "Recognize that seller location may differ",
+            "Focus on the export purpose of the sale"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "6.4",
+          "title": "Price Actually Paid or Payable",
+          "type": "learn",
+          "goal": "Understand the price element in transaction value.",
+          "skills": [
+            "direct payment",
+            "indirect payment",
+            "discounts",
+            "credits",
+            "split shipments"
+          ],
+          "micro_steps": [
+            "Explain price actually paid or payable",
+            "Recognize direct and indirect payments",
+            "Recognize discounts and credits",
+            "Understand split shipment implications"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "6.5",
+          "title": "Application Scenario Lab",
+          "type": "scenario",
+          "goal": "Apply Article 1 to practical fact patterns.",
+          "skills": [
+            "case recognition",
+            "sale analysis",
+            "price analysis"
+          ],
+          "micro_steps": [
+            "Decide whether a sale exists",
+            "Decide whether the sale is for export",
+            "Identify whether the price element is acceptable"
+          ],
+          "xp": 20
+        },
+        {
+          "lesson_id": "6.6",
+          "title": "Unit 6 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Demonstrate ability to apply transaction value to practical situations.",
+          "skills": [
+            "transaction value application mastery"
+          ],
+          "micro_steps": [
+            "Identify whether a transaction qualifies as a sale",
+            "Explain sale for export",
+            "Explain price actually paid or payable in real examples"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 7,
+      "title": "Restrictions, Conditions, Proceeds, and Related Parties",
+      "theme": "Limits on Method 1",
+      "unlock_rule": "complete_unit_6_checkpoint",
+      "unit_goal": "Understand the major Article 1 limits on use of transaction value.",
+      "recommended_days": 4,
+      "lessons": [
+        {
+          "lesson_id": "7.1",
+          "title": "Restrictions on Disposition or Use",
+          "type": "learn",
+          "goal": "Understand what kinds of restrictions do and do not prevent use of transaction value.",
+          "skills": [
+            "law-based restrictions",
+            "geographical restrictions",
+            "substantial effect"
+          ],
+          "micro_steps": [
+            "Identify the permitted categories of restrictions",
+            "Explain the idea of substantial effect on value",
+            "Recognize the need for case-by-case assessment"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "7.2",
+          "title": "Conditions and Considerations",
+          "type": "learn",
+          "goal": "Understand conditions that may prevent transaction value from being used.",
+          "skills": [
+            "conditions",
+            "considerations",
+            "non-determinable value"
+          ],
+          "micro_steps": [
+            "Explain what a problematic condition is",
+            "Recognize examples involving linked purchases or pricing based on other goods",
+            "Explain why non-determinable value causes difficulty"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "7.3",
+          "title": "Proceeds and Related Parties",
+          "type": "learn",
+          "goal": "Understand proceeds of subsequent resale and related-party influence.",
+          "skills": [
+            "Article 1.1(c)",
+            "Article 1.1(d)",
+            "relationship influence"
+          ],
+          "micro_steps": [
+            "Explain proceeds of subsequent resale",
+            "Explain why an Article 8 adjustment may be needed",
+            "Explain why related-party sales are tested by whether the relationship influenced the price"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "7.4",
+          "title": "Related Persons Rules",
+          "type": "learn",
+          "goal": "Learn the main legal categories of related persons.",
+          "skills": [
+            "family",
+            "partners",
+            "employer-employee",
+            "common control",
+            "5 percent voting stock"
+          ],
+          "micro_steps": [
+            "Identify legal categories of related persons",
+            "Recognize direct and indirect control",
+            "Recall the 5 percent voting stock test"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "7.5",
+          "title": "Restriction and Relationship Match",
+          "type": "match",
+          "goal": "Sort transaction value limits into the correct categories.",
+          "skills": [
+            "Article 1 structure recall"
+          ],
+          "micro_steps": [
+            "Match restriction types correctly",
+            "Match condition examples correctly",
+            "Match related-party criteria correctly"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "7.6",
+          "title": "Unit 7 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show you understand when Article 1 may fail or need closer examination.",
+          "skills": [
+            "Article 1 limits mastery"
+          ],
+          "micro_steps": [
+            "Explain restrictions and conditions",
+            "Explain proceeds of subsequent resale",
+            "Explain related-party influence on price"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 8,
+      "title": "Article 8 Adjustments: General Rules",
+      "theme": "Adjustment Framework",
+      "unlock_rule": "complete_unit_7_checkpoint",
+      "unit_goal": "Understand the overall logic of Article 8 adjustments.",
+      "recommended_days": 3,
+      "lessons": [
+        {
+          "lesson_id": "8.1",
+          "title": "What Article 8 Does",
+          "type": "learn",
+          "goal": "Understand the role of Article 8 in customs valuation.",
+          "skills": [
+            "adjustments",
+            "price paid or payable",
+            "not already included"
+          ],
+          "micro_steps": [
+            "Explain why Article 8 is read together with Article 1",
+            "Explain that adjustments are added when criteria are met",
+            "Explain why additions cannot be made twice"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "8.2",
+          "title": "General Conditions for Additions",
+          "type": "learn",
+          "goal": "Understand when an adjustment may lawfully be made.",
+          "skills": [
+            "incurred by buyer",
+            "not already included",
+            "objective and quantifiable data"
+          ],
+          "micro_steps": [
+            "Explain that the cost must be incurred by the buyer",
+            "Explain that it must not already be included",
+            "Explain objective and quantifiable data"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "8.3",
+          "title": "No Unlisted Additions",
+          "type": "learn",
+          "goal": "Understand the closed nature of Article 8 additions.",
+          "skills": [
+            "closed list",
+            "no arbitrary additions"
+          ],
+          "micro_steps": [
+            "Explain that only Article 8 additions may be made",
+            "Explain why customs cannot add costs outside Article 8",
+            "Connect this rule to valuation certainty"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "8.4",
+          "title": "Adjustment Rule Match",
+          "type": "match",
+          "goal": "Match the three general requirements for lawful additions.",
+          "skills": [
+            "adjustment criteria recall"
+          ],
+          "micro_steps": [
+            "Match buyer-incurred costs",
+            "Match not already included",
+            "Match objective and quantifiable data"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "8.5",
+          "title": "Unit 8 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Demonstrate control over the general rules for Article 8 additions.",
+          "skills": [
+            "Article 8 general mastery"
+          ],
+          "micro_steps": [
+            "Explain the purpose of Article 8",
+            "List the three conditions for additions",
+            "Explain why additions outside Article 8 are not allowed"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 9,
+      "title": "Article 8 Adjustments: Commissions, Containers, and Assists",
+      "theme": "Compulsory Additions",
+      "unlock_rule": "complete_unit_8_checkpoint",
+      "unit_goal": "Understand the first group of compulsory Article 8 additions.",
+      "recommended_days": 4,
+      "lessons": [
+        {
+          "lesson_id": "9.1",
+          "title": "Commissions and Brokerage",
+          "type": "learn",
+          "goal": "Understand buying commissions, selling commissions, and brokerage.",
+          "skills": [
+            "buying commission",
+            "selling commission",
+            "brokerage",
+            "agency analysis"
+          ],
+          "micro_steps": [
+            "Differentiate buying and selling commissions",
+            "Explain why buying commissions are excluded",
+            "Explain brokerage and why customs must examine the facts carefully"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "9.2",
+          "title": "Containers and Packaging",
+          "type": "learn",
+          "goal": "Understand the treatment of container and packing costs.",
+          "skills": [
+            "containers",
+            "packing materials",
+            "packing labor"
+          ],
+          "micro_steps": [
+            "Explain what counts as a container under Article 8",
+            "Explain the nature of packing costs",
+            "Identify examples of retail and export packing"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "9.3",
+          "title": "Assists",
+          "type": "learn",
+          "goal": "Understand the concept and categories of assists.",
+          "skills": [
+            "materials",
+            "tools",
+            "consumed items",
+            "engineering and design"
+          ],
+          "micro_steps": [
+            "Define assists",
+            "List the categories of assists",
+            "Explain why assists must be apportioned reasonably",
+            "Explain how imported and domestically produced assists can differ in treatment"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "9.4",
+          "title": "Assist Apportionment",
+          "type": "learn",
+          "goal": "Understand how the value of assists is measured and apportioned.",
+          "skills": [
+            "reasonable apportionment",
+            "prior use",
+            "repair/modification",
+            "leased assists"
+          ],
+          "micro_steps": [
+            "Explain how prior use affects assist value",
+            "Explain repair or modification costs",
+            "Explain how leased or developed assists may be valued",
+            "Explain documentation for apportionment"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "9.5",
+          "title": "Compulsory Additions Match",
+          "type": "match",
+          "goal": "Sort Article 8.1(a) and 8.1(b) items correctly.",
+          "skills": [
+            "adjustment classification"
+          ],
+          "micro_steps": [
+            "Match buying commission to exclusion",
+            "Match selling commission to inclusion",
+            "Match containers and packing to addition",
+            "Match assists to addition"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "9.6",
+          "title": "Unit 9 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show you understand commissions, containers, and assists in customs valuation.",
+          "skills": [
+            "Article 8 compulsory additions mastery"
+          ],
+          "micro_steps": [
+            "Explain buying vs selling commission",
+            "Explain containers and packing",
+            "Explain assists and their apportionment"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 10,
+      "title": "Article 8 Adjustments: Royalties, Proceeds, and Optional Adjustments",
+      "theme": "Advanced Additions",
+      "unlock_rule": "complete_unit_9_checkpoint",
+      "unit_goal": "Understand the more complex Article 8 additions and the role of transport terms.",
+      "recommended_days": 4,
+      "lessons": [
+        {
+          "lesson_id": "10.1",
+          "title": "Royalties and Licence Fees",
+          "type": "learn",
+          "goal": "Understand when royalties and licence fees form part of customs value.",
+          "skills": [
+            "related to goods",
+            "condition of sale",
+            "not already included"
+          ],
+          "micro_steps": [
+            "Explain the three-part test for royalties",
+            "Recognize intellectual property examples",
+            "Differentiate royalties that relate to the goods from those that do not"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "10.2",
+          "title": "Rights to Reproduce and Distribute",
+          "type": "learn",
+          "goal": "Understand the special treatment of reproduction and distribution rights.",
+          "skills": [
+            "reproduction rights",
+            "distribution rights",
+            "condition of sale"
+          ],
+          "micro_steps": [
+            "Explain why reproduction rights in the importing country are usually excluded",
+            "Explain when distribution rights may still be added",
+            "Connect both issues to the condition-of-sale test"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "10.3",
+          "title": "Proceeds of Subsequent Resale",
+          "type": "learn",
+          "goal": "Understand proceeds under Article 8.1(d).",
+          "skills": [
+            "proceeds",
+            "subsequent resale",
+            "seller benefit"
+          ],
+          "micro_steps": [
+            "Define proceeds of subsequent resale",
+            "Differentiate proceeds from unrelated financial payments",
+            "Explain why Article 8 adjustment may be required"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "10.4",
+          "title": "Optional Adjustments and Incoterms",
+          "type": "learn",
+          "goal": "Understand Article 8.2 optional adjustments and the role of delivery terms.",
+          "skills": [
+            "freight",
+            "insurance",
+            "loading and handling",
+            "FOB",
+            "CIF",
+            "CFR",
+            "DDP",
+            "EXW"
+          ],
+          "micro_steps": [
+            "List optional adjustments under Article 8.2",
+            "Explain why FOB and CIF matter for customs valuation",
+            "Explain treatment of transport, insurance, and storage costs"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "10.5",
+          "title": "Advanced Adjustment Scenario Lab",
+          "type": "scenario",
+          "goal": "Apply advanced Article 8 rules to practical situations.",
+          "skills": [
+            "royalty analysis",
+            "proceeds analysis",
+            "delivery term analysis"
+          ],
+          "micro_steps": [
+            "Decide whether a royalty is dutiable",
+            "Decide whether a later payment is a proceed",
+            "Use Incoterms to decide whether freight or insurance is already included"
+          ],
+          "xp": 20
+        },
+        {
+          "lesson_id": "10.6",
+          "title": "Unit 10 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Demonstrate understanding of royalties, proceeds, and optional adjustments.",
+          "skills": [
+            "advanced Article 8 mastery"
+          ],
+          "micro_steps": [
+            "Explain the royalty test",
+            "Explain proceeds of subsequent resale",
+            "Explain optional adjustments and the role of delivery terms"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 11,
+      "title": "Documentation in Customs Valuation",
+      "theme": "Evidence and Verification",
+      "unlock_rule": "complete_unit_10_checkpoint",
+      "unit_goal": "Understand the role of documents in establishing and verifying customs value.",
+      "recommended_days": 3,
+      "lessons": [
+        {
+          "lesson_id": "11.1",
+          "title": "Importance of Documents",
+          "type": "learn",
+          "goal": "Understand why documentation matters in customs valuation.",
+          "skills": [
+            "evidence",
+            "clearance",
+            "audit",
+            "ownership",
+            "statistics",
+            "intelligence"
+          ],
+          "micro_steps": [
+            "Define document and document check",
+            "Explain why documents matter for customs valuation",
+            "Explain wider customs functions supported by documents"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "11.2",
+          "title": "Core International Trade Documents",
+          "type": "learn",
+          "goal": "Identify the key documents used in customs valuation work.",
+          "skills": [
+            "commercial invoice",
+            "purchase order",
+            "sales contract",
+            "proforma invoice",
+            "bill of lading",
+            "packing list",
+            "receipt",
+            "insurance certificate"
+          ],
+          "micro_steps": [
+            "Identify the most important valuation documents",
+            "Explain what information each document typically contains",
+            "Connect documents to the elements of transaction value"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "11.3",
+          "title": "Reading Documents for Valuation",
+          "type": "learn",
+          "goal": "Understand what customs looks for in supporting documents.",
+          "skills": [
+            "quantity",
+            "description",
+            "terms of delivery",
+            "terms of payment",
+            "country of origin",
+            "marks and numbers",
+            "HS code",
+            "shipment timing"
+          ],
+          "micro_steps": [
+            "Identify key information fields used in valuation analysis",
+            "Explain why payment terms and Incoterms matter",
+            "Explain how customs cross-checks documents"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "11.4",
+          "title": "Document Match",
+          "type": "match",
+          "goal": "Match documents to the valuation facts they help establish.",
+          "skills": [
+            "document-function mapping"
+          ],
+          "micro_steps": [
+            "Match commercial invoice to price and sale details",
+            "Match bill of lading to shipment details",
+            "Match packing list to quantity and packaging details",
+            "Match sales contract or purchase order to contractual conditions"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "11.5",
+          "title": "Unit 11 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show you understand how documents support customs valuation.",
+          "skills": [
+            "documentation mastery"
+          ],
+          "micro_steps": [
+            "Explain why documents matter",
+            "Identify key trade documents",
+            "Explain how documents support transaction value verification"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 12,
+      "title": "Grand Mastery Path",
+      "theme": "Full Synthesis",
+      "unlock_rule": "complete_unit_11_checkpoint",
+      "unit_goal": "Bring the entire Customs Valuation I topic together for revision and exam readiness.",
+      "recommended_days": 4,
+      "lessons": [
+        {
+          "lesson_id": "12.1",
+          "title": "Method and Agreement Quiz",
+          "type": "quiz",
+          "goal": "Review the Agreement structure and the six valuation methods.",
+          "skills": [
+            "agreement recall",
+            "method recall"
+          ],
+          "micro_steps": [
+            "Recall the parts of the Agreement",
+            "Recall the six methods",
+            "Recall the rule of sequence"
+          ],
+          "xp": 15
+        },
+        {
+          "lesson_id": "12.2",
+          "title": "Transaction Value Quiz",
+          "type": "quiz",
+          "goal": "Review Article 1 and the key limits on Method 1.",
+          "skills": [
+            "sale",
+            "sale for export",
+            "price actually paid or payable",
+            "restrictions",
+            "conditions",
+            "related parties"
+          ],
+          "micro_steps": [
+            "Apply Article 1 concepts",
+            "Recognize when Method 1 may fail",
+            "Recall related-party and proceeds issues"
+          ],
+          "xp": 15
+        },
+        {
+          "lesson_id": "12.3",
+          "title": "Article 8 Mixed Review",
+          "type": "quiz",
+          "goal": "Review compulsory and optional adjustments under Article 8.",
+          "skills": [
+            "commissions",
+            "containers",
+            "assists",
+            "royalties",
+            "proceeds",
+            "transport terms"
+          ],
+          "micro_steps": [
+            "Identify compulsory additions",
+            "Identify advanced additions",
+            "Apply objective and quantifiable data reasoning"
+          ],
+          "xp": 15
+        },
+        {
+          "lesson_id": "12.4",
+          "title": "Integrated Valuation Scenario Lab",
+          "type": "scenario",
+          "goal": "Analyze a full customs valuation scenario from start to finish.",
+          "skills": [
+            "full-case analysis",
+            "document use",
+            "transaction value analysis",
+            "adjustment analysis"
+          ],
+          "micro_steps": [
+            "Determine whether Method 1 applies",
+            "Identify relevant Article 8 additions or exclusions",
+            "Use documents to support the valuation decision"
+          ],
+          "xp": 20
+        },
+        {
+          "lesson_id": "12.5",
+          "title": "Grand Checkpoint",
+          "type": "checkpoint",
+          "goal": "Demonstrate complete understanding of Customs Valuation I.",
+          "skills": [
+            "full-topic synthesis"
+          ],
+          "micro_steps": [
+            "Explain customs valuation foundations",
+            "Explain the structure of the Agreement",
+            "Explain transaction value and its limits",
+            "Explain Article 8 adjustments",
+            "Explain the role of documentation"
+          ],
+          "xp": 30
+        },
+        {
+          "lesson_id": "12.6",
+          "title": "Legendary Review Path",
+          "type": "quiz",
+          "goal": "Final mixed review for long-term retention and exam readiness.",
+          "skills": [
+            "retention",
+            "mixed application",
+            "exam readiness"
+          ],
+          "micro_steps": [
+            "Mixed concept questions",
+            "Mixed transaction value questions",
+            "Mixed Article 8 questions",
+            "Mixed documentation questions"
+          ],
+          "xp": 15
+        }
+      ]
+    }
+  ],
+  "review_system": {
+    "daily_practice": {
+      "description": "Recycles weak lessons, commonly confused Article 1 conditions, related-party rules, and Article 8 adjustment categories.",
+      "daily_target_xp": 30
+    },
+    "spaced_repetition_buckets": [
+      {
+        "bucket": "same_day",
+        "trigger": "after first lesson completion"
+      },
+      {
+        "bucket": "next_day",
+        "trigger": "if learner scores below 80 percent"
+      },
+      {
+        "bucket": "three_day_review",
+        "trigger": "for all new concepts"
+      },
+      {
+        "bucket": "seven_day_review",
+        "trigger": "for all checkpoint skills"
+      },
+      {
+        "bucket": "mastery_refresh",
+        "trigger": "every 14 days for mastered units"
+      }
+    ]
+  },
+  "gamification": {
+    "badges": [
+      {
+        "name": "Valuation Starter",
+        "unlock": "complete Units 1 and 2"
+      },
+      {
+        "name": "Agreement Mapper",
+        "unlock": "complete Units 3 and 4"
+      },
+      {
+        "name": "Transaction Value Analyst",
+        "unlock": "complete Units 5 and 6"
+      },
+      {
+        "name": "Article 1 Inspector",
+        "unlock": "complete Unit 7"
+      },
+      {
+        "name": "Article 8 Specialist",
+        "unlock": "complete Units 8 to 10"
+      },
+      {
+        "name": "Document Verifier",
+        "unlock": "complete Unit 11"
+      },
+      {
+        "name": "Customs Valuation I Master",
+        "unlock": "complete Unit 12"
+      }
+    ],
+    "streak_rewards": [
+      {
+        "days": 3,
+        "reward": "bonus review chest"
+      },
+      {
+        "days": 7,
+        "reward": "checkpoint retry without heart loss"
+      },
+      {
+        "days": 14,
+        "reward": "legendary review unlock"
+      },
+      {
+        "days": 30,
+        "reward": "course mastery badge"
+      }
+    ]
+  },
+  "estimated_course_totals": {
+    "total_units": 12,
+    "total_lessons": 61,
+    "estimated_base_xp": 885,
+    "estimated_completion_days": 37
+  }
+}

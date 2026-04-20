@@ -1,0 +1,637 @@
+// Flashcards for History of Taxation - Tax and Customs Theory
+// Source: History of Taxation.pptx
+
+const flashcards = [
+  {
+    "id": 1,
+    "category": "Introduction",
+    "front": "For approximately how long have taxes existed according to the presentation?",
+    "back": "Taxes have existed for over 5,000 years."
+  },
+  {
+    "id": 2,
+    "category": "Introduction",
+    "front": "From what simple form did taxes evolve in ancient kingdoms according to the presentation?",
+    "back": "From simple grain levies."
+  },
+  {
+    "id": 3,
+    "category": "Introduction",
+    "front": "Which modern taxes are mentioned in the introduction as examples of complex tax systems?",
+    "back": "Income tax and value-added tax (VAT)."
+  },
+  {
+    "id": 4,
+    "category": "Introduction",
+    "front": "What does the development of taxation reflect according to the presentation?",
+    "back": "Changes in governance, economies, and social structures."
+  },
+  {
+    "id": 5,
+    "category": "Ancient Civilizations",
+    "front": "Why can the origins of taxation be traced to ancient civilizations?",
+    "back": "Because organized governance and resource allocation required formal systems for raising revenue."
+  },
+  {
+    "id": 6,
+    "category": "Ancient Civilizations",
+    "front": "What was the main purpose of early forms of taxation?",
+    "back": "To maintain societal structure and fund governmental activities."
+  },
+  {
+    "id": 7,
+    "category": "Mesopotamia",
+    "front": "What kinds of things were taxed in Mesopotamia according to the presentation?",
+    "back": "Agricultural produce and trade."
+  },
+  {
+    "id": 8,
+    "category": "Mesopotamia",
+    "front": "What were Mesopotamian taxes used to support?",
+    "back": "Public projects and military expenses."
+  },
+  {
+    "id": 9,
+    "category": "Ancient Greece",
+    "front": "What was taxation in Ancient Greece primarily levied on?",
+    "back": "Property and wealth."
+  },
+  {
+    "id": 10,
+    "category": "Ancient Greece",
+    "front": "What was the temporary wartime tax used in Ancient Greece called?",
+    "back": "Eisphora."
+  },
+  {
+    "id": 11,
+    "category": "Ancient Greece",
+    "front": "What was eisphora used to fund?",
+    "back": "Wartime expenses."
+  },
+  {
+    "id": 12,
+    "category": "Rome",
+    "front": "How does the presentation describe the Roman taxation system?",
+    "back": "As a comprehensive framework that played a major role in governance and economic stability of the Roman Empire."
+  },
+  {
+    "id": 13,
+    "category": "Rome",
+    "front": "What were direct taxes in Rome levied on?",
+    "back": "Individual wealth, property, or income."
+  },
+  {
+    "id": 14,
+    "category": "Rome",
+    "front": "What Roman tax was collected every five years based on property ownership?",
+    "back": "The census tax."
+  },
+  {
+    "id": 15,
+    "category": "Rome",
+    "front": "What were indirect taxes in Rome applied to?",
+    "back": "Goods and services."
+  },
+  {
+    "id": 16,
+    "category": "Rome",
+    "front": "Give examples of Roman indirect taxes mentioned in the presentation.",
+    "back": "Sales taxes and duties on imports and exports."
+  },
+  {
+    "id": 17,
+    "category": "Rome",
+    "front": "What was the tribute system in Rome?",
+    "back": "A system where subject territories paid tribute so economic resources flowed to Rome."
+  },
+  {
+    "id": 18,
+    "category": "Ancient Origins",
+    "front": "What form did taxes take in Egypt around 3000 BCE according to the presentation?",
+    "back": "Taxes were paid in grain and labor."
+  },
+  {
+    "id": 19,
+    "category": "Ancient Origins",
+    "front": "What were Egyptian taxes used to support?",
+    "back": "The state and religious institutions."
+  },
+  {
+    "id": 20,
+    "category": "Ancient Origins",
+    "front": "What did kings tax in Mesopotamia according to the later summary slide?",
+    "back": "Land and livestock."
+  },
+  {
+    "id": 21,
+    "category": "Ancient Origins",
+    "front": "How were Mesopotamian tax payments recorded?",
+    "back": "Scribes recorded them on clay tablets."
+  },
+  {
+    "id": 22,
+    "category": "Ancient Origins",
+    "front": "What kinds of taxes were common in Ancient Greece according to the summary slide?",
+    "back": "Wartime taxes on citizens and indirect taxes on goods and services."
+  },
+  {
+    "id": 23,
+    "category": "Ancient Origins",
+    "front": "Which taxes are listed as part of Rome's sophisticated system on the summary slide?",
+    "back": "Land taxes, poll taxes, and customs duties."
+  },
+  {
+    "id": 24,
+    "category": "Ancient Origins",
+    "front": "What was tax farming in Rome?",
+    "back": "A system where private individuals collected taxes for profit."
+  },
+  {
+    "id": 25,
+    "category": "Medieval Period",
+    "front": "What major forces shaped taxation during the Medieval Period?",
+    "back": "Social hierarchies, monarchies, feudal systems, and Church influence."
+  },
+  {
+    "id": 26,
+    "category": "Medieval Period",
+    "front": "Why were medieval taxes important to rulers?",
+    "back": "They were essential for state financing and maintaining authority."
+  },
+  {
+    "id": 27,
+    "category": "Feudal Taxes",
+    "front": "On whom were feudal taxes primarily levied?",
+    "back": "On vassals owing obligations to their lords."
+  },
+  {
+    "id": 28,
+    "category": "Feudal Taxes",
+    "front": "What kinds of obligations did vassals owe to their lords?",
+    "back": "Military service and financial payments."
+  },
+  {
+    "id": 29,
+    "category": "Feudal Taxes",
+    "front": "In what forms did taxation commonly appear in the Medieval Period?",
+    "back": "Land rents, agricultural produce, or labor contributions."
+  },
+  {
+    "id": 30,
+    "category": "Church Taxes",
+    "front": "What was the main Church tax in the Medieval Period?",
+    "back": "The tithe."
+  },
+  {
+    "id": 31,
+    "category": "Church Taxes",
+    "front": "How much was a tithe typically worth?",
+    "back": "One-tenth of an individual's income or produce."
+  },
+  {
+    "id": 32,
+    "category": "Church Taxes",
+    "front": "What did church tithes support?",
+    "back": "Ecclesiastical activities and the Church's political and social influence."
+  },
+  {
+    "id": 33,
+    "category": "Medieval Summary",
+    "front": "How were taxes tied to land in feudal Europe according to the summary slide?",
+    "back": "Taxes were tied to land ownership and feudal obligations, with lords collecting dues from peasants."
+  },
+  {
+    "id": 34,
+    "category": "Medieval Summary",
+    "front": "How did the Byzantine Empire maintain its bureaucracy according to the summary slide?",
+    "back": "Through land and trade taxes in a centralized tax system."
+  },
+  {
+    "id": 35,
+    "category": "Age of Enlightenment",
+    "front": "What marked the Age of Enlightenment in relation to taxation?",
+    "back": "A stronger emphasis on reason, individual rights, social responsibility, fairness, and efficiency in tax systems."
+  },
+  {
+    "id": 36,
+    "category": "Age of Enlightenment",
+    "front": "What traditional practices did Enlightenment thinkers question?",
+    "back": "Traditional tax practices that were unfair, inefficient, corrupt, or unclear."
+  },
+  {
+    "id": 37,
+    "category": "Age of Enlightenment",
+    "front": "What did Enlightenment thinkers mean by equity in taxation?",
+    "back": "Taxes should be proportionate to an individual's ability to pay."
+  },
+  {
+    "id": 38,
+    "category": "Age of Enlightenment",
+    "front": "Why did Enlightenment thinkers emphasize transparency in tax systems?",
+    "back": "To eliminate corruption and promote public trust."
+  },
+  {
+    "id": 39,
+    "category": "Age of Enlightenment",
+    "front": "What was the Enlightenment view of why taxes should exist?",
+    "back": "Taxes should fund essential public goods and state functions that benefit society as a whole."
+  },
+  {
+    "id": 40,
+    "category": "Early Modern Era",
+    "front": "What major tax innovation rose during the Early Modern Era?",
+    "back": "Income tax."
+  },
+  {
+    "id": 41,
+    "category": "Early Modern Era",
+    "front": "Why did income tax emerge in the Early Modern Era?",
+    "back": "As a response to increasing financial demands of governments."
+  },
+  {
+    "id": 42,
+    "category": "Early Modern Era",
+    "front": "How were early income taxes first used?",
+    "back": "Irregularly and mostly during wartime."
+  },
+  {
+    "id": 43,
+    "category": "Early Modern Era",
+    "front": "What happened to income tax after its early wartime use?",
+    "back": "It became a staple of fiscal policy."
+  },
+  {
+    "id": 44,
+    "category": "Early Modern Era",
+    "front": "Why did trade tariffs gain prominence in the Early Modern Era?",
+    "back": "Because governments used them to regulate markets, protect local industries, and generate revenue."
+  },
+  {
+    "id": 45,
+    "category": "Early Modern Era",
+    "front": "Why was the introduction of VAT crucial in the modernizing tax system?",
+    "back": "Because VAT streamlined tax collection and allowed governments to raise revenue more efficiently."
+  },
+  {
+    "id": 46,
+    "category": "Early Modern Summary",
+    "front": "What became a major source of revenue as global commerce expanded?",
+    "back": "Trade tariffs."
+  },
+  {
+    "id": 47,
+    "category": "Early Modern Summary",
+    "front": "Which simple direct levies continued into the Early Modern Era according to the summary slide?",
+    "back": "Poll taxes and land taxes."
+  },
+  {
+    "id": 48,
+    "category": "Early Modern Summary",
+    "front": "What 1776 event is highlighted as showing the link between taxation and political legitimacy?",
+    "back": "The American Revolution, including disputes such as the Boston Tea Party."
+  },
+  {
+    "id": 49,
+    "category": "Industrial Revolution",
+    "front": "Why did the Industrial Revolution have a profound impact on taxation?",
+    "back": "Because economic and social changes increased the need for organized revenue systems to support urban populations and infrastructure."
+  },
+  {
+    "id": 50,
+    "category": "Industrial Revolution",
+    "front": "Why did governments rely more heavily on taxation during the Industrial Revolution?",
+    "back": "Because the rise of factories and expansion of trade increased the need to fund public services."
+  },
+  {
+    "id": 51,
+    "category": "Industrial Revolution",
+    "front": "What did the Industrial Revolution facilitate in relation to taxation?",
+    "back": "The establishment of a more organized taxation system."
+  },
+  {
+    "id": 52,
+    "category": "Industrial Revolution",
+    "front": "Which forms of taxes were influenced by the Industrial Revolution according to the presentation?",
+    "back": "Income taxes, property taxes, and tariffs on goods."
+  },
+  {
+    "id": 53,
+    "category": "Industrial Age",
+    "front": "When was income tax first introduced in Britain according to the summary slide?",
+    "back": "In 1799."
+  },
+  {
+    "id": 54,
+    "category": "Industrial Age",
+    "front": "Why was Britain's 1799 income tax introduced?",
+    "back": "To fund wars."
+  },
+  {
+    "id": 55,
+    "category": "Industrial Age",
+    "front": "Which other taxes emerged with industrialization and mass production?",
+    "back": "Corporate taxes and excise taxes."
+  },
+  {
+    "id": 56,
+    "category": "Industrial Age",
+    "front": "What intellectual movement is linked to tax reform movements in the Industrial Age summary slide?",
+    "back": "The Age of Enlightenment."
+  },
+  {
+    "id": 57,
+    "category": "Contemporary Era",
+    "front": "When was VAT introduced in France according to the presentation?",
+    "back": "In the 1950s."
+  },
+  {
+    "id": 58,
+    "category": "Contemporary Era",
+    "front": "In approximately how many countries is VAT now used according to the presentation?",
+    "back": "Over 160 countries."
+  },
+  {
+    "id": 59,
+    "category": "Contemporary Era",
+    "front": "What are digital taxes designed to target according to the presentation?",
+    "back": "Tech giants and online commerce."
+  },
+  {
+    "id": 60,
+    "category": "Contemporary Era",
+    "front": "What are environmental taxes designed to do?",
+    "back": "Curb pollution and promote sustainability."
+  },
+  {
+    "id": 61,
+    "category": "Contemporary Era",
+    "front": "Which bodies are mentioned in relation to global tax coordination?",
+    "back": "The OECD and G20."
+  },
+  {
+    "id": 62,
+    "category": "Contemporary Era",
+    "front": "What is the goal of global tax coordination initiatives mentioned in the presentation?",
+    "back": "To prevent tax evasion and ensure fair taxation of multinational corporations."
+  },
+  {
+    "id": 63,
+    "category": "Key Themes",
+    "front": "What does the theme of administrative ease mean in tax evolution?",
+    "back": "Early taxes focused on assets that were easy to identify, such as land, imports, and headcount."
+  },
+  {
+    "id": 64,
+    "category": "Key Themes",
+    "front": "What does the theme of equity and justice mean in tax evolution?",
+    "back": "Modern systems aim for fairness through progressive taxation."
+  },
+  {
+    "id": 65,
+    "category": "Key Themes",
+    "front": "What does the theme of political power mean in tax evolution?",
+    "back": "Taxation has often sparked revolts and shaped governance."
+  },
+  {
+    "id": 66,
+    "category": "Key Themes",
+    "front": "What does the theme of economic strategy mean in tax evolution?",
+    "back": "Taxes influence trade, investment, and development priorities."
+  },
+  {
+    "id": 67,
+    "category": "Ancient to Modern Comparison",
+    "front": "What was a common feature of the earliest tax systems?",
+    "back": "They often taxed visible or easily measurable things such as grain, labor, land, livestock, imports, or headcount."
+  },
+  {
+    "id": 68,
+    "category": "Ancient to Modern Comparison",
+    "front": "What distinguishes modern tax systems from ancient grain levies according to the introduction?",
+    "back": "Modern systems are more complex and include taxes such as income tax and VAT."
+  },
+  {
+    "id": 69,
+    "category": "Comparison",
+    "front": "What is one major difference between Roman and medieval taxation according to the presentation?",
+    "back": "Roman taxation was more administratively structured and empire-wide, while medieval taxation was heavily shaped by feudal obligations and church influence."
+  },
+  {
+    "id": 70,
+    "category": "Comparison",
+    "front": "What is one major difference between medieval taxation and Enlightenment thinking on taxation?",
+    "back": "Medieval taxation emphasized obligations and authority, while Enlightenment thinking emphasized fairness, transparency, and ability to pay."
+  },
+  {
+    "id": 71,
+    "category": "Comparison",
+    "front": "What is one major difference between the Early Modern Era and the Contemporary Era in taxation?",
+    "back": "The Early Modern Era saw the rise of income tax and tariffs, while the Contemporary Era includes VAT, digital taxes, environmental taxes, and global coordination."
+  },
+  {
+    "id": 72,
+    "category": "Comparison",
+    "front": "How did the Industrial Revolution change tax systems compared with earlier eras?",
+    "back": "It increased the need for organized systems to support infrastructure, urban populations, and industrial economies."
+  },
+  {
+    "id": 73,
+    "category": "Political Legitimacy",
+    "front": "What historical event in the presentation shows that taxation can trigger political revolt?",
+    "back": "The American Revolution, including the Boston Tea Party."
+  },
+  {
+    "id": 74,
+    "category": "Political Legitimacy",
+    "front": "Why is the American Revolution relevant in the history of taxation?",
+    "back": "It highlights the connection between taxation and political legitimacy."
+  },
+  {
+    "id": 75,
+    "category": "Administrative Development",
+    "front": "Why were early taxes often imposed on land, imports, and headcount according to the key themes table?",
+    "back": "Because those assets or measures were relatively easy to identify and administer."
+  },
+  {
+    "id": 76,
+    "category": "Administrative Development",
+    "front": "Why did tax systems become more complex over time according to the closing insight?",
+    "back": "Because societies became more complex."
+  },
+  {
+    "id": 77,
+    "category": "Administrative Development",
+    "front": "According to the closing insight, what is the role of a tax officer in relation to tax complexity?",
+    "back": "To manage that complexity."
+  },
+  {
+    "id": 78,
+    "category": "Memory Aid",
+    "front": "What are the major eras of taxation covered in the presentation?",
+    "back": "Ancient Civilizations, Medieval Period, Age of Enlightenment, Early Modern Era, Industrial Age, and Contemporary Era."
+  },
+  {
+    "id": 79,
+    "category": "Memory Aid",
+    "front": "Which three ancient civilizations are highlighted in the presentation as early examples of taxation?",
+    "back": "Egypt, Mesopotamia, and Ancient Greece, with Rome also treated as a major ancient system."
+  },
+  {
+    "id": 80,
+    "category": "Memory Aid",
+    "front": "What are four major modern themes in tax evolution highlighted by the presentation?",
+    "back": "Administrative ease, equity and justice, political power, and economic strategy."
+  },
+  {
+    "id": 81,
+    "category": "Cause and Effect",
+    "front": "How did warfare influence taxation in ancient and early modern history according to the presentation?",
+    "back": "It led to temporary or emergency taxes such as eisphora in Ancient Greece and early income tax measures in wartime Britain."
+  },
+  {
+    "id": 82,
+    "category": "Cause and Effect",
+    "front": "How did trade expansion influence taxation across history according to the presentation?",
+    "back": "It increased the importance of tariffs, customs duties, and taxes on goods and services."
+  },
+  {
+    "id": 83,
+    "category": "Cause and Effect",
+    "front": "How did industrialization influence the types of taxes governments relied on?",
+    "back": "It expanded reliance on income taxes, property taxes, tariffs, corporate taxes, and excise taxes."
+  },
+  {
+    "id": 84,
+    "category": "Cause and Effect",
+    "front": "How did modern concerns about the environment influence taxation?",
+    "back": "They led to the creation of environmental taxes aimed at reducing pollution and promoting sustainability."
+  },
+  {
+    "id": 85,
+    "category": "Cause and Effect",
+    "front": "How has the digital economy influenced taxation according to the presentation?",
+    "back": "It has led to digital taxes targeting tech giants and online commerce."
+  },
+  {
+    "id": 86,
+    "category": "Chronology",
+    "front": "Which came earlier according to the presentation: church tithes or VAT in France?",
+    "back": "Church tithes came much earlier; VAT in France was introduced in the 1950s."
+  },
+  {
+    "id": 87,
+    "category": "Chronology",
+    "front": "Which came earlier according to the presentation: Roman census tax or British income tax of 1799?",
+    "back": "The Roman census tax came much earlier."
+  },
+  {
+    "id": 88,
+    "category": "Chronology",
+    "front": "Which came earlier according to the presentation: the American Revolution or global digital taxes?",
+    "back": "The American Revolution came much earlier."
+  },
+  {
+    "id": 89,
+    "category": "Chronology",
+    "front": "Which major tax innovation is associated with the Contemporary Era rather than the Industrial Age?",
+    "back": "Digital taxes and environmental taxes."
+  },
+  {
+    "id": 90,
+    "category": "Public Finance",
+    "front": "Why did ancient and medieval rulers need taxes according to the broad narrative of the presentation?",
+    "back": "To maintain governance, authority, religion, public works, military efforts, and state administration."
+  },
+  {
+    "id": 91,
+    "category": "Public Finance",
+    "front": "Why did modern governments increasingly rely on organized taxation systems according to the presentation?",
+    "back": "Because expanding economies, trade, urbanization, and public responsibilities increased financial demands on the state."
+  },
+  {
+    "id": 92,
+    "category": "Governance",
+    "front": "What does the history of taxation show about the relationship between tax and governance?",
+    "back": "That taxation develops alongside governance and is deeply tied to political authority, legitimacy, and public administration."
+  },
+  {
+    "id": 93,
+    "category": "Governance",
+    "front": "How does the presentation connect taxation with social structures?",
+    "back": "It shows that tax systems changed as social hierarchies, feudal obligations, church power, industrial society, and modern states evolved."
+  },
+  {
+    "id": 94,
+    "category": "Governance",
+    "front": "How does the presentation connect taxation with economic systems?",
+    "back": "It shows that taxation changed as economies moved from agrarian systems to trade-based, industrial, and digital economies."
+  },
+  {
+    "id": 95,
+    "category": "Equity",
+    "front": "Which historical period most strongly emphasized the idea that taxes should reflect ability to pay?",
+    "back": "The Age of Enlightenment."
+  },
+  {
+    "id": 96,
+    "category": "Equity",
+    "front": "Which modern key theme in the presentation reflects the Enlightenment concern for fairness?",
+    "back": "Equity and justice."
+  },
+  {
+    "id": 97,
+    "category": "Trade and Tariffs",
+    "front": "Why did trade tariffs become especially important in the Early Modern Era?",
+    "back": "Because expanding global commerce made them a major tool for revenue generation, market regulation, and protection of local industries."
+  },
+  {
+    "id": 98,
+    "category": "Trade and Tariffs",
+    "front": "Which ancient civilization in the presentation is specifically noted for duties on imports and exports?",
+    "back": "Rome."
+  },
+  {
+    "id": 99,
+    "category": "Trade and Tariffs",
+    "front": "How do the tariff examples in Rome and the Early Modern Era show continuity in taxation history?",
+    "back": "They show that taxing trade has long been used both for revenue and for control of commerce."
+  },
+  {
+    "id": 100,
+    "category": "Closing Insight",
+    "front": "What is the final insight the presentation gives about the complexity of tax systems?",
+    "back": "Tax systems did not become complex by accident; they became complex because societies became complex."
+  }
+];
+
+const categories = [
+  "Administrative Development",
+  "Age of Enlightenment",
+  "Ancient Civilizations",
+  "Ancient Greece",
+  "Ancient Origins",
+  "Ancient to Modern Comparison",
+  "Cause and Effect",
+  "Chronology",
+  "Church Taxes",
+  "Closing Insight",
+  "Comparison",
+  "Contemporary Era",
+  "Early Modern Era",
+  "Early Modern Summary",
+  "Equity",
+  "Feudal Taxes",
+  "Governance",
+  "Industrial Age",
+  "Industrial Revolution",
+  "Introduction",
+  "Key Themes",
+  "Medieval Period",
+  "Medieval Summary",
+  "Memory Aid",
+  "Mesopotamia",
+  "Political Legitimacy",
+  "Public Finance",
+  "Rome",
+  "Trade and Tariffs"
+];

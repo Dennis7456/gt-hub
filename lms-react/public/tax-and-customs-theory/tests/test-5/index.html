@@ -1,0 +1,170 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tax and Customs Theory 2026 - Overview of Customs - Main Test 5</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&display=swap" rel="stylesheet" />
+  <style>
+    * { font-family: 'Inter', sans-serif; }
+    
+    body {
+      background: #f8fafc;
+      color: #1e293b;
+      transition: background 0.3s, color 0.3s;
+    }
+
+    body.dark-mode {
+      background: #0f0f1a;
+      color: #e2e8f0;
+    }
+
+    .question-card {
+      transition: all 0.3s;
+    }
+
+    .option-btn {
+      transition: all 0.2s;
+    }
+
+    .option-btn:hover:not(.selected):not(.correct):not(.incorrect) {
+      background: #f1f5f9;
+      border-color: #cbd5e1;
+    }
+
+    body.dark-mode .option-btn:hover:not(.selected):not(.correct):not(.incorrect) {
+      background: rgba(255, 255, 255, 0.05);
+      border-color: rgba(255, 255, 255, 0.2);
+    }
+
+    .option-btn.selected {
+      background: #dbeafe;
+      border-color: #3b82f6;
+    }
+
+    body.dark-mode .option-btn.selected {
+      background: rgba(59, 130, 246, 0.2);
+      border-color: #3b82f6;
+    }
+
+    .option-btn.correct {
+      background: #dcfce7;
+      border-color: #22c55e;
+    }
+
+    body.dark-mode .option-btn.correct {
+      background: rgba(34, 197, 94, 0.2);
+      border-color: #22c55e;
+    }
+
+    .option-btn.incorrect {
+      background: #fee2e2;
+      border-color: #ef4444;
+    }
+
+    body.dark-mode .option-btn.incorrect {
+      background: rgba(239, 68, 68, 0.2);
+      border-color: #ef4444;
+    }
+
+    .header-light {
+      background: rgba(248, 250, 252, 0.8);
+      border-bottom: 1px solid #e2e8f0;
+    }
+
+    body.dark-mode .header-light {
+      background: rgba(15, 15, 26, 0.8);
+      border-bottom: 1px solid rgba(255, 255, 255, 0.1);
+    }
+  </style>
+</head>
+<body class="min-h-screen">
+
+  <!-- Header -->
+  <header class="header-light backdrop-blur-sm sticky top-0 z-30 px-4 sm:px-6 py-3 sm:py-4">
+    <div class="max-w-4xl mx-auto flex items-center justify-between">
+      <div>
+        <h1 class="text-base sm:text-lg font-semibold">Test 5: Tax and Customs Theory</h1>
+        <p class="text-xs text-slate-500 dark:text-slate-400">50 Questions · 50 Minutes</p>
+      </div>
+      <div class="flex items-center gap-3">
+        <button id="theme-toggle" class="p-2 rounded-lg hover:bg-black/5 dark:hover:bg-white/5 transition-all">
+          <svg id="sun-icon" class="w-5 h-5 hidden" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"/></svg>
+          <svg id="moon-icon" class="w-5 h-5" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"/></svg>
+        </button>
+        <div id="timer" class="text-sm font-semibold px-3 py-1.5 rounded-lg bg-indigo-600 text-white shadow-sm">
+          50:00
+        </div>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Content -->
+  <main class="max-w-4xl mx-auto px-4 sm:px-6 py-6 sm:py-8">
+    
+    <!-- Start Screen -->
+    <div id="start-screen" class="text-center py-12">
+      <div class="bg-white dark:bg-slate-800 rounded-2xl shadow-lg p-8 max-w-2xl mx-auto">
+        <h2 class="text-2xl font-bold mb-4 text-slate-900 dark:text-white">Ready to Start?</h2>
+        <p class="text-slate-600 dark:text-slate-300 mb-6">
+          This test contains 50 multiple-choice questions on Tax and Customs Theory.
+          You have 50 minutes to complete it.
+        </p>
+        <div class="text-left bg-slate-50 dark:bg-slate-700/50 rounded-lg p-4 mb-6">
+          <h3 class="font-semibold mb-2 text-slate-900 dark:text-white">Instructions:</h3>
+          <ul class="text-sm text-slate-600 dark:text-slate-300 space-y-1">
+            <li>• Answer all 50 multiple-choice questions.</li><li>• Difficulty increases gradually across the 12 tests.</li><li>• Choose the single best answer based on the presentation.</li><li>• Correct answers are distributed to avoid obvious patterns, including avoiding the same correct letter on consecutive questions.</li>
+          </ul>
+        </div>
+        <button id="start-btn" class="px-8 py-3 bg-indigo-600 hover:bg-indigo-500 text-white rounded-xl font-semibold transition-all">
+          Start Test
+        </button>
+      </div>
+    </div>
+
+    <!-- Results Screen -->
+    <div id="results-screen" class="hidden mb-8">
+      <div class="bg-white dark:bg-slate-800 rounded-2xl shadow-lg p-8">
+        <h2 class="text-2xl font-bold mb-6 text-center text-slate-900 dark:text-white">Test Results</h2>
+        <div class="grid grid-cols-1 sm:grid-cols-3 gap-4 mb-8">
+          <div class="text-center p-4 bg-green-50 dark:bg-green-900/20 rounded-xl">
+            <div class="text-3xl font-bold text-green-600 dark:text-green-400" id="correct-count">0</div>
+            <div class="text-sm text-slate-600 dark:text-slate-400">Correct</div>
+          </div>
+          <div class="text-center p-4 bg-red-50 dark:bg-red-900/20 rounded-xl">
+            <div class="text-3xl font-bold text-red-600 dark:text-red-400" id="incorrect-count">0</div>
+            <div class="text-sm text-slate-600 dark:text-slate-400">Incorrect</div>
+          </div>
+          <div class="text-center p-4 bg-indigo-50 dark:bg-indigo-900/20 rounded-xl">
+            <div class="text-3xl font-bold text-indigo-600 dark:text-indigo-400" id="score-percent">0%</div>
+            <div class="text-sm text-slate-600 dark:text-slate-400">Score</div>
+          </div>
+        </div>
+        <div class="flex gap-4 justify-center">
+          <button id="review-btn" class="px-6 py-2.5 bg-indigo-600 hover:bg-indigo-500 text-white rounded-xl font-medium transition-all">
+            Scroll to Questions
+          </button>
+          <button id="restart-btn" class="px-6 py-2.5 bg-slate-600 hover:bg-slate-500 text-white rounded-xl font-medium transition-all">
+            Restart Test
+          </button>
+        </div>
+      </div>
+    </div>
+
+    <!-- Questions Container -->
+    <div id="questions-container" class="hidden space-y-6"></div>
+
+    <!-- Submit Button -->
+    <div id="submit-container" class="hidden mt-8 text-center">
+      <button id="submit-btn" class="px-8 py-3 bg-green-600 hover:bg-green-500 text-white rounded-xl font-semibold transition-all">
+        Submit Test
+      </button>
+    </div>
+
+  </main>
+
+  <script src="questions.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

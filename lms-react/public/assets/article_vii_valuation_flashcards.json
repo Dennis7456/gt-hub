@@ -1,0 +1,696 @@
+{
+  "topic": "Agreement on Implementation of Article VII of GATT 1994",
+  "source": "20-val_260324_145743.pdf",
+  "flashcards": [
+    {
+      "id": 1,
+      "category": "Foundation",
+      "front": "What is the primary basis for customs value under the Agreement?",
+      "back": "The primary basis is transaction value as defined in Article 1."
+    },
+    {
+      "id": 2,
+      "category": "Foundation",
+      "front": "Why must Article 1 be read together with Article 8?",
+      "back": "Because Article 8 provides the adjustments that may need to be added to the price actually paid or payable when determining transaction value."
+    },
+    {
+      "id": 3,
+      "category": "Foundation",
+      "front": "What is the main purpose of the WTO Customs Valuation Agreement?",
+      "back": "To provide a fair, uniform, and neutral system for valuing goods for customs purposes and to prevent arbitrary or fictitious customs values."
+    },
+    {
+      "id": 4,
+      "category": "Foundation",
+      "front": "Why should customs value be based, as far as possible, on transaction value?",
+      "back": "Because transaction value reflects the actual commercial transaction for the goods being valued."
+    },
+    {
+      "id": 5,
+      "category": "Foundation",
+      "front": "What kind of criteria should customs valuation use according to the Agreement?",
+      "back": "Simple and equitable criteria consistent with commercial practices."
+    },
+    {
+      "id": 6,
+      "category": "Foundation",
+      "front": "Should valuation procedures be used to combat dumping?",
+      "back": "No. The Agreement states that valuation procedures should not be used to combat dumping."
+    },
+    {
+      "id": 7,
+      "category": "Article 1",
+      "front": "What is transaction value under Article 1?",
+      "back": "It is the price actually paid or payable for the goods when sold for export to the country of importation, adjusted in accordance with Article 8."
+    },
+    {
+      "id": 8,
+      "category": "Article 1",
+      "front": "What are the four main Article 1 conditions for accepting transaction value?",
+      "back": "No disqualifying restrictions, no undeterminable conditions, no unadjusted proceeds accruing to the seller, and no unacceptable related-party influence on price."
+    },
+    {
+      "id": 9,
+      "category": "Article 1",
+      "front": "What types of restrictions do not prevent use of transaction value under Article 1.1(a)?",
+      "back": "Restrictions imposed by law or public authorities, restrictions limiting geographical area of resale, and restrictions that do not substantially affect the value of the goods."
+    },
+    {
+      "id": 10,
+      "category": "Article 1",
+      "front": "What does Article 1.1(b) prohibit?",
+      "back": "It prevents use of transaction value when the sale or price is subject to a condition or consideration whose value cannot be determined with respect to the goods being valued."
+    },
+    {
+      "id": 11,
+      "category": "Article 1",
+      "front": "What does Article 1.1(c) deal with?",
+      "back": "It deals with proceeds of subsequent resale, disposal, or use of the goods that accrue directly or indirectly to the seller."
+    },
+    {
+      "id": 12,
+      "category": "Article 1",
+      "front": "Can transaction value still be used if proceeds accrue to the seller?",
+      "back": "Yes, if an appropriate adjustment can be made in accordance with Article 8."
+    },
+    {
+      "id": 13,
+      "category": "Article 1",
+      "front": "What is the rule in Article 1.1(d) about related parties?",
+      "back": "If buyer and seller are related, transaction value may still be used if it is acceptable for customs purposes under Article 1.2."
+    },
+    {
+      "id": 14,
+      "category": "Related Parties",
+      "front": "Does the mere fact that buyer and seller are related automatically make transaction value unacceptable?",
+      "back": "No. Relationship alone is not enough to reject transaction value."
+    },
+    {
+      "id": 15,
+      "category": "Related Parties",
+      "front": "What must customs examine when buyer and seller are related?",
+      "back": "Customs must examine the circumstances surrounding the sale to determine whether the relationship influenced the price."
+    },
+    {
+      "id": 16,
+      "category": "Related Parties",
+      "front": "What must customs do if it believes the relationship influenced the price?",
+      "back": "It must communicate its grounds to the importer and give the importer a reasonable opportunity to respond."
+    },
+    {
+      "id": 17,
+      "category": "Related Parties",
+      "front": "If the importer requests it, how must customs communicate its grounds in a related-party case?",
+      "back": "In writing."
+    },
+    {
+      "id": 18,
+      "category": "Related Parties",
+      "front": "What is one way the importer can show related-party transaction value is acceptable under Article 1.2(b)?",
+      "back": "By showing the value closely approximates the transaction value in sales to unrelated buyers of identical or similar goods for export to the same country of importation."
+    },
+    {
+      "id": 19,
+      "category": "Related Parties",
+      "front": "What are the three test values under Article 1.2(b)?",
+      "back": "Transaction value in sales to unrelated buyers of identical or similar goods, customs value under Article 5, and customs value under Article 6."
+    },
+    {
+      "id": 20,
+      "category": "Related Parties",
+      "front": "Can substitute values be established under Article 1.2(b)?",
+      "back": "No. The tests in Article 1.2(b) are used only for comparison purposes at the initiative of the importer."
+    },
+    {
+      "id": 21,
+      "category": "Methods",
+      "front": "How many main customs valuation methods are set out in Articles 1 through 7?",
+      "back": "Six methods."
+    },
+    {
+      "id": 22,
+      "category": "Methods",
+      "front": "What is Method 1?",
+      "back": "Transaction value under Article 1."
+    },
+    {
+      "id": 23,
+      "category": "Methods",
+      "front": "What is Method 2?",
+      "back": "Transaction value of identical goods under Article 2."
+    },
+    {
+      "id": 24,
+      "category": "Methods",
+      "front": "What is Method 3?",
+      "back": "Transaction value of similar goods under Article 3."
+    },
+    {
+      "id": 25,
+      "category": "Methods",
+      "front": "What is Method 4?",
+      "back": "Deductive value under Article 5."
+    },
+    {
+      "id": 26,
+      "category": "Methods",
+      "front": "What is Method 5?",
+      "back": "Computed value under Article 6."
+    },
+    {
+      "id": 27,
+      "category": "Methods",
+      "front": "What is Method 6?",
+      "back": "Fallback method under Article 7."
+    },
+    {
+      "id": 28,
+      "category": "Methods",
+      "front": "Must the valuation methods be applied in sequence?",
+      "back": "Yes. The methods are to be applied sequentially, except that Articles 5 and 6 may be reversed at the importer’s request."
+    },
+    {
+      "id": 29,
+      "category": "Methods",
+      "front": "What does Article 4 allow the importer to do?",
+      "back": "It allows the importer to request reversal of the order of Articles 5 and 6."
+    },
+    {
+      "id": 30,
+      "category": "Article 2",
+      "front": "What is the basis of value under Article 2?",
+      "back": "The transaction value of identical goods sold for export to the same country of importation and exported at or about the same time as the goods being valued."
+    },
+    {
+      "id": 31,
+      "category": "Article 2",
+      "front": "If more than one transaction value of identical goods is found under Article 2, which one is used?",
+      "back": "The lowest such value."
+    },
+    {
+      "id": 32,
+      "category": "Article 2",
+      "front": "When applying Article 2, what kind of adjustments may be made?",
+      "back": "Adjustments for differences in commercial level, quantity, and significant differences in Article 8(2) costs and charges such as transport."
+    },
+    {
+      "id": 33,
+      "category": "Article 3",
+      "front": "What is the basis of value under Article 3?",
+      "back": "The transaction value of similar goods sold for export to the same country of importation and exported at or about the same time as the goods being valued."
+    },
+    {
+      "id": 34,
+      "category": "Article 3",
+      "front": "If more than one transaction value of similar goods is found under Article 3, which one is used?",
+      "back": "The lowest such value."
+    },
+    {
+      "id": 35,
+      "category": "Article 5",
+      "front": "What is deductive value under Article 5 based on?",
+      "back": "It is based on the unit price at which the imported goods, or identical or similar imported goods, are sold in the country of importation in the greatest aggregate quantity to unrelated buyers."
+    },
+    {
+      "id": 36,
+      "category": "Article 5",
+      "front": "What deductions are made under Article 5?",
+      "back": "Commissions or usual profit and general expenses, usual inland transport and insurance, Article 8(2) costs where appropriate, and customs duties and other national taxes."
+    },
+    {
+      "id": 37,
+      "category": "Article 5",
+      "front": "What does 'greatest aggregate quantity' mean?",
+      "back": "It means the price at which the greatest number of units is sold at the first commercial level after importation to unrelated buyers."
+    },
+    {
+      "id": 38,
+      "category": "Article 5",
+      "front": "Can further processed goods be valued under Article 5?",
+      "back": "Yes, if the importer requests it, with allowance for value added by processing and the required deductions."
+    },
+    {
+      "id": 39,
+      "category": "Article 6",
+      "front": "What is computed value under Article 6 based on?",
+      "back": "It is based on cost or value of materials and fabrication, an amount for profit and general expenses, and the costs needed to reflect the Member’s Article 8(2) option."
+    },
+    {
+      "id": 40,
+      "category": "Article 6",
+      "front": "Can a Member require a non-resident producer to produce accounts for computed value purposes?",
+      "back": "No. A Member may not require or compel a person not resident in its territory to produce accounts or allow access to records, though information may be verified in another country with consent."
+    },
+    {
+      "id": 41,
+      "category": "Article 7",
+      "front": "What is the fallback method under Article 7?",
+      "back": "It is a customs value determined using reasonable means consistent with the principles and general provisions of the Agreement and Article VII of GATT 1994, based on data available in the country of importation."
+    },
+    {
+      "id": 42,
+      "category": "Article 7",
+      "front": "Name one valuation basis prohibited under Article 7.",
+      "back": "The selling price in the country of importation of goods produced in that country."
+    },
+    {
+      "id": 43,
+      "category": "Article 7",
+      "front": "Name another valuation basis prohibited under Article 7.",
+      "back": "A system that provides for acceptance of the higher of two alternative values."
+    },
+    {
+      "id": 44,
+      "category": "Article 7",
+      "front": "Are minimum customs values allowed under Article 7?",
+      "back": "No. Minimum customs values are expressly prohibited."
+    },
+    {
+      "id": 45,
+      "category": "Article 7",
+      "front": "Are arbitrary or fictitious values allowed under Article 7?",
+      "back": "No."
+    },
+    {
+      "id": 46,
+      "category": "Article 8",
+      "front": "What is Article 8 mainly about?",
+      "back": "It sets out the additions that may be made to the price actually paid or payable when determining transaction value under Article 1."
+    },
+    {
+      "id": 47,
+      "category": "Article 8",
+      "front": "When may an Article 8 addition be made?",
+      "back": "When the relevant cost is incurred by the buyer, is not already included in the price actually paid or payable, and is based on objective and quantifiable data."
+    },
+    {
+      "id": 48,
+      "category": "Article 8",
+      "front": "Can customs add amounts not listed in Article 8?",
+      "back": "No. No additions may be made except as provided in Article 8."
+    },
+    {
+      "id": 49,
+      "category": "Article 8",
+      "front": "What does Article 8.1(a)(i) include?",
+      "back": "Commissions and brokerage, except buying commissions."
+    },
+    {
+      "id": 50,
+      "category": "Article 8",
+      "front": "What does Article 8.1(a)(ii) include?",
+      "back": "The cost of containers treated as being one for customs purposes with the goods."
+    },
+    {
+      "id": 51,
+      "category": "Article 8",
+      "front": "What does Article 8.1(a)(iii) include?",
+      "back": "The cost of packing, whether for labour or materials."
+    },
+    {
+      "id": 52,
+      "category": "Assists",
+      "front": "What are assists under Article 8.1(b)?",
+      "back": "They are goods and services supplied directly or indirectly by the buyer free of charge or at reduced cost for use in connection with production and sale for export of the imported goods."
+    },
+    {
+      "id": 53,
+      "category": "Assists",
+      "front": "Name one category of assists under Article 8.1(b).",
+      "back": "Materials, components, parts, and similar items incorporated in the imported goods."
+    },
+    {
+      "id": 54,
+      "category": "Assists",
+      "front": "Name another category of assists.",
+      "back": "Tools, dies, moulds, and similar items used in the production of the imported goods."
+    },
+    {
+      "id": 55,
+      "category": "Assists",
+      "front": "What is the fourth category of assists under Article 8.1(b)(iv)?",
+      "back": "Engineering, development, artwork, design work, plans, and sketches undertaken outside the country of importation and necessary for production of the imported goods."
+    },
+    {
+      "id": 56,
+      "category": "Royalties",
+      "front": "When are royalties and licence fees added under Article 8.1(c)?",
+      "back": "When they relate to the goods being valued, must be paid directly or indirectly by the buyer as a condition of sale, and are not already included in the price actually paid or payable."
+    },
+    {
+      "id": 57,
+      "category": "Royalties",
+      "front": "Are charges for the right to reproduce imported goods in the country of importation added to customs value?",
+      "back": "No."
+    },
+    {
+      "id": 58,
+      "category": "Royalties",
+      "front": "Are payments for the right to distribute or resell imported goods always added to customs value?",
+      "back": "No. They are not added if they are not a condition of the sale for export to the country of importation."
+    },
+    {
+      "id": 59,
+      "category": "Proceeds",
+      "front": "What does Article 8.1(d) require customs to add?",
+      "back": "The value of any part of the proceeds of subsequent resale, disposal, or use of the imported goods that accrues directly or indirectly to the seller."
+    },
+    {
+      "id": 60,
+      "category": "Article 8",
+      "front": "What does Article 8.2 allow each Member to decide in its legislation?",
+      "back": "Whether to include or exclude in whole or in part transport costs, loading/unloading and handling charges, and insurance costs to the port or place of importation."
+    },
+    {
+      "id": 61,
+      "category": "Article 8",
+      "front": "What does Article 8.3 require for all additions?",
+      "back": "That they must be based on objective and quantifiable data."
+    },
+    {
+      "id": 62,
+      "category": "Currency Conversion",
+      "front": "What does Article 9 deal with?",
+      "back": "Currency conversion for customs valuation purposes."
+    },
+    {
+      "id": 63,
+      "category": "Currency Conversion",
+      "front": "What exchange rate should be used under Article 9?",
+      "back": "The rate duly published by the competent authorities of the country of importation, reflecting as effectively as possible the current value of the currency in commercial transactions."
+    },
+    {
+      "id": 64,
+      "category": "Currency Conversion",
+      "front": "At what time is the conversion rate used under Article 9?",
+      "back": "At the time of exportation or the time of importation, as provided by each Member."
+    },
+    {
+      "id": 65,
+      "category": "Confidentiality",
+      "front": "What does Article 10 require?",
+      "back": "That confidential information provided for customs valuation purposes be treated as strictly confidential and not disclosed without specific permission, except where disclosure is required in judicial proceedings."
+    },
+    {
+      "id": 66,
+      "category": "Appeal",
+      "front": "What right does Article 11 give the importer?",
+      "back": "A right of appeal, without penalty, against a customs valuation determination."
+    },
+    {
+      "id": 67,
+      "category": "Appeal",
+      "front": "Must Members provide a final right of appeal to a judicial authority?",
+      "back": "Yes."
+    },
+    {
+      "id": 68,
+      "category": "Appeal",
+      "front": "What does 'without penalty' mean in the note to Article 11?",
+      "back": "It means the importer is not fined merely for exercising the right of appeal, though normal court costs and lawyers’ fees may still apply."
+    },
+    {
+      "id": 69,
+      "category": "Publication",
+      "front": "What does Article 12 require?",
+      "back": "That laws, regulations, judicial decisions, and administrative rulings of general application giving effect to the Agreement be published."
+    },
+    {
+      "id": 70,
+      "category": "Release of Goods",
+      "front": "What protection does Article 13 give the importer when valuation is delayed?",
+      "back": "The importer may withdraw the goods from customs if sufficient guarantee is provided to cover the possible final duty liability."
+    },
+    {
+      "id": 71,
+      "category": "Definitions",
+      "front": "What does Article 15 define as 'customs value of imported goods'?",
+      "back": "The value of goods for the purpose of levying ad valorem duties of customs on imported goods."
+    },
+    {
+      "id": 72,
+      "category": "Definitions",
+      "front": "What are 'identical goods' under Article 15?",
+      "back": "Goods that are the same in all respects, including physical characteristics, quality, and reputation, apart from minor differences in appearance."
+    },
+    {
+      "id": 73,
+      "category": "Definitions",
+      "front": "What are 'similar goods' under Article 15?",
+      "back": "Goods that, although not alike in all respects, have like characteristics and component materials, perform the same functions, and are commercially interchangeable."
+    },
+    {
+      "id": 74,
+      "category": "Definitions",
+      "front": "What are 'goods of the same class or kind' under Article 15?",
+      "back": "Goods falling within a group or range of goods produced by a particular industry or industry sector, including identical or similar goods."
+    },
+    {
+      "id": 75,
+      "category": "Related Persons",
+      "front": "Name one category of related persons under Article 15.4.",
+      "back": "They are officers or directors of one another’s businesses."
+    },
+    {
+      "id": 76,
+      "category": "Related Persons",
+      "front": "Name another category of related persons under Article 15.4.",
+      "back": "They are legally recognized partners in business."
+    },
+    {
+      "id": 77,
+      "category": "Related Persons",
+      "front": "Are employer and employee related persons under Article 15.4?",
+      "back": "Yes."
+    },
+    {
+      "id": 78,
+      "category": "Related Persons",
+      "front": "What stockholding threshold is mentioned in Article 15.4(d)?",
+      "back": "Five percent or more of the outstanding voting stock or shares of both buyer and seller held by one person."
+    },
+    {
+      "id": 79,
+      "category": "Related Persons",
+      "front": "Can sole agents, sole distributors, or sole concessionaires be related persons?",
+      "back": "Yes, if they also fall within the criteria of Article 15.4."
+    },
+    {
+      "id": 80,
+      "category": "Written Explanation",
+      "front": "What right does Article 16 give the importer?",
+      "back": "Upon written request, the importer has the right to a written explanation of how the customs value was determined."
+    },
+    {
+      "id": 81,
+      "category": "Verification",
+      "front": "What does Article 17 preserve for customs administrations?",
+      "back": "The right to satisfy themselves as to the truth or accuracy of any statement, document, or declaration presented for customs valuation purposes."
+    },
+    {
+      "id": 82,
+      "category": "Institutions",
+      "front": "What institutions are established under Article 18?",
+      "back": "The Committee on Customs Valuation at the WTO and the Technical Committee on Customs Valuation under the WCO/CCC."
+    },
+    {
+      "id": 83,
+      "category": "Institutions",
+      "front": "What does the WTO Committee on Customs Valuation do?",
+      "back": "It allows Members to consult on administration of the customs valuation system and related matters affecting the Agreement."
+    },
+    {
+      "id": 84,
+      "category": "Institutions",
+      "front": "What does the Technical Committee on Customs Valuation do?",
+      "back": "It promotes technical uniformity in interpretation and application of the Agreement and gives advisory opinions, studies, and technical assistance."
+    },
+    {
+      "id": 85,
+      "category": "Special and Differential Treatment",
+      "front": "What does Article 20 allow developing country Members to do?",
+      "back": "It allows certain developing country Members to delay application of the Agreement for a limited time and receive technical assistance."
+    },
+    {
+      "id": 86,
+      "category": "National Legislation",
+      "front": "What does Article 22 require of Members?",
+      "back": "Each Member must ensure that its laws, regulations, and administrative procedures conform to the Agreement and must inform the Committee of relevant changes."
+    },
+    {
+      "id": 87,
+      "category": "Review",
+      "front": "What does Article 23 require?",
+      "back": "It requires the Committee to review annually the implementation and operation of the Agreement and report developments to the Council for Trade in Goods."
+    },
+    {
+      "id": 88,
+      "category": "Interpretative Notes",
+      "front": "What do the interpretative notes say about the order of valuation methods?",
+      "back": "They confirm that Articles 1 through 7 must be applied sequentially, except that the importer may request reversal of Articles 5 and 6."
+    },
+    {
+      "id": 89,
+      "category": "Interpretative Notes",
+      "front": "What do the notes say about generally accepted accounting principles?",
+      "back": "They say customs administrations should use information prepared in a manner consistent with generally accepted accounting principles appropriate to the country relevant for the article in question."
+    },
+    {
+      "id": 90,
+      "category": "Interpretative Notes",
+      "front": "What does the note to Article 1 say about the price actually paid or payable?",
+      "back": "It says it is the total payment made or to be made by the buyer to or for the benefit of the seller, whether direct or indirect, and not necessarily only a money transfer."
+    },
+    {
+      "id": 91,
+      "category": "Interpretative Notes",
+      "front": "What charges are excluded from customs value if distinguished from the price actually paid or payable under the note to Article 1?",
+      "back": "Post-importation construction, erection, assembly, maintenance, or technical assistance, post-import transport, and duties and taxes of the country of importation."
+    },
+    {
+      "id": 92,
+      "category": "Interpretative Notes",
+      "front": "Are dividends or other payments that do not relate to the imported goods part of customs value according to the note to Article 1?",
+      "back": "No."
+    },
+    {
+      "id": 93,
+      "category": "Interpretative Notes",
+      "front": "What does the note to Article 1 say about activities undertaken by the buyer on the buyer’s own account?",
+      "back": "They are not treated as indirect payments to the seller unless Article 8 specifically requires adjustment."
+    },
+    {
+      "id": 94,
+      "category": "Interpretative Notes",
+      "front": "Give one example in the note to Article 1 of a condition that makes transaction value unacceptable.",
+      "back": "The seller sets the price on condition that the buyer also buys other goods in specified quantities."
+    },
+    {
+      "id": 95,
+      "category": "Interpretative Notes",
+      "front": "What does the note to Article 1 say about marketing activities undertaken by the buyer on the buyer’s own account?",
+      "back": "Their value is not part of customs value and they do not in themselves cause rejection of transaction value."
+    },
+    {
+      "id": 96,
+      "category": "Interpretative Notes",
+      "front": "What does the note to Article 2 say about use of identical goods?",
+      "back": "Customs should wherever possible use a sale of identical goods at the same commercial level and in substantially the same quantities."
+    },
+    {
+      "id": 97,
+      "category": "Interpretative Notes",
+      "front": "What does the note to Article 3 say about use of similar goods?",
+      "back": "Customs should wherever possible use a sale of similar goods at the same commercial level and in substantially the same quantities."
+    },
+    {
+      "id": 98,
+      "category": "Interpretative Notes",
+      "front": "What does the note to Article 5 explain with 'greatest aggregate quantity'?",
+      "back": "It explains that the unit price used is the one at which the greatest number of units is sold to unrelated buyers at the first commercial level after importation."
+    },
+    {
+      "id": 99,
+      "category": "Interpretative Notes",
+      "front": "What does the note to Article 6 say about computed value in practice?",
+      "back": "It says computed value is generally limited to cases where the producer is prepared to supply the needed cost information and verification can be arranged."
+    },
+    {
+      "id": 100,
+      "category": "Interpretative Notes",
+      "front": "What does the note to Article 7 say about the fallback method?",
+      "back": "It says fallback valuation should, as far as possible, be based on previously determined customs values and use the methods of Articles 1 to 6 with reasonable flexibility."
+    },
+    {
+      "id": 101,
+      "category": "Interpretative Notes",
+      "front": "What does the note to Article 8 say a buying commission means?",
+      "back": "It is a fee paid by an importer to the importer’s agent for representing the importer abroad in the purchase of the goods being valued."
+    },
+    {
+      "id": 102,
+      "category": "Interpretative Notes",
+      "front": "How should assists be apportioned according to the note to Article 8?",
+      "back": "In a reasonable manner appropriate to the circumstances and in accordance with generally accepted accounting principles."
+    },
+    {
+      "id": 103,
+      "category": "Interpretative Notes",
+      "front": "What does the note to Article 8 say about objective and quantifiable data?",
+      "back": "If such data do not exist for required additions, transaction value cannot be determined under Article 1."
+    },
+    {
+      "id": 104,
+      "category": "Interpretative Notes",
+      "front": "What does the note to Article 9 say 'time of importation' may include?",
+      "back": "It may include the time of entry for customs purposes."
+    },
+    {
+      "id": 105,
+      "category": "Interpretative Notes",
+      "front": "What does the note to Article 11 say about appeal rights?",
+      "back": "It says the importer has a right of appeal without penalty, though Members may still require payment of assessed duties before appeal."
+    },
+    {
+      "id": 106,
+      "category": "Technical Committee",
+      "front": "What is one responsibility of the Technical Committee under Annex II?",
+      "back": "To examine specific technical problems in daily administration of the valuation system and give advisory opinions on solutions."
+    },
+    {
+      "id": 107,
+      "category": "Technical Committee",
+      "front": "What is another responsibility of the Technical Committee?",
+      "back": "To prepare and circulate annual reports on technical aspects of operation and status of the Agreement."
+    },
+    {
+      "id": 108,
+      "category": "Technical Committee",
+      "front": "Can the Technical Committee facilitate technical assistance?",
+      "back": "Yes."
+    },
+    {
+      "id": 109,
+      "category": "Annex III",
+      "front": "What does Annex III recognize about developing countries and delay in applying the Agreement?",
+      "back": "It recognizes that a five-year delay may be insufficient in some cases, and extensions may be requested if good cause is shown."
+    },
+    {
+      "id": 110,
+      "category": "Annex III",
+      "front": "What does Annex III say about developing countries that use minimum values?",
+      "back": "It says they may seek a reservation to retain such values on a limited and transitional basis under agreed terms and conditions."
+    },
+    {
+      "id": 111,
+      "category": "Annex III",
+      "front": "What reservation may developing countries seek regarding Article 4?",
+      "back": "They may reserve the right to allow reversal of Articles 5 and 6 only when customs authorities agree to the request."
+    },
+    {
+      "id": 112,
+      "category": "Annex III",
+      "front": "What does Annex III say about Article 17 inquiries?",
+      "back": "It recognizes that customs administrations may make inquiries into the truth or accuracy of statements, documents, and declarations presented for customs valuation purposes."
+    },
+    {
+      "id": 113,
+      "category": "Practical Revision",
+      "front": "What is the most important customs valuation principle to remember for exams?",
+      "back": "Transaction value is the primary basis, but it only applies if Article 1 conditions are met and any required Article 8 adjustments are made."
+    },
+    {
+      "id": 114,
+      "category": "Practical Revision",
+      "front": "If Method 1 fails, what is the next step?",
+      "back": "Move sequentially to Articles 2, 3, 5, 6, and finally 7, with possible reversal of 5 and 6 at the importer’s request."
+    },
+    {
+      "id": 115,
+      "category": "Practical Revision",
+      "front": "What is the safest summary formula for transaction value?",
+      "back": "Transaction value = price actually paid or payable + only those Article 8 additions that lawfully apply."
+    }
+  ]
+}

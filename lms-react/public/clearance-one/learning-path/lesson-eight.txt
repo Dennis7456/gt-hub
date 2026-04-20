@@ -1,0 +1,331 @@
+Topic 7: Entry of Goods and Supporting Documents
+
+Topic goal: By the end of this topic, the learner should be able to:
+- explain when goods are deemed entered,
+- state the timelines for entry,
+- identify the main purposes for which goods may be entered,
+- recognize the key supporting documents,
+- explain Form C36 and provisional entry,
+- identify goods that may be cleared without entry.
+
+Topic total XP: 600 base XP 
+Mastery bonus: +50 XP 
+Perfect boss bonus: +100 XP
+
+Step 1: Learn
+Purpose: introduce entry of goods in simple, structured form.
+Lesson format: 6 learning cards + 4 micro-checks
+Estimated time: 4–6 minutes 
+Pass type: completion-based 
+XP: up to 100
+
+Learning cards
+Card 1: When goods are deemed entered
+- entry is made and lodged in the prescribed manner
+- duty due or deposit is paid, or security is given
+- this comes from Section 2(2)(a)
+
+Card 2: Entry for home consumption
+- goods are deemed entered for home consumption when declared for use in a Partner State other than temporary use
+- Section 2(2)(b)
+
+Card 3: Time limit for entry
+- goods must be entered within 21 days after commencement of discharge
+- for vehicles, on arrival
+- further time may be allowed by the proper officer
+
+Card 4: Pre-arrival processing and purposes of entry
+- goods may be entered before arrival
+- entry purposes include:
+  * home consumption
+  * warehousing
+  * transhipment
+  * transit
+  * export processing zones
+
+Card 5: Supporting documents
+- bill of lading / airway bill / road manifest
+- packing list
+- commercial invoice
+- freight invoice
+- insurance debit note
+- certificate of origin
+- permits / licenses
+- proof of payment
+- and more
+
+Card 6: Special documents and exceptions
+- Form C36 = declaration of value
+- Certificate A = importer not related to supplier
+- Certificate B = importer related to supplier
+- provisional entry allowed if documents/information are missing
+- some goods may be cleared without entry
+
+Bonus: Goods that may be cleared without entry
+- mail bags and postal articles
+- bona fide personal baggage of passengers
+- human remains
+- diplomatic bags
+
+May be cleared without entry subject to undertaking to furnish entry within 48 hours:
+- bullion
+- currency notes
+- coin
+- perishable goods
+
+Micro-check examples
+- When are goods deemed entered?
+- What is the 21-day rule?
+- What is Form C36?
+- Name one purpose for which goods may be entered.
+
+Pass rule
+Complete all cards and answer at least 3 out of 4 micro-checks correctly.
+
+Reward
+70 XP for completion
++30 XP for full micro-check accuracy
+
+Step 2: Recall
+Purpose: lock in the key rules, documents, and timelines.
+Lesson format: 10 short questions
+Estimated time: 4–6 minutes 
+Pass threshold: 60% 
+XP: up to 100
+
+Challenge types
+- multiple choice
+- true/false
+- choose the correct document
+- identify the correct timeline or meaning
+
+Example questions
+- Goods are deemed entered when: A. they are unloaded only B. entry is properly lodged and duty/deposit is paid or security given C. they are placed in a transit shed D. they are merely manifested
+- Goods must normally be entered within: A. 7 days B. 14 days C. 21 days D. 30 days
+- Goods may be entered before arrival in order to support: A. warehousing only B. pre-arrival processing C. seizure only D. export prohibition only
+- Form C36 is a: A. passenger list B. declaration of value C. railway waybill D. certificate of clearance
+- Certificate A on Form C36 is completed where the importer is: A. related to the supplier B. not related to the supplier C. a railway company D. a crew member
+
+Reward
+60 XP for pass
++20 XP for 80%+
++20 XP for first-try pass
+
+Step 3: Match and Distinguish
+Purpose: separate similar concepts and documents.
+Lesson format: 8 matching tasks + 4 distinction tasks
+Estimated time: 5–7 minutes 
+Pass threshold: 70% 
+XP: up to 100
+
+Matching tasks
+Match the item to its meaning:
+- Section 2(2)(a) → when goods are deemed entered
+- Section 2(2)(b) → home consumption entry meaning
+- 21 days → normal time limit for entry after discharge
+- Form C36 → declaration of value
+- Certificate A → importer not related to supplier
+- Certificate B → importer related to supplier
+- provisional entry → used when documents or information are insufficient
+- pre-arrival processing → entry before arrival
+
+Distinction tasks
+Separate:
+- entry vs home consumption entry
+- Form C36 vs supporting commercial documents
+- Certificate A vs Certificate B
+- normal entry vs provisional entry
+
+Example distinction question
+Which statement is correct? 
+A. Certificate A is for importers related to the supplier 
+B. Certificate B is for importers not related to the supplier 
+C. Certificate A is for importers not related to the supplier, while Certificate B is for importers related to the supplier 
+D. Form C36 is a passenger list
+
+Reward
+70 XP for pass
++10 XP for first-half perfect
++20 XP for full accuracy
+
+Step 4: Scenario Challenge
+Purpose: apply the entry rules to practical Customs situations.
+Lesson format: 6 scenario questions
+Estimated time: 6–8 minutes 
+Pass threshold: 70% 
+XP: up to 100
+
+Example scenarios
+Scenario 1: Goods have been discharged, but the owner has not yet lodged entry or paid duty. Are the goods deemed entered? A. Yes, because they were unloaded B. No, because proper entry and payment/security are still required C. Yes, if the goods are in a transit shed D. Yes, automatically after manifest submission
+
+Scenario 2: An importer wants to speed up clearance and submits entry before the vessel arrives. Under the notes, this is: A. prohibited B. allowed as pre-arrival processing C. allowed only for exports D. a provisional entry by default
+
+Scenario 3: An importer lacks some information about the goods and cannot complete a full entry immediately. What option may be used? A. supplementary manifest B. provisional entry C. transire D. crew declaration
+
+Scenario 4: The importer is related to the foreign supplier. Which part of Form C36 is appropriate? A. Certificate A B. Certificate B C. C5 D. C7
+
+Scenario 5: A shipment is entered for movement through the country to another destination without home use. Which entry purpose best fits? A. home consumption B. transit C. warehouse rent D. prohibited import
+
+Scenario 6: An importer presents a bill of lading, commercial invoice, packing list, and permit. These are best described as: A. rummage records B. supporting documents for entry C. coasting documents D. person-search records
+
+Reward
+70 XP for pass
++15 XP first try
++15 XP for all correct
+
+Step 5: Timed Sprint
+Purpose: speed up recognition of documents, timelines, and entry purposes.
+Lesson format: 15 quick prompts
+Estimated time: 2–3 minutes 
+Timer: 90–120 seconds 
+Pass threshold: 10/15 
+XP: up to 100
+
+Prompt style
+Fast-response items like:
+- Goods deemed entered when ?
+- Normal entry period = ?
+- Entry before arrival = ?
+- Declaration of value = ?
+- Not related to supplier = ?
+- Related to supplier = ?
+- Missing documents but entry still needed = ?
+- Home use / warehousing / transit / transhipment / EPZ = ?
+- Bill of lading = ?
+- Packing list = ?
+- Certificate of origin = ?
+- Permit/license = ?
+
+UX feel
+- rapid taps
+- file/document icons
+- stopwatch bar
+- combo streak meter
+- "paperwork streak" animation
+
+Reward
+50 XP for pass
++20 XP speed bonus
++20 XP combo streak
++10 XP perfect run
+
+Step 6: Boss Challenge
+Purpose: prove mastery and unlock Topic 8.
+Lesson format: 12 mixed questions
+Estimated time: 7–10 minutes 
+Pass threshold: 75% 
+XP: up to 100
+
+Question mix
+- 4 direct recall questions
+- 3 document-identification questions
+- 3 scenario questions
+- 2 trap questions
+
+Example boss questions
+- When are goods deemed entered under Section 2(2)(a)?
+- What does Section 2(2)(b) say about home consumption entry?
+- What is the normal time limit for entering goods?
+- What is pre-arrival processing?
+- Name four purposes for which goods may be entered.
+- What is Form C36?
+- Who completes Certificate A?
+- Who completes Certificate B?
+- What is provisional entry?
+- Name four supporting documents used for entry.
+
+Trap questions
+- "Goods are deemed entered as soon as they are unloaded."
+- "Form C36 is completed by the Customs agent, not the owner."
+
+Unlock rule
+75%+ = Topic 8 unlocked
+85%+ = Topic 7 marked mastered
+100% = perfect badge
+
+Reward
+70 XP for pass
++30 XP for 90%+
++50 topic completion bonus
++100 perfect boss bonus if full marks
+
+Key facts this topic should reinforce
+By the end, the learner should know:
+- goods are deemed entered only when entry is properly lodged and duty/deposit paid or security given
+- home consumption has its own legal meaning
+- normal entry period is 21 days after commencement of discharge
+- pre-arrival processing is allowed
+- entry purposes include:
+  * home consumption
+  * warehousing
+  * transhipment
+  * transit
+  * export processing zones
+- Form C36 is the declaration of value
+- Certificate A = importer not related to supplier
+- Certificate B = importer related to supplier
+- provisional entry is used when documents/information are insufficient
+- certain goods may be cleared without entry:
+  * mail bags and postal articles
+  * bona fide personal baggage
+  * human remains
+  * diplomatic bags
+- bullion, currency notes, coin, and perishable goods may be cleared without entry subject to undertaking to furnish entry within 48 hours
+
+Topic 7 progress math
+Since Topic 7 has 6 steps:
+- 1 step completed = 16.7% of Topic 7
+- all 6 steps = 100% of Topic 7
+
+For the full chapter with 72 steps:
+- 1 completed step = 1.39% of whole chapter
+- full Topic 7 = 8.33% of whole chapter
+
+If the learner completes Topics 1–7 fully:
+- 7 topics done = 58.33% of the whole chapter
+
+Best UI behavior for Topic 7
+On the path map
+Topic 7 should feel like a documentation and legality zone.
+
+Suggested icon
+Use:
+- stamped document
+- customs declaration sheet
+- file folder
+- or clipboard with seal
+
+This visually signals entry, paperwork, and legal compliance.
+
+Node labels
+- Learn
+- Recall
+- Match
+- Scenario
+- Timed Sprint
+- Boss
+
+Celebration moments
+- Step clear = document stamp animation
+- Topic clear = "Entry Specialist" badge
+- Perfect boss = gold declaration-file badge
+
+Suggested content density for Topic 7
+A strong first version:
+- Step 1: 10 interactions
+- Step 2: 10 questions
+- Step 3: 12 interactions
+- Step 4: 6 scenarios
+- Step 5: 15 rapid prompts
+- Step 6: 12 boss questions
+
+That gives about 65 total interactions.
+
+Why Topic 7 matters
+This topic is one of the biggest legal and procedural foundations in the chapter. It teaches the learner:
+- when entry legally exists,
+- what documents support it,
+- how to handle missing information,
+- and which goods are exceptional.
+
+It is the point where the learner starts to think like a real declarant or clearance practitioner rather than just a memorizer.

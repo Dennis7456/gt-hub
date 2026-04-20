@@ -1,0 +1,295 @@
+Topic 5: Clearance of Vessels and Aircraft
+
+Topic goal: By the end of this topic, the learner should be able to:
+- explain the basic clearance process for vessels and aircraft,
+- identify the main arrival documents and forms,
+- distinguish the purpose of each list and declaration,
+- explain the rules on dutiable stores and seals,
+- state when a certificate of clearance is issued.
+
+Topic total XP: 600 base XP 
+Mastery bonus: +50 XP 
+Perfect boss bonus: +100 XP
+
+Step 1: Learn
+Purpose: introduce the clearance process and key forms.
+Lesson format: 6 learning cards + 4 micro-checks
+Estimated time: 4–6 minutes 
+Pass type: completion-based 
+XP: up to 100
+
+Learning cards
+Card 1: Basic clearance duty
+- the master or agent of every aircraft or vessel must produce books and documents relating to the craft, cargo, stores, baggage, crew, and passengers
+
+Card 2: Inward reports
+- Form C2 for vessels
+- Form C4 for aircraft
+- contains details like nationality, tonnage, crew, and port of landing
+
+Card 3: Main lists
+- Form C3 parcels list
+- crew list
+- Form C5 passenger list
+
+Card 4: Stores and crew declarations
+- Form C6 declaration/advice of consumable stores
+- Form C7 crew declaration of dutiable goods
+
+Card 5: Other lists
+- last port of call list
+- arms and ammunition list
+- narcotics list
+- cargo manifest expected before arrival under Section 24
+
+Card 6: Seals and clearance
+- dutiable stores may be sealed
+- allowable duty-free stores per crew member
+- breaking seal without approval is an offence
+- certificate of clearance issued when legal requirements are met
+
+Micro-check examples
+- Which form is inward report for a vessel?
+- Which form is inward report for an aircraft?
+- Which form covers crew declaration?
+- What may happen to excess dutiable stores?
+
+Pass rule
+Complete all cards and get at least 3 out of 4 micro-checks correct.
+
+Reward
+70 XP for completion
++30 XP for full micro-check accuracy
+
+Step 2: Recall
+Purpose: lock in the forms and their uses.
+Lesson format: 10 short questions
+Estimated time: 4–6 minutes 
+Pass threshold: 60% 
+XP: up to 100
+
+Challenge types
+- multiple choice
+- true/false
+- choose the correct form
+- match list to purpose
+
+Example questions
+- The inward report for a vessel is: A. C3 B. C2 C. C6 D. C7
+- The inward report for an aircraft is: A. C4 B. C5 C. C2 D. C17
+- Form C3 is the: A. passenger list B. crew declaration C. parcels list D. certificate of origin
+- Form C5 contains details of: A. goods in warehouse B. passengers disembarking and remaining on board C. pipeline imports D. railway wagons
+- Form C6 provides details of: A. all dutiable stores on board B. all prohibited goods C. all warehoused goods D. all tax payments
+
+Reward
+60 XP for pass
++20 XP for 80%+
++20 XP for first-try pass
+
+Step 3: Match and Distinguish
+Purpose: separate the forms and lists that look similar.
+Lesson format: 8 matching tasks + 4 distinction tasks
+Estimated time: 5–7 minutes 
+Pass threshold: 70% 
+XP: up to 100
+
+Matching tasks
+Match the form/list to its use:
+- C2 → inward report for vessel
+- C4 → inward report for aircraft
+- C3 → parcels list
+- C5 → passenger list
+- C6 → declaration/advice of consumable stores
+- C7 → crew declaration
+- last port of call list → previous ten port calls
+- narcotics list → narcotics on board
+
+Distinction tasks
+Separate:
+- C3 vs C5
+- C6 vs C7
+- crew list vs passenger list
+- inward report vs cargo manifest
+
+Example distinction question
+Which statement is correct? 
+A. C6 and C7 mean exactly the same thing 
+B. C6 deals with dutiable stores on board, while C7 is the crew member's declaration of dutiable goods in his or her possession 
+C. C5 is for railway wagons 
+D. C3 is an inward report for aircraft
+
+Reward
+70 XP for pass
++10 XP for first-half perfect
++20 XP for full accuracy
+
+Step 4: Scenario Challenge
+Purpose: apply the forms and procedures in practice.
+Lesson format: 6 scenario questions
+Estimated time: 6–8 minutes 
+Pass threshold: 70% 
+XP: up to 100
+
+Example scenarios
+Scenario 1: A vessel arrives and the proper officer asks for the inward report. Which form should be produced? A. C4 B. C2 C. C5 D. C7
+
+Scenario 2: An aircraft arrives and the officer asks for the list showing passengers disembarking and those remaining on board. Which form applies? A. C3 B. C6 C. C5 D. C2
+
+Scenario 3: A crew member is carrying dutiable goods. Which form is most relevant to that declaration? A. C7 B. C6 C. C3 D. C17
+
+Scenario 4: The proper officer is checking all dutiable consumable stores on board. Which form is most relevant? A. C5 B. C6 C. C2 D. C36
+
+Scenario 5: There are dutiable stores beyond the allowable quantity for crew use. What may the proper officer do? A. Ignore them automatically B. Place part or all of the stores under seal C. Convert them into passenger baggage D. Send them to a railway station
+
+Scenario 6: A crew member breaks a Customs seal on stores without approval. Under the notes, this is: A. acceptable if the stores are small B. an offence C. allowed if reported later D. treated as a provisional entry
+
+Reward
+70 XP for pass
++15 XP first try
++15 XP for all correct
+
+Step 5: Timed Sprint
+Purpose: build fast recognition of forms, lists, and store rules.
+Lesson format: 15 quick prompts
+Estimated time: 2–3 minutes 
+Timer: 90–120 seconds 
+Pass threshold: 10/15 
+XP: up to 100
+
+Prompt style
+Fast-response items like:
+- Vessel inward report = ?
+- Aircraft inward report = ?
+- Parcels list = ?
+- Passenger list = ?
+- Crew declaration = ?
+- Consumable stores = ?
+- Previous ten port calls = ?
+- Narcotics on board = ?
+- Excess dutiable stores = ?
+- Breaking seal without approval = ?
+- Certificate issued after requirements met = ?
+
+UX feel
+- fast taps
+- glowing form icons
+- combo meter
+- countdown bar
+- seal-breaking alert animation on wrong answers
+
+Reward
+50 XP for pass
++20 XP speed bonus
++20 XP combo streak
++10 XP perfect run
+
+Step 6: Boss Challenge
+Purpose: prove mastery and unlock Topic 6.
+Lesson format: 12 mixed questions
+Estimated time: 7–10 minutes 
+Pass threshold: 75% 
+XP: up to 100
+
+Question mix
+- 4 direct recall questions
+- 3 form-identification questions
+- 3 scenario questions
+- 2 trap questions
+
+Example boss questions
+- What document is used as inward report for a vessel?
+- What document is used as inward report for an aircraft?
+- What is the purpose of Form C3?
+- What is the purpose of Form C5?
+- What is the purpose of Form C6?
+- What is the purpose of Form C7?
+- What does the last port of call list show?
+- When is the cargo manifest expected to have been submitted?
+- What may a proper officer do with excess dutiable stores?
+- What happens if a seal is broken without approval?
+
+Trap questions
+- "Form C6 is the same as the crew declaration."
+- "If stores exceed the duty-free allowance, they are automatically ignored."
+
+Unlock rule
+75%+ = Topic 6 unlocked
+85%+ = Topic 5 marked mastered
+100% = perfect badge
+
+Reward
+70 XP for pass
++30 XP for 90%+
++50 topic completion bonus
++100 perfect boss bonus if full marks
+
+Key facts this topic should reinforce
+These are the facts the learner should know cold by the end:
+- C2 = inward report for vessel
+- C4 = inward report for aircraft
+- C3 = parcels list
+- C5 = passenger list
+- C6 = declaration/advice of consumable stores
+- C7 = crew declaration
+- cargo manifest should be submitted before arrival under Section 24
+- excess dutiable stores may be sealed
+- breaking the seal without approval is an offence
+- a certificate of clearance is issued once the proper officer is satisfied requirements are met
+
+Topic 5 progress math
+Since Topic 5 has 6 steps:
+- 1 step completed = 16.7% of Topic 5
+- all 6 steps = 100% of Topic 5
+
+For the full chapter with 72 steps:
+- 1 completed step = 1.39% of whole chapter
+- full Topic 5 = 8.33% of whole chapter
+
+If the learner completes Topics 1–5 fully:
+- 5 topics done = 41.67% of the whole chapter
+
+Best UI behavior for Topic 5
+On the path map
+Topic 5 should feel more document-heavy and procedural than Topic 4.
+
+Suggested icon
+Use:
+- ship wheel
+- airplane plus clipboard
+- manifest document
+- or clearance stamp
+
+This visually signals arrival paperwork and legal clearance.
+
+Node labels
+- Learn
+- Recall
+- Match
+- Scenario
+- Timed Sprint
+- Boss
+
+Celebration moments
+- Step clear = stamp animation
+- Topic clear = "Clearance Officer" badge
+- Perfect boss = gold manifest/aircraft badge
+
+Suggested content density for Topic 5
+A strong first version:
+- Step 1: 10 interactions
+- Step 2: 10 questions
+- Step 3: 12 interactions
+- Step 4: 6 scenarios
+- Step 5: 15 rapid prompts
+- Step 6: 12 boss questions
+
+That gives about 65 total interactions.
+
+Why Topic 5 matters
+This topic is where the learner starts to think like a real clearance officer or declarant. It teaches:
+- which document is needed,
+- why each list exists,
+- how stores are controlled,
+- and when legal clearance may be granted.
+
+It is one of the most important "forms mastery" zones in the chapter.

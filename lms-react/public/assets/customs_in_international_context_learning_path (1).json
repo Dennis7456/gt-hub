@@ -1,0 +1,1311 @@
+{
+  "topic": "Customs in International Context - International Trade",
+  "format": "duolingo_style_learning_path",
+  "source": "Customs in International Context validated(1).pptx",
+  "design_principles": {
+    "structure": "map_based_progression",
+    "progression_style": "terms_to_process_to_documents_to_payment_to_trade_rules_to_application",
+    "lesson_pattern": [
+      "learn",
+      "match",
+      "quiz",
+      "scenario",
+      "checkpoint"
+    ],
+    "scoring": {
+      "xp_per_micro_lesson": 10,
+      "xp_per_quiz": 15,
+      "xp_per_scenario": 20,
+      "xp_per_checkpoint": 30,
+      "perfect_lesson_bonus": 5,
+      "streak_bonus_every_5_days": 20
+    },
+    "hearts_system": {
+      "starting_hearts": 5,
+      "heart_loss_per_wrong_answer": 1,
+      "heart_recovery": [
+        "practice_old_lesson",
+        "daily_review",
+        "wait_timer"
+      ]
+    },
+    "mastery_levels": [
+      "introduced",
+      "practicing",
+      "strong",
+      "mastered"
+    ]
+  },
+  "course_outcomes": [
+    "Define international trade and key related terms",
+    "Identify players involved in international trade transactions",
+    "Outline the main steps in international trade transactions and the documents used",
+    "Explain methods of payment, modes of transport, Incoterms, and selected trade agreements"
+  ],
+  "units": [
+    {
+      "unit_id": 1,
+      "title": "What International Trade Is",
+      "theme": "Foundations",
+      "unlock_rule": "available_from_start",
+      "unit_goal": "Understand the meaning of international trade and its most important core terms.",
+      "recommended_days": 2,
+      "lessons": [
+        {
+          "lesson_id": "1.1",
+          "title": "Meaning of International Trade",
+          "type": "learn",
+          "goal": "Understand what international trade means.",
+          "skills": [
+            "international trade",
+            "exchange across borders",
+            "global economy"
+          ],
+          "micro_steps": [
+            "Learn the meaning of international trade",
+            "Connect trade to goods, services, and capital",
+            "Explain why it is called a pillar of the global economy"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "1.2",
+          "title": "Import, Export, and Trade Balance",
+          "type": "learn",
+          "goal": "Understand imports, exports, and trade balance.",
+          "skills": [
+            "import",
+            "export",
+            "trade balance",
+            "surplus",
+            "deficit"
+          ],
+          "micro_steps": [
+            "Define import and export",
+            "Define trade balance",
+            "Differentiate trade surplus and trade deficit",
+            "Memorize the trade balance formula"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "1.3",
+          "title": "Trade Terms Match",
+          "type": "match",
+          "goal": "Match basic trade terms to their meanings.",
+          "skills": [
+            "HS Code",
+            "tariff",
+            "trade finance",
+            "trade bloc",
+            "supply chain",
+            "dumping"
+          ],
+          "micro_steps": [
+            "Match HS Code to product classification",
+            "Match tariff to tax on imports or exports",
+            "Match trade finance to financing trade transactions",
+            "Match dumping to below-home-market foreign pricing"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "1.4",
+          "title": "Starter Quiz",
+          "type": "quiz",
+          "goal": "Test your understanding of the basic language of international trade.",
+          "skills": [
+            "core recall",
+            "term recognition"
+          ],
+          "micro_steps": [
+            "Identify the right definition of trade terms",
+            "Apply the trade balance formula",
+            "Distinguish surplus from deficit"
+          ],
+          "xp": 15
+        },
+        {
+          "lesson_id": "1.5",
+          "title": "Unit 1 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show you can define international trade and the core terms that support it.",
+          "skills": [
+            "foundation mastery"
+          ],
+          "micro_steps": [
+            "Define international trade",
+            "Define import, export, and trade balance",
+            "Explain at least four common trade terms"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 2,
+      "title": "Why Countries Trade",
+      "theme": "Economic Logic",
+      "unlock_rule": "complete_unit_1_checkpoint",
+      "unit_goal": "Understand why international trade occurs and what benefits and problems it creates.",
+      "recommended_days": 3,
+      "lessons": [
+        {
+          "lesson_id": "2.1",
+          "title": "Why Trade Happens",
+          "type": "learn",
+          "goal": "Understand the main causes of international trade.",
+          "skills": [
+            "unequal resources",
+            "comparative advantage",
+            "government policy"
+          ],
+          "micro_steps": [
+            "Explain unequal distribution of resources",
+            "Explain comparative advantage in simple terms",
+            "Explain how government taxes and subsidies can create trade advantages"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "2.2",
+          "title": "Advantages of Trade",
+          "type": "learn",
+          "goal": "Understand the major benefits of international trade.",
+          "skills": [
+            "monetary gains",
+            "specialization",
+            "competition",
+            "technology transfer",
+            "employment",
+            "economies of scale"
+          ],
+          "micro_steps": [
+            "Explain how trade creates monetary gains",
+            "Explain specialization and economies of scale",
+            "Explain competition and product quality improvement",
+            "Explain technology transfer and employment effects"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "2.3",
+          "title": "Disadvantages of Trade",
+          "type": "learn",
+          "goal": "Understand the major risks and costs of international trade.",
+          "skills": [
+            "over-specialization",
+            "infant industry pressure",
+            "dependency",
+            "trade deficits",
+            "environmental damage",
+            "ethical concerns"
+          ],
+          "micro_steps": [
+            "Explain over-specialization risk",
+            "Explain dangers to infant industries and local producers",
+            "Explain dependency and vulnerability",
+            "Explain environmental, labor, and deficit-related concerns"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "2.4",
+          "title": "Benefit or Risk?",
+          "type": "match",
+          "goal": "Sort trade outcomes into advantages and disadvantages.",
+          "skills": [
+            "classification",
+            "economic reasoning"
+          ],
+          "micro_steps": [
+            "Match competition to benefit",
+            "Match over-specialization to risk",
+            "Match technology transfer to benefit",
+            "Match trade deficit strain to risk"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "2.5",
+          "title": "Unit 2 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Prove you understand why countries trade and what trade can do well or badly.",
+          "skills": [
+            "economic logic mastery"
+          ],
+          "micro_steps": [
+            "Explain why trade occurs",
+            "Give several advantages of trade",
+            "Give several disadvantages of trade"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 3,
+      "title": "Types of Trade and Trade Structure",
+      "theme": "Classification",
+      "unlock_rule": "complete_unit_2_checkpoint",
+      "unit_goal": "Understand the main types and classifications of international trade.",
+      "recommended_days": 2,
+      "lessons": [
+        {
+          "lesson_id": "3.1",
+          "title": "Import, Export, and Re-export",
+          "type": "learn",
+          "goal": "Understand the three basic trade forms.",
+          "skills": [
+            "import trade",
+            "export trade",
+            "entrepôt trade"
+          ],
+          "micro_steps": [
+            "Define import trade",
+            "Define export trade",
+            "Define entrepôt or re-export trade",
+            "Recognize practical examples"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "3.2",
+          "title": "Bilateral and Multilateral Trade",
+          "type": "learn",
+          "goal": "Understand classification by number of countries.",
+          "skills": [
+            "bilateral trade",
+            "multilateral trade"
+          ],
+          "micro_steps": [
+            "Define bilateral trade",
+            "Define multilateral trade",
+            "Compare agreements between two countries and broader systems"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "3.3",
+          "title": "Trade Form Match",
+          "type": "match",
+          "goal": "Match trade examples to the right trade type.",
+          "skills": [
+            "example recognition"
+          ],
+          "micro_steps": [
+            "Match Kenya importing vehicles to import trade",
+            "Match Kenya exporting tea to export trade",
+            "Match Dubai re-export example to entrepôt trade",
+            "Match UK-Kenya agreement to bilateral trade"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "3.4",
+          "title": "Unit 3 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show you can classify trade correctly.",
+          "skills": [
+            "classification mastery"
+          ],
+          "micro_steps": [
+            "Differentiate import, export, and re-export",
+            "Differentiate bilateral and multilateral trade",
+            "Classify sample trade scenarios correctly"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 4,
+      "title": "Players in International Trade",
+      "theme": "Who Does What",
+      "unlock_rule": "complete_unit_3_checkpoint",
+      "unit_goal": "Identify all major players in an international trade transaction and understand their roles.",
+      "recommended_days": 3,
+      "lessons": [
+        {
+          "lesson_id": "4.1",
+          "title": "Core Commercial Players",
+          "type": "learn",
+          "goal": "Understand the seller, buyer, and their agents.",
+          "skills": [
+            "seller",
+            "buyer",
+            "selling agent",
+            "buying agent"
+          ],
+          "micro_steps": [
+            "Identify the seller's possible roles",
+            "Identify the buyer's possible roles",
+            "Differentiate selling agent and buying agent"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "4.2",
+          "title": "Transport and Customs Players",
+          "type": "learn",
+          "goal": "Understand the logistics actors in international trade.",
+          "skills": [
+            "carriers",
+            "overseas shipping agent",
+            "local shipping agent",
+            "customs administration"
+          ],
+          "micro_steps": [
+            "Define carriers",
+            "Explain the role of the overseas shipping or airline agent",
+            "Explain the role of the shipping agent in the importing country",
+            "Explain customs administration"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "4.3",
+          "title": "Banks and Consolidators",
+          "type": "learn",
+          "goal": "Understand support roles in international trade.",
+          "skills": [
+            "banks",
+            "consolidator",
+            "capital",
+            "documentation"
+          ],
+          "micro_steps": [
+            "Explain the role of banks",
+            "Explain the role of a consolidator",
+            "Connect these roles to financing and grouped shipment handling"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "4.4",
+          "title": "Player Role Match",
+          "type": "match",
+          "goal": "Match each player to the correct role.",
+          "skills": [
+            "role mapping"
+          ],
+          "micro_steps": [
+            "Match customs administration to compliance and duty collection",
+            "Match banks to finance and payment support",
+            "Match consolidator to grouped consignments",
+            "Match carrier to movement of goods"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "4.5",
+          "title": "Unit 4 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Demonstrate that you know the players and their functions.",
+          "skills": [
+            "actor mastery"
+          ],
+          "micro_steps": [
+            "List the major players",
+            "Explain what each does",
+            "Connect each role to the trade transaction process"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 5,
+      "title": "Steps in International Trade",
+      "theme": "Process Flow",
+      "unlock_rule": "complete_unit_4_checkpoint",
+      "unit_goal": "Understand the main stages in an international trade transaction.",
+      "recommended_days": 3,
+      "lessons": [
+        {
+          "lesson_id": "5.1",
+          "title": "Order and Confirmation",
+          "type": "learn",
+          "goal": "Understand the early commercial stages of a trade transaction.",
+          "skills": [
+            "order",
+            "confirmation",
+            "buyer request",
+            "seller confirmation"
+          ],
+          "micro_steps": [
+            "Define order",
+            "Identify order-stage documents",
+            "Define confirmation",
+            "Identify confirmation-stage documents"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "5.2",
+          "title": "Shipment and Payment",
+          "type": "learn",
+          "goal": "Understand the transport and settlement stages.",
+          "skills": [
+            "shipment",
+            "payment",
+            "transport documents",
+            "financial documents"
+          ],
+          "micro_steps": [
+            "Define shipment",
+            "Identify shipment-stage documents",
+            "Define payment",
+            "Identify payment-stage documents"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "5.3",
+          "title": "Customs Clearance Reminder",
+          "type": "learn",
+          "goal": "Understand that customs clearance is broader than tax payment.",
+          "skills": [
+            "customs clearance",
+            "administrative compliance"
+          ],
+          "micro_steps": [
+            "Explain customs clearance",
+            "Separate payment of duties from administrative compliance",
+            "Connect customs clearance to the wider process"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "5.4",
+          "title": "Transaction Flow Match",
+          "type": "match",
+          "goal": "Put the trade transaction in the right order.",
+          "skills": [
+            "sequence logic"
+          ],
+          "micro_steps": [
+            "Match order to buyer request",
+            "Match confirmation to seller terms",
+            "Match shipment to carriage stage",
+            "Match payment to settlement stage"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "5.5",
+          "title": "Unit 5 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Prove you can explain the steps of an international trade transaction.",
+          "skills": [
+            "process mastery"
+          ],
+          "micro_steps": [
+            "List the main transaction steps in order",
+            "Explain what happens at each step",
+            "Name example documents at each step"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 6,
+      "title": "Documents Used in International Trade",
+      "theme": "Documentation",
+      "unlock_rule": "complete_unit_5_checkpoint",
+      "unit_goal": "Master the main document categories and important individual documents used in trade.",
+      "recommended_days": 5,
+      "lessons": [
+        {
+          "lesson_id": "6.1",
+          "title": "Document Categories",
+          "type": "learn",
+          "goal": "Understand the five main categories of trade documents.",
+          "skills": [
+            "commercial",
+            "transport",
+            "financial",
+            "insurance",
+            "official/regulatory"
+          ],
+          "micro_steps": [
+            "Learn the five categories",
+            "Match each category to its function",
+            "Recognize why different trades need different document mixes"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "6.2",
+          "title": "Commercial Documents",
+          "type": "learn",
+          "goal": "Understand requisition orders, purchase orders, contracts of sale, proforma invoices, commercial invoices, consular invoices, and packing lists.",
+          "skills": [
+            "requisition order",
+            "purchase order",
+            "contract of sale",
+            "proforma invoice",
+            "commercial invoice",
+            "consular invoice",
+            "packing list"
+          ],
+          "micro_steps": [
+            "Differentiate requisition order from purchase order",
+            "Define contract of sale",
+            "Differentiate proforma invoice from commercial invoice",
+            "Explain consular invoice and packing list"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "6.3",
+          "title": "Transport Documents",
+          "type": "learn",
+          "goal": "Understand the main transport documents.",
+          "skills": [
+            "bill of lading",
+            "seaway bill",
+            "telex release",
+            "airway bill",
+            "house airway bill",
+            "rail waybill",
+            "cargo manifest",
+            "delivery order",
+            "road consignment note"
+          ],
+          "micro_steps": [
+            "Explain the bill of lading and its three functions",
+            "Differentiate original bill of lading and seaway bill",
+            "Explain airway bill and why it is not a document of title",
+            "Explain cargo manifest, delivery order, and road/rail documents"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "6.4",
+          "title": "Document Role Match",
+          "type": "match",
+          "goal": "Match individual documents to their legal or practical function.",
+          "skills": [
+            "function mapping"
+          ],
+          "micro_steps": [
+            "Match commercial invoice to customs valuation",
+            "Match packing list to cargo itemization",
+            "Match bill of lading to receipt, contract, and title",
+            "Match airway bill to movement certificate"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "6.5",
+          "title": "Document Scenario Lab",
+          "type": "scenario",
+          "goal": "Apply the right documents to realistic trade situations.",
+          "skills": [
+            "document choice",
+            "practical application"
+          ],
+          "micro_steps": [
+            "Choose the right document for customs valuation",
+            "Choose the right document for title control in sea freight",
+            "Choose the right document for grouped air cargo"
+          ],
+          "xp": 20
+        },
+        {
+          "lesson_id": "6.6",
+          "title": "Unit 6 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Demonstrate strong mastery of international trade documentation.",
+          "skills": [
+            "documentation mastery"
+          ],
+          "micro_steps": [
+            "List the five document categories",
+            "Explain major commercial and transport documents",
+            "Explain why the right document matters in customs and logistics"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 7,
+      "title": "Methods of Payment in International Trade",
+      "theme": "Trade Finance and Risk",
+      "unlock_rule": "complete_unit_6_checkpoint",
+      "unit_goal": "Understand the major payment methods and the risks they create for exporter and importer.",
+      "recommended_days": 4,
+      "lessons": [
+        {
+          "lesson_id": "7.1",
+          "title": "Cash in Advance and Letters of Credit",
+          "type": "learn",
+          "goal": "Understand two major payment methods with very different risk profiles.",
+          "skills": [
+            "cash-in-advance",
+            "letters of credit",
+            "risk allocation"
+          ],
+          "micro_steps": [
+            "Explain cash-in-advance",
+            "Identify its risk for buyer and exporter",
+            "Explain a letter of credit",
+            "Explain how an LC protects both sides differently"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "7.2",
+          "title": "Documentary Collections",
+          "type": "learn",
+          "goal": "Understand documentary collections and their two forms.",
+          "skills": [
+            "documentary collections",
+            "D/P",
+            "D/A",
+            "draft",
+            "bill of exchange"
+          ],
+          "micro_steps": [
+            "Explain documentary collections",
+            "Differentiate D/P and D/A",
+            "Explain why title control differs across sea and air freight"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "7.3",
+          "title": "Open Account and Consignment",
+          "type": "learn",
+          "goal": "Understand exporter-risk-heavy payment arrangements.",
+          "skills": [
+            "open account",
+            "consignment",
+            "exporter risk",
+            "importer advantage"
+          ],
+          "micro_steps": [
+            "Explain open account",
+            "Explain why it favors the importer",
+            "Explain consignment",
+            "Explain why consignment is risky for the exporter"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "7.4",
+          "title": "Risk Ladder Match",
+          "type": "match",
+          "goal": "Arrange payment methods from safer to riskier for exporter and importer.",
+          "skills": [
+            "risk comparison"
+          ],
+          "micro_steps": [
+            "Match cash-in-advance to high importer risk",
+            "Match open account to high exporter risk",
+            "Match LC to stronger bank-backed security",
+            "Compare D/P and D/A"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "7.5",
+          "title": "Unit 7 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show you understand trade payment methods and the risk logic behind them.",
+          "skills": [
+            "payment mastery"
+          ],
+          "micro_steps": [
+            "Explain the main payment methods",
+            "Compare their risks",
+            "Explain when each method is likely to be used"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 8,
+      "title": "Modes of Transport and Logistics Choice",
+      "theme": "Movement of Goods",
+      "unlock_rule": "complete_unit_7_checkpoint",
+      "unit_goal": "Understand transport modes and how to choose among them.",
+      "recommended_days": 3,
+      "lessons": [
+        {
+          "lesson_id": "8.1",
+          "title": "Main Transport Modes",
+          "type": "learn",
+          "goal": "Identify the main transport modes listed in the presentation.",
+          "skills": [
+            "air",
+            "maritime",
+            "rail",
+            "road",
+            "pipeline",
+            "intermodal"
+          ],
+          "micro_steps": [
+            "List the major transport modes",
+            "Recognize that more than one mode is often used",
+            "Connect transport mode to cargo needs"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "8.2",
+          "title": "Choosing the Right Mode",
+          "type": "learn",
+          "goal": "Understand the practical criteria used in transport selection.",
+          "skills": [
+            "speed",
+            "cost",
+            "accessibility",
+            "flexibility",
+            "specialized cargo"
+          ],
+          "micro_steps": [
+            "Compare speed versus cost",
+            "Explain accessibility and connectivity",
+            "Explain flexibility and resilience",
+            "Explain specialized cargo handling"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "8.3",
+          "title": "Intermodal and Development Impact",
+          "type": "learn",
+          "goal": "Understand integration and broader economic value of transport systems.",
+          "skills": [
+            "intermodal integration",
+            "regional development",
+            "globalization"
+          ],
+          "micro_steps": [
+            "Explain intermodal transportation",
+            "Explain why maritime transport matters globally",
+            "Explain how roads, ports, and railways support local development"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "8.4",
+          "title": "Mode Selection Challenge",
+          "type": "scenario",
+          "goal": "Pick the most suitable mode for different goods and destinations.",
+          "skills": [
+            "applied logistics reasoning"
+          ],
+          "micro_steps": [
+            "Choose a mode for urgent cargo",
+            "Choose a mode for bulk long-distance cargo",
+            "Choose a mode for specialized liquid or gas cargo"
+          ],
+          "xp": 20
+        },
+        {
+          "lesson_id": "8.5",
+          "title": "Unit 8 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Demonstrate that you can explain and choose transport modes intelligently.",
+          "skills": [
+            "transport mastery"
+          ],
+          "micro_steps": [
+            "List the main transport modes",
+            "Explain their strengths and weaknesses",
+            "Apply mode choice to business scenarios"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 9,
+      "title": "Incoterms 2020",
+      "theme": "Responsibilities and Risk",
+      "unlock_rule": "complete_unit_8_checkpoint",
+      "unit_goal": "Understand what Incoterms do, what they do not do, and how the 11 rules are organized.",
+      "recommended_days": 5,
+      "lessons": [
+        {
+          "lesson_id": "9.1",
+          "title": "Purpose of Incoterms",
+          "type": "learn",
+          "goal": "Understand why Incoterms were created and what they solve.",
+          "skills": [
+            "ICC",
+            "trade terms",
+            "risk transfer",
+            "responsibilities"
+          ],
+          "micro_steps": [
+            "Explain why Incoterms were created",
+            "Identify ICC as publisher",
+            "Explain how Incoterms reduce disputes"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "9.2",
+          "title": "What Incoterms Cover and Do Not Cover",
+          "type": "learn",
+          "goal": "Understand the boundaries of Incoterms.",
+          "skills": [
+            "risk transfer",
+            "customs clearance",
+            "cost allocation",
+            "ownership",
+            "liability",
+            "payment terms"
+          ],
+          "micro_steps": [
+            "List the things Incoterms cover",
+            "List the things Incoterms do not cover",
+            "Differentiate risk transfer from ownership transfer"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "9.3",
+          "title": "Key Changes in Incoterms 2020",
+          "type": "learn",
+          "goal": "Understand the major updates from older versions.",
+          "skills": [
+            "DAT to DPU",
+            "FCA onboard notation",
+            "insurance transparency",
+            "security obligations",
+            "own transport"
+          ],
+          "micro_steps": [
+            "Explain DAT becoming DPU",
+            "Explain FCA onboard bill of lading change",
+            "Explain CIP versus CIF insurance changes"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "9.4",
+          "title": "11 Rules Map",
+          "type": "match",
+          "goal": "Sort the 11 Incoterms into the correct categories.",
+          "skills": [
+            "any mode",
+            "sea/inland waterway"
+          ],
+          "micro_steps": [
+            "Group EXW to DDP under any mode(s)",
+            "Group FAS to CIF under sea/inland waterway",
+            "Recognize why sea rules differ from multimodal rules"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "9.5",
+          "title": "Unit 9 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show you understand the structure and purpose of Incoterms 2020.",
+          "skills": [
+            "incoterms foundation mastery"
+          ],
+          "micro_steps": [
+            "Explain what Incoterms are",
+            "Explain what they cover and do not cover",
+            "Classify all 11 rules correctly"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 10,
+      "title": "The 11 Incoterms in Practice",
+      "theme": "Rule-by-Rule Mastery",
+      "unlock_rule": "complete_unit_9_checkpoint",
+      "unit_goal": "Understand the meaning and basic seller-buyer responsibility split under each Incoterm.",
+      "recommended_days": 5,
+      "lessons": [
+        {
+          "lesson_id": "10.1",
+          "title": "Any-Mode Rules: EXW to CIP",
+          "type": "learn",
+          "goal": "Understand EXW, FCA, CPT, and CIP.",
+          "skills": [
+            "EXW",
+            "FCA",
+            "CPT",
+            "CIP"
+          ],
+          "micro_steps": [
+            "Explain EXW",
+            "Explain FCA",
+            "Explain CPT",
+            "Explain CIP and added insurance duty"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "10.2",
+          "title": "Any-Mode Rules: DAP to DDP",
+          "type": "learn",
+          "goal": "Understand DAP, DPU, and DDP.",
+          "skills": [
+            "DAP",
+            "DPU",
+            "DDP"
+          ],
+          "micro_steps": [
+            "Explain DAP",
+            "Explain DPU and unloading responsibility",
+            "Explain DDP and maximum seller responsibility"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "10.3",
+          "title": "Sea Rules: FAS to CIF",
+          "type": "learn",
+          "goal": "Understand FAS, FOB, CFR, and CIF.",
+          "skills": [
+            "FAS",
+            "FOB",
+            "CFR",
+            "CIF"
+          ],
+          "micro_steps": [
+            "Explain FAS",
+            "Explain FOB",
+            "Explain CFR",
+            "Explain CIF and minimum insurance"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "10.4",
+          "title": "Incoterm Scenario Lab",
+          "type": "scenario",
+          "goal": "Choose the right term for practical trade situations.",
+          "skills": [
+            "rule application"
+          ],
+          "micro_steps": [
+            "Pick the term where seller bears maximum risk",
+            "Pick the term where seller unloads at destination",
+            "Pick a sea-only rule where seller pays freight and insurance"
+          ],
+          "xp": 20
+        },
+        {
+          "lesson_id": "10.5",
+          "title": "Unit 10 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Demonstrate rule-by-rule understanding of Incoterms 2020.",
+          "skills": [
+            "incoterms operational mastery"
+          ],
+          "micro_steps": [
+            "Explain all 11 terms in brief",
+            "Differentiate similar terms",
+            "Apply them to shipping and risk scenarios"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 11,
+      "title": "Kenya-EU and Kenya-UK EPAs",
+      "theme": "Trade Agreements in Practice",
+      "unlock_rule": "complete_unit_10_checkpoint",
+      "unit_goal": "Understand the two EPAs, their objectives, implementation, challenges, and mitigation measures.",
+      "recommended_days": 4,
+      "lessons": [
+        {
+          "lesson_id": "11.1",
+          "title": "Kenya-EU EPA Basics",
+          "type": "learn",
+          "goal": "Understand the purpose and broad structure of the Kenya-EU EPA.",
+          "skills": [
+            "EPA",
+            "market access",
+            "economic integration",
+            "development cooperation",
+            "sustainable development"
+          ],
+          "micro_steps": [
+            "Define EPA",
+            "Explain Kenya-EU EPA objectives",
+            "Recall signature and entry-into-force dates"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "11.2",
+          "title": "Kenya-EU EPA Implementation",
+          "type": "learn",
+          "goal": "Understand duty treatment and phasedown structure under the Kenya-EU EPA.",
+          "skills": [
+            "Annex II(a)",
+            "Annex II(b)",
+            "Annex II(c)",
+            "Annex II(d)",
+            "tariff phasedown"
+          ],
+          "micro_steps": [
+            "Explain treatment of Kenyan exports to the EU",
+            "Explain duty-free treatment in Annex II(a)",
+            "Explain 10% phasedown under Annex II(b)",
+            "Explain 25% phasedown under Annex II(c)",
+            "Explain non-liberalized treatment under Annex II(d)"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "11.3",
+          "title": "Kenya-UK EPA Basics and Implementation",
+          "type": "learn",
+          "goal": "Understand the Kenya-UK EPA and how it is implemented.",
+          "skills": [
+            "Kenya-UK EPA",
+            "FTA",
+            "tariff lines",
+            "UK access",
+            "phase-down"
+          ],
+          "micro_steps": [
+            "Recall signing and entry-into-force dates",
+            "Explain asymmetrical tariff elimination",
+            "Explain Annex II(a) to II(d) structure",
+            "Explain UK duty-free access for Kenyan goods"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "11.4",
+          "title": "EPA Challenges and Mitigation",
+          "type": "match",
+          "goal": "Link EPA risks to proposed solutions.",
+          "skills": [
+            "competition risk",
+            "revenue loss",
+            "export concentration",
+            "industrial upgrading",
+            "tax reforms",
+            "diversification"
+          ],
+          "micro_steps": [
+            "Match revenue loss to domestic tax reform",
+            "Match local competition pressure to industrial upgrading",
+            "Match export concentration to diversification",
+            "Match EAC coordination challenge to broader ratification"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "11.5",
+          "title": "Unit 11 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show you understand the EPAs as practical trade policy instruments.",
+          "skills": [
+            "EPA mastery"
+          ],
+          "micro_steps": [
+            "Explain the purpose of each EPA",
+            "Explain how tariff treatment works",
+            "Explain major challenges and mitigation measures"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 12,
+      "title": "Grand Mastery Path",
+      "theme": "Full Synthesis",
+      "unlock_rule": "complete_unit_11_checkpoint",
+      "unit_goal": "Bring the full topic together from terms to transaction flow, documents, payments, logistics, Incoterms, and EPAs.",
+      "recommended_days": 4,
+      "lessons": [
+        {
+          "lesson_id": "12.1",
+          "title": "Mixed Process Quiz",
+          "type": "quiz",
+          "goal": "Review the entire trade transaction process from beginning to end.",
+          "skills": [
+            "mixed recall",
+            "transaction logic"
+          ],
+          "micro_steps": [
+            "Recognize players",
+            "Sequence trade steps",
+            "Match documents to the correct stage"
+          ],
+          "xp": 15
+        },
+        {
+          "lesson_id": "12.2",
+          "title": "Risk and Responsibility Quiz",
+          "type": "quiz",
+          "goal": "Review payment methods, transport decisions, and Incoterms.",
+          "skills": [
+            "risk allocation",
+            "mode selection",
+            "incoterm recall"
+          ],
+          "micro_steps": [
+            "Compare payment risks",
+            "Choose suitable transport modes",
+            "Apply Incoterms to trade cases"
+          ],
+          "xp": 15
+        },
+        {
+          "lesson_id": "12.3",
+          "title": "Integrated Trade Scenario Lab",
+          "type": "scenario",
+          "goal": "Handle a realistic international trade case using everything learned.",
+          "skills": [
+            "synthesis",
+            "practical application"
+          ],
+          "micro_steps": [
+            "Identify the right players and documents",
+            "Choose a payment method",
+            "Choose a transport mode",
+            "Choose a suitable Incoterm",
+            "Recognize customs and EPA implications"
+          ],
+          "xp": 20
+        },
+        {
+          "lesson_id": "12.4",
+          "title": "Grand Checkpoint",
+          "type": "checkpoint",
+          "goal": "Demonstrate full mastery of customs in international context.",
+          "skills": [
+            "full-topic synthesis"
+          ],
+          "micro_steps": [
+            "Define and explain the major trade terms",
+            "Explain the transaction steps and documents",
+            "Explain payment methods and transport choices",
+            "Explain Incoterms and the two EPAs"
+          ],
+          "xp": 30
+        },
+        {
+          "lesson_id": "12.5",
+          "title": "Legendary Review Path",
+          "type": "quiz",
+          "goal": "Final mixed review for long-term retention.",
+          "skills": [
+            "retention",
+            "mixed application",
+            "exam readiness"
+          ],
+          "micro_steps": [
+            "Mixed trade term questions",
+            "Mixed documentation questions",
+            "Mixed payment and Incoterm questions",
+            "Mixed EPA questions"
+          ],
+          "xp": 15
+        }
+      ]
+    }
+  ],
+  "review_system": {
+    "daily_practice": {
+      "description": "Recycles weak lessons, commonly confused documents, similar payment methods, and similar Incoterms.",
+      "daily_target_xp": 30
+    },
+    "spaced_repetition_buckets": [
+      {
+        "bucket": "same_day",
+        "trigger": "after first lesson completion"
+      },
+      {
+        "bucket": "next_day",
+        "trigger": "if learner scores below 80 percent"
+      },
+      {
+        "bucket": "three_day_review",
+        "trigger": "for all new concepts"
+      },
+      {
+        "bucket": "seven_day_review",
+        "trigger": "for all checkpoint skills"
+      },
+      {
+        "bucket": "mastery_refresh",
+        "trigger": "every 14 days for mastered units"
+      }
+    ]
+  },
+  "gamification": {
+    "badges": [
+      {
+        "name": "Trade Terms Rookie",
+        "unlock": "complete Units 1 and 2"
+      },
+      {
+        "name": "Transaction Tracker",
+        "unlock": "complete Units 3 to 5"
+      },
+      {
+        "name": "Documentation Specialist",
+        "unlock": "complete Unit 6"
+      },
+      {
+        "name": "Trade Finance Analyst",
+        "unlock": "complete Unit 7"
+      },
+      {
+        "name": "Logistics Navigator",
+        "unlock": "complete Unit 8"
+      },
+      {
+        "name": "Incoterms Strategist",
+        "unlock": "complete Units 9 and 10"
+      },
+      {
+        "name": "EPA Interpreter",
+        "unlock": "complete Unit 11"
+      },
+      {
+        "name": "International Trade Master",
+        "unlock": "complete Unit 12"
+      }
+    ],
+    "streak_rewards": [
+      {
+        "days": 3,
+        "reward": "bonus review chest"
+      },
+      {
+        "days": 7,
+        "reward": "checkpoint retry without heart loss"
+      },
+      {
+        "days": 14,
+        "reward": "legendary review unlock"
+      },
+      {
+        "days": 30,
+        "reward": "course mastery badge"
+      }
+    ]
+  },
+  "estimated_course_totals": {
+    "total_units": 12,
+    "total_lessons": 62,
+    "estimated_base_xp": 895,
+    "estimated_completion_days": 36
+  }
+}

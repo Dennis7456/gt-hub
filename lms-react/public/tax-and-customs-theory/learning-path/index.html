@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Tax and Customs Theory - Learning Path</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet" />
+  <style>
+    * { font-family: 'Inter', sans-serif; }
+    
+    body {
+      background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+      min-height: 100vh;
+    }
+
+    body.dark-mode {
+      background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+    }
+
+    .path-container {
+      max-width: 600px;
+      margin: 0 auto;
+      padding: 2rem 1rem;
+    }
+
+    .topic-node {
+      position: relative;
+      margin: 3rem 0;
+      animation: fadeIn 0.5s ease-out;
+    }
+
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(20px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
+
+    .topic-card {
+      background: white;
+      border-radius: 1.5rem;
+      padding: 1.5rem;
+      box-shadow: 0 10px 40px rgba(0, 0, 0, 0.15);
+      transition: all 0.3s;
+      cursor: pointer;
+    }
+
+    body.dark-mode .topic-card {
+      background: #1e293b;
+    }
+
+    .topic-card:hover {
+      transform: translateY(-4px);
+      box-shadow: 0 15px 50px rgba(0, 0, 0, 0.2);
+    }
+
+    .topic-card.locked {
+      opacity: 0.6;
+      cursor: not-allowed;
+    }
+
+    .topic-card.locked:hover {
+      transform: none;
+    }
+
+    .progress-ring {
+      transform: rotate(-90deg);
+    }
+
+    .step-dot {
+      width: 12px;
+      height: 12px;
+      border-radius: 50%;
+      transition: all 0.3s;
+    }
+
+    .step-dot.completed {
+      background: #10b981;
+      box-shadow: 0 0 10px rgba(16, 185, 129, 0.5);
+    }
+
+    .step-dot.current {
+      background: #3b82f6;
+      animation: pulse 2s infinite;
+    }
+
+    .step-dot.locked {
+      background: #cbd5e1;
+    }
+
+    @keyframes pulse {
+      0%, 100% { transform: scale(1); opacity: 1; }
+      50% { transform: scale(1.2); opacity: 0.8; }
+    }
+
+    .streak-flame {
+      animation: flicker 1.5s infinite;
+    }
+
+    @keyframes flicker {
+      0%, 100% { transform: scale(1); }
+      50% { transform: scale(1.1); }
+    }
+
+    @keyframes successPop {
+      0% { transform: scale(0.8); opacity: 0; }
+      50% { transform: scale(1.1); }
+      100% { transform: scale(1); opacity: 1; }
+    }
+
+    @keyframes errorShake {
+      0%, 100% { transform: translateX(0); }
+      25% { transform: translateX(-10px); }
+      75% { transform: translateX(10px); }
+    }
+
+    @keyframes confetti-fall {
+      0% { transform: translateY(-100vh) rotate(0deg); opacity: 1; }
+      100% { transform: translateY(100vh) rotate(720deg); opacity: 0; }
+    }
+
+    .success-animation {
+      animation: successPop 0.5s ease-out;
+    }
+
+    .error-animation {
+      animation: errorShake 0.5s ease-out;
+    }
+
+    .confetti {
+      position: fixed;
+      width: 10px;
+      height: 10px;
+      z-index: 9999;
+      pointer-events: none;
+    }
+
+    .celebration-overlay {
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      z-index: 9998;
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Header -->
+  <header class="bg-white/10 backdrop-blur-md border-b border-white/20 sticky top-0 z-50">
+    <div class="max-w-6xl mx-auto px-4 py-3 flex items-center justify-between">
+      <div class="flex items-center gap-3">
+        <h1 class="text-white font-bold text-lg">Tax and Customs Theory</h1>
+      </div>
+      <div class="flex items-center gap-3">
+        <!-- Hearts -->
+        <div class="flex items-center gap-1 bg-white/20 backdrop-blur-sm px-3 py-1.5 rounded-full">
+          <span class="text-xl">❤️</span>
+          <span class="text-white font-bold" id="hearts-count">5</span>
+        </div>
+        <!-- Streak -->
+        <div class="flex items-center gap-2 bg-white/20 backdrop-blur-sm px-3 py-1.5 rounded-full">
+          <span class="text-2xl streak-flame">🔥</span>
+          <span class="text-white font-bold" id="streak-count">0</span>
+        </div>
+        <!-- XP -->
+        <div class="flex items-center gap-2 bg-white/20 backdrop-blur-sm px-3 py-1.5 rounded-full">
+          <span class="text-xl">⭐</span>
+          <span class="text-white font-bold" id="xp-count">0</span>
+        </div>
+        <!-- Theme Toggle -->
+        <button id="theme-toggle" class="p-2 rounded-lg bg-white/20 hover:bg-white/30 transition-all">
+          <svg id="sun-icon" class="w-5 h-5 text-white hidden" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 3v1m0 16v1m9-9h-1M4 12H3m15.364 6.364l-.707-.707M6.343 6.343l-.707-.707m12.728 0l-.707.707M6.343 17.657l-.707.707M16 12a4 4 0 11-8 0 4 4 0 018 0z"/></svg>
+          <svg id="moon-icon" class="w-5 h-5 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M20.354 15.354A9 9 0 018.646 3.646 9.003 9.003 0 0012 21a9.003 9.003 0 008.354-5.646z"/></svg>
+        </button>
+      </div>
+    </div>
+  </header>
+
+  <!-- Main Path -->
+  <div class="path-container" id="path-container">
+    <!-- Topics will be rendered here -->
+  </div>
+
+  <!-- Topic Modal -->
+  <div id="topic-modal" class="hidden fixed inset-0 bg-black/50 backdrop-blur-sm z-50 flex items-center justify-center p-4">
+    <div class="bg-white dark:bg-slate-800 rounded-2xl shadow-2xl max-w-2xl w-full max-h-[90vh] overflow-y-auto">
+      <div class="p-6">
+        <div class="flex items-start justify-between mb-6">
+          <div class="flex-1">
+            <h2 class="text-2xl font-bold text-slate-900 dark:text-white mb-2" id="modal-title"></h2>
+            <p class="text-slate-600 dark:text-slate-400 mb-3" id="modal-subtitle"></p>
+            <!-- Topic Progress -->
+            <div class="flex items-center gap-3">
+              <div class="flex-1 h-3 bg-slate-200 dark:bg-slate-700 rounded-full overflow-hidden">
+                <div id="modal-progress-bar" class="h-full bg-gradient-to-r from-green-500 to-emerald-500 transition-all duration-500" style="width: 0%"></div>
+              </div>
+              <span class="text-sm font-semibold text-slate-700 dark:text-slate-300" id="modal-progress-text">0/6</span>
+            </div>
+          </div>
+          <button id="close-modal" class="p-2 hover:bg-slate-100 dark:hover:bg-slate-700 rounded-lg transition-all ml-4">
+            <svg class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
+          </button>
+        </div>
+
+        <!-- Steps Grid -->
+        <div class="grid grid-cols-1 sm:grid-cols-2 gap-3" id="steps-grid">
+          <!-- Steps will be rendered here -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Lesson Screen -->
+  <div id="lesson-screen" class="hidden fixed inset-0 bg-gradient-to-br from-indigo-500 to-purple-600 z-50 overflow-y-auto">
+    <div class="min-h-screen flex flex-col">
+      <!-- Lesson Header -->
+      <div class="bg-white/10 backdrop-blur-md border-b border-white/20 px-4 py-3">
+        <div class="max-w-4xl mx-auto flex items-center justify-between">
+          <button id="exit-lesson" class="p-2 hover:bg-white/20 rounded-lg transition-all">
+            <svg class="w-6 h-6 text-white" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"/></svg>
+          </button>
+          <div class="flex-1 mx-4">
+            <div class="h-3 bg-white/20 rounded-full overflow-hidden">
+              <div id="lesson-progress-bar" class="h-full bg-white transition-all duration-300" style="width: 0%"></div>
+            </div>
+          </div>
+          <div class="flex items-center gap-2">
+            <span class="text-white font-bold" id="lesson-hearts">❤️ 5</span>
+          </div>
+        </div>
+      </div>
+
+      <!-- Lesson Content -->
+      <div class="flex-1 flex items-center justify-center p-4">
+        <div class="bg-white dark:bg-slate-800 rounded-2xl shadow-2xl p-6 sm:p-8 max-w-2xl w-full" id="lesson-content">
+          <!-- Dynamic lesson content -->
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- Results Modal -->
+  <div id="results-modal" class="hidden fixed inset-0 bg-black/50 backdrop-blur-sm z-50 flex items-center justify-center p-4">
+    <div class="bg-white dark:bg-slate-800 rounded-2xl shadow-2xl max-w-md w-full p-8 text-center">
+      <div class="text-6xl mb-4" id="results-icon">🎉</div>
+      <h2 class="text-3xl font-bold text-slate-900 dark:text-white mb-2" id="results-title">Great Job!</h2>
+      <p class="text-slate-600 dark:text-slate-400 mb-6" id="results-message"></p>
+      
+      <div class="grid grid-cols-2 gap-4 mb-6">
+        <div class="bg-indigo-50 dark:bg-indigo-900/20 rounded-xl p-4">
+          <div class="text-2xl font-bold text-indigo-600 dark:text-indigo-400" id="results-xp">+100</div>
+          <div class="text-xs text-slate-600 dark:text-slate-400">XP Earned</div>
+        </div>
+        <div class="bg-green-50 dark:bg-green-900/20 rounded-xl p-4">
+          <div class="text-2xl font-bold text-green-600 dark:text-green-400" id="results-accuracy">100%</div>
+          <div class="text-xs text-slate-600 dark:text-slate-400">Accuracy</div>
+        </div>
+      </div>
+
+      <button id="continue-btn" class="w-full px-6 py-3 bg-indigo-600 hover:bg-indigo-500 text-white rounded-xl font-semibold transition-all">
+        Continue
+      </button>
+    </div>
+  </div>
+
+  <script src="data.js"></script>
+  <script src="lessons.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

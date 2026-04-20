@@ -1,0 +1,786 @@
+{
+  "topic": "WTO Agreement on Customs Valuation",
+  "source": "WTO Agreement on Customs Valuation.pdf",
+  "flashcards": [
+    {
+      "id": 1,
+      "category": "Purpose",
+      "front": "Why are rules on customs valuation needed?",
+      "back": "They are needed to ensure a fair, uniform, and neutral system for valuing goods for customs purposes and to prevent arbitrary or fictitious customs values."
+    },
+    {
+      "id": 2,
+      "category": "Purpose",
+      "front": "What broad problem do customs valuation rules try to prevent?",
+      "back": "They prevent arbitrary, fictitious, or inappropriate customs values that can unfairly increase duties."
+    },
+    {
+      "id": 3,
+      "category": "Purpose",
+      "front": "Why is customs value important when duty is ad valorem?",
+      "back": "Because the customs value is the base on which the percentage duty is calculated."
+    },
+    {
+      "id": 4,
+      "category": "Purpose",
+      "front": "Why are exporters concerned about unfair customs valuation?",
+      "back": "Because inflated customs values can undermine negotiated tariff reductions and destroy market access benefits."
+    },
+    {
+      "id": 5,
+      "category": "Purpose",
+      "front": "What can happen if customs uses inflated values when applying tariffs?",
+      "back": "Duties can be doubled or tripled unfairly, making imports more expensive than justified."
+    },
+    {
+      "id": 6,
+      "category": "General Objective",
+      "front": "What is the general objective of customs management and regulation under the GATT in relation to valuation?",
+      "back": "To ensure customs operations do not unnecessarily hinder international trade or offset concessions exchanged between WTO Members."
+    },
+    {
+      "id": 7,
+      "category": "General Objective",
+      "front": "What balance does the GATT framework try to maintain in customs valuation?",
+      "back": "It balances facilitation of trade with customs authorities’ need to ensure security, product safety, legal compliance, and fraud control."
+    },
+    {
+      "id": 8,
+      "category": "GATT Framework",
+      "front": "Which GATT article deals specifically with valuation for customs purposes?",
+      "back": "Article VII."
+    },
+    {
+      "id": 9,
+      "category": "GATT Framework",
+      "front": "Which GATT article deals with freedom of transit?",
+      "back": "Article V."
+    },
+    {
+      "id": 10,
+      "category": "GATT Framework",
+      "front": "Which GATT article deals with fees and formalities connected with importation and exportation?",
+      "back": "Article VIII."
+    },
+    {
+      "id": 11,
+      "category": "GATT Framework",
+      "front": "Which GATT article deals with marks of origin?",
+      "back": "Article IX."
+    },
+    {
+      "id": 12,
+      "category": "GATT Framework",
+      "front": "Which GATT article deals with publication and administration of trade regulations?",
+      "back": "Article X."
+    },
+    {
+      "id": 13,
+      "category": "GATT 1947",
+      "front": "What did GATT 1947 say customs value should not be based on?",
+      "back": "It should not be based on the value of merchandise of national origin or on arbitrary or fictitious values."
+    },
+    {
+      "id": 14,
+      "category": "GATT 1947",
+      "front": "What was meant by 'actual value' under GATT 1947?",
+      "back": "The price of the imported merchandise, or like merchandise, in sales in the ordinary course of trade under fully competitive conditions."
+    },
+    {
+      "id": 15,
+      "category": "Tokyo Round",
+      "front": "Why was customs valuation addressed in the Tokyo Round?",
+      "back": "Because countries used different customs valuation systems and the original GATT rules lacked precision, creating unjustified barriers to trade."
+    },
+    {
+      "id": 16,
+      "category": "Tokyo Round",
+      "front": "What was adopted in November 1979 regarding customs valuation?",
+      "back": "A Protocol to the Agreement on Implementation of Article VII."
+    },
+    {
+      "id": 17,
+      "category": "Uruguay Round",
+      "front": "What was one major weakness of the Tokyo Round Valuation Code before the Uruguay Round?",
+      "back": "Less than one-third of the GATT contracting parties had signed it."
+    },
+    {
+      "id": 18,
+      "category": "Uruguay Round",
+      "front": "What was the aim of the Uruguay Round negotiations on customs valuation?",
+      "back": "To improve, clarify, or expand the Tokyo Round Code and make it a multilateral agreement binding on WTO Members."
+    },
+    {
+      "id": 19,
+      "category": "Uruguay Round",
+      "front": "What key agreement resulted from the Uruguay Round in 1994 on customs valuation?",
+      "back": "The Agreement on the Implementation of Article VII of GATT 1994, known as the Customs Valuation Agreement."
+    },
+    {
+      "id": 20,
+      "category": "Current Rules",
+      "front": "What other instruments form part of the current customs valuation rules besides the Customs Valuation Agreement itself?",
+      "back": "Ministerial decisions and Committee decisions, including the Decision on Reasonable Doubts, the Decision on Minimum Values and Sole Agents, and G/VAL/5."
+    },
+    {
+      "id": 21,
+      "category": "Structure of the Agreement",
+      "front": "What does Part I of the Customs Valuation Agreement cover?",
+      "back": "Rules on customs valuation in Articles 1 to 17."
+    },
+    {
+      "id": 22,
+      "category": "Structure of the Agreement",
+      "front": "What does Part II of the Customs Valuation Agreement cover?",
+      "back": "Administration, consultations, and dispute settlement in Articles 18 and 19."
+    },
+    {
+      "id": 23,
+      "category": "Structure of the Agreement",
+      "front": "What does Part III of the Customs Valuation Agreement cover?",
+      "back": "Special and differential treatment in Article 20."
+    },
+    {
+      "id": 24,
+      "category": "Structure of the Agreement",
+      "front": "What does Part IV of the Customs Valuation Agreement cover?",
+      "back": "Final provisions in Articles 21 to 24."
+    },
+    {
+      "id": 25,
+      "category": "General Principles",
+      "front": "What valuation method has primacy under the Customs Valuation Agreement?",
+      "back": "The transaction value method."
+    },
+    {
+      "id": 26,
+      "category": "General Principles",
+      "front": "What are the core general principles in the preamble of the Customs Valuation Agreement?",
+      "back": "Primacy of transaction value, uniformity in valuation, fairness and neutrality, simple and equitable criteria, and consistency with commercial practice."
+    },
+    {
+      "id": 27,
+      "category": "Part I Contents",
+      "front": "Which articles contain the valuation methods in the Customs Valuation Agreement?",
+      "back": "Articles 1 to 8."
+    },
+    {
+      "id": 28,
+      "category": "Part I Contents",
+      "front": "Which article deals with currency conversion?",
+      "back": "Article 9."
+    },
+    {
+      "id": 29,
+      "category": "Part I Contents",
+      "front": "Which article deals with confidentiality?",
+      "back": "Article 10."
+    },
+    {
+      "id": 30,
+      "category": "Part I Contents",
+      "front": "Which article provides for a right of appeal?",
+      "back": "Article 11."
+    },
+    {
+      "id": 31,
+      "category": "Part I Contents",
+      "front": "Which article deals with publication?",
+      "back": "Article 12."
+    },
+    {
+      "id": 32,
+      "category": "Part I Contents",
+      "front": "Which article deals with release of goods?",
+      "back": "Article 13."
+    },
+    {
+      "id": 33,
+      "category": "Part I Contents",
+      "front": "Which article contains definitions?",
+      "back": "Article 15."
+    },
+    {
+      "id": 34,
+      "category": "Part I Contents",
+      "front": "Which article gives the importer the right to a written explanation?",
+      "back": "Article 16."
+    },
+    {
+      "id": 35,
+      "category": "Annexes",
+      "front": "What does Annex I to the Customs Valuation Agreement contain?",
+      "back": "Interpretative Notes."
+    },
+    {
+      "id": 36,
+      "category": "Annexes",
+      "front": "What does Annex II contain?",
+      "back": "The Technical WCO Committee provisions."
+    },
+    {
+      "id": 37,
+      "category": "Annexes",
+      "front": "What does Annex III contain?",
+      "back": "Provisions relating to developing countries."
+    },
+    {
+      "id": 38,
+      "category": "Annexes",
+      "front": "What does Article 14 say about the annexes?",
+      "back": "That the annexes are an integral part of the Customs Valuation Agreement."
+    },
+    {
+      "id": 39,
+      "category": "Administration",
+      "front": "What two committees are established under Article 18?",
+      "back": "The WTO Valuation Committee in Geneva and the Technical Committee on Customs Valuation at the WCO in Brussels."
+    },
+    {
+      "id": 40,
+      "category": "Administration",
+      "front": "What does the WTO Valuation Committee mainly handle?",
+      "back": "Policy issues and implementation issues."
+    },
+    {
+      "id": 41,
+      "category": "Administration",
+      "front": "What does the Technical Committee on Customs Valuation do?",
+      "back": "It operates under the WCO in Brussels and supports technical interpretation and administration of customs valuation matters."
+    },
+    {
+      "id": 42,
+      "category": "Special Treatment",
+      "front": "Why does Article 20 provide special and differential treatment?",
+      "back": "Because developing country Members might face difficulties implementing all provisions of the Agreement when the WTO was created."
+    },
+    {
+      "id": 43,
+      "category": "Final Provisions",
+      "front": "Which article deals with reservations?",
+      "back": "Article 21."
+    },
+    {
+      "id": 44,
+      "category": "Final Provisions",
+      "front": "Which article deals with obligations regarding national legislation?",
+      "back": "Article 22."
+    },
+    {
+      "id": 45,
+      "category": "Final Provisions",
+      "front": "Which article provides for review of implementation and operation of the Agreement?",
+      "back": "Article 23."
+    },
+    {
+      "id": 46,
+      "category": "Final Provisions",
+      "front": "Which article deals with responsibilities of the WTO and WCO Secretariats?",
+      "back": "Article 24."
+    },
+    {
+      "id": 47,
+      "category": "Importance of Customs Value",
+      "front": "Why are rules needed to preserve the value of tariff bindings?",
+      "back": "Because ad valorem duties depend on the customs value, and inflated values can nullify negotiated tariff concessions."
+    },
+    {
+      "id": 48,
+      "category": "Valuation Methods",
+      "front": "How many authorized customs valuation methods are recognized under the Agreement?",
+      "back": "Six."
+    },
+    {
+      "id": 49,
+      "category": "Valuation Methods",
+      "front": "What is Method 1 under the Customs Valuation Agreement?",
+      "back": "Transaction value."
+    },
+    {
+      "id": 50,
+      "category": "Valuation Methods",
+      "front": "What is Method 2 under the Customs Valuation Agreement?",
+      "back": "Transaction value of identical goods."
+    },
+    {
+      "id": 51,
+      "category": "Valuation Methods",
+      "front": "What is Method 3 under the Customs Valuation Agreement?",
+      "back": "Transaction value of similar goods."
+    },
+    {
+      "id": 52,
+      "category": "Valuation Methods",
+      "front": "What is Method 4 under the Customs Valuation Agreement?",
+      "back": "Deductive value."
+    },
+    {
+      "id": 53,
+      "category": "Valuation Methods",
+      "front": "What is Method 5 under the Customs Valuation Agreement?",
+      "back": "Computed value."
+    },
+    {
+      "id": 54,
+      "category": "Valuation Methods",
+      "front": "What is Method 6 under the Customs Valuation Agreement?",
+      "back": "The fall-back method."
+    },
+    {
+      "id": 55,
+      "category": "Valuation Methods",
+      "front": "Must the order of valuation methods be followed?",
+      "back": "Yes, the order must be followed."
+    },
+    {
+      "id": 56,
+      "category": "Prohibited Methods",
+      "front": "Can customs value be based on the selling price of domestically produced goods?",
+      "back": "No. That is a prohibited valuation method under Article 7."
+    },
+    {
+      "id": 57,
+      "category": "Prohibited Methods",
+      "front": "Can customs value be based on the higher of two alternative values?",
+      "back": "No. That is prohibited."
+    },
+    {
+      "id": 58,
+      "category": "Prohibited Methods",
+      "front": "Can customs value be based on the domestic market price of the country of exportation?",
+      "back": "No. That is prohibited."
+    },
+    {
+      "id": 59,
+      "category": "Prohibited Methods",
+      "front": "Can customs value be based on cost of production other than computed value?",
+      "back": "No. That is prohibited."
+    },
+    {
+      "id": 60,
+      "category": "Prohibited Methods",
+      "front": "Can customs value be based on the price of goods for export to a country other than the country of importation?",
+      "back": "No. That is prohibited."
+    },
+    {
+      "id": 61,
+      "category": "Prohibited Methods",
+      "front": "Are minimum customs values allowed under the WTO Customs Valuation Agreement?",
+      "back": "No. Minimum customs values are prohibited."
+    },
+    {
+      "id": 62,
+      "category": "Prohibited Methods",
+      "front": "Are arbitrary and fictitious values allowed under the Agreement?",
+      "back": "No. They are expressly prohibited."
+    },
+    {
+      "id": 63,
+      "category": "Reasonable Doubts",
+      "front": "What may customs do if it has reason to doubt the truth or accuracy of the declared value?",
+      "back": "It may ask the importer for additional information or documentation."
+    },
+    {
+      "id": 64,
+      "category": "Reasonable Doubts",
+      "front": "What must customs do if it doubts the declared value?",
+      "back": "It must inform the importer of the reasons for its doubts."
+    },
+    {
+      "id": 65,
+      "category": "Reasonable Doubts",
+      "front": "What procedural fairness must customs provide where there are reasonable doubts?",
+      "back": "Customs must give the importer a reasonable opportunity to respond."
+    },
+    {
+      "id": 66,
+      "category": "Reasonable Doubts",
+      "front": "How must customs communicate its final decision where it rejects the declared value?",
+      "back": "It must inform the importer in writing."
+    },
+    {
+      "id": 67,
+      "category": "Reasonable Doubts",
+      "front": "Can transaction value be rejected if customs has unresolved reasonable doubts?",
+      "back": "Yes, transaction value can be rejected after the required process is followed."
+    },
+    {
+      "id": 68,
+      "category": "Method 1",
+      "front": "What is the basic rule in Article 1.1 on transaction value?",
+      "back": "The customs value of imported goods shall be the transaction value, subject to the Agreement’s conditions."
+    },
+    {
+      "id": 69,
+      "category": "Method 1",
+      "front": "What four core elements make up transaction value under Article 1.1?",
+      "back": "Price actually paid or payable, for the goods, when sold for export, plus permitted adjustments."
+    },
+    {
+      "id": 70,
+      "category": "Method 1",
+      "front": "What does 'price actually paid or payable' mean in customs valuation?",
+      "back": "It means whatever amount the buyer agrees to pay the seller to obtain the goods."
+    },
+    {
+      "id": 71,
+      "category": "Method 1",
+      "front": "Can customs reject the declared price just because it is lower than prevailing market prices?",
+      "back": "No. That alone is not a valid reason to reject transaction value."
+    },
+    {
+      "id": 72,
+      "category": "Method 1",
+      "front": "Can customs reject the declared price just because it is lower than prices for identical goods in other transactions?",
+      "back": "No. That alone is not enough to reject transaction value."
+    },
+    {
+      "id": 73,
+      "category": "Method 1",
+      "front": "Can a discounted sale still qualify for transaction value?",
+      "back": "Yes. A cash discount, volume discount, trade discount, or purchase discount does not automatically disqualify the value."
+    },
+    {
+      "id": 74,
+      "category": "Method 1",
+      "front": "What kinds of payments are included in the total payment for transaction value purposes?",
+      "back": "All payments the buyer makes to, or for the benefit of, the seller, whether directly or indirectly, including payments required as conditions of sale."
+    },
+    {
+      "id": 75,
+      "category": "Method 1",
+      "front": "What may often exist in addition to the price of the goods under Article 8?",
+      "back": "Payments or costs that are additional to and apart from the stated price of the goods."
+    },
+    {
+      "id": 76,
+      "category": "Method 1",
+      "front": "Name one payment that may be excluded from customs value calculation under the Agreement if conditions are met.",
+      "back": "Interest payments."
+    },
+    {
+      "id": 77,
+      "category": "Method 1",
+      "front": "Name another payment that may be excluded from customs value calculation.",
+      "back": "Dividend payments."
+    },
+    {
+      "id": 78,
+      "category": "Method 1",
+      "front": "Name one category of post-sale item that may be excluded from transaction value.",
+      "back": "Post-importation services and costs."
+    },
+    {
+      "id": 79,
+      "category": "Method 1",
+      "front": "Can advertising and marketing costs be excluded from customs value in appropriate cases?",
+      "back": "Yes, advertising and marketing costs may be excluded in appropriate circumstances."
+    },
+    {
+      "id": 80,
+      "category": "Method 1",
+      "front": "What is the core requirement for a sale to qualify as 'when sold for export'?",
+      "back": "The sale must be one for export to the country of importation."
+    },
+    {
+      "id": 81,
+      "category": "Method 1",
+      "front": "Must the seller be located in the exporting country for transaction value to apply?",
+      "back": "No. The seller can be located in any country, including the importing country."
+    },
+    {
+      "id": 82,
+      "category": "Method 1",
+      "front": "What kind of transfer must the sale involve for it to qualify under transaction value?",
+      "back": "It must involve an international transfer of goods."
+    },
+    {
+      "id": 83,
+      "category": "Article 8 Adjustments",
+      "front": "When can Article 8 adjustments be added to the price?",
+      "back": "Only if the charge is not already included in the price of the goods."
+    },
+    {
+      "id": 84,
+      "category": "Article 8 Adjustments",
+      "front": "On what kind of data must Article 8 additions be based?",
+      "back": "Objective and quantifiable data."
+    },
+    {
+      "id": 85,
+      "category": "Article 8 Adjustments",
+      "front": "Can customs make an Article 8 adjustment if it cannot quantify the relevant cost?",
+      "back": "No. If customs cannot quantify the cost, the adjustment cannot be made."
+    },
+    {
+      "id": 86,
+      "category": "Article 8 Adjustments",
+      "front": "Can customs add items other than those expressly listed in Article 8?",
+      "back": "No. Only the additions listed in Article 8 may be used."
+    },
+    {
+      "id": 87,
+      "category": "Article 8 Adjustments",
+      "front": "Name one type of addition listed in Article 8.",
+      "back": "Commissions and brokerage fees."
+    },
+    {
+      "id": 88,
+      "category": "Article 8 Adjustments",
+      "front": "Name another type of addition listed in Article 8.",
+      "back": "Containers and packaging."
+    },
+    {
+      "id": 89,
+      "category": "Article 8 Adjustments",
+      "front": "What are 'assists' under Article 8 in general terms?",
+      "back": "They are certain goods or services supplied by the buyer for use in producing the imported goods, which may need to be added if not already included."
+    },
+    {
+      "id": 90,
+      "category": "Article 8 Adjustments",
+      "front": "Are royalties and licence fees among the possible Article 8 additions?",
+      "back": "Yes."
+    },
+    {
+      "id": 91,
+      "category": "Article 8 Adjustments",
+      "front": "Are proceeds of subsequent resale among the Article 8 additions?",
+      "back": "Yes, where the relevant conditions apply."
+    },
+    {
+      "id": 92,
+      "category": "Article 8 Adjustments",
+      "front": "Can international transport costs be an Article 8 addition?",
+      "back": "Yes."
+    },
+    {
+      "id": 93,
+      "category": "Related Parties",
+      "front": "Why does the relationship between buyer and seller matter in customs valuation?",
+      "back": "Because where companies are related, the relationship may or may not have influenced the price."
+    },
+    {
+      "id": 94,
+      "category": "Related Parties",
+      "front": "Does the mere fact that buyer and seller are related automatically justify rejection of transaction value?",
+      "back": "No. Relationship alone is not in itself grounds for rejecting transaction value."
+    },
+    {
+      "id": 95,
+      "category": "Related Parties",
+      "front": "What is the main question customs must ask when buyer and seller are related?",
+      "back": "Whether the relationship influenced the price."
+    },
+    {
+      "id": 96,
+      "category": "Related Parties",
+      "front": "What are the two broad ways customs may review related-party transactions?",
+      "back": "By observing the circumstances surrounding the sale or by measuring against test values."
+    },
+    {
+      "id": 97,
+      "category": "Related Parties",
+      "front": "Under Article 15, are members of the same family considered related parties?",
+      "back": "Yes."
+    },
+    {
+      "id": 98,
+      "category": "Related Parties",
+      "front": "Are legally recognized partners in business considered related parties?",
+      "back": "Yes."
+    },
+    {
+      "id": 99,
+      "category": "Related Parties",
+      "front": "Are buyer and seller related if one is the employer of the other?",
+      "back": "Yes."
+    },
+    {
+      "id": 100,
+      "category": "Related Parties",
+      "front": "Are officers or directors of one another’s businesses related parties?",
+      "back": "Yes."
+    },
+    {
+      "id": 101,
+      "category": "Related Parties",
+      "front": "What voting stock threshold helps establish relatedness through common ownership or control?",
+      "back": "Five percent or more of the outstanding voting stock of both buyer and seller held by a third person."
+    },
+    {
+      "id": 102,
+      "category": "Related Parties",
+      "front": "Can buyer and seller be related if the buyer directly or indirectly controls the seller or vice versa?",
+      "back": "Yes."
+    },
+    {
+      "id": 103,
+      "category": "Related Parties",
+      "front": "Can buyer and seller be related if both are controlled by a third person?",
+      "back": "Yes."
+    },
+    {
+      "id": 104,
+      "category": "Related Parties",
+      "front": "Can buyer and seller be related if they together control a third person?",
+      "back": "Yes."
+    },
+    {
+      "id": 105,
+      "category": "Circumstances of Sale",
+      "front": "What should customs consider first when examining the circumstances of sale between related parties?",
+      "back": "How the buyer and seller organize their commercial relations."
+    },
+    {
+      "id": 106,
+      "category": "Circumstances of Sale",
+      "front": "What should customs consider second when examining the circumstances of sale?",
+      "back": "How the price in question was derived."
+    },
+    {
+      "id": 107,
+      "category": "Circumstances of Sale",
+      "front": "What is one proof that the relationship did not influence the price?",
+      "back": "The price is consistent with normal industry practice."
+    },
+    {
+      "id": 108,
+      "category": "Circumstances of Sale",
+      "front": "What is another proof that the relationship did not influence the price?",
+      "back": "The price is the same as in sales to unrelated parties."
+    },
+    {
+      "id": 109,
+      "category": "Circumstances of Sale",
+      "front": "What is a third proof that the relationship did not influence the price?",
+      "back": "The price is enough to allow recovery of costs plus an average profit."
+    },
+    {
+      "id": 110,
+      "category": "Test Values",
+      "front": "What is the key question when using test values in related-party valuation?",
+      "back": "Whether the test values closely approximate the import price."
+    },
+    {
+      "id": 111,
+      "category": "Method 1 Rejection",
+      "front": "Can transaction value be used if there is no sale?",
+      "back": "No."
+    },
+    {
+      "id": 112,
+      "category": "Method 1 Rejection",
+      "front": "Can transaction value be used if there are restrictions on the disposition or use of the goods under Article 1.1(a)?",
+      "back": "No, subject to the conditions in the Agreement."
+    },
+    {
+      "id": 113,
+      "category": "Method 1 Rejection",
+      "front": "Can transaction value be used if there are conditions for which a value cannot be determined at the time of import under Article 1.1(b)?",
+      "back": "No."
+    },
+    {
+      "id": 114,
+      "category": "Method 1 Rejection",
+      "front": "Can transaction value be used if part of the proceeds of subsequent resale revert directly or indirectly to the seller under Article 1.1(c)?",
+      "back": "No, unless the Agreement’s requirements are satisfied through adjustment mechanisms where applicable."
+    },
+    {
+      "id": 115,
+      "category": "Method 1 Rejection",
+      "front": "Can transaction value be used in related-party sales under Article 1.1(d)?",
+      "back": "Yes, but only if the relationship did not influence the price."
+    },
+    {
+      "id": 116,
+      "category": "Alternative Methods",
+      "front": "What method comes immediately after transaction value if Method 1 cannot be used?",
+      "back": "Transaction value of identical goods under Article 2."
+    },
+    {
+      "id": 117,
+      "category": "Alternative Methods",
+      "front": "What method comes after transaction value of identical goods?",
+      "back": "Transaction value of similar goods under Article 3."
+    },
+    {
+      "id": 118,
+      "category": "Alternative Methods",
+      "front": "What method comes after transaction value of similar goods?",
+      "back": "Deductive value under Article 5."
+    },
+    {
+      "id": 119,
+      "category": "Alternative Methods",
+      "front": "What method comes after deductive value?",
+      "back": "Computed value under Article 6."
+    },
+    {
+      "id": 120,
+      "category": "Alternative Methods",
+      "front": "What is the last method in the hierarchy?",
+      "back": "The fall-back method under Article 7."
+    },
+    {
+      "id": 121,
+      "category": "Alternative Methods",
+      "front": "If customs cannot use transaction value, must it move down the hierarchy method by method?",
+      "back": "Yes, the order must be followed."
+    },
+    {
+      "id": 122,
+      "category": "WTO Accession",
+      "front": "What is the baseline commitment for acceding WTO Members regarding customs valuation?",
+      "back": "They must implement the WTO customs valuation provisions in full from the date of accession."
+    },
+    {
+      "id": 123,
+      "category": "WTO Accession",
+      "front": "What prohibited valuation methods have WTO Members been especially vigilant in eliminating during accession?",
+      "back": "Minimum values and any system of reference prices or fixed valuation schedules used instead of transaction value."
+    },
+    {
+      "id": 124,
+      "category": "Notifications",
+      "front": "Why do notification requirements exist under Article 22.1?",
+      "back": "To provide transparency to the WTO Committee on each Member’s implementation of the Customs Valuation Agreement."
+    },
+    {
+      "id": 125,
+      "category": "Notifications",
+      "front": "What is the purpose of notifying customs valuation legislation to the Committee?",
+      "back": "To provide the title, details, and relevant text of a Member’s national customs valuation legislation."
+    },
+    {
+      "id": 126,
+      "category": "Notifications",
+      "front": "What is the purpose of the Checklist of Issues notification?",
+      "back": "It serves as the basis for an initial examination of a Member’s national legislation by the Committee."
+    },
+    {
+      "id": 127,
+      "category": "Notifications",
+      "front": "What are the two decisions mentioned as requiring notifications relating to interpretation of the Agreement?",
+      "back": "The Decision on the Treatment of Interest Charges and the Decision on Carrier Media."
+    },
+    {
+      "id": 128,
+      "category": "Notifications",
+      "front": "What must a Member notify if it applies the Decision on the Treatment of Interest Charges?",
+      "back": "The date from which it implemented the decision."
+    },
+    {
+      "id": 129,
+      "category": "Notifications",
+      "front": "What must a Member notify regarding the Decision on Carrier Media?",
+      "back": "Whether it applies paragraph 2 of the Decision."
+    },
+    {
+      "id": 130,
+      "category": "Recap",
+      "front": "What is the basic recap formula for transaction value given in the presentation?",
+      "back": "Transaction value equals the price paid or payable, for the goods, when sold for export, plus only the adjustments permitted by Article 8."
+    }
+  ]
+}

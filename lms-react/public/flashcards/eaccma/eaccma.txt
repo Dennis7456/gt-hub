@@ -1,0 +1,2288 @@
+1. Definitions — Anki-style flashcards
+
+Front: What is the short title of the Act?
+Back: The East African Community Customs Management Act, 2004.
+
+Front: To whom does the Act apply?
+Back: It applies to the Partner States.
+
+Front: What is an “agent” in relation to an aircraft, vehicle, or vessel?
+Back: A person who acts on behalf of the owner and does anything required by the Act to be done by an agent; if no agent is appointed, the owner or representative may be deemed the agent.
+
+Front: What is an approved place of loading or unloading?
+Back: A quay, jetty, wharf, or other place, including part of a Customs airport, appointed by the Commissioner where goods may be loaded or unloaded.
+
+Front: What is a boarding station?
+Back: A place appointed by the Commissioner where aircraft or vessels arriving at or departing from a port or place bring to for boarding or disembarkation of officers.
+
+Front: What is a bonded warehouse?
+Back: A warehouse or other place licensed by the Commissioner for storing dutiable goods on which import duty has not been paid and which have been entered for warehousing.
+
+Front: What does “cargo” include?
+Back: All goods imported or exported in an aircraft, vehicle, or vessel except stores for use or consumption by the craft, crew, and passengers, and bona fide personal baggage of crew and passengers.
+
+Front: What is COMESA?
+Back: The organisation established by the Treaty establishing the Common Market for Eastern and Southern Africa, 1994.
+
+Front: Who is the Commissioner under the Act?
+Back: The Commissioner of Customs appointed under section 5 of the Act.
+
+Front: What is countervailing duty?
+Back: A specific duty levied to offset a subsidy bestowed directly or indirectly on the manufacture, production, or export of a product.
+
+Front: What are countervailing measures?
+Back: Actions taken to counter the effect of subsidies.
+
+Front: What does “Customs” mean?
+Back: The customs departments of the Partner States.
+
+Front: What is a Customs area?
+Back: A place appointed by the Commissioner for carrying out customs operations, including a place designated for deposit of goods subject to customs control.
+
+Front: What are Customs laws?
+Back: This Act, Acts of the Partner States and Community relating to Customs, relevant Treaty provisions, the Protocol, Council regulations and directives, and relevant principles of international law.
+
+Front: What is the Customs Co-operation Council?
+Back: The council established by the Convention establishing the Customs Co-operation Council, 1952.
+
+Front: What is Customs revenue?
+Back: Amounts collectable by Customs in accordance with the Customs laws.
+
+Front: What is a Customs warehouse?
+Back: A place approved by the Commissioner for depositing unentered, unexamined, abandoned, detained, or seized goods for their security or for the security of duty due on them.
+
+Front: What is the Directorate?
+Back: The Directorate of Customs established by the Council under Article 75(3) of the Treaty.
+
+Front: Who is the Director General?
+Back: The Director General of Customs in the Directorate of Customs.
+
+Front: What does “document” include under the Act?
+Back: An electronic document, magnetic tape, disk, and microfilm.
+
+Front: What does “dollar” mean in the Act?
+Back: United States dollar, including the equivalent in the currency of the Partner States.
+
+Front: What is duty drawback?
+Back: A refund of all or part of import duty paid on goods that are later exported or used in a qualifying prescribed manner.
+
+Front: What are dutiable goods?
+Back: Goods chargeable with duty.
+
+Front: What does “duty” include?
+Back: Any cess, levy, imposition, tax, or surtax imposed by any Act.
+
+Front: What does “export” mean?
+Back: To take or cause to be taken out of the Partner States.
+
+Front: What are export duties?
+Back: Customs duties and other charges having an effect equivalent to customs duties payable on exportation of goods.
+
+Front: What is an export processing zone?
+Back: A designated part of customs territory where goods introduced are generally regarded, for import duties and taxes, as outside customs territory, but are restricted by controlled access.
+
+Front: What is a foreign country?
+Back: Any country other than a Partner State.
+
+Front: What is a foreign port?
+Back: Any port in a foreign country.
+
+Front: What does “goods” include?
+Back: All kinds of articles, wares, merchandise, livestock, and currency, and where goods are sold under the Act, the proceeds of sale.
+
+Front: What is a Government warehouse?
+Back: A place provided by the Government of a Partner State and approved by the Commissioner for storing dutiable goods on which duty has not been paid and which have been entered for warehousing.
+
+Front: What is the green channel?
+Back: The part of the exit from a customs arrival area for passengers with goods in quantities or values not exceeding admissible limits.
+
+Front: What does “import” mean?
+Back: To bring or cause to be brought into the Partner States from a foreign country.
+
+Front: What are import duties?
+Back: Customs duties and other charges of equivalent effect levied on imported goods.
+
+Front: What is manufacturing under bond?
+Back: A facility allowing manufacturers to import plant, machinery, equipment, and raw materials tax free for exclusive use in manufacturing goods for export.
+
+Front: Who is the master?
+Back: Any person for the time being having or taking charge or command of an aircraft or vessel.
+
+Front: Who is an officer?
+Back: Any person, other than a labourer, employed in the service of Customs or performing duties related to Customs.
+
+Front: Who is an owner of an aircraft, vessel, or vehicle?
+Back: It includes every person acting as agent for the owner, receiving freight or charges, or having possession or control of the craft.
+
+Front: Who is an owner of goods under the Act?
+Back: Any person other than an officer acting officially who is or holds themselves out as owner, importer, exporter, consignee, agent, possessor, beneficially interested person, or one having control or power of disposition over the goods.
+
+Front: What is a package?
+Back: Every means by which goods may be cased, covered, enclosed, contained, or packed for conveyance.
+
+Front: What is a port?
+Back: A place appointed by the Council by Gazette notice as a port for purposes of customs law; for aircraft, a port means a Customs airport.
+
+Front: What is a postal article?
+Back: Any letter, postcard, newspaper, book, document, pamphlet, pattern, sample packet, small packet, parcel, package, or other article in transmission by post.
+
+Front: What is the Post Office?
+Back: A Partner State posts body established under that Partner State’s communication law.
+
+Front: What are prohibited goods?
+Back: Goods whose importation, exportation, or carriage coastwise is prohibited under the Act or any law in force in the Partner States.
+
+Front: Who is a proper officer?
+Back: Any officer whose right or duty it is to require the performance of, or to perform, the acts referred to in the Act.
+
+Front: What is the Protocol?
+Back: The Protocol on the Establishment of the East African Community Customs Union and its annexes.
+
+Front: What are re-exports?
+Back: Goods that are imported and remain under customs control for re-exportation.
+
+Front: What is the red channel?
+Back: The part of the exit from a customs arrival area for passengers with goods in quantities or values exceeding passenger allowance.
+
+Front: What is a refinery under the Act?
+Back: A bonded warehouse licensed by the Commissioner for the treatment of oils.
+
+Front: Who is a registered user?
+Back: A person authorised to access the customs computerised system.
+
+Front: What are restricted goods?
+Back: Goods whose importation, exportation, transfer, or carriage coastwise is prohibited except in accordance with conditions, or otherwise regulated by customs laws.
+
+Front: What is SADC?
+Back: The organisation established by the Southern African Development Community Treaty, 1992.
+
+Front: What is smuggling?
+Back: Importation, exportation, carriage coastwise, transfer, or removal of goods into or out of a Partner State with intent to defraud customs revenue or evade any prohibition, restriction, regulation, or condition.
+
+Front: What are stores?
+Back: Goods for use in aircraft, vessels, and trains engaged in international transport for consumption by passengers and crew, and goods for sale on board.
+
+Front: What is a subsidy?
+Back: Assistance by a government of a Partner State or a public body to production, manufacture, or export of specific goods through direct payments or equivalent support such as guarantees, services, facilities, or fiscal incentives.
+
+Front: What is a sufferance wharf?
+Back: A place, other than an approved place of loading or unloading, where the Commissioner may allow goods to be loaded or unloaded.
+
+Front: What are tons register?
+Back: The tons of a ship’s net tonnage ascertained and registered according to tonnage regulations applied in a Partner State.
+
+Front: What is transfer?
+Back: Movement of goods from one Partner State directly or indirectly to another Partner State, excluding transit, transshipment, and warehousing in a bonded warehouse.
+
+Front: What is transshipment?
+Back: Transfer of goods from an arriving aircraft, vehicle, or vessel from a foreign place to another aircraft, vehicle, or vessel departing to a foreign destination.
+
+Front: What is a transire?
+Back: A certificate of clearance issued under section 100 to carry goods coastwise or to transfer goods.
+
+Front: What is transit?
+Back: Movement of goods imported from a foreign place through the territory of one or more Partner States to a foreign destination.
+
+Front: What is a transit shed?
+Back: A building or premises appointed by the Commissioner in writing for deposit of goods subject to customs control.
+
+Front: What are uncustomed goods?
+Back: Dutiable goods on which full duties due have not been paid, and any goods dealt with contrary to customs law whether dutiable or not.
+
+Front: What is a vehicle?
+Back: Every description of conveyance for transport by land of persons or goods.
+
+Front: What is a vessel?
+Back: Every description of conveyance for transport by water of persons or goods.
+
+Front: What does voyage include?
+Back: It includes flight by aircraft.
+
+Front: What does warehoused mean?
+Back: Deposited in a Government or bonded warehouse with the authority of the person in charge of that warehouse.
+
+Front: Who is a warehouse keeper?
+Back: The holder of a licence granted in respect of a bonded warehouse.
+
+Front: Who is a wharf owner?
+Back: Any owner or occupier of an approved place of loading or unloading or of a sufferance wharf.
+
+Deeming provisions you should memorize
+
+Front: When are goods deemed to be entered?
+Back: When entry in the prescribed manner is made and lodged by the owner, and any duty, deposit, or required security has been paid or given.
+
+Front: When are goods deemed to be entered for home consumption?
+Back: When they have been declared for use in a Partner State, other than temporary use, and the entry requirements have been fulfilled.
+
+Front: When is the time of importation deemed to occur?
+Back: When the goods come within the boundaries of the Partner States.
+
+Front: When is the time of exportation deemed to occur for aircraft or vessels?
+Back: When the carrying aircraft or vessel departs from its final position, anchorage, or berth at the port or place where the goods are shipped for exportation.
+
+Front: When is the time of exportation deemed to occur for overland goods?
+Back: When the goods pass across the boundaries of the Partner States.
+
+Front: What is the rule where an aircraft or vessel arrives in a Partner State from a foreign port?
+Back: In relation to each port or place within a Partner State at which it arrives, it is deemed to have arrived from a foreign port.
+
+Front: What is the rule where an aircraft or vessel departs a Partner State for a foreign port?
+Back: In relation to each port or place within a Partner State from which it departs, it is deemed to be departing to a foreign port.
+
+Front: Do references to a Partner State include territorial waters?
+Back: Yes. References to a Partner State or neighbouring Partner States include their territorial waters.
+
+Front: Can acts done by an officer appointed by the Commissioner be treated as acts of the Commissioner?
+Back: Yes. Acts done by an officer appointed for that purpose are deemed to be done by the Commissioner.
+
+Front: Who is deemed to be the proper officer for a particular customs duty or service?
+Back: Every person employed on that duty or service by order of, or with the concurrence of, the Commissioner.
+
+If you say 2, I’ll continue with Administrative structure in the same format.
+
+2
+Thought for 4s
+2. Administrative structure — Anki-style flashcards
+
+Front: What body is responsible for initiation of policies on Customs and related trade matters in the Community?
+Back: The Directorate of Customs.
+
+Front: What is the main role of the Directorate of Customs under section 3?
+Back: To initiate policies on Customs and related trade matters in the Community and coordinate those policies in the Partner States.
+
+Front: What does the Directorate coordinate and monitor in relation to Customs management and administration?
+Back: Administration of the Common External Tariff, enforcement of Customs law, trade facilitation, Rules of Origin, trade statistics, use of information technology, training, quality control and compliance, customs-related negotiations, and activities of the Commissioners in implementing the Act.
+
+Front: What does the Directorate coordinate regarding tariffs?
+Back: The administration of the Common External Tariff.
+
+Front: What does the Directorate coordinate regarding enforcement?
+Back: The enforcement of the Customs law of the Community.
+
+Front: What does the Directorate coordinate regarding trade facilitation?
+Back: Trade facilitation as provided for in Article 6 of the Protocol.
+
+Front: What does the Directorate coordinate regarding origin of goods?
+Back: The administration of the Rules of Origin.
+
+Front: What does the Directorate coordinate regarding statistics?
+Back: The compilation and dissemination of trade statistics.
+
+Front: What does the Directorate coordinate regarding technology?
+Back: The application and interfacing of information technology in Customs administration.
+
+Front: What does the Directorate coordinate regarding staff development?
+Back: Training in Customs-related matters.
+
+Front: What does the Directorate coordinate regarding standards and compliance?
+Back: Quality control in Customs operations and enforcement of compliance.
+
+Front: What does the Directorate coordinate regarding external dealings?
+Back: Customs-related negotiations.
+
+Front: What does the Directorate coordinate regarding national customs heads?
+Back: The activities of the Commissioners in implementation of the Act.
+
+Front: In performing its functions, to whose general direction is the Directorate subject?
+Back: The Council.
+
+Front: Can the Directorate perform other functions apart from those expressly listed in section 4(1)?
+Back: Yes. It may perform such other functions as may be prescribed by the Council.
+
+Front: Can the Directorate consult with Commissioners in performing its functions?
+Back: Yes. It shall consult with the Commissioners and may, where necessary, delegate functions to a Commissioner.
+
+Front: Can the Directorate delegate any of its functions?
+Back: Yes. It may delegate functions to a Commissioner where necessary.
+
+Front: Who makes regulations for the working arrangements between the Directorate and Customs?
+Back: The Council.
+
+Front: What committee must the Council establish within the Community’s institutional framework?
+Back: A committee charged with facilitating Customs policy/programme formulation, information exchange between the Directorate and Commissioners, and other working arrangements between the Directorate and Customs.
+
+Front: What is the committee’s first function under section 4(4)?
+Back: To facilitate the Directorate’s formulation of policies and programmes on Customs management and administration.
+
+Front: What is the committee’s second function under section 4(4)?
+Back: To facilitate the exchange of information between the Directorate and the Commissioners.
+
+Front: What is the committee’s third function under section 4(4)?
+Back: To deal with any other matters on working arrangements between the Directorate and the Customs.
+
+Commissioner and customs staff
+
+Front: Who is appointed in each Partner State to manage Customs?
+Back: A Commissioner appointed in accordance with that Partner State’s legislation.
+
+Front: What else may be appointed besides the Commissioner?
+Back: Such other staff as may be necessary for administration of the Act and efficient working of Customs.
+
+Front: What is the Commissioner responsible for in a Partner State?
+Back: The management and control of Customs, including collection of and accounting for Customs revenue.
+
+Front: Does the Commissioner control Customs revenue matters?
+Back: Yes. The Commissioner is responsible for the collection and accounting for Customs revenue in the respective Partner State.
+
+Front: Can the Commissioner authorize an officer to exercise powers conferred on the Commissioner?
+Back: Yes, subject to any limitations the Commissioner may impose.
+
+Front: What must an officer appointed to permanent office or employment in Customs do upon appointment?
+Back: Make and subscribe before a magistrate or commissioner for oaths a declaration in the form set out in the First Schedule.
+
+Front: Where is the prescribed declaration of officer found?
+Back: In the First Schedule.
+
+Customs Union seal and flag
+
+Front: What official seal does the Customs Union have?
+Back: A seal of the Customs Union, officially and judicially noticed, with design and description prescribed by regulations.
+
+Front: What is the official seal of Customs?
+Back: The seal of the Customs Union.
+
+Front: Does the Customs Union have a flag?
+Back: Yes. It has a flag whose design and description are prescribed by regulations.
+
+Front: What is the purpose of the Customs Union flag and the Community flag on vessels?
+Back: They distinguish vessels employed in the service of Customs from other vessels.
+
+Status and powers of officers
+
+Front: What powers does every officer have when carrying out the Act?
+Back: All the powers, rights, privileges, and protection of a police officer of the Partner State where the officer performs duty.
+
+Front: Why is section 7 important for a proper officer?
+Back: Because it gives an officer police-type authority and protection while enforcing the Act.
+
+Hours of attendance
+
+Front: Who prescribes the working days and hours of general attendance of officers?
+Back: The Commissioner.
+
+Front: What must a person do if they want an officer to attend outside normal hours?
+Back: Make a request on the prescribed form to the proper officer at the port or place concerned, subject to regulations and payment of prescribed fees.
+
+Front: Can a request for attendance outside hours be refused in overland or inland waters cases?
+Back: No. In those cases, it shall not be refused by the proper officer.
+
+Front: In cases other than overland or inland waters, how may a request for attendance outside hours be treated?
+Back: It must not be unreasonably refused by the proper officer.
+
+Front: What if a person wants an officer to attend premises where customs business is not normally carried on?
+Back: The person must request it on the prescribed form, and the grant is in the discretion of the proper officer, subject to regulations and payment of prescribed fees.
+
+Offences by, or in relation to, officers
+
+Front: Is it an offence for an officer to ask for or take an unlawful payment or reward?
+Back: Yes. An officer who directly or indirectly asks for or takes an unlawful payment or reward in connection with duties commits an offence.
+
+Front: Is it an offence for an officer to connive in acts that defraud Customs revenue?
+Back: Yes. Entering into or acquiescing in such an agreement is an offence.
+
+Front: What is the penalty for an officer taking unlawful reward or conniving in fraud?
+Back: Imprisonment for a term not exceeding three years.
+
+Front: Is unlawful disclosure of information acquired in the course of customs duty an offence?
+Back: Yes, unless disclosed for purposes of the Act, as a court witness, or with approval of the Commissioner.
+
+Front: What is the penalty for unlawful disclosure of customs information?
+Back: A fine not exceeding 2,500 dollars, or imprisonment not exceeding three years, or both.
+
+Front: Is it an offence for a person to bribe or attempt to influence an officer?
+Back: Yes. Offering or giving payment or reward, or proposing an agreement to influence the officer improperly, is an offence.
+
+Front: What is the penalty for offering unlawful inducement to an officer?
+Back: Imprisonment for a term not exceeding three years.
+
+Exchange of information and common border controls
+
+Front: What information must Commissioners furnish each other with?
+Back: Information, certificates, official reports, and documents relating to prevention, investigation, and suppression of offences under the Act and other relevant customs matters.
+
+Front: What joint border systems may Commissioners establish?
+Back: Common border posts, joint customs controls, and joint steps to ensure imports and exports pass through competent customs offices and approved routes.
+
+Front: Can the Commissioner exchange customs information with foreign states?
+Back: Yes, subject to reciprocal arrangements, to prevent, investigate, or suppress offences against import/export laws.
+
+Appointment of ports and customs places
+
+Front: Who appoints and fixes the limits of ports, customs airports, and places of loading and unloading within ports?
+Back: The Council, by notice in the Gazette.
+
+Front: Can ports and customs airports be appointed for limited purposes?
+Back: Yes. They may be appointed for specified limited purposes.
+
+Front: Who appoints boarding stations, customs areas, and sufferance wharves?
+Back: The Commissioner, by notice in the Gazette.
+
+Front: Who appoints places for landing and embarkation of persons?
+Back: The Commissioner.
+
+Front: Who appoints places for examination of goods, including baggage?
+Back: The Commissioner.
+
+Front: Who appoints roads or routes for goods in transit or transfer between Partner States?
+Back: The Commissioner.
+
+Front: Who appoints entrances and exits to and from customs areas or customs airports?
+Back: The Commissioner.
+
+Front: Who appoints transit sheds and internal container depots?
+Back: The Commissioner.
+
+Front: Can appointments under section 12 be made subject to conditions?
+Back: Yes, including conditions such as provision of suitable accommodation for officers.
+
+Front: Can the Commissioner permit a place to be used as if it had been appointed under section 12?
+Back: Yes, in a particular case and subject to conditions the Commissioner considers fit.
+
+Front: Can the Commissioner revoke appointment of a customs area?
+Back: Yes, if the conditions imposed under section 12(2) have not been complied with.
+
+Accommodation on wharves
+
+Front: What must a wharf owner provide to the satisfaction of the Commissioner?
+Back: Suitable office accommodation for the exclusive use of the officer employed at the wharf and shed accommodation for protection of goods.
+
+Front: What can happen if a wharf owner fails to provide required accommodation?
+Back: Appointment of the place may be withheld, or an existing appointment may be revoked.
+
+Internal container depots
+
+Front: Can the Commissioner license an internal container depot?
+Back: Yes, on application. The Commissioner may also refuse or revoke the licence.
+
+Front: Must the Commissioner give reasons for refusing or revoking an internal container depot licence?
+Back: Yes. Reasons must be given.
+
+Front: What facilities must an internal container depot owner provide?
+Back: Office accommodation and weights, scales, measures, and other facilities needed for examining, accounting for, and securing goods.
+
+Front: What record-keeping duty does an internal container depot owner have?
+Back: To keep a record of all goods in the depot and keep it available for examination by the proper officer.
+
+Front: What labour-related obligation does an internal container depot owner have?
+Back: To provide necessary labour and materials for storing, examining, packing, marking, coopering, weighing, and stock-taking when required by the proper officer.
+
+Front: What accounting obligation does an internal container depot owner have?
+Back: To maintain records and accounts relating to goods and operations in the required form and make them available for examination.
+
+Front: Can the Commissioner impose additional requirements on an internal container depot owner?
+Back: Yes. The owner must comply with any other requirement specified by the Commissioner.
+
+Front: What can the Commissioner do if an internal container depot owner contravenes section 14?
+Back: Direct that no other goods shall be kept in the depot until compliance is achieved.
+
+Front: What is the penalty for contravening section 14 on internal container depots?
+Back: A fine not exceeding 1,000 dollars.
+
+Customs areas and customs control basics
+
+Front: Can persons, vehicles, or goods enter or leave a customs area or customs airport except through appointed entrances or exits?
+Back: No. They must use entrances or exits appointed under section 12.
+
+Front: Can a person remain in a customs area or customs airport after being requested to leave by an officer?
+Back: No. Doing so contravenes the Act.
+
+Front: Can persons, vehicles, and goods entering or leaving a customs area be detained?
+Back: Yes, for purposes of search or examination by an officer.
+
+Front: What is the penalty for contravening section 15 on customs areas?
+Back: A fine not exceeding 1,000 dollars, and the goods involved are liable to forfeiture.
+
+Front: What goods are subject to customs control under section 16?
+Back: Imported goods, drawback goods, export-duty goods, restricted export goods, goods stored pending export, goods on board aircraft or vessels within a Partner State, certain duty-free goods transferred to non-exempt persons, goods declared for transfer, and seized goods.
+
+Front: Can an officer examine goods subject to customs control at any time?
+Back: Yes. Any officer may examine such goods at any time.
+
+Front: Can anyone interfere with goods under customs control without authority?
+Back: No. No person may interfere except with authority of the Commissioner or in accordance with the Act.
+
+Front: Can goods under customs control be abandoned to Customs?
+Back: Yes, with permission of the Commissioner.
+
+Front: What may happen to goods abandoned to Customs?
+Back: They may, at the owner’s expense, be destroyed or otherwise disposed of as directed by the Commissioner, and the duty may be remitted or refunded as appropriate.
+
+Front: What is the penalty for unlawful interference with goods under customs control?
+Back: A fine not exceeding 1,000 dollars, or imprisonment for up to three years, or both, and the goods are liable to forfeiture.
+
+Front: Can an action lie against the Commissioner or officer for wilful or negligent loss or damage to goods under customs control?
+Back: Yes. An action lies against the Commissioner or officer.
+
+Quick memory anchors
+
+Front: What are the three most important administrative actors in the Act?
+Back: The Council, the Directorate, and the Commissioner.
+
+Front: Who makes high-level appointments like ports and customs airports?
+Back: The Council.
+
+Front: Who makes operational appointments like customs areas, routes, sheds, and ICDs?
+Back: The Commissioner.
+
+Front: Who runs customs policy coordination at Community level?
+Back: The Directorate of Customs.
+
+Front: Who runs customs administration and revenue control at Partner State level?
+Back: The Commissioner.
+
+Reply with 3 and I’ll continue with Import procedure in the same Anki style.
+
+3
+Thought for 12s
+3. Import procedure — Anki-style flashcards
+
+Front: Which Part of the Act deals with import procedure?
+Back: Part III: Importation. It covers prohibited and restricted imports, arrival and report of aircraft and vessels, arrival overland, clearance by pipeline, unloading and removal of cargo, entry/examination/delivery, and passenger clearance.
+
+Front: Which sections make up the main import procedure in Part III?
+Back: Sections 18 to 46.
+
+Prohibited and restricted imports
+
+Front: Where are prohibited and restricted imports listed?
+Back: In the Second Schedule. Prohibited goods are in Part A, and restricted goods are in Part B.
+
+Front: What are prohibited imports under section 18(1)?
+Back: Goods specified in Part A of the Second Schedule; their importation is prohibited.
+
+Front: What are restricted imports under section 18(2)?
+Back: Goods specified in Part B of the Second Schedule; their importation is prohibited except in accordance with the conditions regulating their importation.
+
+Front: Can the Council amend the list of prohibited or restricted imports?
+Back: Yes. The Council may amend the Second Schedule by order published in the Gazette.
+
+Front: Can the Council prohibit importation generally or only for a particular Partner State?
+Back: Yes. It may prohibit goods generally or in relation to a specific Partner State.
+
+Front: Can the Council impose conditions on importation instead of an outright ban?
+Back: Yes. It may prohibit importation unless specified conditions are met.
+
+Front: Can the Council limit the application of the Second Schedule for a particular Partner State?
+Back: Yes. It may limit how the Second Schedule applies in respect of all or any specified goods for that Partner State.
+
+Front: Can an order under section 19 target goods from a particular country or place?
+Back: Yes. It may prohibit or restrict goods generally or in a particular manner, from all places or from a specified country or place.
+
+Front: Do sections 18 and 19 always apply to goods in transit, for transshipment, or as stores?
+Back: No. They generally do not apply unless the goods fall within special prohibited categories or are expressly prohibited or restricted in that form.
+
+Front: What condition applies to goods in transit, for transshipment, or as stores when exempted from sections 18 and 19?
+Back: They must be duly re-exported within the time and conditions specified by the Commissioner.
+
+Front: What happens if such exempt goods are not re-exported in time?
+Back: They are deemed, from the last date they should have been re-exported, to be prohibited or restricted goods and to have been imported on that date.
+
+Arrival and report of aircraft and vessels
+
+Front: What is the first general rule for an aircraft or vessel arriving from outside the Partner States?
+Back: It must not land, touch at, or enter any place other than a lawful port, unless the proper officer allows otherwise in special circumstances.
+
+Front: After arrival, where must the master take the aircraft or vessel?
+Back: As quickly as conditions allow, to the proper place of mooring or unloading, without touching any other place.
+
+Front: What must the aircraft or vessel do before proceeding to the proper place?
+Back: It must bring to at the boarding station appointed for boarding of aircraft or vessels.
+
+Front: Can an aircraft or vessel depart from the proper place after arrival however it wants?
+Back: No. It may depart only directly to another approved place, another lawful port or place in the Partner States, or directly on a lawful foreign voyage in accordance with the Act.
+
+Front: After departure on a foreign voyage, can the craft bring to again within the Partner States?
+Back: Only in accordance with the Act, with permission of the proper officer, or for a cause explained to the proper officer’s satisfaction.
+
+Front: What happens if the master contravenes section 21?
+Back: The master commits an offence.
+
+Front: Who decides the exact part of the port where an aircraft or vessel shall moor or discharge cargo?
+Back: The proper officer.
+
+Front: Can anyone board a vessel before the proper officer?
+Back: No, except the port pilot, health officer, or another duly authorised public officer acting in the exercise of duty, unless the proper officer gives permission.
+
+Front: What is the penalty for boarding a vessel before the proper officer without authority?
+Back: A fine not exceeding 250 dollars.
+
+Front: What report must the master or agent of every aircraft or vessel make?
+Back: A report on the prescribed form of the craft’s cargo and stores, and any package for which there is no bill of lading.
+
+Front: When must a vessel report be made?
+Back: Not less than 24 hours before arrival from a foreign port.
+
+Front: When must an aircraft report be made?
+Back: Immediately after take-off from a foreign port destined for a port in a Partner State.
+
+Front: What if the master or agent cannot report within the required time because of special or unavoidable circumstances?
+Back: The report must be made within such further time as may be allowed by the proper officer.
+
+Front: What goods must be shown separately in the report?
+Back: Goods in transit, goods for transshipment, goods remaining on board for other Partner State ports, and goods for re-exportation on the same aircraft or vessel.
+
+Front: What special rule applies to vessels of less than 250 tons register?
+Back: The report must, unless otherwise allowed by the proper officer, be made before bulk is broken.
+
+Front: Can the proper officer allow amendment of the report?
+Back: Yes, where there is an intended change in destination, ownership, or status of goods, or to correct an obvious error or accidental omission.
+
+Front: What happens if a master or agent fails to make report, makes a false report, breaks bulk unlawfully, or staves/destroys/throws overboard goods without consent?
+Back: It is an offence unless satisfactorily explained, and the goods involved are liable to forfeiture.
+
+Front: What must the master or agent do when questioned by the proper officer?
+Back: Answer fully and immediately all questions relating to the craft, cargo, stores, baggage, crew, and passengers.
+
+Front: What documents must the master or agent produce when required?
+Back: All books and documents in his or her custody or control relating to the craft, cargo, stores, baggage, crew, and passengers.
+
+Front: Before passengers disembark, what list must the master or agent deliver?
+Back: A correct list in the prescribed form showing separately passengers disembarking and those remaining on board, and when required, the master, officers, and crew.
+
+Front: Can the proper officer require the clearance from the port of departure?
+Back: Yes. The master or agent must deliver the clearance, if any, from the port from which the aircraft or vessel arrived.
+
+Front: What happens if the master or agent contravenes section 25?
+Back: He or she commits an offence.
+
+Goods in transit shed or customs area after unloading
+
+Front: Once imported goods are unloaded into a transit shed or customs area, how are they treated legally?
+Back: They are deemed to be still in the importing aircraft or vessel until delivered from the transit shed or customs area.
+
+Front: Who remains responsible for such goods while they remain in the transit shed or customs area?
+Back: The owners or agents of the importing aircraft or vessel, as if the goods had not been removed from the craft.
+
+Front: If the goods are handed over to a transit shed owner who is not an agent of the importing craft, who becomes responsible?
+Back: The owner of the transit shed.
+
+Front: Who may be liable to pay duty if goods are not delivered or otherwise accounted for?
+Back: The owner or agent of the aircraft or vessel, or the transit shed owner, as the case may be.
+
+Front: What happens if responsible persons fail to account for the goods to the satisfaction of the proper officer?
+Back: They commit an offence.
+
+Front: Who bears the cost of reshipment or destruction of condemned goods?
+Back: The owner or agent of the aircraft or vessel, or the owner of the transit shed, as applicable.
+
+Front: What happens if they fail to meet the cost of reshipment or destruction?
+Back: They commit an offence.
+
+Front: What if goods reported for discharge are not duly unloaded and deposited in a transit shed or customs area?
+Back: The master or agent must pay duty on the goods unless the failure is explained to the satisfaction of the proper officer.
+
+Wrecked or forced landing aircraft/vessels
+
+Front: What must the master or agent do if an aircraft or vessel is lost, wrecked, or compelled to land or bring to by accident, weather, or other unavoidable cause?
+Back: Make report with all reasonable speed of the craft and its cargo and stores to the nearest officer or administrative officer.
+
+Front: What happens if an aircraft or vessel is found abandoned within the Partner States?
+Back: Unless compliance with the Act is proved to the satisfaction of the Commissioner, the craft and its cargo and stores are liable to forfeiture.
+
+Arrival overland
+
+Front: Where must a vehicle arriving overland from outside the Partner States enter?
+Back: Through a port appointed under section 11, unless otherwise permitted by the proper officer.
+
+Front: What must the person in charge of an arriving overland vehicle do first?
+Back: Report arrival to the officer stationed at the frontier port where entry is made.
+
+Front: What information must the person in charge of an arriving overland vehicle provide?
+Back: Information on the prescribed form concerning the vehicle and any goods in it.
+
+Front: Must the person in charge of an arriving overland vehicle make a declaration?
+Back: Yes. He or she must make and subscribe a declaration as to the truth of all particulars contained in the form.
+
+Front: Must the person in charge of an arriving overland vehicle answer questions and produce documents?
+Back: Yes. He or she must answer relevant questions fully and immediately and produce consignment notes or other relevant documents demanded by the proper officer.
+
+Front: Must the person in charge of an arriving overland vehicle make due entry of the vehicle and goods?
+Back: Yes, unless otherwise provided by customs laws.
+
+Front: Can vehicles or goods arriving overland be removed from the customs area before due entry?
+Back: No, unless permission for removal has been granted by the proper officer.
+
+Front: What happens if section 29 is contravened?
+Back: It is an offence, and the goods involved are liable to forfeiture.
+
+Trains arriving
+
+Front: What must the station master deliver when a train carrying goods under customs control arrives?
+Back: Copies of invoices, way-bills, consignment notes, or other documents relating to those goods.
+
+Front: Can goods under customs control conveyed by rail be removed or forwarded without permission?
+Back: No. Written permission of the proper officer is required.
+
+Front: Can a station master deliver goods required to be entered at another station without written permission?
+Back: No.
+
+Front: Can private railway sidings receive wagons with goods under customs control without approval?
+Back: No, unless written permission has been granted by the Commissioner.
+
+Front: What happens if section 30 is contravened?
+Back: It is an offence, and the goods involved are liable to forfeiture.
+
+Arrival overland otherwise than by vehicle
+
+Front: What must a person arriving overland otherwise than by vehicle do if carrying goods?
+Back: Report arrival to the nearest Customs house, furnish prescribed information, make a declaration, answer questions, produce documents, and make due entry of the goods.
+
+Front: Can such goods be removed from the customs area before due entry?
+Back: No, unless permission is granted by the proper officer.
+
+Front: Can the Commissioner exempt persons or classes of persons from section 31?
+Back: Yes, subject to specified conditions.
+
+Front: What happens if section 31 is contravened?
+Back: It is an offence, and the goods involved are liable to forfeiture.
+
+Clearance by pipeline
+
+Front: How must goods imported or exported through a pipeline be controlled?
+Back: Their nature and quantities must be recorded and reported by the operator in the manner directed by the Commissioner.
+
+Front: Who provides the apparatus and appliances needed for pipeline records and reports?
+Back: The operator, at his or her own expense.
+
+Unloading and removal of cargo
+
+Front: Can goods be unloaded from an aircraft or vessel arriving from a foreign port before being duly entered?
+Back: No, unless the proper officer gives written permission and subject to conditions imposed.
+
+Front: Can imported goods be unloaded at any time?
+Back: No. They may be unloaded only as prescribed by the Commissioner, unless written permission is given.
+
+Front: Where may imported goods be unloaded?
+Back: Only at an approved place of unloading or a sufferance wharf, unless otherwise permitted.
+
+Front: Can imported goods be unloaded into another vessel in order to be landed?
+Back: Yes. They must then be taken directly and without delay to an approved place of unloading or sufferance wharf.
+
+Front: Can goods reported for re-exportation by another aircraft or vessel be unloaded into another craft pending re-exportation?
+Back: Yes, with permission of the proper officer and subject to conditions.
+
+Front: After unloading, where must all goods be conveyed?
+Back: To a Customs area, and if required, deposited in a transit shed or Customs warehouse.
+
+Front: What if goods are unsuitable for storage in a transit shed or customs warehouse?
+Back: They are deposited in another place directed by the proper officer, and that place is deemed to be a transit shed for that purpose.
+
+Front: Can goods be removed from a customs area, transit shed, or customs warehouse before being duly reported and entered?
+Back: No, unless authority for removal or delivery has been given by the proper officer.
+
+Front: Can the proper officer direct goods to be moved from one transit shed or customs warehouse to another place?
+Back: Yes, and if the agent fails to remove them, the proper officer may have them removed at the agent’s risk and expense.
+
+Front: How must goods entered for warehousing be moved?
+Back: By routes, in a manner, and within a time directed by the proper officer, to the warehouse for which they were entered.
+
+Front: Can the proper officer require a bond before warehousing imported goods?
+Back: Yes. The owner may be required to enter into a bond for due warehousing of the goods.
+
+Front: What happens if section 33 or the conditions or directions under it are contravened?
+Back: It is an offence, and the goods involved are liable to forfeiture.
+
+Entry of cargo
+
+Front: Within what time must the whole of the unloaded cargo be entered?
+Back: Within 21 days after commencement of discharge, or on arrival in the case of vehicles, unless the proper officer allows a further period.
+
+Front: Into what customs procedures may imported cargo be entered?
+Back: Home consumption, warehousing, transshipment, transit, or export processing zones.
+
+Front: What must the owner provide when delivering an entry to the proper officer?
+Back: Full particulars of the goods supported by documentary evidence.
+
+Front: Can goods be entered before the arrival of the importing aircraft or vessel?
+Back: Yes. Entries may be delivered for checking before arrival, and the Commissioner may permit early entry.
+
+Front: What happens if goods remain unentered within the required period?
+Back: They may, if the proper officer so requires, be removed by or at the expense of the agent to a Customs warehouse.
+
+Front: What happens if entered goods are not removed from the first point of entry within 14 days from the date of entry?
+Back: They become liable to customs warehouse rent.
+
+Front: Can surplus stores of an aircraft or vessel be entered?
+Back: Yes, with the permission of the proper officer, for home consumption or warehousing.
+
+Special rules for mail, baggage, and similar goods
+
+Front: Can mail bags and postal articles in transmission be unloaded and delivered without entry?
+Back: Yes, they may be delivered to an officer of the Post Office without entry.
+
+Front: Can bona fide personal baggage of passengers or crew be unloaded and delivered without entry?
+Back: Yes, subject to regulations.
+
+Front: Can human remains be released without entry?
+Back: Yes.
+
+Front: Can diplomatic bags be released without entry?
+Back: Yes.
+
+Front: Can bullion, currency notes, coin, or perishable goods be delivered without entry?
+Back: Yes, if the proper officer permits and the owner undertakes to furnish the necessary entry within 48 hours of delivery.
+
+Passenger clearance
+
+Front: Who must disembark only in accordance with the Act and directions of the proper officer?
+Back: Passengers, crew, and other persons covered by the passenger clearance provisions.
+
+Front: Can the Commissioner require advance passenger information?
+Back: Yes. The owner or agent of an aircraft or vessel conveying passengers may be required to provide advance passenger information before arrival.
+
+Front: What system must be established at every place of arrival and baggage room at every major port?
+Back: A dual channel system.
+
+Front: What are the two channels in the dual channel system?
+Back: The green channel and the red channel.
+
+Front: Who uses the green channel?
+Back: Passengers with nothing to declare or only goods within the prescribed passenger allowance under Part B of the Fifth Schedule.
+
+Front: Who uses the red channel?
+Back: Passengers carrying dutiable or restricted goods; crew members of vessels or aircraft must also use the red channel.
+
+Front: What must a person do with baggage and uncustomed goods on arrival?
+Back: Without delay take them to the place appointed for examination of baggage.
+
+Front: Can baggage or goods be removed from the baggage room before authorization?
+Back: No. Removal requires authorization by the proper officer.
+
+Front: What happens if section 45 is contravened?
+Back: The person commits an offence.
+
+Front: What declaration must a person make on entering the Partner States?
+Back: A declaration to the proper officer of his or her baggage and the articles contained in it or carried with him or her.
+
+Front: Is baggage declaration always in one fixed form?
+Back: No. The declaration is at the discretion of the proper officer.
+
+Quick exam memory cards
+
+Front: What is the correct basic order of import procedure under Part III?
+Back: Prohibited/restricted imports → arrival/report → overland arrival/pipeline → unloading/removal → entry/examination/delivery → passenger clearance.
+
+Front: What are the three most tested import deadlines in this Part?
+Back: 24 hours before arrival for vessel report, immediately after take-off for aircraft report, and 21 days for cargo entry after discharge begins.
+
+Front: What are the five main import entry options under section 34?
+Back: Home consumption, warehousing, transshipment, transit, and export processing zones.
+
+Front: What are the two passenger channels on arrival?
+Back: Green channel for nothing to declare/allowance goods, and red channel for dutiable or restricted goods.
+
+Reply with 4 and I’ll continue with Warehousing in the same format.
+
+4
+Thought for a couple of seconds
+4. Warehousing — Anki-style flashcards
+
+Front: Which Part of the Act deals with warehousing?
+Back: Part IV: Warehousing of Goods.
+
+Front: Which sections cover warehousing under the Act?
+Back: Sections 47 to 69.
+
+Front: What are the two main subdivisions of Part IV?
+Back: General Provisions and Bonded Warehouses.
+
+Basic warehousing concepts
+
+Front: What is the basic rule in section 47?
+Back: Dutiable goods may be warehoused.
+
+Front: What does it mean for goods to be warehoused?
+Back: It means the goods are deposited in a Government or bonded warehouse with proper authority, under customs control, before final clearance.
+
+Front: What kind of goods are usually warehoused?
+Back: Dutiable goods that have not yet been cleared for home consumption or another final customs procedure.
+
+Front: Why is warehousing important in customs practice?
+Back: It allows goods to remain under customs control while duty payment or final disposal is deferred.
+
+Front: What is the main difference between a Government warehouse and a bonded warehouse?
+Back: A Government warehouse is provided by the government and approved by the Commissioner, while a bonded warehouse is licensed by the Commissioner and operated by a warehouse keeper.
+
+Front: Who is a warehouse keeper?
+Back: The holder of a licence granted in respect of a bonded warehouse.
+
+Procedure on warehousing
+
+Front: After goods are entered for warehousing, where must they be taken?
+Back: To the warehouse for which they were entered, by the route, in the manner, and within the time directed by the proper officer.
+
+Front: Into whose custody must warehoused goods be delivered?
+Back: Into the custody of the person in charge of the warehouse.
+
+Front: Can the proper officer require a bond before goods are warehoused?
+Back: Yes. The owner may be required to enter into a bond for the due warehousing of the goods.
+
+Front: Can goods already entered for warehousing be removed to the warehouse only as the owner wishes?
+Back: No. The route, time, and manner are controlled by the proper officer.
+
+Front: What is the significance of section 48 on warehousing procedure?
+Back: It governs the lawful placing of dutiable goods into warehouse under customs supervision.
+
+Removal to warehouse and entry of warehoused goods
+
+Front: What does section 49 deal with?
+Back: Removal to warehouse of goods entered in a warehouse.
+
+Front: What does section 50 deal with?
+Back: Entry of warehoused goods.
+
+Front: Why are sections 49 and 50 important for exams?
+Back: They help explain how goods move from import entry into actual warehouse control and how warehoused goods are formally dealt with afterward.
+
+Operations in a warehouse
+
+Front: What does section 51 deal with?
+Back: Operations in a warehouse.
+
+Front: Are warehouse operations unrestricted?
+Back: No. Operations in a warehouse are controlled by customs and must comply with the Act and directions of the proper officer.
+
+Front: Why are warehouse operations controlled?
+Back: To protect customs revenue and ensure goods remain properly accounted for while under customs control.
+
+Re-gauging and re-valuation
+
+Front: What does section 52 deal with?
+Back: Re-gauging and re-valuation.
+
+Front: Why might re-gauging or re-valuation of warehoused goods be necessary?
+Back: To verify quantity, measure, or value before delivery, duty assessment, or other customs action.
+
+Delivery from warehouse in special circumstances
+
+Front: What does section 53 deal with?
+Back: Delivery from warehouse in special circumstances.
+
+Front: Can delivery from a warehouse occur only in ordinary situations?
+Back: No. The Act also provides for delivery in special circumstances.
+
+Removal to another warehouse
+
+Front: What does section 54 allow?
+Back: Removal of warehoused goods to another warehouse.
+
+Front: Can warehoused goods be moved from one warehouse to another?
+Back: Yes, as provided by the Act and subject to customs control.
+
+Front: Why is movement from one warehouse to another controlled?
+Back: Because the goods remain under customs control and revenue must be safeguarded.
+
+Warehoused goods as stores
+
+Front: What does section 55 provide?
+Back: Warehoused goods may be delivered as stores.
+
+Front: Can warehoused goods be delivered for use as stores?
+Back: Yes. The Act specifically allows warehoused goods to be delivered as stores.
+
+Front: What are stores in customs law?
+Back: Goods for use in aircraft, vessels, and trains engaged in international transport for consumption by passengers and crew, and goods for sale on board.
+
+Abandonment of warehoused goods
+
+Front: What does section 56 deal with?
+Back: Abandonment, etc., of warehoused goods.
+
+Front: Can warehoused goods be abandoned?
+Back: Yes. The Act provides for abandonment of warehoused goods.
+
+Front: Why is abandonment significant in customs warehousing?
+Back: Because it affects liability, disposal of goods, and treatment of duty.
+
+Period of warehousing and sale
+
+Front: What does section 57 deal with?
+Back: Period of warehousing and sale of goods.
+
+Front: Can warehoused goods stay in the warehouse indefinitely?
+Back: No. The Act provides for a period of warehousing and for sale of goods in appropriate cases.
+
+Front: Why is the warehousing period important?
+Back: Because once the lawful warehousing period expires, customs may take further action, including sale.
+
+Examination of warehoused goods on delivery
+
+Front: What does section 58 deal with?
+Back: Examination of warehoused goods on delivery.
+
+Front: Can warehoused goods be examined when being delivered out of the warehouse?
+Back: Yes. The Act provides for examination on delivery.
+
+Front: Why is examination on delivery important?
+Back: To confirm the goods being delivered match the goods warehoused and that duty and control requirements are satisfied.
+
+Access to warehouse
+
+Front: What does section 59 deal with?
+Back: Access to warehouse.
+
+Front: Is access to a customs warehouse unrestricted?
+Back: No. Access is controlled under the Act.
+
+Front: Why is access to warehouse controlled?
+Back: To protect goods under customs control and prevent interference, loss, or fraud.
+
+Removal after entry for home consumption, export, etc.
+
+Front: What does section 60 deal with?
+Back: Removal of goods after entry for home consumption, export, etc.
+
+Front: After warehoused goods are entered for home consumption or export, can they just be removed without control?
+Back: No. Their removal is still governed by the Act and customs supervision.
+
+Unlawfully taking warehoused goods
+
+Front: What does section 61 create?
+Back: A penalty for unlawfully taking, etc., warehoused goods.
+
+Front: Is it an offence to unlawfully take warehoused goods?
+Back: Yes. Section 61 expressly penalizes unlawful taking or interference with warehoused goods.
+
+Front: Why is unlawful taking of warehoused goods serious?
+Back: Because warehoused goods are still under customs control and customs revenue may not yet have been settled.
+
+Bonded warehouses
+
+Front: Who may license a bonded warehouse?
+Back: The Commissioner.
+
+Front: What does section 62 deal with?
+Back: Commissioner may license warehouse.
+
+Front: What does section 63 deal with?
+Back: Procedure on revocation or expiry of licence.
+
+Front: Can a bonded warehouse licence be revoked or expire?
+Back: Yes. The Act provides a procedure for revocation or expiry.
+
+Front: Why is licensing important in bonded warehousing?
+Back: Because only properly licensed premises may operate as bonded warehouses under customs law.
+
+Duties of the warehouse keeper
+
+Front: What does section 64 deal with?
+Back: Warehouse keeper to provide facilities.
+
+Front: What is one of the main obligations of the warehouse keeper?
+Back: To provide the facilities required for customs supervision and control of warehoused goods.
+
+Front: What does section 65 deal with?
+Back: Stowage and storage of goods in bonded warehouse.
+
+Front: Why are stowage and storage rules important in a bonded warehouse?
+Back: To ensure proper custody, identification, examination, and protection of the goods.
+
+Front: What does section 67 deal with?
+Back: Warehouse keeper to produce goods deposited.
+
+Front: Must a warehouse keeper be able to produce goods deposited in the warehouse?
+Back: Yes. The warehouse keeper must produce deposited goods when required under the Act.
+
+Front: Why is the duty to produce goods deposited important?
+Back: Because customs must be able to inspect, verify, and account for goods at all times.
+
+Movement between private and general warehouses
+
+Front: What does section 66 provide?
+Back: Removal of goods from private to general warehouse.
+
+Front: Can goods be removed from a private warehouse to a general warehouse?
+Back: Yes, under the Act and subject to customs control.
+
+Government warehouses
+
+Front: What does section 68 deal with?
+Back: Goods in Government warehouse liable to rent, etc.
+
+Front: Are goods in a Government warehouse free from warehouse charges?
+Back: No. Goods in a Government warehouse may be liable to rent and related charges.
+
+Front: What does section 69 deal with?
+Back: Removal, etc., of goods in Government warehouse.
+
+Front: Is removal of goods from a Government warehouse regulated?
+Back: Yes. Removal and related treatment of such goods are controlled by the Act.
+
+Big-picture comparison cards
+
+Front: What is the difference between a Customs warehouse and a bonded warehouse?
+Back: A Customs warehouse is a broad customs-approved place for unentered, unexamined, abandoned, detained, or seized goods, while a bonded warehouse is specifically a licensed place for deposit of dutiable goods on which import duty has not been paid and which have been entered for warehousing.
+
+Front: What is the difference between warehousing and home consumption?
+Back: Warehousing keeps goods under customs control with duty deferred; home consumption releases goods for use in a Partner State after proper entry and compliance.
+
+Front: What is the difference between a Government warehouse and a bonded warehouse in management?
+Back: A Government warehouse is government-provided and approved by the Commissioner, while a bonded warehouse is licensed by the Commissioner and managed by a warehouse keeper.
+
+Quick exam memory cards
+
+Front: What is the basic flow of warehousing under Part IV?
+Back: Dutiable goods may be warehoused → warehousing procedure → warehouse operations/control → delivery/removal/transfer → licensing and obligations of bonded warehouses → government warehouse rules.
+
+Front: What are the most tested warehousing themes?
+Back: Procedure on warehousing, operations in warehouse, period of warehousing, access to warehouse, unlawful removal, licensing of bonded warehouses, and duties of the warehouse keeper.
+
+Front: What are the two biggest warehousing risks customs law tries to control?
+Back: Loss of revenue and unlawful interference with goods under customs control.
+
+Reply with 5 and I’ll continue with Export procedure in the same Anki style.
+
+5
+Thought for 5s
+5. Export procedure — Anki-style flashcards
+
+Front: Which Part of the Act deals with export procedure?
+Back: Part V: Exportation.
+
+Front: Which sections cover exportation under the Act?
+Back: Sections 70 to 87.
+
+Front: What are the main subdivisions of Part V?
+Back: Prohibited and Restricted Exports, Entry Outwards and Loading of Aircraft and Vessels, Departure Overland, and Goods in Transit or for Transhipment.
+
+Prohibited and restricted exports
+
+Front: Where are prohibited and restricted exports listed?
+Back: In the Third Schedule.
+
+Front: What are prohibited exports under section 70?
+Back: Goods whose exportation is prohibited under the Act, especially those specified as prohibited in the Third Schedule or by order under the Act.
+
+Front: What are restricted exports under section 70?
+Back: Goods whose exportation is prohibited unless the prescribed conditions regulating their exportation are complied with.
+
+Front: Can the Council prohibit exports generally or in relation to a specific Partner State?
+Back: Yes. The Council may prohibit exports generally or in relation to a Partner State by order published in the Gazette.
+
+Front: Can the Council restrict exports subject to conditions?
+Back: Yes. Exportation may be prohibited unless specified conditions are met.
+
+Front: Can the Council amend the Third Schedule?
+Back: Yes, by order published in the Gazette.
+
+Front: Can an export restriction target goods to a specific destination or from a specific area?
+Back: Yes. Orders may be framed generally or in a particular manner, depending on the goods or circumstances.
+
+Front: Are goods in transit, for transhipment, or as stores automatically caught by export prohibitions and restrictions?
+Back: Not always. The Act provides exemptions for some such goods, subject to the applicable conditions.
+
+Entry of cargo for export
+
+Front: What is the basic rule for export cargo?
+Back: Export cargo must be entered in accordance with the Act before exportation.
+
+Front: Who enters cargo for export?
+Back: The owner of the cargo.
+
+Front: What must the export entry contain?
+Back: Full particulars of the goods supported by documentary evidence, as required by the proper officer.
+
+Front: For what purpose are export goods entered?
+Back: For exportation in accordance with customs law.
+
+Front: Why is entry of export cargo important?
+Back: It places the goods under the correct customs procedure and enables customs control, examination, and duty administration where applicable.
+
+Entry outwards of aircraft or vessel
+
+Front: What does “entry outwards” refer to?
+Back: The formal customs clearance step allowing an aircraft or vessel to proceed outward with export cargo or stores.
+
+Front: Must an aircraft or vessel obtain entry outwards before loading for export?
+Back: Yes, subject to the Act and any exceptions or permissions under it.
+
+Front: Why is entry outwards important in export procedure?
+Back: It is the customs authorization linking the craft’s outward movement to lawful loading and exportation.
+
+Loading of export goods
+
+Front: Can export goods be loaded without customs control?
+Back: No. Loading is controlled under the Act and must comply with the proper customs procedure.
+
+Front: Why is loading of export goods controlled by Customs?
+Back: To prevent unlawful export, protect revenue, and ensure that only duly entered goods are exported.
+
+Front: What is the relationship between entry outwards and loading?
+Back: Entry outwards is a key customs step that supports lawful loading of export goods onto the aircraft or vessel.
+
+Personal baggage on export
+
+Front: Does the Act contain special provisions for personal baggage on export?
+Back: Yes. Section 76 provides provisions relating to personal baggage.
+
+Front: Why is personal baggage separately treated in export procedure?
+Back: Because baggage is part of passenger movement and may require special customs handling distinct from ordinary cargo.
+
+Goods for export not to be discharged in Partner States
+
+Front: What does section 77 provide?
+Back: Goods for export are not to be discharged in Partner States.
+
+Front: Why is it important that export goods are not discharged in Partner States?
+Back: To preserve the integrity of the export procedure and prevent diversion of goods that were cleared for export.
+
+Exports of certain goods
+
+Front: What does section 78 deal with?
+Back: Provisions relating to exports of certain goods.
+
+Front: Why does the Act single out certain goods for special export rules?
+Back: Because some goods require stricter control, documentation, licensing, or conditions before exportation.
+
+Stores for aircraft and vessels
+
+Front: What does section 79 deal with?
+Back: Stores for aircraft and vessels.
+
+Front: What are stores in customs law?
+Back: Goods for use in aircraft, vessels, and trains engaged in international transport for consumption by passengers and crew, and goods for sale on board.
+
+Front: Are stores part of export procedure?
+Back: Yes. The Act separately regulates stores for aircraft and vessels within Part V.
+
+Short shipment and storage at owner’s risk
+
+Front: What does section 80 deal with?
+Back: Short shipment of non-bonded goods.
+
+Front: What is short shipment in export procedure?
+Back: A situation where goods entered or intended for export are not shipped as expected or in full.
+
+Front: What does section 81 provide?
+Back: Export goods stored at risk of owner.
+
+Front: At whose risk are export goods stored?
+Back: At the risk of the owner.
+
+Export duty
+
+Front: What does section 82 deal with?
+Back: Goods liable to export duty.
+
+Front: Are all exports subject to export duty?
+Back: No. Only goods specified as liable to export duty are subject to it.
+
+Front: Why is section 82 important?
+Back: Because it connects export procedure with customs revenue on goods that attract export duty.
+
+Departure overland
+
+Front: What does section 83 deal with?
+Back: Vehicles departing overland.
+
+Front: What does section 84 deal with?
+Back: Departure overland otherwise than by vehicle.
+
+Front: Why does the Act separately regulate overland export departures?
+Back: Because exports moving by land need their own control rules, just as imports arriving overland do.
+
+Goods in transit or for transhipment
+
+Front: What does section 85 deal with?
+Back: Treatment of goods under transit and transhipment.
+
+Front: What does section 86 deal with?
+Back: Control of entry.
+
+Front: What does section 87 deal with?
+Back: Termination of transit procedure.
+
+Front: Why are transit and transhipment included in Part V?
+Back: Because export control does not only cover goods produced locally for export, but also goods passing through or being transferred onward under customs supervision.
+
+Front: What is transit?
+Back: Movement of goods imported from a foreign place through the territory of one or more Partner States to a foreign destination.
+
+Front: What is transhipment?
+Back: Transfer of goods from an arriving aircraft, vehicle, or vessel from a foreign place to another aircraft, vehicle, or vessel departing to a foreign destination.
+
+Front: What is the purpose of control of entry in transit/transhipment?
+Back: To ensure the goods are properly entered, supervised, and accounted for while still under customs control.
+
+Front: What is meant by termination of transit procedure?
+Back: The lawful conclusion of the transit movement once the goods reach the approved destination or are otherwise properly accounted for under customs law.
+
+Third Schedule memory cards
+
+Front: Which Schedule should a customs officer revise together with export procedure?
+Back: The Third Schedule, because it contains prohibited and restricted exports generally.
+
+Front: Why is the Third Schedule important in export exams?
+Back: Because questions on prohibited or restricted exports are often tested alongside Part V procedure.
+
+Big-picture comparison cards
+
+Front: What is the difference between import procedure and export procedure in structure?
+Back: Import procedure focuses on arrival, reporting, unloading, entry, and passenger clearance, while export procedure focuses on prohibited/restricted exports, export entry, entry outwards, loading, departure, and transit/transhipment control.
+
+Front: What is the difference between export cargo and stores?
+Back: Export cargo is cargo entered for exportation, while stores are goods for use or sale on board aircraft, vessels, or trains in international transport.
+
+Front: What is the difference between transit and transhipment?
+Back: Transit is movement through the territory of one or more Partner States to a foreign destination; transhipment is transfer from one arriving craft to another departing craft for a foreign destination.
+
+Quick exam memory cards
+
+Front: What is the basic order of export procedure under Part V?
+Back: Prohibited/restricted exports → entry of cargo for export → entry outwards → loading → baggage/stores/special goods → departure overland → transit/transhipment control.
+
+Front: What are the most tested export themes in Part V?
+Back: Prohibited and restricted exports, entry of cargo for export, entry outwards, stores, export duty, and transit/transhipment.
+
+Front: What are the three most important customs control points in export procedure?
+Back: Entry of export cargo, loading under customs control, and lawful departure or termination of transit/transhipment procedure.
+
+Reply with 6 and I’ll continue with Duties and valuation in the same Anki style.
+
+6
+Thought for 8s
+6. Duties and valuation — Anki-style flashcards
+
+Front: Which Part of the Act deals with duties and valuation?
+Back: Part X: Duties.
+
+Front: Which sections cover duties and valuation under the Act?
+Back: Sections 110 to 144.
+
+Front: What are the main subdivisions of Part X?
+Back: Liability to Duty, Computation of Duty, Payment etc. of Duty, Anti-Dumping and Countervailing Duties, and Drawback/Remission/Rebate/Refund.
+
+Liability to duty
+
+Front: What is the basic rule on rates of duty under section 110?
+Back: Duty shall be paid on goods at the rate and in the circumstances specified in the Protocol.
+
+Front: If goods are liable to duty on leaving a Partner State, how does the Act treat them?
+Back: The Act applies as if those goods were exported when leaving the Partner State.
+
+Front: What tariff treatment is given to goods originating from Partner States?
+Back: They are accorded Community tariff treatment in accordance with the Rules of Origin under the Protocol.
+
+Front: What may Customs require as proof of origin for Community tariff treatment?
+Back: A Certificate of Origin and other supporting documents.
+
+Front: When is preferential tariff treatment applied under COMESA and SADC?
+Back: To goods imported under those arrangements as prescribed in Partner States’ legislation, and under any other tariff arrangement approved by the Council.
+
+Front: Are goods remaining on board and re-exported in the same aircraft or vessel liable to duty?
+Back: No. Subject to customs laws, they are exempt from import or export duties.
+
+Front: Where is the exemptions regime found?
+Back: In the Fifth Schedule.
+
+Front: On what goods does duty not get charged under Part A of the Fifth Schedule?
+Back: Goods listed in Part A when imported, or purchased before customs clearance, for use by the person named there and subject to the attached conditions.
+
+Front: On what goods does duty not get charged under Part B of the Fifth Schedule?
+Back: Goods listed in Part B when imported in accordance with the attached conditions.
+
+Front: Can the Council amend the Fifth Schedule?
+Back: Yes, by notice in the Gazette.
+
+Front: When are goods entered under bond exempt from import duty?
+Back: When entered for exportation, re-exportation, transhipment, transit, or use as stores, and proved to the Commissioner’s satisfaction to have been duly exported or so used.
+
+Front: When can certain re-imported goods be exempt from import duty?
+Back: Where the Commissioner is satisfied that prior import duty was paid, drawback/refund was not allowed or has been repaid, and the goods have not materially changed in form or character.
+
+Front: What does section 117 deal with?
+Back: Exemption from import duty of temporary imports.
+
+Front: What does section 118 deal with?
+Back: Derelict goods, etc., liable to duty.
+
+Front: What does section 119 deal with?
+Back: Goods imported duty free liable to certain duties on disposal.
+
+Front: What is the key idea in section 119?
+Back: Goods imported duty free may later become liable to duty if they are disposed of contrary to the conditions of the exemption.
+
+Computation of duty
+
+Front: What determines the rate of duty under section 120?
+Back: Time of entry determines rate of duty.
+
+Front: What does section 121 provide?
+Back: Duties, etc., apply proportionately.
+
+Front: Which section deals with determination of value of imported goods liable to ad valorem duty?
+Back: Section 122.
+
+Front: Where are the valuation rules for imported goods liable to ad valorem duty found?
+Back: In the Fourth Schedule.
+
+Front: What is ad valorem duty?
+Back: Duty based on the value of the goods rather than quantity, weight, or volume.
+
+Front: What does section 123 deal with?
+Back: The value of goods for export.
+
+Front: What does section 124 deal with?
+Back: Adjustment for fractions of a dollar.
+
+Front: What does section 125 deal with?
+Back: Duty computed on gross weight of package in certain cases.
+
+Front: What does section 126 deal with?
+Back: Duty computed on reputed quantity in certain cases.
+
+Front: What power does the Commissioner have under section 127?
+Back: To fix litre equivalent of other liquid measurement.
+
+Front: What does section 128 deal with?
+Back: Allowance for tare.
+
+Front: What does section 129 deal with?
+Back: Duty on package in certain cases.
+
+Customs valuation
+
+Front: What is the main legal source for customs valuation of imported goods in Part X?
+Back: Section 122 and the Fourth Schedule.
+
+Front: Why is the Fourth Schedule important for exams?
+Back: Because it contains the rules for determining customs value of imported goods liable to ad valorem import duty.
+
+Front: What broad issue does customs valuation answer?
+Back: It answers how much the imported goods are worth for duty purposes.
+
+Front: What broad issue does export valuation answer?
+Back: It answers how the value of goods for export is determined under section 123.
+
+Payment, recovery, and enforcement of duty
+
+Front: What does section 130 deal with?
+Back: Recovery of duty by distress.
+
+Front: What Schedule is connected to recovery of duty by distress?
+Back: The Sixth Schedule, which contains the warrant of distress.
+
+Front: What does section 131 deal with?
+Back: Agency notices.
+
+Front: What does section 132 deal with?
+Back: Security on property on an unpaid duty, etc.
+
+Front: What does section 133 deal with?
+Back: Effect of obligation to pay duty.
+
+Front: What does section 134 deal with?
+Back: Effect of alteration in classification of goods.
+
+Front: What does section 135 deal with?
+Back: Short levy or erroneous refund.
+
+Front: What is a short levy?
+Back: A case where duty was undercharged and customs may seek recovery of the unpaid amount.
+
+Front: What is an erroneous refund?
+Back: A case where duty was wrongly refunded, allowing customs to recover the amount.
+
+Front: What does section 136 allow?
+Back: Samples may be taken without immediate payment of duty.
+
+Anti-dumping and countervailing duties
+
+Front: Which section deals with anti-dumping and countervailing duties?
+Back: Section 137.
+
+Front: What does section 137 provide for?
+Back: Collection of anti-dumping and countervailing duties.
+
+Front: What is the purpose of anti-dumping duty?
+Back: To counter unfair low-priced imports that injure domestic industry.
+
+Front: What is the purpose of countervailing duty?
+Back: To offset subsidies granted directly or indirectly on production, manufacture, or export of a product.
+
+Drawback, remission, rebate, repayment, and refund
+
+Front: What does section 138 deal with?
+Back: Drawback of duty.
+
+Front: What is duty drawback?
+Back: Refund of all or part of import duty paid on goods later exported or used in a qualifying prescribed manner.
+
+Front: What does section 139 deal with?
+Back: Drawback to be allowed in respect of certain goods.
+
+Front: What does section 140 deal with?
+Back: Council may grant remission of duty on goods for manufacture.
+
+Front: What does section 141 deal with?
+Back: Remission of duty.
+
+Front: What is remission of duty?
+Back: Relief from payment of duty granted under the Act or by Council authority in qualifying cases.
+
+Front: What does section 142 deal with?
+Back: Rebate of duty.
+
+Front: What does section 143 deal with?
+Back: Repayment of Customs duties when goods are returned or destroyed by fire.
+
+Front: What does section 144 deal with?
+Back: Refund of duty.
+
+Front: What is the difference between drawback and refund?
+Back: Drawback usually concerns duty previously paid on goods later exported or specially used; refund is repayment of duty in cases allowed by law, including overpayment or other qualifying situations.
+
+Front: What is the difference between remission and rebate?
+Back: Both are duty reliefs, but remission is usually relief granted before or instead of payment in qualifying cases, while rebate is duty relief allowed under specific statutory conditions.
+
+Big-picture comparison cards
+
+Front: What is the difference between liability to duty and computation of duty?
+Back: Liability to duty asks whether duty is payable; computation of duty asks how much duty is payable and how it is calculated.
+
+Front: What is the difference between valuation and rate of duty?
+Back: Valuation determines the customs value of the goods; rate of duty determines the percentage, amount, or treatment applied to that value or quantity.
+
+Front: What is the difference between exemption and drawback?
+Back: Exemption means duty is not charged in the first place under qualifying conditions; drawback means duty already paid is later refunded wholly or partly.
+
+Quick exam memory cards
+
+Front: What is the basic order of Part X?
+Back: Liability to duty → computation of duty → payment/recovery → anti-dumping and countervailing duties → drawback/remission/rebate/refund.
+
+Front: Which two Schedules are most important for duties and valuation?
+Back: The Fourth Schedule for customs valuation and the Fifth Schedule for exemptions.
+
+Front: Which Schedule is important for recovery by distress?
+Back: The Sixth Schedule.
+
+Front: What are the most tested themes in Duties and Valuation?
+Back: Rates of duty, preferential tariff treatment, exemptions, customs valuation, time of entry, short levy/erroneous refund, anti-dumping/countervailing duty, drawback, remission, rebate, and refund.
+
+Reply with 7 and I’ll continue with Officer powers in the same Anki style.
+
+7
+Thought for 27s
+7. Officer powers — Anki-style flashcards
+
+Front: Which Parts of the Act are most important for officer powers?
+Back: Part II for the general status of an officer, especially section 7, and Part XII for specific enforcement powers used in preventing smuggling.
+
+Front: Which section gives an officer the powers of a police officer?
+Back: Section 7.
+
+Front: What does section 7 provide about an officer’s legal status?
+Back: Every officer, in performing his or her duty, has all the powers, rights, privileges, and protection of a police officer of the Partner State where the officer performs duty.
+
+Front: Why is section 7 important for a proper officer?
+Back: It gives the officer police-type authority and protection when enforcing customs law.
+
+Part XII: Powers of Officers
+
+Front: Which Part of the Act specifically lists enforcement powers of officers?
+Back: Part XII – Prevention of Smuggling.
+
+Front: Which sections in Part XII contain the main powers of officers?
+Back: Sections 149 to 159.
+
+Front: What is the overall purpose of Part XII powers?
+Back: To enable officers to detect, prevent, investigate, and suppress smuggling and other customs offences.
+
+Sections 149–152
+
+Front: What does section 149 deal with?
+Back: Power to require vessels, etc., to bring to.
+
+Front: What does section 150 deal with?
+Back: Power to require vessel, etc., to depart.
+
+Front: What does section 151 deal with?
+Back: Power to patrol freely and moor vessels, etc.
+
+Front: What does section 152 deal with?
+Back: Power to board vessel, etc., and search.
+
+Front: Why are sections 149 to 152 important in customs enforcement?
+Back: They give officers control over vessels and similar craft by allowing them to require them to stop, depart, be boarded, and be searched.
+
+Front: What happens if goods are found on a searched aircraft or vessel in relation to which an offence under the Act has been committed?
+Back: Those goods are liable to forfeiture.
+
+Front: Is an officer personally liable for actions taken in good faith under the power to board and search a vessel?
+Back: No. An officer is not liable to legal proceedings for action taken in good faith in accordance with that section.
+
+Front: What happens if goods found on a vessel during one boarding are missing on a later boarding and the master cannot account for them?
+Back: The master commits an offence and is liable to a fine equal to 10% of the dutiable value of the goods and to payment of the duties due.
+
+Power to stop vehicles
+
+Front: Which section gives the officer power to stop a vehicle suspected of conveying uncustomed goods?
+Back: Section 153.
+
+Front: When may an officer stop and search a vehicle under section 153?
+Back: When the officer has reasonable grounds to believe the vehicle is conveying uncustomed goods, whether or not in transit, or goods being transferred from one Partner State to another.
+
+Front: Can an officer require goods in the vehicle to be unloaded during a search?
+Back: Yes. The officer may require the goods to be unloaded at the expense of the owner of the vehicle.
+
+Front: If an officer cannot get free access to a place or container in a vehicle during a search, what may the officer do?
+Back: The officer may open the place or container in such manner, including by force, as the officer deems necessary.
+
+Front: What happens if the person in charge of a vehicle refuses to stop or permit a search?
+Back: That person commits an offence.
+
+Front: What happens if offending goods are found during a vehicle search?
+Back: The goods are liable to forfeiture.
+
+Front: Is an officer protected from legal proceedings for actions taken in good faith during a vehicle search?
+Back: Yes. The officer is not liable to legal proceedings for action taken in good faith under section 153.
+
+Power to question persons about baggage
+
+Front: Which section requires persons entering or leaving a Partner State to answer questions concerning baggage?
+Back: Section 154.
+
+Front: What must a person entering or leaving a Partner State do under section 154(1)?
+Back: Answer questions put by the proper officer concerning his or her baggage and any articles contained in or carried with it.
+
+Front: What must a person in charge of a vehicle carrying transferred goods do under section 154(2)?
+Back: Answer questions about the vehicle and goods, and produce books or documents relating to the vehicle and goods that are or should be carried in the vehicle.
+
+Front: Why is section 154 important for customs control?
+Back: It supports examination, verification, and detection of undeclared or irregular goods in baggage and vehicles.
+
+Power to search persons
+
+Front: Which section gives the officer power to search persons?
+Back: Section 155.
+
+Front: When may an officer search a person under section 155?
+Back: When the officer has reasonable grounds to believe that the person has uncustomed goods in his or her possession, whether on the person or in baggage.
+
+Front: Can the officer use force when searching a person?
+Back: Yes, but only reasonable force.
+
+Front: What special rule applies when searching a female?
+Back: A female shall not be searched except by a female officer.
+
+Power of arrest
+
+Front: Which section gives the officer power of arrest?
+Back: Section 156.
+
+Front: Why is the power of arrest important to a proper officer?
+Back: It allows the officer to take enforcement action against persons suspected of customs offences.
+
+Power to search premises
+
+Front: Which section gives the officer power to search premises?
+Back: Section 157.
+
+Front: Why is the power to search premises important in customs law?
+Back: Because uncustomed goods or related evidence may be concealed in buildings, stores, compounds, or other premises.
+
+Search warrants
+
+Front: Which section deals with search warrants?
+Back: Section 158.
+
+Front: When may a magistrate issue a search warrant under section 158?
+Back: When an officer declares on oath that he or she has reasonable grounds to believe that there are uncustomed goods or documents relating to uncustomed goods in any premises.
+
+Front: What does a search warrant under section 158 authorize the officer to do?
+Back: Enter and search the premises, by day or night, with such force as may be necessary, and seize and carry away any uncustomed goods or related documents found there.
+
+Front: Can an officer executing a search warrant ask for police assistance?
+Back: Yes. The officer may require a police officer to assist in execution of the warrant.
+
+Front: Must a police officer assist when required under section 158?
+Back: Yes. The police officer shall render assistance accordingly.
+
+Power to require production of books and documents
+
+Front: Which section gives the proper officer power to require production of books and documents?
+Back: Section 159.
+
+Front: In what two situations may the proper officer require books and documents under section 159?
+Back: When information has been given that goods have been or are intended to be smuggled, undervalued, or otherwise dealt with contrary to the Act, or when any goods or thing have been seized under the Act.
+
+Front: Who may be required to produce books and documents under section 159?
+Back: The owner of the goods or thing.
+
+Front: What kinds of records may the proper officer require under section 159?
+Back: All books and documents, whether written, on microfilm, magnetic tape, or any other mechanical or electronic data retrieval form, relating to the goods or thing and certain related goods transactions.
+
+Front: How far back may the proper officer require records under section 159?
+Back: Up to five years immediately preceding the requirement.
+
+Front: What may the proper officer do once books or documents are produced?
+Back: Inspect them, take copies of entries, and seize and detain any book or document that may afford evidence of an offence.
+
+Supporting control powers outside Part XII
+
+Front: Can an officer detain persons, vehicles, and goods entering or leaving a customs area?
+Back: Yes. Under section 15(3), they may be detained for purposes of search or examination.
+
+Front: Can an officer examine goods under customs control at any time?
+Back: Yes. Under section 16(2)(a), any officer may at any time examine goods subject to customs control.
+
+Front: Can persons interfere with goods under customs control without authority?
+Back: No. Except with authority of the Commissioner or in accordance with the Act, no person may interfere with such goods.
+
+Big-picture comparison cards
+
+Front: What is the difference between the power to search a person and the power to search premises?
+Back: Search of a person focuses on goods on the body or in baggage under section 155, while search of premises focuses on buildings or places where uncustomed goods or related documents may be concealed under sections 157 and 158.
+
+Front: What is the difference between searching a vehicle and searching a vessel?
+Back: A vehicle may be stopped and searched under section 153 if suspected of conveying uncustomed goods, while a vessel may be required to bring to, be boarded, and be searched under sections 149 to 152.
+
+Front: What is the difference between an officer’s general status under section 7 and the specific powers in Part XII?
+Back: Section 7 gives the officer general police-type powers and protection, while Part XII gives the officer specific customs enforcement powers like stopping, boarding, searching, arresting, and demanding records.
+
+Quick exam memory cards
+
+Front: What is the easiest way to remember the officer powers sequence in Part XII?
+Back: Bring to → depart → patrol/moor → board/search vessel → stop/search vehicle → question baggage → search person → arrest → search premises → warrant → demand books/documents.
+
+Front: What are the most tested officer powers in exams?
+Back: Powers of police officer, stop/search vehicle, search persons, arrest, search premises, search warrants, and production of books/documents.
+
+Front: What repeated legal threshold appears in search powers?
+Back: Reasonable grounds to believe.
+
+Reply with 8 and I’ll continue with Offences, forfeiture, and seizure in the same Anki style.
+
+8
+Thought for a couple of seconds
+8. Offences, forfeiture, and seizure — Anki-style flashcards
+
+Front: Which Part of the Act deals with offences, forfeiture, and seizure?
+Back: Part XVII: Offences, Penalties, Forfeitures and Seizures.
+
+Front: Which sections cover offences, forfeiture, and seizure?
+Back: Sections 193 to 218.
+
+Front: What are the main themes in Part XVII?
+Back: Offences, penalties, payment of duty in addition to fines, forfeiture of goods and vessels, seizure, condemnation, and restoration.
+
+General offences
+
+Front: What does section 193 deal with?
+Back: Conspiring to contravene provisions of the Act.
+
+Front: Is conspiracy to break the Act itself an offence?
+Back: Yes. Conspiring to contravene the Act is an offence.
+
+Front: What does section 194 deal with?
+Back: Offences with violence, etc.
+
+Front: Why are offences with violence treated seriously under customs law?
+Back: Because they interfere with lawful customs enforcement and public authority.
+
+Front: What does section 195 deal with?
+Back: Removing or defacing Customs seals.
+
+Front: Is removing or defacing a Customs seal an offence?
+Back: Yes.
+
+Front: Why are Customs seals important?
+Back: They protect goods and conveyances under customs control and help preserve integrity of customs supervision.
+
+Front: What does section 196 deal with?
+Back: Inducing another to commit offence.
+
+Front: Is persuading or inducing another person to commit a customs offence itself an offence?
+Back: Yes.
+
+Front: What does section 197 deal with?
+Back: Offence to warn offender.
+
+Front: Is warning a person so they evade customs enforcement an offence?
+Back: Yes.
+
+Front: What does section 198 deal with?
+Back: Offence to assume character of officer.
+
+Front: Is pretending to be a customs officer an offence?
+Back: Yes.
+
+Front: What does section 199 deal with?
+Back: Master of vessel, etc., used for smuggling commits an offence.
+
+Front: Can the master of a vessel or craft used for smuggling commit an offence under the Act?
+Back: Yes.
+
+Offences relating to prohibited, restricted, and uncustomed goods
+
+Front: What does section 200 deal with?
+Back: Offences related to prohibited, restricted, and uncustomed goods.
+
+Front: What are uncustomed goods?
+Back: Dutiable goods on which full duty has not been paid, and goods dealt with contrary to customs law whether dutiable or not.
+
+Front: Why are prohibited, restricted, and uncustomed goods central in customs offences?
+Back: Because many customs offences arise from unlawful importation, exportation, possession, movement, or concealment of such goods.
+
+Front: What does section 201 provide?
+Back: Payment of duty in addition to fine.
+
+Front: If a person is fined for a customs offence, can duty still remain payable?
+Back: Yes. Payment of duty may still be required in addition to the fine.
+
+Front: What does section 202 deal with?
+Back: Offence to import or export concealed goods.
+
+Front: Is importing or exporting concealed goods an offence?
+Back: Yes.
+
+Front: Why is concealment of goods treated as a serious customs offence?
+Back: Because concealment is often used to evade duty, prohibition, restriction, or customs control.
+
+Front: What does section 203 deal with?
+Back: Offence to make or use false documents.
+
+Front: Is making or using a false customs document an offence?
+Back: Yes.
+
+Front: What does section 204 deal with?
+Back: Offence to refuse to produce documents, etc.
+
+Front: Is refusing to produce required customs documents an offence?
+Back: Yes.
+
+Front: What does section 205 deal with?
+Back: Offence to interfere with Customs gear.
+
+Front: Is interfering with customs gear an offence?
+Back: Yes.
+
+Front: What does section 206 deal with?
+Back: Uncustomed goods found to be reported.
+
+Front: What does section 207 deal with?
+Back: Goods offered on pretence of being smuggled.
+
+Front: Why is pretence that goods are smuggled also regulated?
+Back: Because customs law also targets deceptive conduct connected to unlawful goods handling.
+
+Front: What does section 208 deal with?
+Back: Aiders, abettors, etc.
+
+Front: Can aiders and abettors be liable for customs offences?
+Back: Yes.
+
+Front: What does section 209 deal with?
+Back: General penalty.
+
+Front: Why is a general penalty section important?
+Back: It covers contraventions where a specific penalty may not be separately stated.
+
+Forfeiture
+
+Front: What does section 210 deal with?
+Back: Goods liable to forfeiture.
+
+Front: What does it mean for goods to be liable to forfeiture?
+Back: It means the goods may legally be taken away from the owner and condemned under customs law because of an offence or unlawful status.
+
+Front: What does section 211 deal with?
+Back: Vessels, etc., liable to forfeiture.
+
+Front: Can vessels, vehicles, or similar things also be liable to forfeiture?
+Back: Yes. The Act extends forfeiture beyond goods to vessels and other things in appropriate cases.
+
+Front: What does section 212 deal with?
+Back: Provisions relating to goods liable to forfeiture.
+
+Front: Why is forfeiture important in customs law?
+Back: Because it removes offending goods or offending conveyances from circulation and strengthens enforcement of customs control.
+
+Seizure
+
+Front: What does section 213 deal with?
+Back: Power to seize goods liable to forfeiture, etc.
+
+Front: What is seizure in customs law?
+Back: The act of taking possession of goods or things liable to forfeiture under the Act.
+
+Front: What does section 214 deal with?
+Back: Procedure on seizure.
+
+Front: Why is seizure different from forfeiture?
+Back: Seizure is the initial taking into custody; forfeiture is the legal loss of the property after the law is applied.
+
+Effect of conviction and condemnation procedure
+
+Front: What does section 215 deal with?
+Back: Effect of conviction, etc. on things liable to forfeiture.
+
+Front: What does section 216 deal with?
+Back: Procedure after notice of claim.
+
+Front: What does section 217 deal with?
+Back: Provisions relating to condemnation.
+
+Front: What is condemnation in customs law?
+Back: The legal process by which seized goods or things are formally declared forfeited.
+
+Front: Why is a notice of claim important after seizure?
+Back: Because it triggers the next legal procedure for determining whether the seizure will be upheld and the goods condemned.
+
+Restoration of seizures
+
+Front: What does section 218 deal with?
+Back: Restoration of seizures.
+
+Front: Can seized goods or things ever be restored?
+Back: Yes. The Act provides for restoration of seizures.
+
+Front: What does restoration mean in customs law?
+Back: It means goods or things that were seized may be returned in accordance with the Act.
+
+Supporting offence cards from earlier Parts
+
+Front: Is unlawful interference with goods under customs control an offence?
+Back: Yes. A person who unlawfully interferes with goods under customs control commits an offence, and the goods may be forfeited.
+
+Front: Is entering or leaving a customs area through an unauthorized point an offence?
+Back: Yes. It is an offence, and the goods involved may be forfeited.
+
+Front: Is failure to report or false reporting on arrival of aircraft or vessels an offence?
+Back: Yes. Such contraventions are offences and the goods may be liable to forfeiture.
+
+Front: Is unlawful unloading or removal of imported goods an offence?
+Back: Yes. Contravention of unloading and removal rules is an offence and the goods may be forfeited.
+
+Front: Is refusing to stop a vehicle or permit a vehicle search an offence?
+Back: Yes. The person in charge commits an offence.
+
+Front: Is bribing or unlawfully influencing an officer an offence?
+Back: Yes. Offering unlawful payment or inducement to an officer is an offence.
+
+Big-picture comparison cards
+
+Front: What is the difference between an offence and a penalty?
+Back: An offence is the unlawful act; a penalty is the punishment or legal consequence that follows.
+
+Front: What is the difference between forfeiture and condemnation?
+Back: Forfeiture is the liability or legal loss of the goods or thing; condemnation is the formal legal process confirming that forfeiture.
+
+Front: What is the difference between seizure and restoration?
+Back: Seizure is taking custody of the property under customs law; restoration is returning it under the Act.
+
+Front: What is the difference between a false document offence and refusal-to-produce-documents offence?
+Back: A false document offence involves making or using untrue documents, while refusal to produce documents involves failing to provide documents that Customs lawfully requires.
+
+Front: What is the difference between concealed goods and uncustomed goods?
+Back: Concealed goods are hidden to evade control; uncustomed goods are goods whose full duty has not been paid or which are dealt with contrary to customs law.
+
+Quick exam memory cards
+
+Front: What is the easiest way to remember the Part XVII sequence?
+Back: Offences → penalties → duty in addition to fine → forfeiture of goods/vessels → seizure → claim procedure → condemnation → restoration.
+
+Front: What are the most tested offences in this Part?
+Back: Conspiracy, removing seals, impersonating an officer, concealed goods, false documents, refusal to produce documents, interfering with customs gear, and aiding/abetting.
+
+Front: What are the three most tested property consequences in this Part?
+Back: Forfeiture, seizure, and condemnation.
+
+Front: What additional financial consequence may arise even after conviction and fine?
+Back: Payment of duty in addition to fine.
+
+Reply with 9 and I’ll continue with Appeals in the same Anki style.
+
+9
+Thought for 4s
+9. Appeals — Anki-style flashcards
+
+Front: Which Part of the Act deals with appeals?
+Back: Part XX: Appeals.
+
+Front: Which sections cover appeals under the Act?
+Back: Sections 229 to 231.
+
+Front: What are the three core appeal provisions in Part XX?
+Back: Application for review to the Commissioner, appeals to the Tax Appeals Tribunal, and establishment of the Tax Appeals Tribunal.
+
+Review to the Commissioner
+
+Front: What is the first step when a person is dissatisfied with a customs decision under Part XX?
+Back: The person should make an application for review to the Commissioner.
+
+Front: Which section provides for application for review to the Commissioner?
+Back: Section 229.
+
+Front: Why is review to the Commissioner important?
+Back: It is the first internal remedy under the Act before the matter proceeds to the Tribunal.
+
+Front: In the appeals structure of the Act, who is approached before the Tribunal?
+Back: The Commissioner.
+
+Front: What is the purpose of review by the Commissioner?
+Back: To allow the customs administration to reconsider a disputed decision before formal appeal to the Tribunal.
+
+Appeals to the Tax Appeals Tribunal
+
+Front: After review by the Commissioner, where does a further appeal go?
+Back: To the Tax Appeals Tribunal.
+
+Front: Which section provides for appeals to the Tax Appeals Tribunal?
+Back: Section 230.
+
+Front: What is the second formal level in the appeal structure under the Act?
+Back: The Tax Appeals Tribunal.
+
+Front: Why is the Tax Appeals Tribunal important in customs law?
+Back: It provides the formal appellate forum for challenging customs decisions after review by the Commissioner.
+
+Establishment of the Tribunal
+
+Front: Which section deals with establishment of the Tax Appeals Tribunal?
+Back: Section 231.
+
+Front: What institutional appellate body is recognized in Part XX?
+Back: The Tax Appeals Tribunal.
+
+Front: Why does the Act specifically provide for establishment of the Tribunal?
+Back: To ensure there is a recognized legal body to hear customs appeals beyond the Commissioner’s review stage.
+
+Relationship with legal proceedings
+
+Front: Which Part comes immediately before Appeals in the Act?
+Back: Part XIX: Legal Proceedings.
+
+Front: Which Part comes immediately after Appeals in the Act?
+Back: Part XXI: Miscellaneous Provisions.
+
+Front: What is the difference between legal proceedings and appeals under the Act?
+Back: Legal proceedings deal with matters like trial, proof, prosecution, and court-related rules, while appeals deal with reviewing and challenging customs decisions through the Commissioner and then the Tribunal.
+
+Big-picture comparison cards
+
+Front: What is the difference between review and appeal?
+Back: A review is reconsideration by the Commissioner, while an appeal is escalation to the Tax Appeals Tribunal.
+
+Front: What is the difference between the first and second appeal stages under the Act?
+Back: The first stage is application for review to the Commissioner; the second stage is appeal to the Tax Appeals Tribunal.
+
+Front: What is the difference between the Commissioner’s role in administration and in appeals?
+Back: In administration, the Commissioner manages and controls Customs; in appeals, the Commissioner is the first review authority for disputed customs decisions.
+
+Quick exam memory cards
+
+Front: What is the easiest way to remember Part XX?
+Back: Review → Tribunal → Establishment.
+
+Front: What are the three key words to remember for appeals?
+Back: Commissioner, review, Tribunal.
+
+Front: What is the full appeal path under the Act?
+Back: Application for review to the Commissioner, then appeal to the Tax Appeals Tribunal.
+
+Reply with 10 and I’ll continue with Schedules in the same Anki style.
+
+How many are left?10
+Thought for a couple of seconds
+
+Just 1 section is left:
+
+10. Schedules
+
+You’ve already completed:
+
+Definitions
+Administrative structure
+Import procedure
+Warehousing
+Export procedure
+Duties and valuation
+Officer powers
+Offences, forfeiture, and seizure
+Appeals
+
+Send 10 and I’ll generate the final Anki-style flashcards for Schedules.
+
+Okay please do
+Thought for 6s
+10. Schedules — Anki-style flashcards
+
+Front: Where are the Schedules listed in the Act?
+Back: At the end of the Act, after Part XXI, under the heading Schedules.
+
+Front: How many Schedules are listed in the Act?
+Back: Six Schedules.
+
+Front: Why are the Schedules important in exam revision?
+Back: Because they contain practical legal details that support the main sections of the Act, especially on declarations, prohibited and restricted goods, valuation, exemptions, and distress.
+
+Overview of all Schedules
+
+Front: What is in the First Schedule?
+Back: Declaration of Officer.
+
+Front: What is in the Second Schedule?
+Back: Prohibited and Restricted Imports Generally.
+
+Front: What is in the Third Schedule?
+Back: Prohibited and Restricted Exports Generally.
+
+Front: What is in the Fourth Schedule?
+Back: Determination of Value of Imported Goods Liable to ad Valorem Import Duty.
+
+Front: What is in the Fifth Schedule?
+Back: Exemptions Regime.
+
+Front: What is in the Sixth Schedule?
+Back: Warrant of Distress.
+
+First Schedule
+
+Front: What is the purpose of the First Schedule?
+Back: It contains the formal declaration of officer to be made by a customs officer appointed to permanent office or employment.
+
+Front: Which section refers directly to the First Schedule?
+Back: Section 5(4), which requires a permanently appointed officer to make and subscribe the declaration in the First Schedule.
+
+Front: Why is the First Schedule important for customs administration?
+Back: It reinforces the legal and ethical commitment of officers entering customs service.
+
+Second Schedule
+
+Front: What is the purpose of the Second Schedule?
+Back: It lists prohibited and restricted imports generally.
+
+Front: Which sections are most closely linked to the Second Schedule?
+Back: Sections 18, 19, and 20 on prohibited and restricted imports and related exemptions.
+
+Front: What is the difference between Part A and Part B of the Second Schedule?
+Back: Part A covers prohibited imports, while Part B covers restricted imports that are only allowed if conditions are met.
+
+Front: What does it mean if goods are in Part A of the Second Schedule?
+Back: Their importation is prohibited.
+
+Front: What does it mean if goods are in Part B of the Second Schedule?
+Back: Their importation is prohibited except in accordance with specified conditions.
+
+Front: Can the Second Schedule be amended?
+Back: Yes. The Council may amend it by order published in the Gazette.
+
+Front: Why is the Second Schedule highly testable in exams?
+Back: Because customs exam questions often test whether a good is prohibited, restricted, or conditionally admissible on import.
+
+Third Schedule
+
+Front: What is the purpose of the Third Schedule?
+Back: It lists prohibited and restricted exports generally.
+
+Front: Which sections are most closely linked to the Third Schedule?
+Back: Sections 70, 71, and 72 on prohibited and restricted exports and related exemptions.
+
+Front: What is the difference between prohibited exports and restricted exports in the Third Schedule?
+Back: Prohibited exports cannot be exported at all, while restricted exports may only be exported if the required conditions are satisfied.
+
+Front: Can the Third Schedule be amended?
+Back: Yes. The Council may amend it by order published in the Gazette.
+
+Front: Why is the Third Schedule important for a customs officer?
+Back: Because it helps the officer identify goods whose export is unlawful or tightly controlled.
+
+Fourth Schedule
+
+Front: What is the purpose of the Fourth Schedule?
+Back: It provides the rules for determination of value of imported goods liable to ad valorem import duty.
+
+Front: Which section refers directly to the Fourth Schedule?
+Back: Section 122 on determination of value of imported goods liable to ad valorem duty.
+
+Front: Why is the Fourth Schedule important in customs practice?
+Back: Because it determines the customs value used to calculate ad valorem import duty.
+
+Front: What is the core question answered by the Fourth Schedule?
+Back: “What is the value of these imported goods for duty purposes?”
+
+Front: Why is the Fourth Schedule one of the most important schedules for exams?
+Back: Because valuation is a major customs topic and ad valorem duty depends directly on correct customs value.
+
+Front: What type of duty is most directly linked to the Fourth Schedule?
+Back: Ad valorem import duty.
+
+Fifth Schedule
+
+Front: What is the purpose of the Fifth Schedule?
+Back: It sets out the Exemptions Regime.
+
+Front: Which section refers directly to the Fifth Schedule?
+Back: Section 114 on the exemptions regime.
+
+Front: What is the general purpose of the Fifth Schedule in customs law?
+Back: To identify goods and circumstances in which duty is not charged, subject to stated conditions.
+
+Front: What is the difference between Part A and Part B of the Fifth Schedule?
+Back: Part A covers goods that are not liable to duty when imported or purchased before clearance for use by specified persons, while Part B covers goods exempted when imported subject to stated conditions.
+
+Front: Can the Fifth Schedule be amended?
+Back: Yes. The Council may amend it by notice in the Gazette.
+
+Front: Why is the Fifth Schedule important for passenger and institutional exemptions?
+Back: Because it contains the legal exemption framework used in many duty-relief situations.
+
+Sixth Schedule
+
+Front: What is the purpose of the Sixth Schedule?
+Back: It contains the Warrant of Distress.
+
+Front: Which section is most closely linked to the Sixth Schedule?
+Back: Section 130 on recovery of duty by distress.
+
+Front: Why is the Sixth Schedule important in customs enforcement?
+Back: Because it supports the legal process of recovering unpaid duty through distress.
+
+Front: What is the main practical function of the Sixth Schedule?
+Back: To provide the formal legal instrument used when Customs moves to recover unpaid duty by distress.
+
+Comparison cards
+
+Front: What is the difference between the Second and Third Schedules?
+Back: The Second Schedule deals with prohibited and restricted imports, while the Third Schedule deals with prohibited and restricted exports.
+
+Front: What is the difference between the Fourth and Fifth Schedules?
+Back: The Fourth Schedule determines customs value for ad valorem import duty, while the Fifth Schedule sets out duty exemptions.
+
+Front: What is the difference between the First and Sixth Schedules?
+Back: The First Schedule concerns the officer’s declaration, while the Sixth Schedule concerns enforcement through a warrant of distress.
+
+Front: Which Schedules are most connected to imports?
+Back: The Second Schedule, Fourth Schedule, and Fifth Schedule.
+
+Front: Which Schedule is most connected to exports?
+Back: The Third Schedule.
+
+Front: Which Schedule is most connected to officer appointment and integrity?
+Back: The First Schedule.
+
+Front: Which Schedule is most connected to recovery of unpaid duty?
+Back: The Sixth Schedule.
+
+Quick exam memory cards
+
+Front: What is the easiest way to remember all six Schedules in order?
+Back: Officer declaration → Imports → Exports → Valuation → Exemptions → Distress.
+
+Front: Which three Schedules are most commonly tested together with duty questions?
+Back: The Fourth Schedule, Fifth Schedule, and Sixth Schedule.
+
+Front: Which two Schedules are most commonly tested together with prohibited/restricted goods questions?
+Back: The Second Schedule and the Third Schedule.
+
+Front: Which one Schedule should you immediately think of when you hear “customs valuation”?
+Back: The Fourth Schedule.
+
+Front: Which one Schedule should you immediately think of when you hear “exemptions regime”?
+Back: The Fifth Schedule.
+
+Front: Which one Schedule should you immediately think of when you hear “warrant of distress”?
+Back: The Sixth Schedule.

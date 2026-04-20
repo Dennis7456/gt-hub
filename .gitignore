@@ -16,17 +16,6 @@ venv/
 lms-react/node_modules/
 lms-react/dist/
 lms-react/.env
-lms-react/public/assets/
-lms-react/public/clearance-one/
-lms-react/public/customs-in-international-context/
-lms-react/public/customs-valuation-i/
-lms-react/public/wto-customs-valuation/
-lms-react/public/history-of-taxation/
-lms-react/public/theory-of-taxation/
-lms-react/public/tax-and-customs-theory/
-lms-react/public/eaccma/
-lms-react/public/article-vii-valuation/
-lms-react/public/flashcards/
 
 # Temp / lock files
 *.lock

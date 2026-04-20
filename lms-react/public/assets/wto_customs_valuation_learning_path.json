@@ -1,0 +1,1259 @@
+{
+  "topic": "WTO Agreement on Customs Valuation",
+  "format": "duolingo_style_learning_path",
+  "source": "WTO Agreement on Customs Valuation.pdf",
+  "design_principles": {
+    "structure": "map_based_progression",
+    "progression_style": "purpose_to_structure_to_methods_to_restrictions_to_application",
+    "lesson_pattern": [
+      "learn",
+      "match",
+      "quiz",
+      "scenario",
+      "checkpoint"
+    ],
+    "scoring": {
+      "xp_per_micro_lesson": 10,
+      "xp_per_quiz": 15,
+      "xp_per_scenario": 20,
+      "xp_per_checkpoint": 30,
+      "perfect_lesson_bonus": 5,
+      "streak_bonus_every_5_days": 20
+    },
+    "hearts_system": {
+      "starting_hearts": 5,
+      "heart_loss_per_wrong_answer": 1,
+      "heart_recovery": [
+        "practice_old_lesson",
+        "daily_review",
+        "wait_timer"
+      ]
+    },
+    "mastery_levels": [
+      "introduced",
+      "practicing",
+      "strong",
+      "mastered"
+    ]
+  },
+  "course_outcomes": [
+    "Explain why customs valuation rules are needed",
+    "Describe the legal and institutional framework of the WTO Customs Valuation Agreement",
+    "Apply the six valuation methods in the correct order",
+    "Explain transaction value, Article 8 adjustments, related parties, and reasonable doubts",
+    "Identify prohibited valuation methods and key procedural safeguards"
+  ],
+  "units": [
+    {
+      "unit_id": 1,
+      "title": "Why Customs Valuation Matters",
+      "theme": "Foundations",
+      "unlock_rule": "available_from_start",
+      "unit_goal": "Understand why valuation rules exist and why customs value matters in international trade.",
+      "recommended_days": 2,
+      "lessons": [
+        {
+          "lesson_id": "1.1",
+          "title": "Why Valuation Rules Exist",
+          "type": "learn",
+          "goal": "Understand the purpose of customs valuation rules.",
+          "skills": [
+            "fairness",
+            "uniformity",
+            "neutrality",
+            "anti-arbitrary valuation"
+          ],
+          "micro_steps": [
+            "Explain why customs valuation rules are needed",
+            "Explain what arbitrary or fictitious values are",
+            "Explain why the system must be fair, uniform, and neutral"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "1.2",
+          "title": "Why Customs Value Matters",
+          "type": "learn",
+          "goal": "Understand why customs value is important in ad valorem duty systems.",
+          "skills": [
+            "ad valorem duty",
+            "valuation base",
+            "market access"
+          ],
+          "micro_steps": [
+            "Explain what happens when duty is ad valorem",
+            "Explain why customs value is the duty base",
+            "Explain how inflated values can undermine tariff concessions"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "1.3",
+          "title": "Trade Impact Match",
+          "type": "match",
+          "goal": "Match valuation problems to their trade consequences.",
+          "skills": [
+            "duty inflation",
+            "market access impact",
+            "trade fairness"
+          ],
+          "micro_steps": [
+            "Match inflated value to unfairly high duty",
+            "Match fair valuation to neutral treatment",
+            "Match arbitrary value to trade distortion"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "1.4",
+          "title": "Foundation Quiz",
+          "type": "quiz",
+          "goal": "Check your understanding of the need for customs valuation rules.",
+          "skills": [
+            "core recall",
+            "basic application"
+          ],
+          "micro_steps": [
+            "Identify the purpose of valuation rules",
+            "Recognize the effect of inflated customs values",
+            "Apply the idea of ad valorem valuation"
+          ],
+          "xp": 15
+        },
+        {
+          "lesson_id": "1.5",
+          "title": "Unit 1 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show that you understand why customs valuation exists and why it matters.",
+          "skills": [
+            "foundation mastery"
+          ],
+          "micro_steps": [
+            "Explain the purpose of customs valuation rules",
+            "Explain why ad valorem duties depend on customs value",
+            "Explain why exporters care about unfair valuation"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 2,
+      "title": "GATT Background and Legal Context",
+      "theme": "Legal Origins",
+      "unlock_rule": "complete_unit_1_checkpoint",
+      "unit_goal": "Understand the GATT framework and how customs valuation rules developed historically.",
+      "recommended_days": 3,
+      "lessons": [
+        {
+          "lesson_id": "2.1",
+          "title": "GATT and Customs Valuation",
+          "type": "learn",
+          "goal": "Understand the place of Article VII within the GATT framework.",
+          "skills": [
+            "GATT",
+            "Article VII",
+            "customs management context"
+          ],
+          "micro_steps": [
+            "Identify Article VII as the main valuation article",
+            "Recognize related GATT articles",
+            "Explain the broader trade facilitation purpose of customs rules"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "2.2",
+          "title": "Article Map",
+          "type": "learn",
+          "goal": "Recall the related GATT provisions around valuation.",
+          "skills": [
+            "Article V",
+            "Article VII",
+            "Article VIII",
+            "Article IX",
+            "Article X"
+          ],
+          "micro_steps": [
+            "Match Article V to freedom of transit",
+            "Match Article VIII to fees and formalities",
+            "Match Article IX to marks of origin",
+            "Match Article X to publication and administration"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "2.3",
+          "title": "From GATT 1947 to WTO Rules",
+          "type": "learn",
+          "goal": "Understand historical development from GATT 1947 through the Tokyo and Uruguay Rounds.",
+          "skills": [
+            "GATT 1947",
+            "Tokyo Round",
+            "Uruguay Round",
+            "WTO Agreement"
+          ],
+          "micro_steps": [
+            "Explain what GATT 1947 prohibited",
+            "Explain why the Tokyo Round addressed valuation",
+            "Explain why the Uruguay Round made valuation rules binding on WTO Members"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "2.4",
+          "title": "History Match",
+          "type": "match",
+          "goal": "Place customs valuation milestones in their proper sequence.",
+          "skills": [
+            "timeline recall"
+          ],
+          "micro_steps": [
+            "Match GATT 1947 to 'actual value' language",
+            "Match Tokyo Round to 1979 protocol",
+            "Match Uruguay Round to 1994 WTO Agreement"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "2.5",
+          "title": "Unit 2 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Demonstrate understanding of the legal origin of the valuation rules.",
+          "skills": [
+            "legal history mastery"
+          ],
+          "micro_steps": [
+            "Explain Article VII",
+            "Explain why the original rules were considered inadequate",
+            "Explain how the WTO Agreement emerged"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 3,
+      "title": "Structure of the Agreement",
+      "theme": "Agreement Architecture",
+      "unlock_rule": "complete_unit_2_checkpoint",
+      "unit_goal": "Understand the layout of the Customs Valuation Agreement, including parts, annexes, and committees.",
+      "recommended_days": 2,
+      "lessons": [
+        {
+          "lesson_id": "3.1",
+          "title": "Parts of the Agreement",
+          "type": "learn",
+          "goal": "Understand the main parts of the Agreement.",
+          "skills": [
+            "Part I",
+            "Part II",
+            "Part III",
+            "Part IV"
+          ],
+          "micro_steps": [
+            "Identify what Part I covers",
+            "Identify what Part II covers",
+            "Identify what Part III covers",
+            "Identify what Part IV covers"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "3.2",
+          "title": "Article Map Inside Part I",
+          "type": "learn",
+          "goal": "Understand the main article groupings within Part I.",
+          "skills": [
+            "Articles 1-8",
+            "Article 9",
+            "Article 10",
+            "Article 11",
+            "Article 12",
+            "Article 13",
+            "Article 15",
+            "Article 16"
+          ],
+          "micro_steps": [
+            "Identify where the six methods are found",
+            "Identify the article on currency conversion",
+            "Identify the articles on confidentiality, appeal, publication, release of goods, definitions, and written explanation"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "3.3",
+          "title": "Annexes and Committees",
+          "type": "learn",
+          "goal": "Understand the annexes and administrative bodies established under the Agreement.",
+          "skills": [
+            "Annex I",
+            "Annex II",
+            "Annex III",
+            "WTO Valuation Committee",
+            "Technical Committee on Customs Valuation"
+          ],
+          "micro_steps": [
+            "Identify what each annex contains",
+            "Explain why annexes are legally important",
+            "Differentiate the WTO Committee from the WCO Technical Committee"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "3.4",
+          "title": "Structure Match",
+          "type": "match",
+          "goal": "Match articles, annexes, and committees to their functions.",
+          "skills": [
+            "agreement structure"
+          ],
+          "micro_steps": [
+            "Match Article 11 to appeal",
+            "Match Annex I to interpretative notes",
+            "Match the WTO Committee to policy issues",
+            "Match the Technical Committee to technical interpretation"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "3.5",
+          "title": "Unit 3 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show that you understand the architecture of the Agreement.",
+          "skills": [
+            "structure mastery"
+          ],
+          "micro_steps": [
+            "List the main parts",
+            "Identify the function of key articles",
+            "Explain the role of annexes and committees"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 4,
+      "title": "The Six Valuation Methods",
+      "theme": "Core Valuation Framework",
+      "unlock_rule": "complete_unit_3_checkpoint",
+      "unit_goal": "Memorize and understand the six valuation methods and the required order of use.",
+      "recommended_days": 4,
+      "lessons": [
+        {
+          "lesson_id": "4.1",
+          "title": "Method 1 and Its Primacy",
+          "type": "learn",
+          "goal": "Understand why transaction value comes first.",
+          "skills": [
+            "Method 1",
+            "transaction value",
+            "primacy"
+          ],
+          "micro_steps": [
+            "Identify transaction value as Method 1",
+            "Explain why it has primacy",
+            "Connect primacy to fairness and commercial reality"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "4.2",
+          "title": "Methods 2 to 6",
+          "type": "learn",
+          "goal": "Learn the remaining five valuation methods.",
+          "skills": [
+            "identical goods",
+            "similar goods",
+            "deductive value",
+            "computed value",
+            "fall-back method"
+          ],
+          "micro_steps": [
+            "Identify Method 2",
+            "Identify Method 3",
+            "Identify Method 4",
+            "Identify Method 5",
+            "Identify Method 6"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "4.3",
+          "title": "Order Matters",
+          "type": "learn",
+          "goal": "Understand the mandatory hierarchy of valuation methods.",
+          "skills": [
+            "hierarchy",
+            "sequential application"
+          ],
+          "micro_steps": [
+            "State the correct order of methods",
+            "Explain why customs must move method by method",
+            "Recognize that prohibited shortcuts are not allowed"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "4.4",
+          "title": "Method Order Match",
+          "type": "match",
+          "goal": "Place all six methods in the correct order.",
+          "skills": [
+            "method sequence"
+          ],
+          "micro_steps": [
+            "Arrange methods from 1 to 6",
+            "Differentiate identical from similar goods",
+            "Differentiate deductive from computed value"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "4.5",
+          "title": "Unit 4 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Demonstrate mastery of the six valuation methods and their sequence.",
+          "skills": [
+            "method mastery"
+          ],
+          "micro_steps": [
+            "List all six methods",
+            "Explain which comes first and why",
+            "Explain that customs must respect the hierarchy"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 5,
+      "title": "Method 1: Transaction Value",
+      "theme": "Main Method",
+      "unlock_rule": "complete_unit_4_checkpoint",
+      "unit_goal": "Understand transaction value deeply as the primary customs valuation method.",
+      "recommended_days": 5,
+      "lessons": [
+        {
+          "lesson_id": "5.1",
+          "title": "Basic Rule of Article 1.1",
+          "type": "learn",
+          "goal": "Understand the core definition of transaction value.",
+          "skills": [
+            "Article 1.1",
+            "price actually paid or payable",
+            "sale for export",
+            "permitted adjustments"
+          ],
+          "micro_steps": [
+            "Explain the basic rule in Article 1.1",
+            "Break down the four core elements",
+            "Recognize that transaction value is tied to an export sale"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "5.2",
+          "title": "Price Actually Paid or Payable",
+          "type": "learn",
+          "goal": "Understand what counts as the actual price.",
+          "skills": [
+            "payment concept",
+            "direct payments",
+            "indirect payments",
+            "condition of sale"
+          ],
+          "micro_steps": [
+            "Explain what 'price actually paid or payable' means",
+            "Recognize direct and indirect payment",
+            "Recognize payments made for the seller’s benefit"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "5.3",
+          "title": "Discounts and Lower Prices",
+          "type": "learn",
+          "goal": "Understand why lower price alone is not a reason to reject transaction value.",
+          "skills": [
+            "cash discount",
+            "volume discount",
+            "trade discount",
+            "market comparisons"
+          ],
+          "micro_steps": [
+            "Explain why a low declared price is not automatically invalid",
+            "Explain why market prices do not automatically override transaction value",
+            "Recognize valid discounts"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "5.4",
+          "title": "Sale for Export",
+          "type": "learn",
+          "goal": "Understand the meaning of 'sold for export to the country of importation'.",
+          "skills": [
+            "sale for export",
+            "international transfer",
+            "seller location"
+          ],
+          "micro_steps": [
+            "Explain the need for a sale for export",
+            "Explain that seller location can vary",
+            "Explain that the sale must involve international movement of goods"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "5.5",
+          "title": "Transaction Value Quiz",
+          "type": "quiz",
+          "goal": "Test understanding of the primary valuation method.",
+          "skills": [
+            "Article 1.1 application"
+          ],
+          "micro_steps": [
+            "Identify the elements of transaction value",
+            "Distinguish valid lower prices from invalid reasons for rejection",
+            "Recognize a sale for export"
+          ],
+          "xp": 15
+        },
+        {
+          "lesson_id": "5.6",
+          "title": "Unit 5 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show strong understanding of transaction value.",
+          "skills": [
+            "transaction value mastery"
+          ],
+          "micro_steps": [
+            "Define transaction value",
+            "Explain price actually paid or payable",
+            "Explain sale for export and why Method 1 has primacy"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 6,
+      "title": "Article 8 Adjustments",
+      "theme": "Permitted Additions",
+      "unlock_rule": "complete_unit_5_checkpoint",
+      "unit_goal": "Understand what may be added to the price under Article 8 and the limits on those additions.",
+      "recommended_days": 4,
+      "lessons": [
+        {
+          "lesson_id": "6.1",
+          "title": "When Additions Are Allowed",
+          "type": "learn",
+          "goal": "Understand the basic rule for Article 8 additions.",
+          "skills": [
+            "not already included",
+            "objective and quantifiable data",
+            "closed list"
+          ],
+          "micro_steps": [
+            "Explain that additions apply only if not already included",
+            "Explain the need for objective and quantifiable data",
+            "Explain that only listed additions may be used"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "6.2",
+          "title": "Common Article 8 Additions",
+          "type": "learn",
+          "goal": "Recognize the major types of permitted additions.",
+          "skills": [
+            "commissions",
+            "brokerage",
+            "containers",
+            "packaging",
+            "assists",
+            "royalties",
+            "resale proceeds",
+            "transport costs"
+          ],
+          "micro_steps": [
+            "List common Article 8 additions",
+            "Explain what assists are in general terms",
+            "Explain why transport costs may be added"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "6.3",
+          "title": "Items Commonly Excluded",
+          "type": "learn",
+          "goal": "Recognize items that may be excluded in appropriate cases.",
+          "skills": [
+            "interest",
+            "dividends",
+            "post-importation costs",
+            "advertising and marketing"
+          ],
+          "micro_steps": [
+            "Identify interest payments as possible exclusions",
+            "Identify dividends as possible exclusions",
+            "Recognize post-importation services and marketing costs as possible exclusions"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "6.4",
+          "title": "Adjustment Match",
+          "type": "match",
+          "goal": "Sort valuation items into additions or exclusions.",
+          "skills": [
+            "classification of costs"
+          ],
+          "micro_steps": [
+            "Match royalties to possible additions",
+            "Match containers to possible additions",
+            "Match post-importation services to possible exclusions",
+            "Match interest to possible exclusions"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "6.5",
+          "title": "Unit 6 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Demonstrate control over Article 8 additions and exclusions.",
+          "skills": [
+            "Article 8 mastery"
+          ],
+          "micro_steps": [
+            "Explain when additions are allowed",
+            "List major Article 8 additions",
+            "Explain why customs cannot add unlisted items"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 7,
+      "title": "Related Parties and Circumstances of Sale",
+      "theme": "Influence on Price",
+      "unlock_rule": "complete_unit_6_checkpoint",
+      "unit_goal": "Understand related-party valuation, what customs must examine, and how relationship affects the price test.",
+      "recommended_days": 4,
+      "lessons": [
+        {
+          "lesson_id": "7.1",
+          "title": "When Parties Are Related",
+          "type": "learn",
+          "goal": "Understand the legal categories of related parties under Article 15.",
+          "skills": [
+            "family",
+            "partners",
+            "employer-employee",
+            "common directors",
+            "control",
+            "5 percent voting stock"
+          ],
+          "micro_steps": [
+            "List the types of related parties",
+            "Understand control-based relationships",
+            "Recall the 5 percent voting stock rule"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "7.2",
+          "title": "Relationship Alone Is Not Enough",
+          "type": "learn",
+          "goal": "Understand the core rule for related-party transactions.",
+          "skills": [
+            "relationship alone",
+            "price influence test"
+          ],
+          "micro_steps": [
+            "Explain that mere relationship is not enough to reject transaction value",
+            "Explain the real question customs must ask",
+            "Connect the rule to fairness and commercial reality"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "7.3",
+          "title": "Circumstances of Sale and Test Values",
+          "type": "learn",
+          "goal": "Understand the two broad ways customs may examine related-party sales.",
+          "skills": [
+            "circumstances of sale",
+            "test values",
+            "industry practice",
+            "same price to unrelated parties",
+            "cost recovery plus profit"
+          ],
+          "micro_steps": [
+            "Explain review of circumstances surrounding the sale",
+            "Explain review using test values",
+            "Identify ways of proving the relationship did not influence price"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "7.4",
+          "title": "Related Party Match",
+          "type": "match",
+          "goal": "Match relationship categories and proof concepts correctly.",
+          "skills": [
+            "relationship analysis"
+          ],
+          "micro_steps": [
+            "Match family to related parties",
+            "Match common control to relatedness",
+            "Match normal industry practice to evidence of non-influence",
+            "Match cost plus average profit to evidence of non-influence"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "7.5",
+          "title": "Unit 7 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show you understand related-party valuation and the price influence test.",
+          "skills": [
+            "related-party mastery"
+          ],
+          "micro_steps": [
+            "Define related parties",
+            "Explain the key test for related-party transactions",
+            "Explain circumstances of sale and test values"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 8,
+      "title": "When Method 1 Cannot Be Used",
+      "theme": "Limits on Transaction Value",
+      "unlock_rule": "complete_unit_7_checkpoint",
+      "unit_goal": "Understand the main reasons transaction value may be rejected and how reasonable doubts operate.",
+      "recommended_days": 4,
+      "lessons": [
+        {
+          "lesson_id": "8.1",
+          "title": "Basic Reasons Method 1 May Fail",
+          "type": "learn",
+          "goal": "Understand the main barriers to using transaction value.",
+          "skills": [
+            "no sale",
+            "restrictions",
+            "undeterminable conditions",
+            "proceeds to seller",
+            "related-party price influence"
+          ],
+          "micro_steps": [
+            "Recognize there must be a sale",
+            "Recognize that some restrictions can disqualify Method 1",
+            "Recognize that undeterminable conditions can prevent Method 1",
+            "Recognize issues involving resale proceeds and related parties"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "8.2",
+          "title": "Reasonable Doubts Procedure",
+          "type": "learn",
+          "goal": "Understand what customs may do if it doubts the declared value.",
+          "skills": [
+            "additional information",
+            "inform importer",
+            "reasonable opportunity to respond",
+            "written decision"
+          ],
+          "micro_steps": [
+            "Explain what customs may request",
+            "Explain what customs must tell the importer",
+            "Explain the right to respond",
+            "Explain why a final rejection must be in writing"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "8.3",
+          "title": "Lower Price Is Not Enough",
+          "type": "learn",
+          "goal": "Understand why low price alone does not justify rejection.",
+          "skills": [
+            "lower market price",
+            "lower identical-goods price",
+            "discounted sale"
+          ],
+          "micro_steps": [
+            "Explain why low market price alone is not enough",
+            "Explain why lower identical-goods price alone is not enough",
+            "Explain why discounts do not automatically invalidate Method 1"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "8.4",
+          "title": "Procedure Match",
+          "type": "match",
+          "goal": "Put the reasonable doubts process in the correct order.",
+          "skills": [
+            "procedural sequencing"
+          ],
+          "micro_steps": [
+            "Match doubt to request for more information",
+            "Match request to importer explanation opportunity",
+            "Match final rejection to written notice"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "8.5",
+          "title": "Unit 8 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Demonstrate understanding of rejection of Method 1 and the reasonable doubts process.",
+          "skills": [
+            "Method 1 rejection mastery"
+          ],
+          "micro_steps": [
+            "List reasons Method 1 may fail",
+            "Explain why low price alone is not enough",
+            "Explain the reasonable doubts procedure"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 9,
+      "title": "Prohibited Methods and the Fall-back Method",
+      "theme": "What Customs Cannot Do",
+      "unlock_rule": "complete_unit_8_checkpoint",
+      "unit_goal": "Understand prohibited valuation methods and how the fall-back method differs from arbitrary valuation.",
+      "recommended_days": 3,
+      "lessons": [
+        {
+          "lesson_id": "9.1",
+          "title": "Prohibited Methods",
+          "type": "learn",
+          "goal": "Recognize the valuation methods that customs may not use.",
+          "skills": [
+            "domestic selling price",
+            "higher of two values",
+            "export-country domestic price",
+            "improper cost of production",
+            "price to third country",
+            "minimum values",
+            "arbitrary values"
+          ],
+          "micro_steps": [
+            "List the prohibited methods",
+            "Explain why minimum values are prohibited",
+            "Explain why arbitrary and fictitious values are prohibited"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "9.2",
+          "title": "Fall-back Method Basics",
+          "type": "learn",
+          "goal": "Understand Method 6 in contrast to prohibited approaches.",
+          "skills": [
+            "fall-back method",
+            "flexibility within the Agreement",
+            "no arbitrary values"
+          ],
+          "micro_steps": [
+            "Identify Method 6 as the last method",
+            "Explain why it is not the same as arbitrary valuation",
+            "Explain that even the fall-back method must stay within WTO rules"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "9.3",
+          "title": "Allowed or Prohibited?",
+          "type": "match",
+          "goal": "Sort valuation approaches into allowed and prohibited groups.",
+          "skills": [
+            "method recognition"
+          ],
+          "micro_steps": [
+            "Match minimum values to prohibited",
+            "Match price to third-country export to prohibited",
+            "Match fall-back method to allowed last resort",
+            "Match domestic selling price to prohibited"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "9.4",
+          "title": "Unit 9 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show you can identify what customs may never do in valuation.",
+          "skills": [
+            "prohibited-method mastery"
+          ],
+          "micro_steps": [
+            "List major prohibited methods",
+            "Explain why they are banned",
+            "Explain the fall-back method as the final lawful method"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 10,
+      "title": "Importer Protections and Administration",
+      "theme": "Procedural Rights",
+      "unlock_rule": "complete_unit_9_checkpoint",
+      "unit_goal": "Understand the administrative and procedural safeguards in the Agreement.",
+      "recommended_days": 3,
+      "lessons": [
+        {
+          "lesson_id": "10.1",
+          "title": "Confidentiality, Publication, Appeal",
+          "type": "learn",
+          "goal": "Understand key importer protections and administrative obligations.",
+          "skills": [
+            "confidentiality",
+            "publication",
+            "right of appeal"
+          ],
+          "micro_steps": [
+            "Identify the article on confidentiality",
+            "Identify the article on publication",
+            "Identify the importer’s right of appeal"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "10.2",
+          "title": "Release of Goods and Written Explanation",
+          "type": "learn",
+          "goal": "Understand procedural fairness when valuation is in dispute.",
+          "skills": [
+            "release of goods",
+            "written explanation",
+            "definitions"
+          ],
+          "micro_steps": [
+            "Identify the article on release of goods",
+            "Identify the importer’s right to a written explanation",
+            "Recognize the role of definitions in Article 15"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "10.3",
+          "title": "Procedural Safeguards Match",
+          "type": "match",
+          "goal": "Match importer protections to the correct article or concept.",
+          "skills": [
+            "rights mapping"
+          ],
+          "micro_steps": [
+            "Match confidentiality to Article 10",
+            "Match appeal to Article 11",
+            "Match written explanation to Article 16",
+            "Match release of goods to Article 13"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "10.4",
+          "title": "Unit 10 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Demonstrate understanding of importer rights and administrative safeguards.",
+          "skills": [
+            "procedural mastery"
+          ],
+          "micro_steps": [
+            "List major procedural safeguards",
+            "Explain the right of appeal",
+            "Explain why written explanation and release procedures matter"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 11,
+      "title": "Accession, National Laws, and Notifications",
+      "theme": "Implementation",
+      "unlock_rule": "complete_unit_10_checkpoint",
+      "unit_goal": "Understand how WTO Members implement the Agreement through accession commitments, national legislation, and notification duties.",
+      "recommended_days": 3,
+      "lessons": [
+        {
+          "lesson_id": "11.1",
+          "title": "Accession Commitments",
+          "type": "learn",
+          "goal": "Understand what WTO acceding Members must do in customs valuation.",
+          "skills": [
+            "full implementation from accession",
+            "elimination of minimum values",
+            "reference prices"
+          ],
+          "micro_steps": [
+            "Explain the baseline accession commitment",
+            "Explain why minimum values are unacceptable",
+            "Explain why reference prices and fixed schedules are problematic"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "11.2",
+          "title": "National Legislation and Article 22",
+          "type": "learn",
+          "goal": "Understand the relationship between WTO obligations and national law.",
+          "skills": [
+            "Article 22",
+            "national legislation",
+            "implementation transparency"
+          ],
+          "micro_steps": [
+            "Identify Article 22",
+            "Explain why national legislation matters",
+            "Connect domestic law to WTO implementation"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "11.3",
+          "title": "Notifications to the Committee",
+          "type": "learn",
+          "goal": "Understand why members notify legislation and implementation decisions.",
+          "skills": [
+            "Article 22.1 notifications",
+            "checklist of issues",
+            "interest charges decision",
+            "carrier media decision"
+          ],
+          "micro_steps": [
+            "Explain why valuation legislation is notified",
+            "Explain the purpose of the Checklist of Issues",
+            "Explain the notification duties for the decisions on interest charges and carrier media"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "11.4",
+          "title": "Implementation Match",
+          "type": "match",
+          "goal": "Match implementation obligations to their purpose.",
+          "skills": [
+            "transparency and compliance"
+          ],
+          "micro_steps": [
+            "Match accession to full implementation",
+            "Match legislation notification to transparency",
+            "Match Checklist of Issues to Committee review",
+            "Match decision notifications to implementation status"
+          ],
+          "xp": 10
+        },
+        {
+          "lesson_id": "11.5",
+          "title": "Unit 11 Checkpoint",
+          "type": "checkpoint",
+          "goal": "Show you understand implementation, accession, and notification obligations.",
+          "skills": [
+            "implementation mastery"
+          ],
+          "micro_steps": [
+            "Explain accession commitments",
+            "Explain the role of national legislation",
+            "Explain why notifications matter"
+          ],
+          "xp": 30
+        }
+      ]
+    },
+    {
+      "unit_id": 12,
+      "title": "Grand Mastery Path",
+      "theme": "Full Synthesis",
+      "unlock_rule": "complete_unit_11_checkpoint",
+      "unit_goal": "Bring the whole Agreement together from purpose and structure to methods, restrictions, rights, and implementation.",
+      "recommended_days": 4,
+      "lessons": [
+        {
+          "lesson_id": "12.1",
+          "title": "Method Logic Quiz",
+          "type": "quiz",
+          "goal": "Review the six methods, their order, and the primacy of transaction value.",
+          "skills": [
+            "method recall",
+            "hierarchy mastery"
+          ],
+          "micro_steps": [
+            "Identify all six methods",
+            "Apply the hierarchy correctly",
+            "Recognize when Method 1 is unavailable"
+          ],
+          "xp": 15
+        },
+        {
+          "lesson_id": "12.2",
+          "title": "Rights and Restrictions Quiz",
+          "type": "quiz",
+          "goal": "Review prohibited methods, reasonable doubts, appeal rights, and importer protections.",
+          "skills": [
+            "procedural recall",
+            "restriction recall"
+          ],
+          "micro_steps": [
+            "Identify prohibited methods",
+            "Apply the reasonable doubts process",
+            "Recall importer rights and procedural protections"
+          ],
+          "xp": 15
+        },
+        {
+          "lesson_id": "12.3",
+          "title": "Integrated Valuation Scenario Lab",
+          "type": "scenario",
+          "goal": "Apply the Agreement to realistic customs valuation cases.",
+          "skills": [
+            "case analysis",
+            "valuation reasoning",
+            "method selection"
+          ],
+          "micro_steps": [
+            "Assess whether Method 1 can be used",
+            "Identify possible Article 8 adjustments",
+            "Check for related-party concerns",
+            "Choose the next method if Method 1 fails",
+            "Spot prohibited customs approaches"
+          ],
+          "xp": 20
+        },
+        {
+          "lesson_id": "12.4",
+          "title": "Grand Checkpoint",
+          "type": "checkpoint",
+          "goal": "Demonstrate full mastery of the WTO Agreement on Customs Valuation.",
+          "skills": [
+            "full-topic synthesis"
+          ],
+          "micro_steps": [
+            "Explain why the Agreement exists",
+            "Explain its structure",
+            "Explain all six methods and their order",
+            "Explain transaction value, Article 8, related parties, and reasonable doubts",
+            "Explain importer protections and implementation obligations"
+          ],
+          "xp": 30
+        },
+        {
+          "lesson_id": "12.5",
+          "title": "Legendary Review Path",
+          "type": "quiz",
+          "goal": "Final mixed review for long-term retention and exam readiness.",
+          "skills": [
+            "retention",
+            "mixed application",
+            "exam readiness"
+          ],
+          "micro_steps": [
+            "Mixed GATT and WTO structure questions",
+            "Mixed valuation method questions",
+            "Mixed related-party and Article 8 questions",
+            "Mixed rights, restrictions, and implementation questions"
+          ],
+          "xp": 15
+        }
+      ]
+    }
+  ],
+  "review_system": {
+    "daily_practice": {
+      "description": "Recycles weak lessons, commonly confused valuation methods, related-party concepts, and prohibited methods.",
+      "daily_target_xp": 30
+    },
+    "spaced_repetition_buckets": [
+      {
+        "bucket": "same_day",
+        "trigger": "after first lesson completion"
+      },
+      {
+        "bucket": "next_day",
+        "trigger": "if learner scores below 80 percent"
+      },
+      {
+        "bucket": "three_day_review",
+        "trigger": "for all new concepts"
+      },
+      {
+        "bucket": "seven_day_review",
+        "trigger": "for all checkpoint skills"
+      },
+      {
+        "bucket": "mastery_refresh",
+        "trigger": "every 14 days for mastered units"
+      }
+    ]
+  },
+  "gamification": {
+    "badges": [
+      {
+        "name": "Valuation Starter",
+        "unlock": "complete Units 1 and 2"
+      },
+      {
+        "name": "Agreement Mapper",
+        "unlock": "complete Units 3 and 4"
+      },
+      {
+        "name": "Transaction Value Specialist",
+        "unlock": "complete Units 5 and 6"
+      },
+      {
+        "name": "Related Party Analyst",
+        "unlock": "complete Unit 7"
+      },
+      {
+        "name": "Valuation Safeguards Expert",
+        "unlock": "complete Units 8 to 10"
+      },
+      {
+        "name": "Implementation Watcher",
+        "unlock": "complete Unit 11"
+      },
+      {
+        "name": "Customs Valuation Master",
+        "unlock": "complete Unit 12"
+      }
+    ],
+    "streak_rewards": [
+      {
+        "days": 3,
+        "reward": "bonus review chest"
+      },
+      {
+        "days": 7,
+        "reward": "checkpoint retry without heart loss"
+      },
+      {
+        "days": 14,
+        "reward": "legendary review unlock"
+      },
+      {
+        "days": 30,
+        "reward": "course mastery badge"
+      }
+    ]
+  },
+  "estimated_course_totals": {
+    "total_units": 12,
+    "total_lessons": 60,
+    "estimated_base_xp": 870,
+    "estimated_completion_days": 39
+  }
+}

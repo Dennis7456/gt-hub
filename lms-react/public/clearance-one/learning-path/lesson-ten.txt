@@ -1,0 +1,390 @@
+Topic 9: Partner Government Agencies (PGAs)
+
+Topic goal: By the end of this topic, the learner should be able to:
+- explain what PGAs are,
+- identify the main PGAs mentioned in the notes,
+- distinguish regulatory, security, and tax-related roles,
+- match goods or situations to the relevant agency,
+- explain why Customs does not work alone at the border.
+
+Topic total XP: 600 base XP
+Mastery bonus: +50 XP
+Perfect boss bonus: +100 XP
+
+Step 1: Learn
+Purpose: introduce PGAs and their border roles simply.
+Lesson format: 6 learning cards + 4 micro-checks
+Estimated time: 4–6 minutes
+Pass type: completion-based
+XP: up to 100
+
+Learning cards
+
+Card 1: What are PGAs?
+- PGAs means Partner Government Agencies
+- they were previously referred to as OGAs
+- Customs works with them in clearance of goods and services through borders
+
+Card 2: Why PGAs matter
+- some goods need more than Customs control
+- different agencies regulate standards, health, safety, wildlife, biosafety, security, and other specialized issues
+
+Card 3: Examples of PGAs from the notes
+- KEBS
+- KEPHIS
+- KPA
+- NIS
+- KPS
+- Immigration Department
+
+Card 4: More PGAs from the notes
+- Port Health
+- Kenya Radiation Authority
+- KMA
+- NBA
+- KWS
+- ACA
+
+Card 5: Broad functions of PGAs
+- regulatory functions
+- security functions
+- tax collection functions
+
+Card 6: Practical clearance meaning
+- some agencies issue permits or approvals
+- some inspect goods
+- some support security screening
+- some enforce specialized national laws
+
+Micro-check examples
+- What does PGA stand for?
+- Name one PGA in the notes.
+- Name one broad function of PGAs.
+- Why does Customs work with PGAs?
+
+Pass rule
+Complete all cards and answer at least 3 out of 4 micro-checks correctly.
+
+Reward
+- 70 XP for completion
+- +30 XP for full micro-check accuracy
+
+Step 2: Recall
+Purpose: lock in the agencies and their broad roles.
+Lesson format: 10 short questions
+Estimated time: 4–6 minutes
+Pass threshold: 60%
+XP: up to 100
+
+Challenge types
+- multiple choice
+- true/false
+- choose the correct agency
+- identify the correct role type
+
+Example questions
+
+1. PGA stands for:
+   A. Public Goods Administration
+   B. Partner Government Agencies
+   C. Port Guard Authority
+   D. Passenger Gate Authority
+
+2. Customs works with PGAs mainly during:
+   A. sporting events
+   B. clearance of goods and services through borders
+   C. only warehouse rent calculation
+   D. only vessel rummage
+
+3. Which of the following is listed as a PGA in the notes?
+   A. KEBS
+   B. Form C36
+   C. Transire
+   D. C2
+
+4. Which of the following is listed as a PGA in the notes?
+   A. KEPHIS
+   B. C5
+   C. Supplementary manifest
+   D. Crew declaration
+
+5. PGAs may play which broad roles?
+   A. regulatory, security, and tax collection
+   B. only entertainment roles
+   C. only private transport roles
+   D. only judicial roles
+
+Reward
+- 60 XP for pass
+- +20 XP for 80%+
+- +20 XP for first-try pass
+
+Step 3: Match and Distinguish
+Purpose: help the learner match agencies to likely functions and distinguish role types.
+Lesson format: 8 matching tasks + 4 distinction tasks
+Estimated time: 5–7 minutes
+Pass threshold: 70%
+XP: up to 100
+
+Matching tasks
+Match the PGA to its likely area of concern based on the notes:
+- KEBS → standards/regulatory control
+- KEPHIS → plant health/phytosanitary control
+- KPA → port operations interface
+- NIS → security/intelligence
+- KPS → policing/security
+- Immigration Department → movement/control of persons
+- Port Health → public health control
+- KWS → wildlife-related control
+
+Distinction tasks
+Separate:
+- regulatory role vs security role
+- Customs role vs PGA specialized role
+- standards agency vs wildlife agency
+- biosafety/radiation/health-related oversight
+
+Example distinction question
+Which statement is correct?
+A. All PGAs perform exactly the same role
+B. PGAs may perform regulatory, security, or tax collection functions depending on their mandate
+C. Customs replaces PGAs entirely
+D. PGAs are only relevant after goods leave the border
+
+Reward
+- 70 XP for pass
+- +10 XP for first-half perfect
+- +20 XP for full accuracy
+
+Step 4: Scenario Challenge
+Purpose: apply the PGA idea to practical border cases.
+Lesson format: 6 scenario questions
+Estimated time: 6–8 minutes
+Pass threshold: 70%
+XP: up to 100
+
+Example scenarios
+
+Scenario 1
+A consignment needs standards verification before clearance. Which PGA is most likely relevant from the notes?
+A. KEBS
+B. KWS
+C. KMA
+D. Immigration
+
+Scenario 2
+A shipment involves plant material and requires health inspection of plant-related risks. Which PGA is most likely relevant?
+A. KEPHIS
+B. NIS
+C. KPS
+D. ACA
+
+Scenario 3
+A wildlife-related product is under scrutiny at the border. Which PGA is most likely involved?
+A. KWS
+B. KEBS
+C. KPA
+D. C36
+
+Scenario 4
+Security concerns arise around a suspicious consignment. Which broad PGA function is most directly engaged?
+A. regulatory function only
+B. security function
+C. warehousing function
+D. coastwise function
+
+Scenario 5
+An imported product raises public health concerns at the point of entry. Which listed PGA is most obviously relevant?
+A. Port Health
+B. KMA
+C. KPA
+D. NBA only
+
+Scenario 6
+A specialized approval is needed before Customs can release a restricted good. This shows that PGAs mainly help by:
+A. replacing Customs law
+B. providing specialized regulatory control and approvals
+C. serving as shipping lines
+D. issuing transire
+
+Reward
+- 70 XP for pass
+- +15 XP first try
+- +15 XP for all correct
+
+Step 5: Timed Sprint
+Purpose: build fast recognition of agency names and broad functions.
+Lesson format: 15 quick prompts
+Estimated time: 2–3 minutes
+Timer: 90–120 seconds
+Pass threshold: 10/15
+XP: up to 100
+
+Prompt style
+Fast-response items like:
+- Standards agency = ?
+- Plant health agency = ?
+- Wildlife-related agency = ?
+- Port interface authority = ?
+- Security/intelligence = ?
+- Police/security = ?
+- Health at point of entry = ?
+- Radiation-related authority = ?
+- Biosafety-related authority = ?
+- PGA broad role = ?
+- Customs works with PGAs during ?
+
+UX feel
+- agency badges/icons
+- quick taps
+- combo streak meter
+- countdown bar
+- "border cleared" flash on streaks
+
+Reward
+- 50 XP for pass
+- +20 XP speed bonus
+- +20 XP combo streak
+- +10 XP perfect run
+
+Step 6: Boss Challenge
+Purpose: prove mastery and unlock Topic 10.
+Lesson format: 12 mixed questions
+Estimated time: 7–10 minutes
+Pass threshold: 75%
+XP: up to 100
+
+Question mix
+- 4 direct recall questions
+- 3 agency-identification questions
+- 3 scenario questions
+- 2 trap questions
+
+Example boss questions
+1. What does PGA stand for?
+2. What were PGAs previously referred to as?
+3. Name four PGAs listed in the notes.
+4. State the three broad roles PGAs may perform.
+5. Which PGA is most associated with standards?
+6. Which PGA is most associated with plant health?
+7. Which PGA is most associated with wildlife-related control?
+8. Which role is most engaged in suspicious or intelligence-sensitive cargo?
+9. Why is Customs unable to work alone on every clearance matter?
+10. How do PGAs help with restricted goods or specialized imports?
+
+Trap questions
+- "All PGAs are security agencies."
+- "Customs and PGAs perform no overlapping or complementary border functions."
+
+Unlock rule
+- 75%+ = Topic 10 unlocked
+- 85%+ = Topic 9 marked mastered
+- 100% = perfect badge
+
+Reward
+- 70 XP for pass
+- +30 XP for 90%+
+- +50 topic completion bonus
+- +100 perfect boss bonus if full marks
+
+Bonus mini-section inside Topic 9: Fast PGA map
+This can appear in review mode.
+
+A very useful quick-reference map from the notes is:
+- KEBS → standards
+- KEPHIS → plant health
+- KPA → port authority interface
+- NIS → intelligence/security
+- KPS → police/security
+- Immigration Department → immigration/person movement
+- Port Health → public health
+- Kenya Radiation Authority → radiation control
+- KMA → marine authority
+- NBA → biosafety
+- KWS → wildlife
+- ACA → listed as a PGA in the notes
+
+This is good for fast-match drills.
+
+Key facts this topic should reinforce
+By the end, the learner should know:
+- PGA means Partner Government Agencies
+- they were previously called OGAs
+- Customs works with PGAs in clearance of goods and services through borders
+- PGAs may perform:
+  * regulatory functions
+  * security functions
+  * tax collection functions
+- key PGAs listed in the notes include:
+  * KEBS
+  * KEPHIS
+  * KPA
+  * NIS
+  * KPS
+  * Immigration Department
+  * Port Health
+  * Kenya Radiation Authority
+  * KMA
+  * NBA
+  * KWS
+  * ACA
+
+Topic 9 progress math
+Since Topic 9 has 6 steps:
+- 1 step completed = 16.7% of Topic 9
+- all 6 steps = 100% of Topic 9
+
+For the full chapter with 72 steps:
+- 1 completed step = 1.39% of whole chapter
+- full Topic 9 = 8.33% of whole chapter
+
+If the learner completes Topics 1–9 fully:
+- 9 topics done = 75% of the whole chapter
+
+Best UI behavior for Topic 9
+On the path map
+Topic 9 should feel like a coordination and border-network zone.
+
+Suggested icon
+Use:
+- linked shields
+- multiple agency badges
+- border checkpoint
+- or handshake over documents
+
+This visually signals multi-agency coordination.
+
+Node labels
+- Learn
+- Recall
+- Match
+- Scenario
+- Timed Sprint
+- Boss
+
+Celebration moments
+- Step clear = agency badge pulse
+- Topic clear = "Border Coordination Expert" badge
+- Perfect boss = gold interlocking-shields badge
+
+Suggested content density for Topic 9
+A strong first version:
+- Step 1: 10 interactions
+- Step 2: 10 questions
+- Step 3: 12 interactions
+- Step 4: 6 scenarios
+- Step 5: 15 rapid prompts
+- Step 6: 12 boss questions
+
+That gives about 65 total interactions.
+
+Why Topic 9 matters
+This topic teaches the learner that Customs clearance is not a one-office activity. Many goods require:
+- technical approval,
+- standards checks,
+- health checks,
+- wildlife control,
+- biosafety control,
+- or security screening.
+
+So Topic 9 builds the idea of border coordination, which is essential both in exams and in real practice.

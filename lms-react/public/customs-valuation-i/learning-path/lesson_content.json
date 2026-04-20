@@ -1,0 +1,3010 @@
+{
+  "1.1": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 20,
+        "category": "Methods",
+        "front": "How many main methods of customs valuation are provided under the Agreement?",
+        "back": "Six methods."
+      },
+      {
+        "id": 130,
+        "category": "Royalties and Licence Fees",
+        "front": "Why must customs be careful where royalty payments relate partly to imported goods and partly to other factors?",
+        "back": "Because an objective and quantifiable apportionment is needed before any royalty adjustment can be made."
+      },
+      {
+        "id": 131,
+        "category": "Proceeds of Subsequent Resale",
+        "front": "What is meant by proceeds of subsequent resale, disposal, or use under Article 8.1(d)?",
+        "back": "A payment or value from later resale, disposal, or use of the imported goods that accrues directly or indirectly to the seller."
+      },
+      {
+        "id": 30,
+        "category": "Transaction Value",
+        "front": "What is transaction value?",
+        "back": "The price actually paid or payable for imported goods when sold for export to the country of importation, adjusted as required by Article 8."
+      },
+      {
+        "id": 137,
+        "category": "Optional Adjustments",
+        "front": "What is the rule on insurance costs under Article 8.2?",
+        "back": "Insurance may be included where it is part of the cost of bringing the goods to the place of importation, subject to the law and evidence."
+      }
+    ]
+  },
+  "1.2": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 39,
+        "category": "Concept of Sale",
+        "front": "If goods are supplied on loan and remain the exporter’s property, is there a sale?",
+        "back": "No. That does not constitute a sale."
+      },
+      {
+        "id": 71,
+        "category": "Conditions",
+        "front": "Do conditions relating to the production or marketing of the imported goods always cause rejection of transaction value?",
+        "back": "No. Some such conditions do not prevent use of transaction value, for example certain buyer-supplied engineering or marketing activities on the buyer’s own account."
+      },
+      {
+        "id": 69,
+        "category": "Conditions",
+        "front": "Give a second example of a problematic condition in Article 1.1(b).",
+        "back": "Where the price of the imported goods depends on the price or prices at which the buyer sells other goods to the seller."
+      },
+      {
+        "id": 97,
+        "category": "Commissions",
+        "front": "What is a buying commission?",
+        "back": "A fee paid by the importer to the importer’s agent for representing the importer abroad in the purchase of the goods being valued."
+      },
+      {
+        "id": 2,
+        "category": "Introduction",
+        "front": "Why is customs value important?",
+        "back": "Because customs duties and taxes, especially ad valorem duties, are calculated using the customs value as the assessment base."
+      }
+    ]
+  },
+  "1.3": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 43,
+        "category": "Sale for Export",
+        "front": "Must the seller be in the exporting country for transaction value to apply?",
+        "back": "No. The key issue is whether there was a sale for export to the country of importation, not where the seller is located."
+      },
+      {
+        "id": 85,
+        "category": "Related Parties",
+        "front": "Can buyer and seller be related if both are controlled by a third person?",
+        "back": "Yes."
+      },
+      {
+        "id": 10,
+        "category": "Objectives",
+        "front": "Why does the Agreement prefer transaction value?",
+        "back": "Because it is based on the actual commercial transaction and therefore reflects the real value of the imported goods as closely as possible."
+      },
+      {
+        "id": 132,
+        "category": "Proceeds of Subsequent Resale",
+        "front": "Are all later payments by the buyer to the seller treated as proceeds under Article 8.1(d)?",
+        "back": "No. The payment must relate to the imported goods being valued and not merely be some other financial flow."
+      },
+      {
+        "id": 117,
+        "category": "Assists",
+        "front": "How is the value of an assist determined if it was produced by the importer or a related person?",
+        "back": "By using the cost of producing it, limited to relevant costs and excluding profit elements."
+      }
+    ]
+  },
+  "1.4": {
+    "type": "match",
+    "pairs": [
+      {
+        "left": "What is Article 8 mainly about?",
+        "right": "Adjustments to the price actually paid or payable when determining transaction value."
+      },
+      {
+        "left": "Name one category of related persons under Article 15.",
+        "right": "Members of the same family."
+      },
+      {
+        "left": "When can royalties and licence fees be added to customs value?",
+        "right": "When they relate to the goods being valued, are paid as a condition of sale, and are not already included in the price actually paid or payable."
+      },
+      {
+        "left": "What is Method 6 of customs valuation?",
+        "right": "The fallback method."
+      },
+      {
+        "left": "How are warranty costs treated when already included in the selling price of imported goods?",
+        "right": "They form part of the customs value because they are part of the price actually paid or payable."
+      },
+      {
+        "left": "Give a third example of a problematic condition in Article 1.1(b).",
+        "right": "Where the price is based on a form of payment extraneous to the imported goods, such as supplying finished goods back to the seller."
+      }
+    ]
+  },
+  "1.5": {
+    "type": "checkpoint",
+    "questions": [
+      {
+        "question": "What kinds of containers are meant under Article 8.1(a)(ii)?",
+        "options": [
+          "Goods or services supplied directly or indirectly by the buyer free of charge or at reduced cost for use in producing and selling the imported goods for export.",
+          "Yes. The methods are applied sequentially.",
+          "Containers treated as being one with the goods for customs purposes, such as presentation boxes or similar packaging commonly sold with the goods.",
+          "Restrictions that do not substantially affect the value of the goods."
+        ],
+        "correct": "Containers treated as being one with the goods for customs purposes, such as presentation boxes or similar packaging commonly sold with the goods."
+      },
+      {
+        "question": "What are assists in customs valuation?",
+        "options": [
+          "Whether the relationship influenced the price.",
+          "Goods or services supplied directly or indirectly by the buyer free of charge or at reduced cost for use in producing and selling the imported goods for export.",
+          "It must communicate the grounds to the importer and give the importer a reasonable opportunity to respond.",
+          "Finding suppliers of the goods wanted by the buyer."
+        ],
+        "correct": "Goods or services supplied directly or indirectly by the buyer free of charge or at reduced cost for use in producing and selling the imported goods for export."
+      },
+      {
+        "question": "What kind of criteria should customs value be based on according to the Agreement?",
+        "options": [
+          "Show that the price is enough to recover all costs plus a representative profit.",
+          "Goods or services supplied directly or indirectly by the buyer free of charge or at reduced cost for use in producing and selling the imported goods for export.",
+          "Yes, if an appropriate adjustment can be made under Article 8.",
+          "Simple and equitable criteria consistent with commercial practices."
+        ],
+        "correct": "Simple and equitable criteria consistent with commercial practices."
+      },
+      {
+        "question": "What problem existed before modern customs valuation rules were developed?",
+        "options": [
+          "Because they help identify the goods, the packages, and the relevant shipment.",
+          "Different countries used different, often arbitrary systems of valuation, creating uncertainty and barriers to trade.",
+          "The price actually paid or payable for imported goods when sold for export to the country of importation, adjusted as required by Article 8.",
+          "Deductive value."
+        ],
+        "correct": "Different countries used different, often arbitrary systems of valuation, creating uncertainty and barriers to trade."
+      },
+      {
+        "question": "Can brokerage be added to customs value?",
+        "options": [
+          "Show that the price is the same as in sales to unrelated buyers in comparable circumstances.",
+          "No. Only the additions provided for in Article 8 may be made.",
+          "Yes, depending on the facts and whether it is effectively a buyer’s or seller’s cost under the transaction.",
+          "Yes, where it falls within the relevant engineering, development, design, or plan-related categories and is necessary for production."
+        ],
+        "correct": "Yes, depending on the facts and whether it is effectively a buyer’s or seller’s cost under the transaction."
+      },
+      {
+        "question": "What does Annex I contain?",
+        "options": [
+          "Administration, consultations, and dispute settlement in Articles 18 and 19.",
+          "Because if the imported goods were not sold, Article 1 transaction value cannot be used.",
+          "They are not already included in the price, are provided by or on behalf of the buyer, are used in production or sale for export, and are based on objective and quantifiable data.",
+          "Interpretative Notes."
+        ],
+        "correct": "Interpretative Notes."
+      },
+      {
+        "question": "What is the second key test for adding a royalty or licence fee?",
+        "options": [
+          "Article VII of the GATT 1994.",
+          "The exact goods supplied, the quantity, weights, measurements, and clear product descriptions.",
+          "The buyer must have to pay it directly or indirectly as a condition of sale of the imported goods.",
+          "No. Such payments do not normally form part of the customs value of the imported product."
+        ],
+        "correct": "The buyer must have to pay it directly or indirectly as a condition of sale of the imported goods."
+      },
+      {
+        "question": "Why can a proforma invoice matter in customs valuation?",
+        "options": [
+          "Deductive value.",
+          "Because it may show preliminary terms, quantities, values, and transport elements relevant to understanding the later commercial invoice.",
+          "Because the branch office and the parent company may not be separate legal entities, so there is no sale between two separate persons.",
+          "In writing."
+        ],
+        "correct": "Because it may show preliminary terms, quantities, values, and transport elements relevant to understanding the later commercial invoice."
+      },
+      {
+        "question": "What is a buying commission?",
+        "options": [
+          "Yes.",
+          "Helping to negotiate the best prices.",
+          "A fee paid by the importer to the importer’s agent for representing the importer abroad in the purchase of the goods being valued.",
+          "Yes, if they also meet the relevant related-party criteria."
+        ],
+        "correct": "A fee paid by the importer to the importer’s agent for representing the importer abroad in the purchase of the goods being valued."
+      },
+      {
+        "question": "Can payment be made indirectly and still form part of the price actually paid or payable?",
+        "options": [
+          "Yes. Direct and indirect payments can both form part of the price actually paid or payable.",
+          "Copyright.",
+          "Presentation of data in digital or any other form for the purpose of exchanging information and communication.",
+          "Because it can matter for preferential treatment and may affect customs treatment and valuation context."
+        ],
+        "correct": "Yes. Direct and indirect payments can both form part of the price actually paid or payable."
+      }
+    ]
+  },
+  "2.1": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 47,
+        "category": "Price Actually Paid or Payable",
+        "front": "Can customs reject transaction value just because the price is lower than prevailing market prices?",
+        "back": "No. A lower price alone is not enough to reject transaction value."
+      },
+      {
+        "id": 150,
+        "category": "Documentation",
+        "front": "Why can a proforma invoice matter in customs valuation?",
+        "back": "Because it may show preliminary terms, quantities, values, and transport elements relevant to understanding the later commercial invoice."
+      },
+      {
+        "id": 124,
+        "category": "Royalties and Licence Fees",
+        "front": "What is the third key test for adding a royalty or licence fee?",
+        "back": "It must not already be included in the price actually paid or payable."
+      },
+      {
+        "id": 31,
+        "category": "Transaction Value",
+        "front": "What must exist before Method 1 can be used?",
+        "back": "A sale for export of the goods to the country of importation."
+      },
+      {
+        "id": 34,
+        "category": "Concept of Sale",
+        "front": "What is the basic legal idea of a sale in customs valuation?",
+        "back": "A seller transfers ownership of goods in exchange for a specified price and a buyer agrees to purchase those goods."
+      }
+    ]
+  },
+  "2.2": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 97,
+        "category": "Commissions",
+        "front": "What is a buying commission?",
+        "back": "A fee paid by the importer to the importer’s agent for representing the importer abroad in the purchase of the goods being valued."
+      },
+      {
+        "id": 129,
+        "category": "Royalties and Licence Fees",
+        "front": "Are payments for the right to distribute or resell imported goods always added to customs value?",
+        "back": "Not automatically. They are not added unless they are a condition of sale of the imported goods."
+      },
+      {
+        "id": 131,
+        "category": "Proceeds of Subsequent Resale",
+        "front": "What is meant by proceeds of subsequent resale, disposal, or use under Article 8.1(d)?",
+        "back": "A payment or value from later resale, disposal, or use of the imported goods that accrues directly or indirectly to the seller."
+      },
+      {
+        "id": 143,
+        "category": "Documentation",
+        "front": "What is a document check?",
+        "back": "A systematic analysis of all supporting documents to a customs declaration in order to facilitate proper valuation of imported goods."
+      },
+      {
+        "id": 9,
+        "category": "Objectives",
+        "front": "What is the main objective of the WTO Customs Valuation Agreement?",
+        "back": "To create a fair, uniform, and neutral system for valuing imported goods and to prevent arbitrary or fictitious customs values."
+      }
+    ]
+  },
+  "2.3": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 154,
+        "category": "Documentation",
+        "front": "Why are terms of payment important in valuation documents?",
+        "back": "Because they help explain how and when the buyer pays the seller, which can affect analysis of the price actually paid or payable."
+      },
+      {
+        "id": 138,
+        "category": "Optional Adjustments",
+        "front": "Can storage costs always be included under Article 8.2?",
+        "back": "No. Only storage costs connected with shipment may be relevant; if incurred after importation they are generally excluded."
+      },
+      {
+        "id": 112,
+        "category": "Assists",
+        "front": "Name one category of assists under Article 8.1(b).",
+        "back": "Materials, components, parts, and similar items incorporated in the imported goods."
+      },
+      {
+        "id": 149,
+        "category": "Documentation",
+        "front": "Why can a purchase order matter in customs valuation?",
+        "back": "Because it helps confirm the agreed goods, quantities, terms, and sometimes the intended method of ordering or pricing."
+      },
+      {
+        "id": 113,
+        "category": "Assists",
+        "front": "Name another category of assists.",
+        "back": "Tools, dies, moulds, and similar items used in production of the imported goods."
+      }
+    ]
+  },
+  "2.4": {
+    "type": "match",
+    "pairs": [
+      {
+        "left": "Which document is especially important for establishing transaction value?",
+        "right": "The commercial invoice."
+      },
+      {
+        "left": "Can buyer and seller be related if together they control a third person?",
+        "right": "Yes."
+      },
+      {
+        "left": "Can customs add amounts not listed in Article 8?",
+        "right": "No. Only the additions provided for in Article 8 may be made."
+      },
+      {
+        "left": "Are payments for the right to distribute or resell imported goods always added to customs value?",
+        "right": "Not automatically. They are not added unless they are a condition of sale of the imported goods."
+      },
+      {
+        "left": "What optional adjustment items appear under Article 8.2 in these notes?",
+        "right": "Transport costs to the port or place of importation, loading/unloading and handling charges, and insurance costs."
+      },
+      {
+        "left": "Why are time of shipment and pre-carriage information useful in valuation?",
+        "right": "Because they help match transport costs, timing, and shipment arrangements with the invoice and carriage documents."
+      }
+    ]
+  },
+  "2.5": {
+    "type": "checkpoint",
+    "questions": [
+      {
+        "question": "Which methods may sometimes be reversed at the importer’s request?",
+        "options": [
+          "Deductive value and computed value, meaning Articles 5 and 6 may be reversed in order.",
+          "No. Such payments do not normally form part of the customs value of the imported product.",
+          "No, but it signals that the issue must be examined carefully.",
+          "Customs must move sequentially to the next valuation methods, beginning with identical goods, then similar goods, and so on."
+        ],
+        "correct": "Deductive value and computed value, meaning Articles 5 and 6 may be reversed in order."
+      },
+      {
+        "question": "Name another typical function of a buying agent.",
+        "options": [
+          "Helping to negotiate the best prices.",
+          "Because if they are not distinguished from the price actually paid or payable, they may remain part of customs value.",
+          "Not automatically. They are not added unless they are a condition of sale of the imported goods.",
+          "Because it supports quantity, packaging, marks, numbers, and content checks against the invoice and transport documents."
+        ],
+        "correct": "Helping to negotiate the best prices."
+      },
+      {
+        "question": "Are employer and employee related persons for customs valuation purposes?",
+        "options": [
+          "No. That does not constitute a sale.",
+          "Because transaction value relies heavily on documentary evidence, so customs must be satisfied that the documents are truthful and reliable.",
+          "A systematic analysis of all supporting documents to a customs declaration in order to facilitate proper valuation of imported goods.",
+          "Yes."
+        ],
+        "correct": "Yes."
+      },
+      {
+        "question": "Can customs reject transaction value just because the price is lower than that of identical goods in other transactions?",
+        "options": [
+          "No. A lower price alone is not enough to reject transaction value.",
+          "No. That alone is not sufficient to reject transaction value.",
+          "Containers treated as being one with the goods for customs purposes, such as presentation boxes or similar packaging commonly sold with the goods.",
+          "In writing."
+        ],
+        "correct": "No. That alone is not sufficient to reject transaction value."
+      },
+      {
+        "question": "Why are documents important in customs valuation?",
+        "options": [
+          "That customs may ask for more information to verify valuation, but adjustments must still be based on objective and quantifiable data.",
+          "Transaction value of identical goods.",
+          "They support clearance, origin identification, statistics, post-clearance audit, intelligence analysis, dispute settlement, revenue collection, and proof of ownership.",
+          "Deductive value and computed value, meaning Articles 5 and 6 may be reversed in order."
+        ],
+        "correct": "They support clearance, origin identification, statistics, post-clearance audit, intelligence analysis, dispute settlement, revenue collection, and proof of ownership."
+      },
+      {
+        "question": "Can consignment sales qualify as a sale for transaction value at importation?",
+        "options": [
+          "Yes. Direct and indirect payments can both form part of the price actually paid or payable.",
+          "Usually no, because the goods are dispatched for sale later and ownership may remain with the foreign supplier at the time of importation.",
+          "In a reasonable manner appropriate to the circumstances and supported by documentation.",
+          "Yes."
+        ],
+        "correct": "Usually no, because the goods are dispatched for sale later and ownership may remain with the foreign supplier at the time of importation."
+      },
+      {
+        "question": "What is another way to show no price influence in a related-party sale?",
+        "options": [
+          "No. It implies a commercial transaction satisfying certain requirements and conditions.",
+          "Yes. Cash discounts, volume discounts, trade discounts, and purchase discounts do not automatically disqualify transaction value.",
+          "Helping to negotiate the best prices.",
+          "Show that the price is the same as in sales to unrelated buyers in comparable circumstances."
+        ],
+        "correct": "Show that the price is the same as in sales to unrelated buyers in comparable circumstances."
+      },
+      {
+        "question": "What is the third key test for adding a royalty or licence fee?",
+        "options": [
+          "It must not already be included in the price actually paid or payable.",
+          "No. That does not constitute a sale.",
+          "They form part of the customs value because they are part of the price actually paid or payable.",
+          "Because the branch office and the parent company may not be separate legal entities, so there is no sale between two separate persons."
+        ],
+        "correct": "It must not already be included in the price actually paid or payable."
+      },
+      {
+        "question": "Why is the commercial invoice important in customs valuation?",
+        "options": [
+          "Because it usually contains the seller, buyer, price, quantity, terms of sale, and other details central to the price actually paid or payable.",
+          "Because it may show preliminary terms, quantities, values, and transport elements relevant to understanding the later commercial invoice.",
+          "No. Only storage costs connected with shipment may be relevant; if incurred after importation they are generally excluded.",
+          "Yes."
+        ],
+        "correct": "Because it usually contains the seller, buyer, price, quantity, terms of sale, and other details central to the price actually paid or payable."
+      },
+      {
+        "question": "Why can some conditions attached to the sale cause rejection of transaction value?",
+        "options": [
+          "They are not already included in the price, are provided by or on behalf of the buyer, are used in production or sale for export, and are based on objective and quantifiable data.",
+          "Because they help explain how and when the buyer pays the seller, which can affect analysis of the price actually paid or payable.",
+          "Because if the sale or price is subject to a condition or consideration whose value cannot be determined with respect to the imported goods, transaction value cannot be used.",
+          "No, but it signals that the issue must be examined carefully."
+        ],
+        "correct": "Because if the sale or price is subject to a condition or consideration whose value cannot be determined with respect to the imported goods, transaction value cannot be used."
+      }
+    ]
+  },
+  "3.1": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 138,
+        "category": "Optional Adjustments",
+        "front": "Can storage costs always be included under Article 8.2?",
+        "back": "No. Only storage costs connected with shipment may be relevant; if incurred after importation they are generally excluded."
+      },
+      {
+        "id": 86,
+        "category": "Related Parties",
+        "front": "Can buyer and seller be related if together they control a third person?",
+        "back": "Yes."
+      },
+      {
+        "id": 116,
+        "category": "Assists",
+        "front": "Can research and development sometimes form part of an assist?",
+        "back": "Yes, where it falls within the relevant engineering, development, design, or plan-related categories and is necessary for production."
+      },
+      {
+        "id": 158,
+        "category": "Documentation",
+        "front": "What is the general relationship between transaction value and documentation?",
+        "back": "Documents provide the evidence customs uses to confirm the sale, the price actually paid or payable, the export movement, and any required additions or exclusions."
+      },
+      {
+        "id": 32,
+        "category": "Concept of Sale",
+        "front": "Why is the concept of sale important in transaction value?",
+        "back": "Because if the imported goods were not sold, Article 1 transaction value cannot be used."
+      }
+    ]
+  },
+  "3.2": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 139,
+        "category": "Objective and Quantifiable Data",
+        "front": "Why is objective and quantifiable data so important in customs valuation?",
+        "back": "Because additions and adjustments cannot be made subjectively or on guesswork; they must be supported by verifiable data."
+      },
+      {
+        "id": 80,
+        "category": "Related Parties",
+        "front": "Name another category of related persons under Article 15.",
+        "back": "Legally recognized partners in business."
+      },
+      {
+        "id": 14,
+        "category": "Agreement Structure",
+        "front": "What does Part II of the Agreement cover?",
+        "back": "Administration, consultations, and dispute settlement in Articles 18 and 19."
+      },
+      {
+        "id": 141,
+        "category": "Objective and Quantifiable Data",
+        "front": "What do Articles 8.3 and 17 together emphasize?",
+        "back": "That customs may ask for more information to verify valuation, but adjustments must still be based on objective and quantifiable data."
+      },
+      {
+        "id": 67,
+        "category": "Conditions",
+        "front": "Why can some conditions attached to the sale cause rejection of transaction value?",
+        "back": "Because if the sale or price is subject to a condition or consideration whose value cannot be determined with respect to the imported goods, transaction value cannot be used."
+      }
+    ]
+  },
+  "3.3": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 151,
+        "category": "Documentation",
+        "front": "Why can a sales contract matter in customs valuation?",
+        "back": "Because it can reveal the true contractual terms of sale, payment terms, conditions, and price arrangements."
+      },
+      {
+        "id": 114,
+        "category": "Assists",
+        "front": "Name a third category of assists.",
+        "back": "Materials consumed in the production of the imported goods."
+      },
+      {
+        "id": 146,
+        "category": "Documentation",
+        "front": "Why is the commercial invoice important in customs valuation?",
+        "back": "Because it usually contains the seller, buyer, price, quantity, terms of sale, and other details central to the price actually paid or payable."
+      },
+      {
+        "id": 82,
+        "category": "Related Parties",
+        "front": "Are officers or directors of one another’s businesses related persons?",
+        "back": "Yes."
+      },
+      {
+        "id": 153,
+        "category": "Documentation",
+        "front": "Why are Incoterms or terms of delivery important in valuation documents?",
+        "back": "Because they help show who bears freight, insurance, handling, and related costs and whether those amounts are already in the invoice price."
+      }
+    ]
+  },
+  "3.4": {
+    "type": "match",
+    "pairs": [
+      {
+        "left": "Can consignment sales qualify as a sale for transaction value at importation?",
+        "right": "Usually no, because the goods are dispatched for sale later and ownership may remain with the foreign supplier at the time of importation."
+      },
+      {
+        "left": "Name another intellectual property right commonly associated with royalties.",
+        "right": "Trademark."
+      },
+      {
+        "left": "When can royalties and licence fees be added to customs value?",
+        "right": "When they relate to the goods being valued, are paid as a condition of sale, and are not already included in the price actually paid or payable."
+      },
+      {
+        "left": "What optional adjustment items appear under Article 8.2 in these notes?",
+        "right": "Transport costs to the port or place of importation, loading/unloading and handling charges, and insurance costs."
+      },
+      {
+        "left": "Give one example of a problematic condition in Article 1.1(b).",
+        "right": "Where the seller sets the price of imported goods on condition that the buyer will also buy other goods in specified quantities."
+      },
+      {
+        "left": "Can customs add amounts not listed in Article 8?",
+        "right": "No. Only the additions provided for in Article 8 may be made."
+      }
+    ]
+  },
+  "3.5": {
+    "type": "checkpoint",
+    "questions": [
+      {
+        "question": "What is transaction value?",
+        "options": [
+          "Yes. Cash discounts, volume discounts, trade discounts, and purchase discounts do not automatically disqualify transaction value.",
+          "The price actually paid or payable for imported goods when sold for export to the country of importation, adjusted as required by Article 8.",
+          "They form part of the customs value because they are part of the price actually paid or payable.",
+          "Because it usually contains the seller, buyer, price, quantity, terms of sale, and other details central to the price actually paid or payable."
+        ],
+        "correct": "The price actually paid or payable for imported goods when sold for export to the country of importation, adjusted as required by Article 8."
+      },
+      {
+        "question": "What is Method 4 of customs valuation?",
+        "options": [
+          "Deductive value.",
+          "Because it is based on the actual commercial transaction and therefore reflects the real value of the imported goods as closely as possible.",
+          "Members of the same family.",
+          "Computed value."
+        ],
+        "correct": "Deductive value."
+      },
+      {
+        "question": "Name a third intellectual property right commonly associated with royalties.",
+        "options": [
+          "Because they help identify the goods, the packages, and the relevant shipment.",
+          "Copyright.",
+          "The price may be treated as arm’s length and transaction value may be accepted.",
+          "To create a fair, uniform, and neutral system for valuing imported goods and to prevent arbitrary or fictitious customs values."
+        ],
+        "correct": "Copyright."
+      },
+      {
+        "question": "Why is it important to distinguish deductible costs from the invoice price?",
+        "options": [
+          "A fee paid by the importer to the importer’s agent for representing the importer abroad in the purchase of the goods being valued.",
+          "Because if the sale or price is subject to a condition or consideration whose value cannot be determined with respect to the imported goods, transaction value cannot be used.",
+          "Because if they are not distinguished from the price actually paid or payable, they may remain part of customs value.",
+          "Yes, if they also meet the relevant related-party criteria."
+        ],
+        "correct": "Because if they are not distinguished from the price actually paid or payable, they may remain part of customs value."
+      },
+      {
+        "question": "Why must customs examine agency arrangements carefully?",
+        "options": [
+          "Customs must move sequentially to the next valuation methods, beginning with identical goods, then similar goods, and so on.",
+          "Final provisions in Articles 21 to 24.",
+          "Charges for construction, erection, assembly, maintenance, or technical assistance undertaken after importation.",
+          "Because fees described as buying commissions may in reality include services that benefit the seller or go beyond true buying-agent functions."
+        ],
+        "correct": "Because fees described as buying commissions may in reality include services that benefit the seller or go beyond true buying-agent functions."
+      },
+      {
+        "question": "Why can some conditions attached to the sale cause rejection of transaction value?",
+        "options": [
+          "Because if the sale or price is subject to a condition or consideration whose value cannot be determined with respect to the imported goods, transaction value cannot be used.",
+          "The nature of the restriction, the nature of the goods, industry practice, and whether the monetary effect is commercially significant.",
+          "No. Dividends or similar payments that do not relate to the imported goods are not part of customs value.",
+          "Yes, if they also meet the relevant related-party criteria."
+        ],
+        "correct": "Because if the sale or price is subject to a condition or consideration whose value cannot be determined with respect to the imported goods, transaction value cannot be used."
+      },
+      {
+        "question": "Why is the concept of sale important in transaction value?",
+        "options": [
+          "Whether there are restrictions on disposition or use, whether the sale or price is subject to undeterminable conditions, whether proceeds accrue to the seller, and whether buyer and seller are related.",
+          "Yes. Cash discounts, volume discounts, trade discounts, and purchase discounts do not automatically disqualify transaction value.",
+          "Presentation of data in digital or any other form for the purpose of exchanging information and communication.",
+          "Because if the imported goods were not sold, Article 1 transaction value cannot be used."
+        ],
+        "correct": "Because if the imported goods were not sold, Article 1 transaction value cannot be used."
+      },
+      {
+        "question": "Give one example of a problematic condition in Article 1.1(b).",
+        "options": [
+          "Where the seller sets the price of imported goods on condition that the buyer will also buy other goods in specified quantities.",
+          "Not automatically. They are not added unless they are a condition of sale of the imported goods.",
+          "No. Leasing contracts are generally for rent or lease and not a sale.",
+          "The fallback method."
+        ],
+        "correct": "Where the seller sets the price of imported goods on condition that the buyer will also buy other goods in specified quantities."
+      },
+      {
+        "question": "What does Annex II contain?",
+        "options": [
+          "Technical Committee on Customs Valuation provisions.",
+          "It produced the WTO Customs Valuation Agreement and strengthened the transaction value system as the main method.",
+          "By using the cost of producing it, limited to relevant costs and excluding profit elements.",
+          "Yes."
+        ],
+        "correct": "Technical Committee on Customs Valuation provisions."
+      },
+      {
+        "question": "How should the value of an assist be apportioned?",
+        "options": [
+          "The adjustment cannot be made under transaction value.",
+          "In a reasonable manner appropriate to the circumstances and supported by documentation.",
+          "Bags, boxes, blister packs, or cardboard boxes used to package the goods for sale.",
+          "Show that the price is consistent with normal industry pricing practice."
+        ],
+        "correct": "In a reasonable manner appropriate to the circumstances and supported by documentation."
+      }
+    ]
+  },
+  "4.1": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 29,
+        "category": "Transaction Value",
+        "front": "What are the three key elements for applying transaction value according to the notes?",
+        "back": "The sale, the sale for export to the country of importation, and the price actually paid or payable."
+      },
+      {
+        "id": 30,
+        "category": "Transaction Value",
+        "front": "What is transaction value?",
+        "back": "The price actually paid or payable for imported goods when sold for export to the country of importation, adjusted as required by Article 8."
+      },
+      {
+        "id": 31,
+        "category": "Transaction Value",
+        "front": "What must exist before Method 1 can be used?",
+        "back": "A sale for export of the goods to the country of importation."
+      },
+      {
+        "id": 92,
+        "category": "Identical and Similar Goods",
+        "front": "What happens if transaction value cannot be used?",
+        "back": "Customs must move sequentially to the next valuation methods, beginning with identical goods, then similar goods, and so on."
+      }
+    ]
+  },
+  "4.2": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 156,
+        "category": "Documentation",
+        "front": "Why is the country of origin important in supporting documents?",
+        "back": "Because it can matter for preferential treatment and may affect customs treatment and valuation context."
+      },
+      {
+        "id": 134,
+        "category": "Optional Adjustments",
+        "front": "Why are transport terms like CIF and FOB important in customs valuation?",
+        "back": "Because they help show whether freight, insurance, and related costs are already included in the invoice price or must be added."
+      },
+      {
+        "id": 99,
+        "category": "Commissions",
+        "front": "Are selling commissions added to customs value if incurred by the buyer and not already included?",
+        "back": "Yes."
+      },
+      {
+        "id": 86,
+        "category": "Related Parties",
+        "front": "Can buyer and seller be related if together they control a third person?",
+        "back": "Yes."
+      },
+      {
+        "id": 58,
+        "category": "Legal Deductions",
+        "front": "Can duties and taxes of the importing country be excluded from customs value if distinguished from the price?",
+        "back": "Yes."
+      }
+    ]
+  },
+  "4.3": {
+    "type": "match",
+    "pairs": [
+      {
+        "left": "Why are transport terms like CIF and FOB important in customs valuation?",
+        "right": "Because they help show whether freight, insurance, and related costs are already included in the invoice price or must be added."
+      },
+      {
+        "left": "Why is a bill of lading important in customs valuation?",
+        "right": "Because it can help establish shipment details, freight terms, shipment timing, vessel information, and the international movement of the goods."
+      },
+      {
+        "left": "Can payment be made indirectly and still form part of the price actually paid or payable?",
+        "right": "Yes. Direct and indirect payments can both form part of the price actually paid or payable."
+      },
+      {
+        "left": "How are warranty costs treated when already included in the selling price of imported goods?",
+        "right": "They form part of the customs value because they are part of the price actually paid or payable."
+      },
+      {
+        "left": "What do Articles 8.3 and 17 together emphasize?",
+        "right": "That customs may ask for more information to verify valuation, but adjustments must still be based on objective and quantifiable data."
+      },
+      {
+        "left": "What is brokerage in customs valuation?",
+        "right": "A fee paid to a broker who brings buyer and seller together and arranges the deal."
+      }
+    ]
+  },
+  "4.4": {
+    "type": "quiz",
+    "questions": [
+      {
+        "question": "Name another intellectual property right commonly associated with royalties.",
+        "options": [
+          "Deductive value.",
+          "A credit may or may not be applied to a previous or current shipment depending on the facts and applicable national legislation.",
+          "Trademark.",
+          "Because the goods may not have been sold for export to the importer at the time of importation."
+        ],
+        "correct": "Trademark."
+      },
+      {
+        "question": "Can quantity discounts affect customs value?",
+        "options": [
+          "Yes. If the quantity purchased helped determine the price for the exported goods, the discount may be recognized.",
+          "Copyright.",
+          "They support clearance, origin identification, statistics, post-clearance audit, intelligence analysis, dispute settlement, revenue collection, and proof of ownership.",
+          "Yes."
+        ],
+        "correct": "Yes. If the quantity purchased helped determine the price for the exported goods, the discount may be recognized."
+      },
+      {
+        "question": "Name one category of related persons under Article 15.",
+        "options": [
+          "Members of the same family.",
+          "No. Leasing contracts are generally for rent or lease and not a sale.",
+          "Show that the price is enough to recover all costs plus a representative profit.",
+          "It means the goods were sold in a transaction whose purpose was export to the country of importation."
+        ],
+        "correct": "Members of the same family."
+      },
+      {
+        "question": "Why can a proforma invoice matter in customs valuation?",
+        "options": [
+          "Possibly, but they must be examined case by case because payment may be wholly or partly non-monetary.",
+          "Whether the relationship influenced the price.",
+          "Because it may show preliminary terms, quantities, values, and transport elements relevant to understanding the later commercial invoice.",
+          "Customs must move sequentially to the next valuation methods, beginning with identical goods, then similar goods, and so on."
+        ],
+        "correct": "Because it may show preliminary terms, quantities, values, and transport elements relevant to understanding the later commercial invoice."
+      },
+      {
+        "question": "What does 'sold for export' mean in customs valuation?",
+        "options": [
+          "Article VII of the GATT 1994.",
+          "It means the goods were sold in a transaction whose purpose was export to the country of importation.",
+          "Not automatically. They are not added unless they are a condition of sale of the imported goods.",
+          "Because it usually contains the seller, buyer, price, quantity, terms of sale, and other details central to the price actually paid or payable."
+        ],
+        "correct": "It means the goods were sold in a transaction whose purpose was export to the country of importation."
+      }
+    ]
+  },
+  "4.5": {
+    "type": "checkpoint",
+    "questions": [
+      {
+        "question": "What is the first key test for adding a royalty or licence fee?",
+        "options": [
+          "Because it may show preliminary terms, quantities, values, and transport elements relevant to understanding the later commercial invoice.",
+          "No. Some such conditions do not prevent use of transaction value, for example certain buyer-supplied engineering or marketing activities on the buyer’s own account.",
+          "Engineering, development, artwork, design work, and plans and sketches undertaken outside the country of importation and necessary for production of the imported goods.",
+          "It must relate to the imported goods."
+        ],
+        "correct": "It must relate to the imported goods."
+      },
+      {
+        "question": "What is Method 4 of customs valuation?",
+        "options": [
+          "Deductive value.",
+          "To create a fair, uniform, and neutral system for valuing imported goods and to prevent arbitrary or fictitious customs values.",
+          "Show that the price is consistent with normal industry pricing practice.",
+          "No."
+        ],
+        "correct": "Deductive value."
+      },
+      {
+        "question": "What is customs value in simple terms?",
+        "options": [
+          "Adjustments to the price actually paid or payable when determining transaction value.",
+          "Restrictions imposed by law or by the public authorities in the country of importation.",
+          "No. If the importer pays for acceptance and destruction rather than for the goods themselves, it is not considered a sale.",
+          "It is the value declared or determined for imported goods for customs purposes and forms the basis for assessing duties and taxes."
+        ],
+        "correct": "It is the value declared or determined for imported goods for customs purposes and forms the basis for assessing duties and taxes."
+      },
+      {
+        "question": "Why are terms of payment important in valuation documents?",
+        "options": [
+          "A seller transfers ownership of goods in exchange for a specified price and a buyer agrees to purchase those goods.",
+          "Because it can help establish shipment details, freight terms, shipment timing, vessel information, and the international movement of the goods.",
+          "No, but it signals that the issue must be examined carefully.",
+          "Because they help explain how and when the buyer pays the seller, which can affect analysis of the price actually paid or payable."
+        ],
+        "correct": "Because they help explain how and when the buyer pays the seller, which can affect analysis of the price actually paid or payable."
+      },
+      {
+        "question": "Can buyer and seller be related if both are controlled by a third person?",
+        "options": [
+          "Yes.",
+          "Yes.",
+          "Where the price of the imported goods depends on the price or prices at which the buyer sells other goods to the seller.",
+          "Because traders should know the rules beforehand and be able to trust that customs valuation will be applied consistently and fairly."
+        ],
+        "correct": "Yes."
+      },
+      {
+        "question": "What does packing cost include?",
+        "options": [
+          "Show that the price is the same as in sales to unrelated buyers in comparable circumstances.",
+          "Because it is based on the actual commercial transaction and therefore reflects the real value of the imported goods as closely as possible.",
+          "Yes.",
+          "It includes the cost of packing materials and packing labor."
+        ],
+        "correct": "It includes the cost of packing materials and packing labor."
+      },
+      {
+        "question": "Name another type of restriction that does not prevent use of transaction value.",
+        "options": [
+          "Where the price of the imported goods depends on the price or prices at which the buyer sells other goods to the seller.",
+          "No. Such payments do not normally form part of the customs value of the imported product.",
+          "Restrictions that limit the geographical area in which the goods may be resold.",
+          "Because they help show who bears freight, insurance, handling, and related costs and whether those amounts are already in the invoice price."
+        ],
+        "correct": "Restrictions that limit the geographical area in which the goods may be resold."
+      },
+      {
+        "question": "Why are time of shipment and pre-carriage information useful in valuation?",
+        "options": [
+          "Because they help match transport costs, timing, and shipment arrangements with the invoice and carriage documents.",
+          "Members of the same family.",
+          "Deductive value.",
+          "Yes. Direct and indirect payments can both form part of the price actually paid or payable."
+        ],
+        "correct": "Because they help match transport costs, timing, and shipment arrangements with the invoice and carriage documents."
+      },
+      {
+        "question": "What kind of criteria should customs value be based on according to the Agreement?",
+        "options": [
+          "Legally recognized partners in business.",
+          "Because if they are not distinguished from the price actually paid or payable, they may remain part of customs value.",
+          "Simple and equitable criteria consistent with commercial practices.",
+          "No. Such payments do not normally form part of the customs value of the imported product."
+        ],
+        "correct": "Simple and equitable criteria consistent with commercial practices."
+      },
+      {
+        "question": "Name one category of related persons under Article 15.",
+        "options": [
+          "Members of the same family.",
+          "No.",
+          "No. Buying commissions are excluded.",
+          "Finding suppliers of the goods wanted by the buyer."
+        ],
+        "correct": "Members of the same family."
+      }
+    ]
+  },
+  "5.1": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 45,
+        "category": "Price Actually Paid or Payable",
+        "front": "What is the price actually paid or payable?",
+        "back": "It is the total payment made or to be made by the buyer to, or for the benefit of, the seller for the imported goods."
+      },
+      {
+        "id": 46,
+        "category": "Price Actually Paid or Payable",
+        "front": "Can payment be made indirectly and still form part of the price actually paid or payable?",
+        "back": "Yes. Direct and indirect payments can both form part of the price actually paid or payable."
+      },
+      {
+        "id": 47,
+        "category": "Price Actually Paid or Payable",
+        "front": "Can customs reject transaction value just because the price is lower than prevailing market prices?",
+        "back": "No. A lower price alone is not enough to reject transaction value."
+      }
+    ]
+  },
+  "5.2": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 32,
+        "category": "Concept of Sale",
+        "front": "Why is the concept of sale important in transaction value?",
+        "back": "Because if the imported goods were not sold, Article 1 transaction value cannot be used."
+      },
+      {
+        "id": 33,
+        "category": "Concept of Sale",
+        "front": "Does the Agreement give a strict standalone definition of 'sale'?",
+        "back": "No. It implies a commercial transaction satisfying certain requirements and conditions."
+      },
+      {
+        "id": 34,
+        "category": "Concept of Sale",
+        "front": "What is the basic legal idea of a sale in customs valuation?",
+        "back": "A seller transfers ownership of goods in exchange for a specified price and a buyer agrees to purchase those goods."
+      },
+      {
+        "id": 42,
+        "category": "Sale for Export",
+        "front": "What does 'sold for export' mean in customs valuation?",
+        "back": "It means the goods were sold in a transaction whose purpose was export to the country of importation."
+      },
+      {
+        "id": 43,
+        "category": "Sale for Export",
+        "front": "Must the seller be in the exporting country for transaction value to apply?",
+        "back": "No. The key issue is whether there was a sale for export to the country of importation, not where the seller is located."
+      }
+    ]
+  },
+  "5.3": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 33,
+        "category": "Concept of Sale",
+        "front": "Does the Agreement give a strict standalone definition of 'sale'?",
+        "back": "No. It implies a commercial transaction satisfying certain requirements and conditions."
+      },
+      {
+        "id": 47,
+        "category": "Price Actually Paid or Payable",
+        "front": "Can customs reject transaction value just because the price is lower than prevailing market prices?",
+        "back": "No. A lower price alone is not enough to reject transaction value."
+      },
+      {
+        "id": 78,
+        "category": "Related Parties",
+        "front": "If requested by the importer, how should customs communicate its grounds in a related-party case?",
+        "back": "In writing."
+      },
+      {
+        "id": 32,
+        "category": "Concept of Sale",
+        "front": "Why is the concept of sale important in transaction value?",
+        "back": "Because if the imported goods were not sold, Article 1 transaction value cannot be used."
+      },
+      {
+        "id": 127,
+        "category": "Royalties and Licence Fees",
+        "front": "Name a third intellectual property right commonly associated with royalties.",
+        "back": "Copyright."
+      }
+    ]
+  },
+  "5.4": {
+    "type": "match",
+    "pairs": [
+      {
+        "left": "Name a further typical function of a buying agent.",
+        "right": "Inspecting the goods or assisting in transport, insurance, storage, and delivery."
+      },
+      {
+        "left": "Can buyer and seller be related if together they control a third person?",
+        "right": "Yes."
+      },
+      {
+        "left": "Name the fourth category of assists.",
+        "right": "Engineering, development, artwork, design work, and plans and sketches undertaken outside the country of importation and necessary for production of the imported goods."
+      },
+      {
+        "left": "Why are documents important in customs valuation?",
+        "right": "They support clearance, origin identification, statistics, post-clearance audit, intelligence analysis, dispute settlement, revenue collection, and proof of ownership."
+      },
+      {
+        "left": "What does Annex II contain?",
+        "right": "Technical Committee on Customs Valuation provisions."
+      },
+      {
+        "left": "Are dividends paid by the buyer to the seller always part of the customs value?",
+        "right": "No. Dividends or similar payments that do not relate to the imported goods are not part of customs value."
+      }
+    ]
+  },
+  "5.5": {
+    "type": "checkpoint",
+    "questions": [
+      {
+        "question": "Does a positive answer to one of the Article 1.1 questions always mean transaction value must be rejected?",
+        "options": [
+          "No, but it signals that the issue must be examined carefully.",
+          "Because an objective and quantifiable apportionment is needed before any royalty adjustment can be made.",
+          "Because if the imported goods were not sold, Article 1 transaction value cannot be used.",
+          "Presentation of data in digital or any other form for the purpose of exchanging information and communication."
+        ],
+        "correct": "No, but it signals that the issue must be examined carefully."
+      },
+      {
+        "question": "Why is customs value important?",
+        "options": [
+          "Restrictions imposed by law or by the public authorities in the country of importation.",
+          "Because customs duties and taxes, especially ad valorem duties, are calculated using the customs value as the assessment base.",
+          "Usually no, because the goods are dispatched for sale later and ownership may remain with the foreign supplier at the time of importation.",
+          "Materials consumed in the production of the imported goods."
+        ],
+        "correct": "Because customs duties and taxes, especially ad valorem duties, are calculated using the customs value as the assessment base."
+      },
+      {
+        "question": "Can transaction value still be used where proceeds accrue to the seller?",
+        "options": [
+          "Because it is based on the actual commercial transaction and therefore reflects the real value of the imported goods as closely as possible.",
+          "The nature of the restriction, the nature of the goods, industry practice, and whether the monetary effect is commercially significant.",
+          "Yes, if an appropriate adjustment can be made under Article 8.",
+          "A credit may or may not be applied to a previous or current shipment depending on the facts and applicable national legislation."
+        ],
+        "correct": "Yes, if an appropriate adjustment can be made under Article 8."
+      },
+      {
+        "question": "Why is a bill of lading important in customs valuation?",
+        "options": [
+          "Because it can help establish shipment details, freight terms, shipment timing, vessel information, and the international movement of the goods.",
+          "That customs may ask for more information to verify valuation, but adjustments must still be based on objective and quantifiable data.",
+          "No. If the importer pays for acceptance and destruction rather than for the goods themselves, it is not considered a sale.",
+          "A payment made to an intermediary acting in a transaction, such as an agent."
+        ],
+        "correct": "Because it can help establish shipment details, freight terms, shipment timing, vessel information, and the international movement of the goods."
+      },
+      {
+        "question": "Name a further typical function of a buying agent.",
+        "options": [
+          "Inspecting the goods or assisting in transport, insurance, storage, and delivery.",
+          "No. That does not constitute a sale.",
+          "Because it is based on the actual commercial transaction and therefore reflects the real value of the imported goods as closely as possible.",
+          "Technical Committee on Customs Valuation provisions."
+        ],
+        "correct": "Inspecting the goods or assisting in transport, insurance, storage, and delivery."
+      },
+      {
+        "question": "What must customs do if it believes the relationship influenced the price?",
+        "options": [
+          "Because it supports quantity, packaging, marks, numbers, and content checks against the invoice and transport documents.",
+          "It must communicate the grounds to the importer and give the importer a reasonable opportunity to respond.",
+          "Because they help identify the goods, the packages, and the relevant shipment.",
+          "Because transaction value relies heavily on documentary evidence, so customs must be satisfied that the documents are truthful and reliable."
+        ],
+        "correct": "It must communicate the grounds to the importer and give the importer a reasonable opportunity to respond."
+      },
+      {
+        "question": "Can customs reject transaction value just because the price is lower than prevailing market prices?",
+        "options": [
+          "They form part of the customs value because they are part of the price actually paid or payable.",
+          "No. A lower price alone is not enough to reject transaction value.",
+          "It was an earlier customs valuation concept developed in Europe before the WTO transaction value system became dominant.",
+          "Tools, dies, moulds, and similar items used in production of the imported goods."
+        ],
+        "correct": "No. A lower price alone is not enough to reject transaction value."
+      },
+      {
+        "question": "Can discounted sales still qualify for transaction value?",
+        "options": [
+          "Yes. Cash discounts, volume discounts, trade discounts, and purchase discounts do not automatically disqualify transaction value.",
+          "The price actually paid or payable for imported goods when sold for export to the country of importation, adjusted as required by Article 8.",
+          "A sale for export of the goods to the country of importation.",
+          "Containers treated as being one with the goods for customs purposes, such as presentation boxes or similar packaging commonly sold with the goods."
+        ],
+        "correct": "Yes. Cash discounts, volume discounts, trade discounts, and purchase discounts do not automatically disqualify transaction value."
+      },
+      {
+        "question": "Do conditions relating to the production or marketing of the imported goods always cause rejection of transaction value?",
+        "options": [
+          "Because it may show preliminary terms, quantities, values, and transport elements relevant to understanding the later commercial invoice.",
+          "When the criteria are met, the cost is incurred by the buyer, not already included in the price, and it is based on objective and quantifiable data.",
+          "No. Some such conditions do not prevent use of transaction value, for example certain buyer-supplied engineering or marketing activities on the buyer’s own account.",
+          "No. Leasing contracts are generally for rent or lease and not a sale."
+        ],
+        "correct": "No. Some such conditions do not prevent use of transaction value, for example certain buyer-supplied engineering or marketing activities on the buyer’s own account."
+      },
+      {
+        "question": "How should the value of an assist be apportioned?",
+        "options": [
+          "In a reasonable manner appropriate to the circumstances and supported by documentation.",
+          "Materials consumed in the production of the imported goods.",
+          "Deductive value and computed value, meaning Articles 5 and 6 may be reversed in order.",
+          "Transaction value = price actually paid or payable for the goods when sold for export to the country of importation + only those additions permitted under Article 8, subject to Article 1 conditions."
+        ],
+        "correct": "In a reasonable manner appropriate to the circumstances and supported by documentation."
+      }
+    ]
+  },
+  "6.1": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 45,
+        "category": "Price Actually Paid or Payable",
+        "front": "What is the price actually paid or payable?",
+        "back": "It is the total payment made or to be made by the buyer to, or for the benefit of, the seller for the imported goods."
+      },
+      {
+        "id": 46,
+        "category": "Price Actually Paid or Payable",
+        "front": "Can payment be made indirectly and still form part of the price actually paid or payable?",
+        "back": "Yes. Direct and indirect payments can both form part of the price actually paid or payable."
+      },
+      {
+        "id": 47,
+        "category": "Price Actually Paid or Payable",
+        "front": "Can customs reject transaction value just because the price is lower than prevailing market prices?",
+        "back": "No. A lower price alone is not enough to reject transaction value."
+      }
+    ]
+  },
+  "6.2": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 51,
+        "category": "Price Actually Paid or Payable",
+        "front": "Can the buyer’s own marketing activities form part of customs value?",
+        "back": "Normally no, if they are undertaken on the buyer’s own account and do not constitute a condition of sale of the imported goods."
+      },
+      {
+        "id": 147,
+        "category": "Documentation",
+        "front": "Why is a bill of lading important in customs valuation?",
+        "back": "Because it can help establish shipment details, freight terms, shipment timing, vessel information, and the international movement of the goods."
+      },
+      {
+        "id": 14,
+        "category": "Agreement Structure",
+        "front": "What does Part II of the Agreement cover?",
+        "back": "Administration, consultations, and dispute settlement in Articles 18 and 19."
+      },
+      {
+        "id": 6,
+        "category": "History",
+        "front": "What was the Brussels Definition of Value (BDV)?",
+        "back": "It was an earlier customs valuation concept developed in Europe before the WTO transaction value system became dominant."
+      },
+      {
+        "id": 81,
+        "category": "Related Parties",
+        "front": "Are employer and employee related persons for customs valuation purposes?",
+        "back": "Yes."
+      }
+    ]
+  },
+  "6.3": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 42,
+        "category": "Sale for Export",
+        "front": "What does 'sold for export' mean in customs valuation?",
+        "back": "It means the goods were sold in a transaction whose purpose was export to the country of importation."
+      },
+      {
+        "id": 43,
+        "category": "Sale for Export",
+        "front": "Must the seller be in the exporting country for transaction value to apply?",
+        "back": "No. The key issue is whether there was a sale for export to the country of importation, not where the seller is located."
+      },
+      {
+        "id": 44,
+        "category": "Sale for Export",
+        "front": "Is the exact time of payment decisive in determining whether there was a sale for export?",
+        "back": "No. What matters is the sale for export, not necessarily when payment is completed."
+      }
+    ]
+  },
+  "6.4": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 132,
+        "category": "Proceeds of Subsequent Resale",
+        "front": "Are all later payments by the buyer to the seller treated as proceeds under Article 8.1(d)?",
+        "back": "No. The payment must relate to the imported goods being valued and not merely be some other financial flow."
+      },
+      {
+        "id": 46,
+        "category": "Price Actually Paid or Payable",
+        "front": "Can payment be made indirectly and still form part of the price actually paid or payable?",
+        "back": "Yes. Direct and indirect payments can both form part of the price actually paid or payable."
+      },
+      {
+        "id": 42,
+        "category": "Sale for Export",
+        "front": "What does 'sold for export' mean in customs valuation?",
+        "back": "It means the goods were sold in a transaction whose purpose was export to the country of importation."
+      },
+      {
+        "id": 12,
+        "category": "Objectives",
+        "front": "Why is greater uniformity and certainty important in customs valuation?",
+        "back": "Because traders should know the rules beforehand and be able to trust that customs valuation will be applied consistently and fairly."
+      },
+      {
+        "id": 76,
+        "category": "Related Parties",
+        "front": "What does it mean if customs concludes there was no price influence in a related-party sale?",
+        "back": "The price may be treated as arm’s length and transaction value may be accepted."
+      }
+    ]
+  },
+  "6.5": {
+    "type": "scenario",
+    "scenarios": [
+      {
+        "scenario": "Apply your knowledge: How many main methods of customs valuation are provided under the Agreement?",
+        "question": "How many main methods of customs valuation are provided under the Agreement?",
+        "answer": "Six methods."
+      },
+      {
+        "scenario": "Apply your knowledge: Can customs add amounts not listed in Article 8?",
+        "question": "Can customs add amounts not listed in Article 8?",
+        "answer": "No. Only the additions provided for in Article 8 may be made."
+      },
+      {
+        "scenario": "Apply your knowledge: What is brokerage in customs valuation?",
+        "question": "What is brokerage in customs valuation?",
+        "answer": "A fee paid to a broker who brings buyer and seller together and arranges the deal."
+      }
+    ]
+  },
+  "6.6": {
+    "type": "checkpoint",
+    "questions": [
+      {
+        "question": "What is brokerage in customs valuation?",
+        "options": [
+          "They may be accepted as reducing the customs value because the discounted price is the actual price paid or payable.",
+          "Charges for construction, erection, assembly, maintenance, or technical assistance undertaken after importation.",
+          "Because traders should know the rules beforehand and be able to trust that customs valuation will be applied consistently and fairly.",
+          "A fee paid to a broker who brings buyer and seller together and arranges the deal."
+        ],
+        "correct": "A fee paid to a broker who brings buyer and seller together and arranges the deal."
+      },
+      {
+        "question": "If goods are sold FOB, what must customs often verify?",
+        "options": [
+          "Whether freight, insurance, and related charges to the place of importation are not included and therefore need treatment under Article 8.2.",
+          "Because they help explain how and when the buyer pays the seller, which can affect analysis of the price actually paid or payable.",
+          "Patent.",
+          "Not automatically. They are not added unless they are a condition of sale of the imported goods."
+        ],
+        "correct": "Whether freight, insurance, and related charges to the place of importation are not included and therefore need treatment under Article 8.2."
+      },
+      {
+        "question": "What is the rule on insurance costs under Article 8.2?",
+        "options": [
+          "Because if they are not distinguished from the price actually paid or payable, they may remain part of customs value.",
+          "Technical Committee on Customs Valuation provisions.",
+          "Insurance may be included where it is part of the cost of bringing the goods to the place of importation, subject to the law and evidence.",
+          "Usually no, because the goods are dispatched for sale later and ownership may remain with the foreign supplier at the time of importation."
+        ],
+        "correct": "Insurance may be included where it is part of the cost of bringing the goods to the place of importation, subject to the law and evidence."
+      },
+      {
+        "question": "What common characteristics do assists have?",
+        "options": [
+          "Yes. Direct and indirect payments can both form part of the price actually paid or payable.",
+          "They are not already included in the price, are provided by or on behalf of the buyer, are used in production or sale for export, and are based on objective and quantifiable data.",
+          "Yes.",
+          "That customs may ask for more information to verify valuation, but adjustments must still be based on objective and quantifiable data."
+        ],
+        "correct": "They are not already included in the price, are provided by or on behalf of the buyer, are used in production or sale for export, and are based on objective and quantifiable data."
+      },
+      {
+        "question": "Can payment be made indirectly and still form part of the price actually paid or payable?",
+        "options": [
+          "Because they help explain how and when the buyer pays the seller, which can affect analysis of the price actually paid or payable.",
+          "Yes. Direct and indirect payments can both form part of the price actually paid or payable.",
+          "Because it may show preliminary terms, quantities, values, and transport elements relevant to understanding the later commercial invoice.",
+          "Finding suppliers of the goods wanted by the buyer."
+        ],
+        "correct": "Yes. Direct and indirect payments can both form part of the price actually paid or payable."
+      },
+      {
+        "question": "What does Article 1.1(c) deal with?",
+        "options": [
+          "It deals with proceeds of subsequent resale, disposal, or use of imported goods that accrue directly or indirectly to the seller.",
+          "The sale, the sale for export to the country of importation, and the price actually paid or payable.",
+          "Because it can reveal the true contractual terms of sale, payment terms, conditions, and price arrangements.",
+          "It includes the cost of packing materials and packing labor."
+        ],
+        "correct": "It deals with proceeds of subsequent resale, disposal, or use of imported goods that accrue directly or indirectly to the seller."
+      },
+      {
+        "question": "What was the Brussels Definition of Value (BDV)?",
+        "options": [
+          "It was an earlier customs valuation concept developed in Europe before the WTO transaction value system became dominant.",
+          "Engineering, development, artwork, design work, and plans and sketches undertaken outside the country of importation and necessary for production of the imported goods.",
+          "They are not already included in the price, are provided by or on behalf of the buyer, are used in production or sale for export, and are based on objective and quantifiable data.",
+          "No."
+        ],
+        "correct": "It was an earlier customs valuation concept developed in Europe before the WTO transaction value system became dominant."
+      },
+      {
+        "question": "If an assist had already been used by the importer, what adjustment may be needed?",
+        "options": [
+          "The original acquisition or production cost may need to be adjusted downward to reflect prior use.",
+          "Presentation of data in digital or any other form for the purpose of exchanging information and communication.",
+          "Yes.",
+          "A seller transfers ownership of goods in exchange for a specified price and a buyer agrees to purchase those goods."
+        ],
+        "correct": "The original acquisition or production cost may need to be adjusted downward to reflect prior use."
+      },
+      {
+        "question": "Can transaction value still be used where proceeds accrue to the seller?",
+        "options": [
+          "Not automatically. They are not added unless they are a condition of sale of the imported goods.",
+          "A seller transfers ownership of goods in exchange for a specified price and a buyer agrees to purchase those goods.",
+          "Transaction value.",
+          "Yes, if an appropriate adjustment can be made under Article 8."
+        ],
+        "correct": "Yes, if an appropriate adjustment can be made under Article 8."
+      },
+      {
+        "question": "Can the buyer’s own marketing activities form part of customs value?",
+        "options": [
+          "Because if they are not distinguished from the price actually paid or payable, they may remain part of customs value.",
+          "Normally no, if they are undertaken on the buyer’s own account and do not constitute a condition of sale of the imported goods.",
+          "It must relate to the imported goods.",
+          "Deductive value and computed value, meaning Articles 5 and 6 may be reversed in order."
+        ],
+        "correct": "Normally no, if they are undertaken on the buyer’s own account and do not constitute a condition of sale of the imported goods."
+      }
+    ]
+  },
+  "7.1": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 56,
+        "category": "Price Actually Paid or Payable",
+        "front": "Can split shipments still use transaction value?",
+        "back": "Yes, provided the requirements of Article 1 are met and the total value can be apportioned reasonably."
+      },
+      {
+        "id": 65,
+        "category": "Restrictions",
+        "front": "What is the third category of allowable restriction under Article 1.1(a)?",
+        "back": "Restrictions that do not substantially affect the value of the goods."
+      },
+      {
+        "id": 92,
+        "category": "Identical and Similar Goods",
+        "front": "What happens if transaction value cannot be used?",
+        "back": "Customs must move sequentially to the next valuation methods, beginning with identical goods, then similar goods, and so on."
+      },
+      {
+        "id": 137,
+        "category": "Optional Adjustments",
+        "front": "What is the rule on insurance costs under Article 8.2?",
+        "back": "Insurance may be included where it is part of the cost of bringing the goods to the place of importation, subject to the law and evidence."
+      },
+      {
+        "id": 76,
+        "category": "Related Parties",
+        "front": "What does it mean if customs concludes there was no price influence in a related-party sale?",
+        "back": "The price may be treated as arm’s length and transaction value may be accepted."
+      }
+    ]
+  },
+  "7.2": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 67,
+        "category": "Conditions",
+        "front": "Why can some conditions attached to the sale cause rejection of transaction value?",
+        "back": "Because if the sale or price is subject to a condition or consideration whose value cannot be determined with respect to the imported goods, transaction value cannot be used."
+      },
+      {
+        "id": 68,
+        "category": "Conditions",
+        "front": "Give one example of a problematic condition in Article 1.1(b).",
+        "back": "Where the seller sets the price of imported goods on condition that the buyer will also buy other goods in specified quantities."
+      },
+      {
+        "id": 69,
+        "category": "Conditions",
+        "front": "Give a second example of a problematic condition in Article 1.1(b).",
+        "back": "Where the price of the imported goods depends on the price or prices at which the buyer sells other goods to the seller."
+      }
+    ]
+  },
+  "7.3": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 149,
+        "category": "Documentation",
+        "front": "Why can a purchase order matter in customs valuation?",
+        "back": "Because it helps confirm the agreed goods, quantities, terms, and sometimes the intended method of ordering or pricing."
+      },
+      {
+        "id": 105,
+        "category": "Buying Agent",
+        "front": "Why must customs examine agency arrangements carefully?",
+        "back": "Because fees described as buying commissions may in reality include services that benefit the seller or go beyond true buying-agent functions."
+      },
+      {
+        "id": 66,
+        "category": "Restrictions",
+        "front": "What must be considered when deciding whether a restriction substantially affects the value of the goods?",
+        "back": "The nature of the restriction, the nature of the goods, industry practice, and whether the monetary effect is commercially significant."
+      },
+      {
+        "id": 27,
+        "category": "Methods",
+        "front": "Must the methods of customs valuation be applied in sequence?",
+        "back": "Yes. The methods are applied sequentially."
+      },
+      {
+        "id": 84,
+        "category": "Related Parties",
+        "front": "Can buyer and seller be related if one directly or indirectly controls the other?",
+        "back": "Yes."
+      }
+    ]
+  },
+  "7.4": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 65,
+        "category": "Restrictions",
+        "front": "What is the third category of allowable restriction under Article 1.1(a)?",
+        "back": "Restrictions that do not substantially affect the value of the goods."
+      },
+      {
+        "id": 111,
+        "category": "Assists",
+        "front": "What common characteristics do assists have?",
+        "back": "They are not already included in the price, are provided by or on behalf of the buyer, are used in production or sale for export, and are based on objective and quantifiable data."
+      },
+      {
+        "id": 110,
+        "category": "Assists",
+        "front": "What are assists in customs valuation?",
+        "back": "Goods or services supplied directly or indirectly by the buyer free of charge or at reduced cost for use in producing and selling the imported goods for export."
+      },
+      {
+        "id": 118,
+        "category": "Assists",
+        "front": "If an assist had already been used by the importer, what adjustment may be needed?",
+        "back": "The original acquisition or production cost may need to be adjusted downward to reflect prior use."
+      },
+      {
+        "id": 24,
+        "category": "Methods",
+        "front": "What is Method 4 of customs valuation?",
+        "back": "Deductive value."
+      }
+    ]
+  },
+  "7.5": {
+    "type": "match",
+    "pairs": [
+      {
+        "left": "Are payments for the right to distribute or resell imported goods always added to customs value?",
+        "right": "Not automatically. They are not added unless they are a condition of sale of the imported goods."
+      },
+      {
+        "left": "Can consignment sales qualify as a sale for transaction value at importation?",
+        "right": "Usually no, because the goods are dispatched for sale later and ownership may remain with the foreign supplier at the time of importation."
+      },
+      {
+        "left": "Do goods imported only for destruction constitute a sale?",
+        "right": "No. If the importer pays for acceptance and destruction rather than for the goods themselves, it is not considered a sale."
+      },
+      {
+        "left": "What was the Brussels Definition of Value (BDV)?",
+        "right": "It was an earlier customs valuation concept developed in Europe before the WTO transaction value system became dominant."
+      },
+      {
+        "left": "Can payment be made indirectly and still form part of the price actually paid or payable?",
+        "right": "Yes. Direct and indirect payments can both form part of the price actually paid or payable."
+      },
+      {
+        "left": "Why can a purchase order matter in customs valuation?",
+        "right": "Because it helps confirm the agreed goods, quantities, terms, and sometimes the intended method of ordering or pricing."
+      }
+    ]
+  },
+  "7.6": {
+    "type": "checkpoint",
+    "questions": [
+      {
+        "question": "Can consignment sales qualify as a sale for transaction value at importation?",
+        "options": [
+          "Because it supports quantity, packaging, marks, numbers, and content checks against the invoice and transport documents.",
+          "The Tokyo Round adopted a positive system of customs valuation based on the price actually paid or payable for imported goods.",
+          "Usually no, because the goods are dispatched for sale later and ownership may remain with the foreign supplier at the time of importation.",
+          "Yes."
+        ],
+        "correct": "Usually no, because the goods are dispatched for sale later and ownership may remain with the foreign supplier at the time of importation."
+      },
+      {
+        "question": "Why do goods imported by intermediaries often not qualify for transaction value immediately?",
+        "options": [
+          "Because the goods may not have been sold for export to the importer at the time of importation.",
+          "Show that the price is enough to recover all costs plus a representative profit.",
+          "Yes, if they also meet the relevant related-party criteria.",
+          "Technical Committee on Customs Valuation provisions."
+        ],
+        "correct": "Because the goods may not have been sold for export to the importer at the time of importation."
+      },
+      {
+        "question": "Can split shipments still use transaction value?",
+        "options": [
+          "They support clearance, origin identification, statistics, post-clearance audit, intelligence analysis, dispute settlement, revenue collection, and proof of ownership.",
+          "A fee paid by the importer to the importer’s agent for representing the importer abroad in the purchase of the goods being valued.",
+          "Yes, provided the requirements of Article 1 are met and the total value can be apportioned reasonably.",
+          "Yes."
+        ],
+        "correct": "Yes, provided the requirements of Article 1 are met and the total value can be apportioned reasonably."
+      },
+      {
+        "question": "Name another category of related persons under Article 15.",
+        "options": [
+          "Because it supports quantity, packaging, marks, numbers, and content checks against the invoice and transport documents.",
+          "Inspecting the goods or assisting in transport, insurance, storage, and delivery.",
+          "Charges for construction, erection, assembly, maintenance, or technical assistance undertaken after importation.",
+          "Legally recognized partners in business."
+        ],
+        "correct": "Legally recognized partners in business."
+      },
+      {
+        "question": "Why may branch office transfers fail to qualify as sales?",
+        "options": [
+          "Yes. Direct and indirect payments can both form part of the price actually paid or payable.",
+          "Engineering, development, artwork, design work, and plans and sketches undertaken outside the country of importation and necessary for production of the imported goods.",
+          "Members of the same family.",
+          "Because the branch office and the parent company may not be separate legal entities, so there is no sale between two separate persons."
+        ],
+        "correct": "Because the branch office and the parent company may not be separate legal entities, so there is no sale between two separate persons."
+      },
+      {
+        "question": "What is Method 5 of customs valuation?",
+        "options": [
+          "No, but it signals that the issue must be examined carefully.",
+          "Legally recognized partners in business.",
+          "Computed value.",
+          "It must relate to the imported goods."
+        ],
+        "correct": "Computed value."
+      },
+      {
+        "question": "Can quantity discounts affect customs value?",
+        "options": [
+          "No. A lower price alone is not enough to reject transaction value.",
+          "Because they help show whether freight, insurance, and related costs are already included in the invoice price or must be added.",
+          "Yes. If the quantity purchased helped determine the price for the exported goods, the discount may be recognized.",
+          "Goods or services supplied directly or indirectly by the buyer free of charge or at reduced cost for use in producing and selling the imported goods for export."
+        ],
+        "correct": "Yes. If the quantity purchased helped determine the price for the exported goods, the discount may be recognized."
+      },
+      {
+        "question": "What do Articles 8.3 and 17 together emphasize?",
+        "options": [
+          "Because it supports quantity, packaging, marks, numbers, and content checks against the invoice and transport documents.",
+          "That customs may ask for more information to verify valuation, but adjustments must still be based on objective and quantifiable data.",
+          "No. Some such conditions do not prevent use of transaction value, for example certain buyer-supplied engineering or marketing activities on the buyer’s own account.",
+          "Because it can help establish shipment details, freight terms, shipment timing, vessel information, and the international movement of the goods."
+        ],
+        "correct": "That customs may ask for more information to verify valuation, but adjustments must still be based on objective and quantifiable data."
+      },
+      {
+        "question": "Can customs reject transaction value just because the price is lower than prevailing market prices?",
+        "options": [
+          "Because an objective and quantifiable apportionment is needed before any royalty adjustment can be made.",
+          "No. A lower price alone is not enough to reject transaction value.",
+          "Yes.",
+          "The sale, the sale for export to the country of importation, and the price actually paid or payable."
+        ],
+        "correct": "No. A lower price alone is not enough to reject transaction value."
+      },
+      {
+        "question": "Name a third intellectual property right commonly associated with royalties.",
+        "options": [
+          "Yes, provided the requirements of Article 1 are met and the total value can be apportioned reasonably.",
+          "Because fees described as buying commissions may in reality include services that benefit the seller or go beyond true buying-agent functions.",
+          "Charges for construction, erection, assembly, maintenance, or technical assistance undertaken after importation.",
+          "Copyright."
+        ],
+        "correct": "Copyright."
+      }
+    ]
+  },
+  "8.1": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 133,
+        "category": "Optional Adjustments",
+        "front": "What optional adjustment items appear under Article 8.2 in these notes?",
+        "back": "Transport costs to the port or place of importation, loading/unloading and handling charges, and insurance costs."
+      },
+      {
+        "id": 134,
+        "category": "Optional Adjustments",
+        "front": "Why are transport terms like CIF and FOB important in customs valuation?",
+        "back": "Because they help show whether freight, insurance, and related costs are already included in the invoice price or must be added."
+      },
+      {
+        "id": 135,
+        "category": "Optional Adjustments",
+        "front": "If goods are sold CIF, what does that generally imply for customs valuation?",
+        "back": "It generally means freight, insurance, and related charges to the place of importation are already included in the price."
+      }
+    ]
+  },
+  "8.2": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 139,
+        "category": "Objective and Quantifiable Data",
+        "front": "Why is objective and quantifiable data so important in customs valuation?",
+        "back": "Because additions and adjustments cannot be made subjectively or on guesswork; they must be supported by verifiable data."
+      },
+      {
+        "id": 140,
+        "category": "Objective and Quantifiable Data",
+        "front": "What happens if there is no quantifiable data for a proposed Article 8 adjustment?",
+        "back": "The adjustment cannot be made under transaction value."
+      },
+      {
+        "id": 141,
+        "category": "Objective and Quantifiable Data",
+        "front": "What do Articles 8.3 and 17 together emphasize?",
+        "back": "That customs may ask for more information to verify valuation, but adjustments must still be based on objective and quantifiable data."
+      }
+    ]
+  },
+  "8.3": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 36,
+        "category": "Concept of Sale",
+        "front": "Why do goods imported by intermediaries often not qualify for transaction value immediately?",
+        "back": "Because the goods may not have been sold for export to the importer at the time of importation."
+      },
+      {
+        "id": 122,
+        "category": "Royalties and Licence Fees",
+        "front": "What is the first key test for adding a royalty or licence fee?",
+        "back": "It must relate to the imported goods."
+      },
+      {
+        "id": 19,
+        "category": "Agreement Structure",
+        "front": "What does Annex III contain?",
+        "back": "Miscellaneous or developing-country related provisions depending on the document structure used in the notes."
+      },
+      {
+        "id": 27,
+        "category": "Methods",
+        "front": "Must the methods of customs valuation be applied in sequence?",
+        "back": "Yes. The methods are applied sequentially."
+      },
+      {
+        "id": 120,
+        "category": "Assists",
+        "front": "Can the importer request apportionment of an assist over the first shipment, production to date, or total anticipated production?",
+        "back": "Yes, if supported by the facts and documentation."
+      }
+    ]
+  },
+  "8.4": {
+    "type": "match",
+    "pairs": [
+      {
+        "left": "What must exist before Method 1 can be used?",
+        "right": "A sale for export of the goods to the country of importation."
+      },
+      {
+        "left": "What are assists in customs valuation?",
+        "right": "Goods or services supplied directly or indirectly by the buyer free of charge or at reduced cost for use in producing and selling the imported goods for export."
+      },
+      {
+        "left": "Name a third intellectual property right commonly associated with royalties.",
+        "right": "Copyright."
+      },
+      {
+        "left": "Are officers or directors of one another’s businesses related persons?",
+        "right": "Yes."
+      },
+      {
+        "left": "What was the Brussels Definition of Value (BDV)?",
+        "right": "It was an earlier customs valuation concept developed in Europe before the WTO transaction value system became dominant."
+      },
+      {
+        "left": "What is an ad valorem duty?",
+        "right": "It is a duty charged as a percentage of the customs value of imported goods."
+      }
+    ]
+  },
+  "8.5": {
+    "type": "checkpoint",
+    "questions": [
+      {
+        "question": "What stockholding threshold is used in one related-party test?",
+        "options": [
+          "Because the goods may not have been sold for export to the importer at the time of importation.",
+          "Five percent or more of the outstanding voting stock of both buyer and seller held by a third person.",
+          "Yes, if supported by the facts and documentation.",
+          "Yes. The methods are applied sequentially."
+        ],
+        "correct": "Five percent or more of the outstanding voting stock of both buyer and seller held by a third person."
+      },
+      {
+        "question": "What kind of criteria should customs value be based on according to the Agreement?",
+        "options": [
+          "By observing the circumstances surrounding the sale or by measuring against test values.",
+          "Yes. Direct and indirect payments can both form part of the price actually paid or payable.",
+          "Simple and equitable criteria consistent with commercial practices.",
+          "Usually no, because the goods are dispatched for sale later and ownership may remain with the foreign supplier at the time of importation."
+        ],
+        "correct": "Simple and equitable criteria consistent with commercial practices."
+      },
+      {
+        "question": "What is the second key test for adding a royalty or licence fee?",
+        "options": [
+          "Yes, depending on the facts and whether it is effectively a buyer’s or seller’s cost under the transaction.",
+          "No. The key issue is whether there was a sale for export to the country of importation, not where the seller is located.",
+          "The buyer must have to pay it directly or indirectly as a condition of sale of the imported goods.",
+          "Documents provide the evidence customs uses to confirm the sale, the price actually paid or payable, the export movement, and any required additions or exclusions."
+        ],
+        "correct": "The buyer must have to pay it directly or indirectly as a condition of sale of the imported goods."
+      },
+      {
+        "question": "Which methods may sometimes be reversed at the importer’s request?",
+        "options": [
+          "No. That alone is not sufficient to reject transaction value.",
+          "Deductive value and computed value, meaning Articles 5 and 6 may be reversed in order.",
+          "Charges for construction, erection, assembly, maintenance, or technical assistance undertaken after importation.",
+          "Because it usually contains the seller, buyer, price, quantity, terms of sale, and other details central to the price actually paid or payable."
+        ],
+        "correct": "Deductive value and computed value, meaning Articles 5 and 6 may be reversed in order."
+      },
+      {
+        "question": "Which GATT article is the legal foundation for customs valuation?",
+        "options": [
+          "When the criteria are met, the cost is incurred by the buyer, not already included in the price, and it is based on objective and quantifiable data.",
+          "Because it helps confirm the agreed goods, quantities, terms, and sometimes the intended method of ordering or pricing.",
+          "Article VII of the GATT 1994.",
+          "A credit may or may not be applied to a previous or current shipment depending on the facts and applicable national legislation."
+        ],
+        "correct": "Article VII of the GATT 1994."
+      },
+      {
+        "question": "Are payments for the right to distribute or resell imported goods always added to customs value?",
+        "options": [
+          "Not automatically. They are not added unless they are a condition of sale of the imported goods.",
+          "Because they help identify the goods, the packages, and the relevant shipment.",
+          "Yes. Direct and indirect payments can both form part of the price actually paid or payable.",
+          "Yes."
+        ],
+        "correct": "Not automatically. They are not added unless they are a condition of sale of the imported goods."
+      },
+      {
+        "question": "Can buyer and seller be related if both are controlled by a third person?",
+        "options": [
+          "A credit may or may not be applied to a previous or current shipment depending on the facts and applicable national legislation.",
+          "Yes.",
+          "The fallback method.",
+          "Presentation of data in digital or any other form for the purpose of exchanging information and communication."
+        ],
+        "correct": "Yes."
+      },
+      {
+        "question": "What optional adjustment items appear under Article 8.2 in these notes?",
+        "options": [
+          "Yes. Direct and indirect payments can both form part of the price actually paid or payable.",
+          "Transport costs to the port or place of importation, loading/unloading and handling charges, and insurance costs.",
+          "Yes.",
+          "It is a duty charged as a percentage of the customs value of imported goods."
+        ],
+        "correct": "Transport costs to the port or place of importation, loading/unloading and handling charges, and insurance costs."
+      },
+      {
+        "question": "What is a third way to show no price influence in a related-party sale?",
+        "options": [
+          "Show that the price is enough to recover all costs plus a representative profit.",
+          "No. Dividends or similar payments that do not relate to the imported goods are not part of customs value.",
+          "Finding suppliers of the goods wanted by the buyer.",
+          "No. If the importer pays for acceptance and destruction rather than for the goods themselves, it is not considered a sale."
+        ],
+        "correct": "Show that the price is enough to recover all costs plus a representative profit."
+      },
+      {
+        "question": "Must the seller be in the exporting country for transaction value to apply?",
+        "options": [
+          "Because if the sale or price is subject to a condition or consideration whose value cannot be determined with respect to the imported goods, transaction value cannot be used.",
+          "Restrictions that do not substantially affect the value of the goods.",
+          "No. The key issue is whether there was a sale for export to the country of importation, not where the seller is located.",
+          "A sale for export of the goods to the country of importation."
+        ],
+        "correct": "No. The key issue is whether there was a sale for export to the country of importation, not where the seller is located."
+      }
+    ]
+  },
+  "9.1": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 100,
+        "category": "Brokerage",
+        "front": "What is brokerage in customs valuation?",
+        "back": "A fee paid to a broker who brings buyer and seller together and arranges the deal."
+      },
+      {
+        "id": 101,
+        "category": "Brokerage",
+        "front": "Can brokerage be added to customs value?",
+        "back": "Yes, depending on the facts and whether it is effectively a buyer’s or seller’s cost under the transaction."
+      }
+    ]
+  },
+  "9.2": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 106,
+        "category": "Containers and Packaging",
+        "front": "Are the cost of containers and the cost of packing possible Article 8 additions?",
+        "back": "Yes."
+      },
+      {
+        "id": 107,
+        "category": "Containers and Packaging",
+        "front": "What kinds of containers are meant under Article 8.1(a)(ii)?",
+        "back": "Containers treated as being one with the goods for customs purposes, such as presentation boxes or similar packaging commonly sold with the goods."
+      },
+      {
+        "id": 108,
+        "category": "Containers and Packaging",
+        "front": "What does packing cost include?",
+        "back": "It includes the cost of packing materials and packing labor."
+      }
+    ]
+  },
+  "9.3": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 120,
+        "category": "Assists",
+        "front": "Can the importer request apportionment of an assist over the first shipment, production to date, or total anticipated production?",
+        "back": "Yes, if supported by the facts and documentation."
+      },
+      {
+        "id": 68,
+        "category": "Conditions",
+        "front": "Give one example of a problematic condition in Article 1.1(b).",
+        "back": "Where the seller sets the price of imported goods on condition that the buyer will also buy other goods in specified quantities."
+      },
+      {
+        "id": 6,
+        "category": "History",
+        "front": "What was the Brussels Definition of Value (BDV)?",
+        "back": "It was an earlier customs valuation concept developed in Europe before the WTO transaction value system became dominant."
+      },
+      {
+        "id": 118,
+        "category": "Assists",
+        "front": "If an assist had already been used by the importer, what adjustment may be needed?",
+        "back": "The original acquisition or production cost may need to be adjusted downward to reflect prior use."
+      },
+      {
+        "id": 60,
+        "category": "Legal Deductions",
+        "front": "Why is it important to distinguish deductible costs from the invoice price?",
+        "back": "Because if they are not distinguished from the price actually paid or payable, they may remain part of customs value."
+      }
+    ]
+  },
+  "9.4": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 48,
+        "category": "Price Actually Paid or Payable",
+        "front": "Can customs reject transaction value just because the price is lower than that of identical goods in other transactions?",
+        "back": "No. That alone is not sufficient to reject transaction value."
+      },
+      {
+        "id": 30,
+        "category": "Transaction Value",
+        "front": "What is transaction value?",
+        "back": "The price actually paid or payable for imported goods when sold for export to the country of importation, adjusted as required by Article 8."
+      },
+      {
+        "id": 3,
+        "category": "Introduction",
+        "front": "What is an ad valorem duty?",
+        "back": "It is a duty charged as a percentage of the customs value of imported goods."
+      },
+      {
+        "id": 131,
+        "category": "Proceeds of Subsequent Resale",
+        "front": "What is meant by proceeds of subsequent resale, disposal, or use under Article 8.1(d)?",
+        "back": "A payment or value from later resale, disposal, or use of the imported goods that accrues directly or indirectly to the seller."
+      },
+      {
+        "id": 128,
+        "category": "Royalties and Licence Fees",
+        "front": "Do payments for the right to reproduce imported goods in the country of importation always form part of customs value?",
+        "back": "No. Such payments do not normally form part of the customs value of the imported product."
+      }
+    ]
+  },
+  "9.5": {
+    "type": "match",
+    "pairs": [
+      {
+        "left": "Do payments for the right to reproduce imported goods in the country of importation always form part of customs value?",
+        "right": "No. Such payments do not normally form part of the customs value of the imported product."
+      },
+      {
+        "left": "Can barter transactions qualify as sales?",
+        "right": "Possibly, but they must be examined case by case because payment may be wholly or partly non-monetary."
+      },
+      {
+        "left": "How is the value of an assist determined if it was produced by the importer or a related person?",
+        "right": "By using the cost of producing it, limited to relevant costs and excluding profit elements."
+      },
+      {
+        "left": "Name one typical function of a buying agent.",
+        "right": "Finding suppliers of the goods wanted by the buyer."
+      },
+      {
+        "left": "Why is it important to distinguish deductible costs from the invoice price?",
+        "right": "Because if they are not distinguished from the price actually paid or payable, they may remain part of customs value."
+      },
+      {
+        "left": "What is Method 2 of customs valuation?",
+        "right": "Transaction value of identical goods."
+      }
+    ]
+  },
+  "9.6": {
+    "type": "checkpoint",
+    "questions": [
+      {
+        "question": "Can brokerage be added to customs value?",
+        "options": [
+          "Because fees described as buying commissions may in reality include services that benefit the seller or go beyond true buying-agent functions.",
+          "Deductive value.",
+          "Yes.",
+          "Yes, depending on the facts and whether it is effectively a buyer’s or seller’s cost under the transaction."
+        ],
+        "correct": "Yes, depending on the facts and whether it is effectively a buyer’s or seller’s cost under the transaction."
+      },
+      {
+        "question": "Are selling commissions added to customs value if incurred by the buyer and not already included?",
+        "options": [
+          "Because they help identify the goods, the packages, and the relevant shipment.",
+          "Restrictions imposed by law or by the public authorities in the country of importation.",
+          "Yes.",
+          "Yes. Direct and indirect payments can both form part of the price actually paid or payable."
+        ],
+        "correct": "Yes."
+      },
+      {
+        "question": "What information about quantity and description should documents clearly show?",
+        "options": [
+          "Rules on customs valuation in Articles 1 to 17.",
+          "In writing.",
+          "Yes.",
+          "The exact goods supplied, the quantity, weights, measurements, and clear product descriptions."
+        ],
+        "correct": "The exact goods supplied, the quantity, weights, measurements, and clear product descriptions."
+      },
+      {
+        "question": "Can quantity discounts affect customs value?",
+        "options": [
+          "Inspecting the goods or assisting in transport, insurance, storage, and delivery.",
+          "Transaction value.",
+          "Yes. If the quantity purchased helped determine the price for the exported goods, the discount may be recognized.",
+          "Show that the price is consistent with normal industry pricing practice."
+        ],
+        "correct": "Yes. If the quantity purchased helped determine the price for the exported goods, the discount may be recognized."
+      },
+      {
+        "question": "Can sole agents, sole distributors, or sole concessionaires be related parties?",
+        "options": [
+          "Yes, if they also meet the relevant related-party criteria.",
+          "Different countries used different, often arbitrary systems of valuation, creating uncertainty and barriers to trade.",
+          "Because traders should know the rules beforehand and be able to trust that customs valuation will be applied consistently and fairly.",
+          "Yes."
+        ],
+        "correct": "Yes, if they also meet the relevant related-party criteria."
+      },
+      {
+        "question": "What four questions help test whether transaction value is acceptable under Article 1.1?",
+        "options": [
+          "Whether there are restrictions on disposition or use, whether the sale or price is subject to undeterminable conditions, whether proceeds accrue to the seller, and whether buyer and seller are related.",
+          "Yes, provided the requirements of Article 1 are met and the total value can be apportioned reasonably.",
+          "Because additions and adjustments cannot be made subjectively or on guesswork; they must be supported by verifiable data.",
+          "No. That alone is not sufficient to reject transaction value."
+        ],
+        "correct": "Whether there are restrictions on disposition or use, whether the sale or price is subject to undeterminable conditions, whether proceeds accrue to the seller, and whether buyer and seller are related."
+      },
+      {
+        "question": "What is Method 6 of customs valuation?",
+        "options": [
+          "Yes, depending on the facts and whether it is effectively a buyer’s or seller’s cost under the transaction.",
+          "They may be accepted as reducing the customs value because the discounted price is the actual price paid or payable.",
+          "Where the price is based on a form of payment extraneous to the imported goods, such as supplying finished goods back to the seller.",
+          "The fallback method."
+        ],
+        "correct": "The fallback method."
+      },
+      {
+        "question": "Why can a sales contract matter in customs valuation?",
+        "options": [
+          "They are not already included in the price, are provided by or on behalf of the buyer, are used in production or sale for export, and are based on objective and quantifiable data.",
+          "Because if the sale or price is subject to a condition or consideration whose value cannot be determined with respect to the imported goods, transaction value cannot be used.",
+          "Because it can reveal the true contractual terms of sale, payment terms, conditions, and price arrangements.",
+          "Deductive value and computed value, meaning Articles 5 and 6 may be reversed in order."
+        ],
+        "correct": "Because it can reveal the true contractual terms of sale, payment terms, conditions, and price arrangements."
+      },
+      {
+        "question": "What does it mean if customs concludes there was no price influence in a related-party sale?",
+        "options": [
+          "Inspecting the goods or assisting in transport, insurance, storage, and delivery.",
+          "Technical Committee on Customs Valuation provisions.",
+          "The price may be treated as arm’s length and transaction value may be accepted.",
+          "They are not already included in the price, are provided by or on behalf of the buyer, are used in production or sale for export, and are based on objective and quantifiable data."
+        ],
+        "correct": "The price may be treated as arm’s length and transaction value may be accepted."
+      },
+      {
+        "question": "Why is the commercial invoice important in customs valuation?",
+        "options": [
+          "Show that the price is enough to recover all costs plus a representative profit.",
+          "Because it usually contains the seller, buyer, price, quantity, terms of sale, and other details central to the price actually paid or payable.",
+          "That customs may ask for more information to verify valuation, but adjustments must still be based on objective and quantifiable data.",
+          "Transaction value = price actually paid or payable for the goods when sold for export to the country of importation + only those additions permitted under Article 8, subject to Article 1 conditions."
+        ],
+        "correct": "Because it usually contains the seller, buyer, price, quantity, terms of sale, and other details central to the price actually paid or payable."
+      }
+    ]
+  },
+  "10.1": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 148,
+        "category": "Documentation",
+        "front": "Why is a packing list useful in customs valuation?",
+        "back": "Because it supports quantity, packaging, marks, numbers, and content checks against the invoice and transport documents."
+      },
+      {
+        "id": 38,
+        "category": "Concept of Sale",
+        "front": "Do hire or leasing contracts normally constitute sales under the Agreement?",
+        "back": "No. Leasing contracts are generally for rent or lease and not a sale."
+      },
+      {
+        "id": 145,
+        "category": "Documentation",
+        "front": "Which document is especially important for establishing transaction value?",
+        "back": "The commercial invoice."
+      },
+      {
+        "id": 138,
+        "category": "Optional Adjustments",
+        "front": "Can storage costs always be included under Article 8.2?",
+        "back": "No. Only storage costs connected with shipment may be relevant; if incurred after importation they are generally excluded."
+      },
+      {
+        "id": 70,
+        "category": "Conditions",
+        "front": "Give a third example of a problematic condition in Article 1.1(b).",
+        "back": "Where the price is based on a form of payment extraneous to the imported goods, such as supplying finished goods back to the seller."
+      }
+    ]
+  },
+  "10.2": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 61,
+        "category": "Restrictions",
+        "front": "What four questions help test whether transaction value is acceptable under Article 1.1?",
+        "back": "Whether there are restrictions on disposition or use, whether the sale or price is subject to undeterminable conditions, whether proceeds accrue to the seller, and whether buyer and seller are related."
+      },
+      {
+        "id": 22,
+        "category": "Methods",
+        "front": "What is Method 2 of customs valuation?",
+        "back": "Transaction value of identical goods."
+      },
+      {
+        "id": 67,
+        "category": "Conditions",
+        "front": "Why can some conditions attached to the sale cause rejection of transaction value?",
+        "back": "Because if the sale or price is subject to a condition or consideration whose value cannot be determined with respect to the imported goods, transaction value cannot be used."
+      },
+      {
+        "id": 45,
+        "category": "Price Actually Paid or Payable",
+        "front": "What is the price actually paid or payable?",
+        "back": "It is the total payment made or to be made by the buyer to, or for the benefit of, the seller for the imported goods."
+      },
+      {
+        "id": 110,
+        "category": "Assists",
+        "front": "What are assists in customs valuation?",
+        "back": "Goods or services supplied directly or indirectly by the buyer free of charge or at reduced cost for use in producing and selling the imported goods for export."
+      }
+    ]
+  },
+  "10.3": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 72,
+        "category": "Proceeds",
+        "front": "What does Article 1.1(c) deal with?",
+        "back": "It deals with proceeds of subsequent resale, disposal, or use of imported goods that accrue directly or indirectly to the seller."
+      },
+      {
+        "id": 73,
+        "category": "Proceeds",
+        "front": "Can transaction value still be used where proceeds accrue to the seller?",
+        "back": "Yes, if an appropriate adjustment can be made under Article 8."
+      },
+      {
+        "id": 131,
+        "category": "Proceeds of Subsequent Resale",
+        "front": "What is meant by proceeds of subsequent resale, disposal, or use under Article 8.1(d)?",
+        "back": "A payment or value from later resale, disposal, or use of the imported goods that accrues directly or indirectly to the seller."
+      },
+      {
+        "id": 132,
+        "category": "Proceeds of Subsequent Resale",
+        "front": "Are all later payments by the buyer to the seller treated as proceeds under Article 8.1(d)?",
+        "back": "No. The payment must relate to the imported goods being valued and not merely be some other financial flow."
+      },
+      {
+        "id": 131,
+        "category": "Proceeds of Subsequent Resale",
+        "front": "What is meant by proceeds of subsequent resale, disposal, or use under Article 8.1(d)?",
+        "back": "A payment or value from later resale, disposal, or use of the imported goods that accrues directly or indirectly to the seller."
+      }
+    ]
+  },
+  "10.4": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 28,
+        "category": "Methods",
+        "front": "Which methods may sometimes be reversed at the importer’s request?",
+        "back": "Deductive value and computed value, meaning Articles 5 and 6 may be reversed in order."
+      },
+      {
+        "id": 42,
+        "category": "Sale for Export",
+        "front": "What does 'sold for export' mean in customs valuation?",
+        "back": "It means the goods were sold in a transaction whose purpose was export to the country of importation."
+      },
+      {
+        "id": 51,
+        "category": "Price Actually Paid or Payable",
+        "front": "Can the buyer’s own marketing activities form part of customs value?",
+        "back": "Normally no, if they are undertaken on the buyer’s own account and do not constitute a condition of sale of the imported goods."
+      },
+      {
+        "id": 154,
+        "category": "Documentation",
+        "front": "Why are terms of payment important in valuation documents?",
+        "back": "Because they help explain how and when the buyer pays the seller, which can affect analysis of the price actually paid or payable."
+      },
+      {
+        "id": 6,
+        "category": "History",
+        "front": "What was the Brussels Definition of Value (BDV)?",
+        "back": "It was an earlier customs valuation concept developed in Europe before the WTO transaction value system became dominant."
+      }
+    ]
+  },
+  "10.5": {
+    "type": "scenario",
+    "scenarios": [
+      {
+        "scenario": "Apply your knowledge: Can consignment sales qualify as a sale for transaction value at importation?",
+        "question": "Can consignment sales qualify as a sale for transaction value at importation?",
+        "answer": "Usually no, because the goods are dispatched for sale later and ownership may remain with the foreign supplier at the time of importation."
+      },
+      {
+        "scenario": "Apply your knowledge: What is the third category of allowable restriction under Article 1.1(a)?",
+        "question": "What is the third category of allowable restriction under Article 1.1(a)?",
+        "answer": "Restrictions that do not substantially affect the value of the goods."
+      },
+      {
+        "scenario": "Apply your knowledge: Can payment be made indirectly and still form part of the price actually paid or payable?",
+        "question": "Can payment be made indirectly and still form part of the price actually paid or payable?",
+        "answer": "Yes. Direct and indirect payments can both form part of the price actually paid or payable."
+      }
+    ]
+  },
+  "10.6": {
+    "type": "checkpoint",
+    "questions": [
+      {
+        "question": "Can payment be made indirectly and still form part of the price actually paid or payable?",
+        "options": [
+          "It must communicate the grounds to the importer and give the importer a reasonable opportunity to respond.",
+          "Transport costs to the port or place of importation, loading/unloading and handling charges, and insurance costs.",
+          "It produced the WTO Customs Valuation Agreement and strengthened the transaction value system as the main method.",
+          "Yes. Direct and indirect payments can both form part of the price actually paid or payable."
+        ],
+        "correct": "Yes. Direct and indirect payments can both form part of the price actually paid or payable."
+      },
+      {
+        "question": "Why is it important to distinguish deductible costs from the invoice price?",
+        "options": [
+          "Because the goods may not have been sold for export to the importer at the time of importation.",
+          "Because if they are not distinguished from the price actually paid or payable, they may remain part of customs value.",
+          "It was an earlier customs valuation concept developed in Europe before the WTO transaction value system became dominant.",
+          "Where the price is based on a form of payment extraneous to the imported goods, such as supplying finished goods back to the seller."
+        ],
+        "correct": "Because if they are not distinguished from the price actually paid or payable, they may remain part of customs value."
+      },
+      {
+        "question": "What does Annex II contain?",
+        "options": [
+          "The price may be treated as arm’s length and transaction value may be accepted.",
+          "Technical Committee on Customs Valuation provisions.",
+          "Bags, boxes, blister packs, or cardboard boxes used to package the goods for sale.",
+          "By using the cost of producing it, limited to relevant costs and excluding profit elements."
+        ],
+        "correct": "Technical Committee on Customs Valuation provisions."
+      },
+      {
+        "question": "Can transaction value still be used where proceeds accrue to the seller?",
+        "options": [
+          "Because it supports quantity, packaging, marks, numbers, and content checks against the invoice and transport documents.",
+          "Yes, if an appropriate adjustment can be made under Article 8.",
+          "That customs may ask for more information to verify valuation, but adjustments must still be based on objective and quantifiable data.",
+          "Yes. If the quantity purchased helped determine the price for the exported goods, the discount may be recognized."
+        ],
+        "correct": "Yes, if an appropriate adjustment can be made under Article 8."
+      },
+      {
+        "question": "Why is a packing list useful in customs valuation?",
+        "options": [
+          "Helping to negotiate the best prices.",
+          "Show that the price is the same as in sales to unrelated buyers in comparable circumstances.",
+          "Because it supports quantity, packaging, marks, numbers, and content checks against the invoice and transport documents.",
+          "The price actually paid or payable for imported goods when sold for export to the country of importation, adjusted as required by Article 8."
+        ],
+        "correct": "Because it supports quantity, packaging, marks, numbers, and content checks against the invoice and transport documents."
+      },
+      {
+        "question": "Are employer and employee related persons for customs valuation purposes?",
+        "options": [
+          "Materials consumed in the production of the imported goods.",
+          "Presentation of data in digital or any other form for the purpose of exchanging information and communication.",
+          "Yes.",
+          "It must relate to the imported goods."
+        ],
+        "correct": "Yes."
+      },
+      {
+        "question": "Can customs reject transaction value just because the price is lower than prevailing market prices?",
+        "options": [
+          "It must communicate the grounds to the importer and give the importer a reasonable opportunity to respond.",
+          "Yes, if an appropriate adjustment can be made under Article 8.",
+          "No. A lower price alone is not enough to reject transaction value.",
+          "Five percent or more of the outstanding voting stock of both buyer and seller held by a third person."
+        ],
+        "correct": "No. A lower price alone is not enough to reject transaction value."
+      },
+      {
+        "question": "If goods are sold CIF, what does that generally imply for customs valuation?",
+        "options": [
+          "It generally means freight, insurance, and related charges to the place of importation are already included in the price.",
+          "Yes, if an appropriate adjustment can be made under Article 8.",
+          "A systematic analysis of all supporting documents to a customs declaration in order to facilitate proper valuation of imported goods.",
+          "The price actually paid or payable for imported goods when sold for export to the country of importation, adjusted as required by Article 8."
+        ],
+        "correct": "It generally means freight, insurance, and related charges to the place of importation are already included in the price."
+      },
+      {
+        "question": "What is the rule on insurance costs under Article 8.2?",
+        "options": [
+          "Because they help match transport costs, timing, and shipment arrangements with the invoice and carriage documents.",
+          "Yes.",
+          "Goods or services supplied directly or indirectly by the buyer free of charge or at reduced cost for use in producing and selling the imported goods for export.",
+          "Insurance may be included where it is part of the cost of bringing the goods to the place of importation, subject to the law and evidence."
+        ],
+        "correct": "Insurance may be included where it is part of the cost of bringing the goods to the place of importation, subject to the law and evidence."
+      },
+      {
+        "question": "What must exist before Method 1 can be used?",
+        "options": [
+          "A sale for export of the goods to the country of importation.",
+          "Yes.",
+          "Because an objective and quantifiable apportionment is needed before any royalty adjustment can be made.",
+          "No. That does not constitute a sale."
+        ],
+        "correct": "A sale for export of the goods to the country of importation."
+      }
+    ]
+  },
+  "11.1": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 35,
+        "category": "Concept of Sale",
+        "front": "Can consignment sales qualify as a sale for transaction value at importation?",
+        "back": "Usually no, because the goods are dispatched for sale later and ownership may remain with the foreign supplier at the time of importation."
+      },
+      {
+        "id": 25,
+        "category": "Methods",
+        "front": "What is Method 5 of customs valuation?",
+        "back": "Computed value."
+      },
+      {
+        "id": 56,
+        "category": "Price Actually Paid or Payable",
+        "front": "Can split shipments still use transaction value?",
+        "back": "Yes, provided the requirements of Article 1 are met and the total value can be apportioned reasonably."
+      },
+      {
+        "id": 17,
+        "category": "Agreement Structure",
+        "front": "What does Annex I contain?",
+        "back": "Interpretative Notes."
+      },
+      {
+        "id": 67,
+        "category": "Conditions",
+        "front": "Why can some conditions attached to the sale cause rejection of transaction value?",
+        "back": "Because if the sale or price is subject to a condition or consideration whose value cannot be determined with respect to the imported goods, transaction value cannot be used."
+      }
+    ]
+  },
+  "11.2": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 14,
+        "category": "Agreement Structure",
+        "front": "What does Part II of the Agreement cover?",
+        "back": "Administration, consultations, and dispute settlement in Articles 18 and 19."
+      },
+      {
+        "id": 135,
+        "category": "Optional Adjustments",
+        "front": "If goods are sold CIF, what does that generally imply for customs valuation?",
+        "back": "It generally means freight, insurance, and related charges to the place of importation are already included in the price."
+      },
+      {
+        "id": 28,
+        "category": "Methods",
+        "front": "Which methods may sometimes be reversed at the importer’s request?",
+        "back": "Deductive value and computed value, meaning Articles 5 and 6 may be reversed in order."
+      },
+      {
+        "id": 151,
+        "category": "Documentation",
+        "front": "Why can a sales contract matter in customs valuation?",
+        "back": "Because it can reveal the true contractual terms of sale, payment terms, conditions, and price arrangements."
+      },
+      {
+        "id": 127,
+        "category": "Royalties and Licence Fees",
+        "front": "Name a third intellectual property right commonly associated with royalties.",
+        "back": "Copyright."
+      }
+    ]
+  },
+  "11.3": {
+    "type": "learn",
+    "content": [
+      {
+        "id": 105,
+        "category": "Buying Agent",
+        "front": "Why must customs examine agency arrangements carefully?",
+        "back": "Because fees described as buying commissions may in reality include services that benefit the seller or go beyond true buying-agent functions."
+      },
+      {
+        "id": 155,
+        "category": "Documentation",
+        "front": "Why are time of shipment and pre-carriage information useful in valuation?",
+        "back": "Because they help match transport costs, timing, and shipment arrangements with the invoice and carriage documents."
+      },
+      {
+        "id": 21,
+        "category": "Methods",
+        "front": "What is Method 1 of customs valuation?",
+        "back": "Transaction value."
+      },
+      {
+        "id": 46,
+        "category": "Price Actually Paid or Payable",
+        "front": "Can payment be made indirectly and still form part of the price actually paid or payable?",
+        "back": "Yes. Direct and indirect payments can both form part of the price actually paid or payable."
+      },
+      {
+        "id": 49,
+        "category": "Price Actually Paid or Payable",
+        "front": "Can discounted sales still qualify for transaction value?",
+        "back": "Yes. Cash discounts, volume discounts, trade discounts, and purchase discounts do not automatically disqualify transaction value."
+      }
+    ]
+  },
+  "11.4": {
+    "type": "match",
+    "pairs": [
+      {
+        "left": "Name one intellectual property right commonly associated with royalties in customs valuation.",
+        "right": "Patent."
+      },
+      {
+        "left": "How are warranty costs treated when already included in the selling price of imported goods?",
+        "right": "They form part of the customs value because they are part of the price actually paid or payable."
+      },
+      {
+        "left": "Why are time of shipment and pre-carriage information useful in valuation?",
+        "right": "Because they help match transport costs, timing, and shipment arrangements with the invoice and carriage documents."
+      },
+      {
+        "left": "Can split shipments still use transaction value?",
+        "right": "Yes, provided the requirements of Article 1 are met and the total value can be apportioned reasonably."
+      },
+      {
+        "left": "What is customs value in simple terms?",
+        "right": "It is the value declared or determined for imported goods for customs purposes and forms the basis for assessing duties and taxes."
+      },
+      {
+        "left": "How are cash discounts generally treated where they are genuinely reflected in the price actually paid or payable?",
+        "right": "They may be accepted as reducing the customs value because the discounted price is the actual price paid or payable."
+      }
+    ]
+  },
+  "11.5": {
+    "type": "checkpoint",
+    "questions": [
+      {
+        "question": "Do payments for the right to reproduce imported goods in the country of importation always form part of customs value?",
+        "options": [
+          "Transaction value of identical goods.",
+          "No. Such payments do not normally form part of the customs value of the imported product.",
+          "Not automatically. They are not added unless they are a condition of sale of the imported goods.",
+          "Because an objective and quantifiable apportionment is needed before any royalty adjustment can be made."
+        ],
+        "correct": "No. Such payments do not normally form part of the customs value of the imported product."
+      },
+      {
+        "question": "What major shift occurred in the Tokyo Round regarding customs valuation?",
+        "options": [
+          "Because if they are not distinguished from the price actually paid or payable, they may remain part of customs value.",
+          "It was an earlier customs valuation concept developed in Europe before the WTO transaction value system became dominant.",
+          "The Tokyo Round adopted a positive system of customs valuation based on the price actually paid or payable for imported goods.",
+          "No. Only storage costs connected with shipment may be relevant; if incurred after importation they are generally excluded."
+        ],
+        "correct": "The Tokyo Round adopted a positive system of customs valuation based on the price actually paid or payable for imported goods."
+      },
+      {
+        "question": "What is one way to show that a related-party price was not influenced by the relationship?",
+        "options": [
+          "Restrictions imposed by law or by the public authorities in the country of importation.",
+          "No. Buying commissions are excluded.",
+          "Interpretative Notes.",
+          "Show that the price is consistent with normal industry pricing practice."
+        ],
+        "correct": "Show that the price is consistent with normal industry pricing practice."
+      },
+      {
+        "question": "What does it mean if customs concludes there was no price influence in a related-party sale?",
+        "options": [
+          "It must not already be included in the price actually paid or payable.",
+          "The price may be treated as arm’s length and transaction value may be accepted.",
+          "Yes, if they also meet the relevant related-party criteria.",
+          "Finding suppliers of the goods wanted by the buyer."
+        ],
+        "correct": "The price may be treated as arm’s length and transaction value may be accepted."
+      },
+      {
+        "question": "Can quantity discounts affect customs value?",
+        "options": [
+          "Yes. If the quantity purchased helped determine the price for the exported goods, the discount may be recognized.",
+          "The commercial invoice.",
+          "Restrictions that limit the geographical area in which the goods may be resold.",
+          "They are not already included in the price, are provided by or on behalf of the buyer, are used in production or sale for export, and are based on objective and quantifiable data."
+        ],
+        "correct": "Yes. If the quantity purchased helped determine the price for the exported goods, the discount may be recognized."
+      },
+      {
+        "question": "What four questions help test whether transaction value is acceptable under Article 1.1?",
+        "options": [
+          "Show that the price is enough to recover all costs plus a representative profit.",
+          "Whether there are restrictions on disposition or use, whether the sale or price is subject to undeterminable conditions, whether proceeds accrue to the seller, and whether buyer and seller are related.",
+          "Where the seller sets the price of imported goods on condition that the buyer will also buy other goods in specified quantities.",
+          "Members of the same family."
+        ],
+        "correct": "Whether there are restrictions on disposition or use, whether the sale or price is subject to undeterminable conditions, whether proceeds accrue to the seller, and whether buyer and seller are related."
+      },
+      {
+        "question": "What is Method 5 of customs valuation?",
+        "options": [
+          "Because they help match transport costs, timing, and shipment arrangements with the invoice and carriage documents.",
+          "Computed value.",
+          "Because they help show whether freight, insurance, and related costs are already included in the invoice price or must be added.",
+          "Yes, provided the requirements of Article 1 are met and the total value can be apportioned reasonably."
+        ],
+        "correct": "Computed value."
+      },
+      {
+        "question": "What does Annex II contain?",
+        "options": [
+          "Members of the same family.",
+          "Technical Committee on Customs Valuation provisions.",
+          "Transaction value.",
+          "Restrictions imposed by law or by the public authorities in the country of importation."
+        ],
+        "correct": "Technical Committee on Customs Valuation provisions."
+      },
+      {
+        "question": "Why can a purchase order matter in customs valuation?",
+        "options": [
+          "Show that the price is enough to recover all costs plus a representative profit.",
+          "Miscellaneous or developing-country related provisions depending on the document structure used in the notes.",
+          "Because it helps confirm the agreed goods, quantities, terms, and sometimes the intended method of ordering or pricing.",
+          "Trademark."
+        ],
+        "correct": "Because it helps confirm the agreed goods, quantities, terms, and sometimes the intended method of ordering or pricing."
+      },
+      {
+        "question": "What does Part III of the Agreement cover?",
+        "options": [
+          "It must relate to the imported goods.",
+          "Special and differential treatment in Article 20.",
+          "Show that the price is the same as in sales to unrelated buyers in comparable circumstances.",
+          "Show that the price is enough to recover all costs plus a representative profit."
+        ],
+        "correct": "Special and differential treatment in Article 20."
+      }
+    ]
+  },
+  "12.1": {
+    "type": "quiz",
+    "questions": [
+      {
+        "question": "What is customs value in simple terms?",
+        "options": [
+          "It is the value declared or determined for imported goods for customs purposes and forms the basis for assessing duties and taxes.",
+          "It was an earlier customs valuation concept developed in Europe before the WTO transaction value system became dominant.",
+          "Because it can matter for preferential treatment and may affect customs treatment and valuation context.",
+          "Legally recognized partners in business."
+        ],
+        "correct": "It is the value declared or determined for imported goods for customs purposes and forms the basis for assessing duties and taxes."
+      },
+      {
+        "question": "Why are marks, numbers, and container numbers useful in customs valuation work?",
+        "options": [
+          "Yes.",
+          "No.",
+          "Because they help identify the goods, the packages, and the relevant shipment.",
+          "Restrictions that limit the geographical area in which the goods may be resold."
+        ],
+        "correct": "Because they help identify the goods, the packages, and the relevant shipment."
+      },
+      {
+        "question": "Why is a packing list useful in customs valuation?",
+        "options": [
+          "It is the total payment made or to be made by the buyer to, or for the benefit of, the seller for the imported goods.",
+          "They support clearance, origin identification, statistics, post-clearance audit, intelligence analysis, dispute settlement, revenue collection, and proof of ownership.",
+          "No. Some such conditions do not prevent use of transaction value, for example certain buyer-supplied engineering or marketing activities on the buyer’s own account.",
+          "Because it supports quantity, packaging, marks, numbers, and content checks against the invoice and transport documents."
+        ],
+        "correct": "Because it supports quantity, packaging, marks, numbers, and content checks against the invoice and transport documents."
+      },
+      {
+        "question": "What is a document check?",
+        "options": [
+          "Whether there are restrictions on disposition or use, whether the sale or price is subject to undeterminable conditions, whether proceeds accrue to the seller, and whether buyer and seller are related.",
+          "A systematic analysis of all supporting documents to a customs declaration in order to facilitate proper valuation of imported goods.",
+          "No. That alone is not sufficient to reject transaction value.",
+          "Insurance may be included where it is part of the cost of bringing the goods to the place of importation, subject to the law and evidence."
+        ],
+        "correct": "A systematic analysis of all supporting documents to a customs declaration in order to facilitate proper valuation of imported goods."
+      },
+      {
+        "question": "Give a third example of a problematic condition in Article 1.1(b).",
+        "options": [
+          "Presentation of data in digital or any other form for the purpose of exchanging information and communication.",
+          "Goods or services supplied directly or indirectly by the buyer free of charge or at reduced cost for use in producing and selling the imported goods for export.",
+          "The adjustment cannot be made under transaction value.",
+          "Where the price is based on a form of payment extraneous to the imported goods, such as supplying finished goods back to the seller."
+        ],
+        "correct": "Where the price is based on a form of payment extraneous to the imported goods, such as supplying finished goods back to the seller."
+      }
+    ]
+  },
+  "12.2": {
+    "type": "quiz",
+    "questions": [
+      {
+        "question": "Why is the concept of sale important in transaction value?",
+        "options": [
+          "No. Only the additions provided for in Article 8 may be made.",
+          "Because if the imported goods were not sold, Article 1 transaction value cannot be used.",
+          "Yes.",
+          "Show that the price is consistent with normal industry pricing practice."
+        ],
+        "correct": "Because if the imported goods were not sold, Article 1 transaction value cannot be used."
+      },
+      {
+        "question": "Does the Agreement give a strict standalone definition of 'sale'?",
+        "options": [
+          "No. It implies a commercial transaction satisfying certain requirements and conditions.",
+          "Where the price is based on a form of payment extraneous to the imported goods, such as supplying finished goods back to the seller.",
+          "It deals with proceeds of subsequent resale, disposal, or use of imported goods that accrue directly or indirectly to the seller.",
+          "Yes. The methods are applied sequentially."
+        ],
+        "correct": "No. It implies a commercial transaction satisfying certain requirements and conditions."
+      },
+      {
+        "question": "What is the basic legal idea of a sale in customs valuation?",
+        "options": [
+          "A payment or value from later resale, disposal, or use of the imported goods that accrues directly or indirectly to the seller.",
+          "A seller transfers ownership of goods in exchange for a specified price and a buyer agrees to purchase those goods.",
+          "The exact goods supplied, the quantity, weights, measurements, and clear product descriptions.",
+          "The buyer must have to pay it directly or indirectly as a condition of sale of the imported goods."
+        ],
+        "correct": "A seller transfers ownership of goods in exchange for a specified price and a buyer agrees to purchase those goods."
+      },
+      {
+        "question": "Can consignment sales qualify as a sale for transaction value at importation?",
+        "options": [
+          "Because it is based on the actual commercial transaction and therefore reflects the real value of the imported goods as closely as possible.",
+          "No. Dividends or similar payments that do not relate to the imported goods are not part of customs value.",
+          "Where the seller sets the price of imported goods on condition that the buyer will also buy other goods in specified quantities.",
+          "Usually no, because the goods are dispatched for sale later and ownership may remain with the foreign supplier at the time of importation."
+        ],
+        "correct": "Usually no, because the goods are dispatched for sale later and ownership may remain with the foreign supplier at the time of importation."
+      },
+      {
+        "question": "Why do goods imported by intermediaries often not qualify for transaction value immediately?",
+        "options": [
+          "Members of the same family.",
+          "Patent.",
+          "Because the goods may not have been sold for export to the importer at the time of importation.",
+          "Deductive value."
+        ],
+        "correct": "Because the goods may not have been sold for export to the importer at the time of importation."
+      }
+    ]
+  },
+  "12.3": {
+    "type": "quiz",
+    "questions": [
+      {
+        "question": "What is a commission in customs valuation?",
+        "options": [
+          "Article VII of the GATT 1994.",
+          "No. If the importer pays for acceptance and destruction rather than for the goods themselves, it is not considered a sale.",
+          "A systematic analysis of all supporting documents to a customs declaration in order to facilitate proper valuation of imported goods.",
+          "A payment made to an intermediary acting in a transaction, such as an agent."
+        ],
+        "correct": "A payment made to an intermediary acting in a transaction, such as an agent."
+      },
+      {
+        "question": "What is a buying commission?",
+        "options": [
+          "Because traders should know the rules beforehand and be able to trust that customs valuation will be applied consistently and fairly.",
+          "Yes, where it falls within the relevant engineering, development, design, or plan-related categories and is necessary for production.",
+          "A fee paid by the importer to the importer’s agent for representing the importer abroad in the purchase of the goods being valued.",
+          "No. Only the additions provided for in Article 8 may be made."
+        ],
+        "correct": "A fee paid by the importer to the importer’s agent for representing the importer abroad in the purchase of the goods being valued."
+      },
+      {
+        "question": "Are buying commissions added to customs value under Article 8.1(a)(i)?",
+        "options": [
+          "Show that the price is enough to recover all costs plus a representative profit.",
+          "No. Buying commissions are excluded.",
+          "It must communicate the grounds to the importer and give the importer a reasonable opportunity to respond.",
+          "Materials consumed in the production of the imported goods."
+        ],
+        "correct": "No. Buying commissions are excluded."
+      },
+      {
+        "question": "Are selling commissions added to customs value if incurred by the buyer and not already included?",
+        "options": [
+          "Show that the price is consistent with normal industry pricing practice.",
+          "It generally means freight, insurance, and related charges to the place of importation are already included in the price.",
+          "Because they help identify the goods, the packages, and the relevant shipment.",
+          "Yes."
+        ],
+        "correct": "Yes."
+      },
+      {
+        "question": "Are the cost of containers and the cost of packing possible Article 8 additions?",
+        "options": [
+          "Technical Committee on Customs Valuation provisions.",
+          "Trademark.",
+          "No. Buying commissions are excluded.",
+          "Yes."
+        ],
+        "correct": "Yes."
+      }
+    ]
+  },
+  "12.4": {
+    "type": "scenario",
+    "scenarios": [
+      {
+        "scenario": "Apply your knowledge: Name one type of legal deduction that may be excluded if distinguished from the price actually paid or payable.",
+        "question": "Name one type of legal deduction that may be excluded if distinguished from the price actually paid or payable.",
+        "answer": "Charges for construction, erection, assembly, maintenance, or technical assistance undertaken after importation."
+      },
+      {
+        "scenario": "Apply your knowledge: What is customs value in simple terms?",
+        "question": "What is customs value in simple terms?",
+        "answer": "It is the value declared or determined for imported goods for customs purposes and forms the basis for assessing duties and taxes."
+      },
+      {
+        "scenario": "Apply your knowledge: Why are documents important in customs valuation?",
+        "question": "Why are documents important in customs valuation?",
+        "answer": "They support clearance, origin identification, statistics, post-clearance audit, intelligence analysis, dispute settlement, revenue collection, and proof of ownership."
+      }
+    ]
+  },
+  "12.5": {
+    "type": "checkpoint",
+    "questions": [
+      {
+        "question": "What is brokerage in customs valuation?",
+        "options": [
+          "A fee paid to a broker who brings buyer and seller together and arranges the deal.",
+          "Tools, dies, moulds, and similar items used in production of the imported goods.",
+          "It deals with proceeds of subsequent resale, disposal, or use of imported goods that accrue directly or indirectly to the seller.",
+          "A seller transfers ownership of goods in exchange for a specified price and a buyer agrees to purchase those goods."
+        ],
+        "correct": "A fee paid to a broker who brings buyer and seller together and arranges the deal."
+      },
+      {
+        "question": "Name another typical function of a buying agent.",
+        "options": [
+          "No.",
+          "Because they help show who bears freight, insurance, handling, and related costs and whether those amounts are already in the invoice price.",
+          "It deals with proceeds of subsequent resale, disposal, or use of imported goods that accrue directly or indirectly to the seller.",
+          "Helping to negotiate the best prices."
+        ],
+        "correct": "Helping to negotiate the best prices."
+      },
+      {
+        "question": "What did the Uruguay Round achieve in customs valuation?",
+        "options": [
+          "Goods or services supplied directly or indirectly by the buyer free of charge or at reduced cost for use in producing and selling the imported goods for export.",
+          "It produced the WTO Customs Valuation Agreement and strengthened the transaction value system as the main method.",
+          "No. Only storage costs connected with shipment may be relevant; if incurred after importation they are generally excluded.",
+          "Whether there are restrictions on disposition or use, whether the sale or price is subject to undeterminable conditions, whether proceeds accrue to the seller, and whether buyer and seller are related."
+        ],
+        "correct": "It produced the WTO Customs Valuation Agreement and strengthened the transaction value system as the main method."
+      },
+      {
+        "question": "What was the Brussels Definition of Value (BDV)?",
+        "options": [
+          "It was an earlier customs valuation concept developed in Europe before the WTO transaction value system became dominant.",
+          "No. That alone is not sufficient to reject transaction value.",
+          "Miscellaneous or developing-country related provisions depending on the document structure used in the notes.",
+          "They are not already included in the price, are provided by or on behalf of the buyer, are used in production or sale for export, and are based on objective and quantifiable data."
+        ],
+        "correct": "It was an earlier customs valuation concept developed in Europe before the WTO transaction value system became dominant."
+      },
+      {
+        "question": "What happens if transaction value cannot be used?",
+        "options": [
+          "It must relate to the imported goods.",
+          "Customs must move sequentially to the next valuation methods, beginning with identical goods, then similar goods, and so on.",
+          "Transaction value of similar goods.",
+          "Yes. If the quantity purchased helped determine the price for the exported goods, the discount may be recognized."
+        ],
+        "correct": "Customs must move sequentially to the next valuation methods, beginning with identical goods, then similar goods, and so on."
+      },
+      {
+        "question": "What common characteristics do assists have?",
+        "options": [
+          "They are not already included in the price, are provided by or on behalf of the buyer, are used in production or sale for export, and are based on objective and quantifiable data.",
+          "Show that the price is the same as in sales to unrelated buyers in comparable circumstances.",
+          "Yes. Cash discounts, volume discounts, trade discounts, and purchase discounts do not automatically disqualify transaction value.",
+          "Where the seller sets the price of imported goods on condition that the buyer will also buy other goods in specified quantities."
+        ],
+        "correct": "They are not already included in the price, are provided by or on behalf of the buyer, are used in production or sale for export, and are based on objective and quantifiable data."
+      },
+      {
+        "question": "Why must customs assess the authenticity of documents?",
+        "options": [
+          "Yes.",
+          "In a reasonable manner appropriate to the circumstances and supported by documentation.",
+          "Because transaction value relies heavily on documentary evidence, so customs must be satisfied that the documents are truthful and reliable.",
+          "No. Such payments do not normally form part of the customs value of the imported product."
+        ],
+        "correct": "Because transaction value relies heavily on documentary evidence, so customs must be satisfied that the documents are truthful and reliable."
+      },
+      {
+        "question": "Why are transport terms like CIF and FOB important in customs valuation?",
+        "options": [
+          "It is the value declared or determined for imported goods for customs purposes and forms the basis for assessing duties and taxes.",
+          "No, but it signals that the issue must be examined carefully.",
+          "Because they help show whether freight, insurance, and related costs are already included in the invoice price or must be added.",
+          "It was an earlier customs valuation concept developed in Europe before the WTO transaction value system became dominant."
+        ],
+        "correct": "Because they help show whether freight, insurance, and related costs are already included in the invoice price or must be added."
+      },
+      {
+        "question": "Give one example of a problematic condition in Article 1.1(b).",
+        "options": [
+          "Where the seller sets the price of imported goods on condition that the buyer will also buy other goods in specified quantities.",
+          "Engineering, development, artwork, design work, and plans and sketches undertaken outside the country of importation and necessary for production of the imported goods.",
+          "It is the value declared or determined for imported goods for customs purposes and forms the basis for assessing duties and taxes.",
+          "Members of the same family."
+        ],
+        "correct": "Where the seller sets the price of imported goods on condition that the buyer will also buy other goods in specified quantities."
+      },
+      {
+        "question": "Does a positive answer to one of the Article 1.1 questions always mean transaction value must be rejected?",
+        "options": [
+          "A payment made to an intermediary acting in a transaction, such as an agent.",
+          "No, but it signals that the issue must be examined carefully.",
+          "The sale, the sale for export to the country of importation, and the price actually paid or payable.",
+          "Legally recognized partners in business."
+        ],
+        "correct": "No, but it signals that the issue must be examined carefully."
+      }
+    ]
+  },
+  "12.6": {
+    "type": "quiz",
+    "questions": [
+      {
+        "question": "What problem existed before modern customs valuation rules were developed?",
+        "options": [
+          "The price actually paid or payable for imported goods when sold for export to the country of importation, adjusted as required by Article 8.",
+          "The buyer must have to pay it directly or indirectly as a condition of sale of the imported goods.",
+          "Usually no, because the goods are dispatched for sale later and ownership may remain with the foreign supplier at the time of importation.",
+          "Different countries used different, often arbitrary systems of valuation, creating uncertainty and barriers to trade."
+        ],
+        "correct": "Different countries used different, often arbitrary systems of valuation, creating uncertainty and barriers to trade."
+      },
+      {
+        "question": "Name another category of related persons under Article 15.",
+        "options": [
+          "No.",
+          "The original acquisition or production cost may need to be adjusted downward to reflect prior use.",
+          "Legally recognized partners in business.",
+          "They form part of the customs value because they are part of the price actually paid or payable."
+        ],
+        "correct": "Legally recognized partners in business."
+      },
+      {
+        "question": "Can buyer and seller be related if one directly or indirectly controls the other?",
+        "options": [
+          "Yes.",
+          "No. Only storage costs connected with shipment may be relevant; if incurred after importation they are generally excluded.",
+          "Yes, where it falls within the relevant engineering, development, design, or plan-related categories and is necessary for production.",
+          "It must relate to the imported goods."
+        ],
+        "correct": "Yes."
+      },
+      {
+        "question": "What happens if transaction value cannot be used?",
+        "options": [
+          "Customs must move sequentially to the next valuation methods, beginning with identical goods, then similar goods, and so on.",
+          "By observing the circumstances surrounding the sale or by measuring against test values.",
+          "Because they help explain how and when the buyer pays the seller, which can affect analysis of the price actually paid or payable.",
+          "Whether freight, insurance, and related charges to the place of importation are not included and therefore need treatment under Article 8.2."
+        ],
+        "correct": "Customs must move sequentially to the next valuation methods, beginning with identical goods, then similar goods, and so on."
+      },
+      {
+        "question": "Why is customs value important?",
+        "options": [
+          "Because customs duties and taxes, especially ad valorem duties, are calculated using the customs value as the assessment base.",
+          "It includes the cost of packing materials and packing labor.",
+          "The exact goods supplied, the quantity, weights, measurements, and clear product descriptions.",
+          "Insurance may be included where it is part of the cost of bringing the goods to the place of importation, subject to the law and evidence."
+        ],
+        "correct": "Because customs duties and taxes, especially ad valorem duties, are calculated using the customs value as the assessment base."
+      }
+    ]
+  }
+}
