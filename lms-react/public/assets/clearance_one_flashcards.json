@@ -1,0 +1,1803 @@
+{
+  "module_id": "clearance-one",
+  "title": "Customs Clearance I Flashcards",
+  "description": "295 flashcards covering all 12 topics of Customs Clearance I based on EACCMA 2004.",
+  "topics": [
+    "Prohibited & Restricted Goods",
+    "Core Import Procedures & Terms",
+    "Arrival Overland & Reporting",
+    "Rummaging & Search Powers",
+    "Arrival by Air & Sea",
+    "Manifest, Short & Excess Landed",
+    "Coasting Vessels & Aircraft",
+    "Damaged Cargo & Shipwreck",
+    "Entry of Goods & Timelines",
+    "Supporting Documents & Declarations",
+    "Goods Cleared Without Entry",
+    "Goods in Transit Shed",
+    "Import Customs Regimes",
+    "Form C17 & Declaration Data",
+    "Partner Government Agencies",
+    "Sources of Customs Law & EAC",
+    "EAC Organs",
+    "RKC, WTO TFA & SAFE",
+    "Tax Assessment & Customs Valuation",
+    "CRSP for Used Motor Vehicles",
+    "Customs Warehouse Rent",
+    "Rapid-Fire Challenge Cards",
+    "Mini Oral-Test Prompts",
+    "Memory Anchors"
+  ],
+  "flashcards": [
+    {
+      "id": 1,
+      "front": "What are prohibited goods?",
+      "back": "Goods that are not allowed to be imported, exported, or transferred into or outside Partner States.",
+      "topic": "Prohibited & Restricted Goods"
+    },
+    {
+      "id": 2,
+      "front": "How does EACCMA define prohibited goods?",
+      "back": "Goods whose importation, exportation, or carriage coastwise is prohibited under the Act or any law in force in the Partner States.",
+      "topic": "Prohibited & Restricted Goods"
+    },
+    {
+      "id": 3,
+      "front": "What are restricted goods?",
+      "back": "Goods whose importation or exportation is allowed only after specific conditions are met.",
+      "topic": "Prohibited & Restricted Goods"
+    },
+    {
+      "id": 4,
+      "front": "What is the main difference between prohibited and restricted goods?",
+      "back": "Prohibited goods are not allowed at all; restricted goods are allowed only with permits, certificates, or approvals.",
+      "topic": "Prohibited & Restricted Goods"
+    },
+    {
+      "id": 5,
+      "front": "Name four examples of prohibited goods.",
+      "back": "Counterfeit currency, pornographic materials, matches made with white phosphorus, narcotic drugs under international control.",
+      "topic": "Prohibited & Restricted Goods"
+    },
+    {
+      "id": 6,
+      "front": "Which kind of false money is prohibited?",
+      "back": "Counterfeit currency notes and coins, and money not of the established standard in weight or fineness.",
+      "topic": "Prohibited & Restricted Goods"
+    },
+    {
+      "id": 7,
+      "front": "Why are pornographic and obscene materials prohibited?",
+      "back": "Mainly for social and moral control.",
+      "topic": "Prohibited & Restricted Goods"
+    },
+    {
+      "id": 8,
+      "front": "Why are narcotic drugs prohibited?",
+      "back": "For health, safety, and international control reasons.",
+      "topic": "Prohibited & Restricted Goods"
+    },
+    {
+      "id": 9,
+      "front": "Why are hazardous wastes prohibited?",
+      "back": "For environmental and health protection.",
+      "topic": "Prohibited & Restricted Goods"
+    },
+    {
+      "id": 10,
+      "front": "Give examples of restricted goods.",
+      "back": "Postal franking machines, traps for game animals, unwrought precious metals, arms and ammunition, worked ivory, GM products, second-hand tyres.",
+      "topic": "Prohibited & Restricted Goods"
+    },
+    {
+      "id": 11,
+      "front": "Why are arms and ammunition restricted?",
+      "back": "Because of security and safety concerns.",
+      "topic": "Prohibited & Restricted Goods"
+    },
+    {
+      "id": 12,
+      "front": "Why are endangered flora and fauna products restricted?",
+      "back": "To comply with CITES and protect biodiversity.",
+      "topic": "Prohibited & Restricted Goods"
+    },
+    {
+      "id": 13,
+      "front": "Why are genetically modified products restricted?",
+      "back": "Because they require regulatory control and safety assessment.",
+      "topic": "Prohibited & Restricted Goods"
+    },
+    {
+      "id": 14,
+      "front": "Why are second-hand tyres restricted?",
+      "back": "For safety, environmental, and quality-control reasons.",
+      "topic": "Prohibited & Restricted Goods"
+    },
+    {
+      "id": 15,
+      "front": "Which schedule deals with prohibited and restricted exports?",
+      "back": "The Third Schedule.",
+      "topic": "Prohibited & Restricted Goods"
+    },
+    {
+      "id": 16,
+      "front": "What does Section 70 of EACCMA say about prohibited exports?",
+      "back": "Goods specified in Part A of the Third Schedule are prohibited goods, and their exportation is prohibited.",
+      "topic": "Prohibited & Restricted Goods"
+    },
+    {
+      "id": 17,
+      "front": "Give two examples of prohibited exports from the notes.",
+      "back": "Used or scrap cables and conductors of aluminium, steel, and copper.",
+      "topic": "Prohibited & Restricted Goods"
+    },
+    {
+      "id": 18,
+      "front": "What are restricted exports?",
+      "back": "Goods in Part B of the Third Schedule whose export is allowed only if conditions regulating their export are met.",
+      "topic": "Prohibited & Restricted Goods"
+    },
+    {
+      "id": 19,
+      "front": "Give five examples of restricted exports.",
+      "back": "Waste and scrap of ferrous cast iron, timber, fresh unprocessed Nile perch and tilapia, wood charcoal, used automobile batteries and lead scrap.",
+      "topic": "Prohibited & Restricted Goods"
+    },
+    {
+      "id": 20,
+      "front": "What vessel-size rule applies to some restricted exports?",
+      "back": "Warehoused goods, goods under duty drawback, and transshipped goods shall not be exported in vessels of less than 250 tons register.",
+      "topic": "Prohibited & Restricted Goods"
+    },
+    {
+      "id": 21,
+      "front": "What document support must exist before restricted goods are cleared?",
+      "back": "Import permits, certificates, or authority from the relevant agency.",
+      "topic": "Prohibited & Restricted Goods"
+    },
+    {
+      "id": 22,
+      "front": "Who controls restricted goods besides Customs?",
+      "back": "Specific government agencies depending on the nature of the goods.",
+      "topic": "Prohibited & Restricted Goods"
+    },
+    {
+      "id": 23,
+      "front": "Name six reasons goods may be prohibited or restricted.",
+      "back": "Political, health, economic, safety and security, environmental and agricultural, and social reasons.",
+      "topic": "Prohibited & Restricted Goods"
+    },
+    {
+      "id": 24,
+      "front": "How should prohibited imports generally be handled?",
+      "back": "They should not be cleared for import; they are liable to seizure and other enforcement action.",
+      "topic": "Prohibited & Restricted Goods"
+    },
+    {
+      "id": 25,
+      "front": "How should restricted imports generally be handled?",
+      "back": "They may be cleared only after the importer satisfies all permit and agency requirements.",
+      "topic": "Prohibited & Restricted Goods"
+    },
+    {
+      "id": 26,
+      "front": "How should prohibited exports be handled?",
+      "back": "Exportation should be stopped because the law prohibits it.",
+      "topic": "Prohibited & Restricted Goods"
+    },
+    {
+      "id": 27,
+      "front": "How should restricted exports be handled?",
+      "back": "Export is allowed only if conditions and authorizations are satisfied.",
+      "topic": "Prohibited & Restricted Goods"
+    },
+    {
+      "id": 28,
+      "front": "Exam trap: Are all dangerous goods prohibited?",
+      "back": "No. Some are prohibited, while others are only restricted and may move with approval.",
+      "topic": "Prohibited & Restricted Goods"
+    },
+    {
+      "id": 29,
+      "front": "What are the four import categories in the notes?",
+      "back": "Direct imports, temporary imports, re-imports, and warehoused goods.",
+      "topic": "Core Import Procedures & Terms"
+    },
+    {
+      "id": 30,
+      "front": "What is an approved place of loading/unloading?",
+      "back": "A quay, jetty, wharf, or other place, including part of a Customs airport, appointed by the Commissioner for loading or unloading goods.",
+      "topic": "Core Import Procedures & Terms"
+    },
+    {
+      "id": 31,
+      "front": "What is a boarding station?",
+      "back": "A place appointed by the Commissioner for aircraft or vessels to bring to for boarding or disembarkation of officers.",
+      "topic": "Core Import Procedures & Terms"
+    },
+    {
+      "id": 32,
+      "front": "What is cargo?",
+      "back": "All goods imported or exported in an aircraft, vehicle, or vessel, excluding stores for use by the craft, crew and passengers, and bona fide personal baggage.",
+      "topic": "Core Import Procedures & Terms"
+    },
+    {
+      "id": 33,
+      "front": "What is a Customs area?",
+      "back": "A place appointed under section 12 for Customs operations, including deposit of goods under Customs control.",
+      "topic": "Core Import Procedures & Terms"
+    },
+    {
+      "id": 34,
+      "front": "What is a Customs warehouse?",
+      "back": "A place approved for deposit of unentered, unexamined, abandoned, detained, or seized goods for security of goods or duties.",
+      "topic": "Core Import Procedures & Terms"
+    },
+    {
+      "id": 35,
+      "front": "Who is a master?",
+      "back": "Any person having or taking charge or command of an aircraft or vessel.",
+      "topic": "Core Import Procedures & Terms"
+    },
+    {
+      "id": 36,
+      "front": "What does 'import' mean?",
+      "back": "To bring or cause to be brought into the Partner States from a foreign country.",
+      "topic": "Core Import Procedures & Terms"
+    },
+    {
+      "id": 37,
+      "front": "What is a port under Customs law?",
+      "back": "A place appointed by the Council for purposes of Customs law; for aircraft, a port means a Customs airport.",
+      "topic": "Core Import Procedures & Terms"
+    },
+    {
+      "id": 38,
+      "front": "Who is a proper officer?",
+      "back": "Any officer whose right or duty it is to require or perform acts referred to in the Act.",
+      "topic": "Core Import Procedures & Terms"
+    },
+    {
+      "id": 39,
+      "front": "What is a sufferance wharf?",
+      "back": "A place other than an approved loading or unloading place where the Commissioner may allow goods to be loaded or unloaded.",
+      "topic": "Core Import Procedures & Terms"
+    },
+    {
+      "id": 40,
+      "front": "What is a transit shed?",
+      "back": "A building or premises appointed by the Commissioner in writing for deposit of goods under Customs control.",
+      "topic": "Core Import Procedures & Terms"
+    },
+    {
+      "id": 41,
+      "front": "What are uncustomed goods?",
+      "back": "Dutiable goods whose full duty has not been paid, and any goods dealt with contrary to Customs laws whether dutiable or not.",
+      "topic": "Core Import Procedures & Terms"
+    },
+    {
+      "id": 42,
+      "front": "What are the three main modes of cargo arrival mentioned?",
+      "back": "Overland, by air, and by sea.",
+      "topic": "Core Import Procedures & Terms"
+    },
+    {
+      "id": 43,
+      "front": "How may cargo arrive overland according to the notes?",
+      "back": "By motor vehicle, train, pipeline, animal, and cables.",
+      "topic": "Arrival Overland & Reporting"
+    },
+    {
+      "id": 44,
+      "front": "What does Section 29 require of a person in charge of a vehicle arriving overland?",
+      "back": "Report arrival, furnish information, declare truth of particulars, answer questions, produce documents, and make due entry.",
+      "topic": "Arrival Overland & Reporting"
+    },
+    {
+      "id": 45,
+      "front": "To whom must the driver report arrival?",
+      "back": "The officer stationed at the frontier port where the vehicle entered the Partner State.",
+      "topic": "Arrival Overland & Reporting"
+    },
+    {
+      "id": 46,
+      "front": "What declaration form is mentioned for overland vehicle arrival?",
+      "back": "Form C17.",
+      "topic": "Arrival Overland & Reporting"
+    },
+    {
+      "id": 47,
+      "front": "What documents may the proper officer demand from the driver?",
+      "back": "Consignment notes and other relevant documents.",
+      "topic": "Arrival Overland & Reporting"
+    },
+    {
+      "id": 48,
+      "front": "What happens if a person conveys goods by other means, not vehicle or train?",
+      "back": "Under Section 31, that person must still fulfill reporting, documentation, questioning, and declaration duties similar to Section 29.",
+      "topic": "Arrival Overland & Reporting"
+    },
+    {
+      "id": 49,
+      "front": "How is wet cargo arriving overland treated?",
+      "back": "Section 32 applies; the pipeline operator must report and record the nature and quantities and provide apparatus for proper records.",
+      "topic": "Arrival Overland & Reporting"
+    },
+    {
+      "id": 50,
+      "front": "Give examples of wet cargo.",
+      "back": "Petroleum and gas.",
+      "topic": "Arrival Overland & Reporting"
+    },
+    {
+      "id": 51,
+      "front": "What is the Customs area for cargo arriving on an international train?",
+      "back": "The border railway station.",
+      "topic": "Arrival Overland & Reporting"
+    },
+    {
+      "id": 52,
+      "front": "Who acts on behalf of the railway company at the station?",
+      "back": "The station master or other person in charge.",
+      "topic": "Arrival Overland & Reporting"
+    },
+    {
+      "id": 53,
+      "front": "What must the station master submit on arrival of the train?",
+      "back": "Copies of invoices, consignment notes, waybills, and other documents relating to the goods in wagons.",
+      "topic": "Arrival Overland & Reporting"
+    },
+    {
+      "id": 54,
+      "front": "Can the station master allow goods to leave the Customs area without permission?",
+      "back": "No. That is an offence.",
+      "topic": "Arrival Overland & Reporting"
+    },
+    {
+      "id": 55,
+      "front": "Can goods required to be entered at another station be delivered without written permission?",
+      "back": "No.",
+      "topic": "Arrival Overland & Reporting"
+    },
+    {
+      "id": 56,
+      "front": "Through where must a person in charge bring goods into a Partner State?",
+      "back": "Through a port appointed under Section 11, unless otherwise permitted.",
+      "topic": "Arrival Overland & Reporting"
+    },
+    {
+      "id": 57,
+      "front": "What is rummaging?",
+      "back": "An intense search of a vessel or aircraft by the proper officer, usually on a risk basis.",
+      "topic": "Rummaging & Search Powers"
+    },
+    {
+      "id": 58,
+      "front": "Which section gives the proper officer power to search aircraft or vessels?",
+      "back": "Section 246 of EACCMA.",
+      "topic": "Rummaging & Search Powers"
+    },
+    {
+      "id": 59,
+      "front": "What does Regulation 25 require during rummaging?",
+      "back": "The crew must provide all necessary assistance to officers conducting the search.",
+      "topic": "Rummaging & Search Powers"
+    },
+    {
+      "id": 60,
+      "front": "Who must be informed first when a rummage squad boards a vessel?",
+      "back": "The Master, or in his absence the Chief Officer.",
+      "topic": "Rummaging & Search Powers"
+    },
+    {
+      "id": 61,
+      "front": "What should the officer in charge request from the Master?",
+      "back": "A ship's officer to accompany the squad and crew assistance if dismantling is needed.",
+      "topic": "Rummaging & Search Powers"
+    },
+    {
+      "id": 62,
+      "front": "What is checked against Form C.9 during rummage?",
+      "back": "Crew declarations against goods held in their quarters.",
+      "topic": "Rummaging & Search Powers"
+    },
+    {
+      "id": 63,
+      "front": "Which part of a vessel should be rummaged first?",
+      "back": "The crew's quarters.",
+      "topic": "Rummaging & Search Powers"
+    },
+    {
+      "id": 64,
+      "front": "Why are crew quarters searched first?",
+      "back": "To check undeclared dutiable goods while officers are still clean enough to handle personal effects.",
+      "topic": "Rummaging & Search Powers"
+    },
+    {
+      "id": 65,
+      "front": "Can living quarters be rummaged in the absence of occupants?",
+      "back": "No. At least one occupant must be present.",
+      "topic": "Rummaging & Search Powers"
+    },
+    {
+      "id": 66,
+      "front": "When may personal effects and lockers be searched?",
+      "back": "Only in the presence of the owner.",
+      "topic": "Rummaging & Search Powers"
+    },
+    {
+      "id": 67,
+      "front": "What caution applies when searching passenger accommodation and public rooms?",
+      "back": "Do not disturb passengers or damage fittings and furnishings.",
+      "topic": "Rummaging & Search Powers"
+    },
+    {
+      "id": 68,
+      "front": "What caution applies when searching machinery and structural fittings?",
+      "back": "Do not endanger safety or mechanical operation; consult a competent ship's officer.",
+      "topic": "Rummaging & Search Powers"
+    },
+    {
+      "id": 69,
+      "front": "What should officers do if undeclared goods are found during rummage?",
+      "back": "Note the concealment, seize the goods, report to the officer in charge, show them to the Master, and try to trace the owner.",
+      "topic": "Rummaging & Search Powers"
+    },
+    {
+      "id": 70,
+      "front": "What happens to seized goods after rummage?",
+      "back": "They are marked for identification and taken ashore to the Customs warehouse.",
+      "topic": "Rummaging & Search Powers"
+    },
+    {
+      "id": 71,
+      "front": "What must be issued or prepared after seizure?",
+      "back": "A report, and possibly a Notice of Seizure and offence report.",
+      "topic": "Rummaging & Search Powers"
+    },
+    {
+      "id": 72,
+      "front": "Why are coastal vessels occasionally rummaged?",
+      "back": "As a revenue precaution against hoarding, illicit transfers, smuggling, and evasion of prohibitions and restrictions.",
+      "topic": "Rummaging & Search Powers"
+    },
+    {
+      "id": 73,
+      "front": "Are rummages of all scheduled foreign flights mandatory?",
+      "back": "No. Scheduled services should be rummaged minimally consistent with revenue control.",
+      "topic": "Rummaging & Search Powers"
+    },
+    {
+      "id": 74,
+      "front": "Which aircraft rummages are mandatory?",
+      "back": "Non-scheduled, charter, and private aircraft arriving from foreign.",
+      "topic": "Rummaging & Search Powers"
+    },
+    {
+      "id": 75,
+      "front": "What is the purpose of rummaging an aircraft?",
+      "back": "To ensure all goods, baggage, stores, and cargo are lawfully on board and properly accounted for.",
+      "topic": "Rummaging & Search Powers"
+    },
+    {
+      "id": 76,
+      "front": "What happens to goods on an aircraft not accounted for to the officer's satisfaction?",
+      "back": "They must be detained and the facts reported.",
+      "topic": "Rummaging & Search Powers"
+    },
+    {
+      "id": 77,
+      "front": "When may a person be searched?",
+      "back": "When an officer has reasonable grounds to believe the person has uncustomed goods.",
+      "topic": "Rummaging & Search Powers"
+    },
+    {
+      "id": 78,
+      "front": "What if the person objects to being searched?",
+      "back": "The person must be taken before the station manager or senior officer to decide whether the search should proceed.",
+      "topic": "Rummaging & Search Powers"
+    },
+    {
+      "id": 79,
+      "front": "Where should searches of persons take place?",
+      "back": "In a cabin, Customs office, or other private place.",
+      "topic": "Rummaging & Search Powers"
+    },
+    {
+      "id": 80,
+      "front": "Who may search a female suspect?",
+      "back": "Only a female officer.",
+      "topic": "Rummaging & Search Powers"
+    },
+    {
+      "id": 81,
+      "front": "What must the master or agent produce on arrival?",
+      "back": "All books and documents relating to the craft, cargo, stores, baggage, crew, and passengers as required by the proper officer.",
+      "topic": "Arrival by Air & Sea"
+    },
+    {
+      "id": 82,
+      "front": "What is Form C2?",
+      "back": "Inward report for a vessel.",
+      "topic": "Arrival by Air & Sea"
+    },
+    {
+      "id": 83,
+      "front": "What is Form C4?",
+      "back": "Inward report for an aircraft; it is also mentioned as the clearance form for an aircraft.",
+      "topic": "Arrival by Air & Sea"
+    },
+    {
+      "id": 84,
+      "front": "What information is contained in the inward report?",
+      "back": "Particulars such as nationality, tonnage, crew numbers, and port of landing.",
+      "topic": "Arrival by Air & Sea"
+    },
+    {
+      "id": 85,
+      "front": "What is Form C3?",
+      "back": "Parcels list showing packages or parcels imported for which no bill of lading was issued.",
+      "topic": "Arrival by Air & Sea"
+    },
+    {
+      "id": 86,
+      "front": "What is included in the crew list?",
+      "back": "Full name, gender, nationality, and details of the master and crew members.",
+      "topic": "Arrival by Air & Sea"
+    },
+    {
+      "id": 87,
+      "front": "What is Form C5?",
+      "back": "Passenger list showing passengers disembarking and those remaining on board.",
+      "topic": "Arrival by Air & Sea"
+    },
+    {
+      "id": 88,
+      "front": "What is Form C6?",
+      "back": "Declaration Advice Consumable Stores, giving details of all dutiable stores on board.",
+      "topic": "Arrival by Air & Sea"
+    },
+    {
+      "id": 89,
+      "front": "What is Form C7?",
+      "back": "Crew Declaration of all dutiable goods in possession of each crew member.",
+      "topic": "Arrival by Air & Sea"
+    },
+    {
+      "id": 90,
+      "front": "What is the last port of call list?",
+      "back": "A list of the vessel's last ten port calls in chronological order.",
+      "topic": "Arrival by Air & Sea"
+    },
+    {
+      "id": 91,
+      "front": "What does the arms and ammunition list show?",
+      "back": "Details of all arms and ammunition on board.",
+      "topic": "Arrival by Air & Sea"
+    },
+    {
+      "id": 92,
+      "front": "What does the narcotics list show?",
+      "back": "Details of all narcotics on board.",
+      "topic": "Arrival by Air & Sea"
+    },
+    {
+      "id": 93,
+      "front": "When should the cargo manifest be submitted?",
+      "back": "Before arrival of the vessel or aircraft, under Section 24.",
+      "topic": "Arrival by Air & Sea"
+    },
+    {
+      "id": 94,
+      "front": "What does Regulation 23 say about dutiable stores?",
+      "back": "Stores for crew and passengers may be produced separately and approved or placed under seal by the proper officer.",
+      "topic": "Arrival by Air & Sea"
+    },
+    {
+      "id": 95,
+      "front": "What are the duty-free allowable stores per crew member?",
+      "back": "200 cigarettes or 200g tobacco, 750 ml potable spirits, and 3 litres of wine or beer.",
+      "topic": "Arrival by Air & Sea"
+    },
+    {
+      "id": 96,
+      "front": "What happens to quantities above the allowable stores?",
+      "back": "They are sealed by the proper officer.",
+      "topic": "Arrival by Air & Sea"
+    },
+    {
+      "id": 97,
+      "front": "Is breaking the seal without approval an offence?",
+      "back": "Yes.",
+      "topic": "Arrival by Air & Sea"
+    },
+    {
+      "id": 98,
+      "front": "What is issued once the proper officer is satisfied all requirements are met?",
+      "back": "A certificate of clearance.",
+      "topic": "Arrival by Air & Sea"
+    },
+    {
+      "id": 99,
+      "front": "What fee is mentioned for certificate of clearance?",
+      "back": "USD 3.",
+      "topic": "Arrival by Air & Sea"
+    },
+    {
+      "id": 100,
+      "front": "What can the proper officer permit to be amended in an inward report?",
+      "back": "Destination, ownership, status of goods, or obvious errors/omissions.",
+      "topic": "Manifest, Short & Excess Landed"
+    },
+    {
+      "id": 101,
+      "front": "What documents support amendment of a manifest?",
+      "back": "A manifest corrector and an affidavit.",
+      "topic": "Manifest, Short & Excess Landed"
+    },
+    {
+      "id": 102,
+      "front": "What fee is paid for amendment of inward report?",
+      "back": "USD 10.",
+      "topic": "Manifest, Short & Excess Landed"
+    },
+    {
+      "id": 103,
+      "front": "What is short landed cargo?",
+      "back": "Cargo that was manifested but is not physically on board for unloading.",
+      "topic": "Manifest, Short & Excess Landed"
+    },
+    {
+      "id": 104,
+      "front": "What is excess landed cargo?",
+      "back": "Cargo not manifested but physically on board for unloading.",
+      "topic": "Manifest, Short & Excess Landed"
+    },
+    {
+      "id": 105,
+      "front": "Name three reasons that may justify short landed cargo.",
+      "back": "Goods were not shipped, were discharged at a previous port, were overcarried to a later port.",
+      "topic": "Manifest, Short & Excess Landed"
+    },
+    {
+      "id": 106,
+      "front": "Give four more possible explanations for short landed cargo.",
+      "back": "Returned after overcarriage, carried by another craft, lost at sea, stolen or destroyed before arrival within EAC ports.",
+      "topic": "Manifest, Short & Excess Landed"
+    },
+    {
+      "id": 107,
+      "front": "How is excess landed cargo regularized?",
+      "back": "By a supplementary manifest.",
+      "topic": "Manifest, Short & Excess Landed"
+    },
+    {
+      "id": 108,
+      "front": "What is the fee for a supplementary manifest?",
+      "back": "USD 10.",
+      "topic": "Manifest, Short & Excess Landed"
+    },
+    {
+      "id": 109,
+      "front": "What does 'carried coastwise' mean?",
+      "back": "Goods conveyed by sea or air from one part of a Partner State to another part thereof.",
+      "topic": "Coasting Vessels & Aircraft"
+    },
+    {
+      "id": 110,
+      "front": "What is a coasting vessel or aircraft?",
+      "back": "A vessel or aircraft carrying goods coastwise within the Partner States.",
+      "topic": "Coasting Vessels & Aircraft"
+    },
+    {
+      "id": 111,
+      "front": "Which provisions govern coasting vessels and aircraft?",
+      "back": "Sections 96–109 of EACCMA and Regulations 123–130 of EACCMR.",
+      "topic": "Coasting Vessels & Aircraft"
+    },
+    {
+      "id": 112,
+      "front": "What document must the master present for coastwise carriage or transfer?",
+      "back": "A transire.",
+      "topic": "Coasting Vessels & Aircraft"
+    },
+    {
+      "id": 113,
+      "front": "What does the transire do?",
+      "back": "It authorizes carriage of the goods and also serves as certificate of clearance for the coastwise voyage.",
+      "topic": "Coasting Vessels & Aircraft"
+    },
+    {
+      "id": 114,
+      "front": "In what form must the account for coastwise cargo be delivered?",
+      "back": "In triplicate on the prescribed form.",
+      "topic": "Coasting Vessels & Aircraft"
+    },
+    {
+      "id": 115,
+      "front": "Where must coastwise goods be loaded or unloaded?",
+      "back": "At an approved place of loading or a sufferance wharf.",
+      "topic": "Coasting Vessels & Aircraft"
+    },
+    {
+      "id": 116,
+      "front": "What may the proper officer require after unloading coastwise goods?",
+      "back": "That goods be conveyed immediately to a Customs area or transit shed.",
+      "topic": "Coasting Vessels & Aircraft"
+    },
+    {
+      "id": 117,
+      "front": "What may the proper officer require for goods transferred by road?",
+      "back": "Immediate conveyance to a Customs house or another directed place.",
+      "topic": "Coasting Vessels & Aircraft"
+    },
+    {
+      "id": 118,
+      "front": "What happens if goods reported to be unloaded are in fact not unloaded?",
+      "back": "The master or agent must pay duty unless acceptable explanation is given.",
+      "topic": "Damaged Cargo & Shipwreck"
+    },
+    {
+      "id": 119,
+      "front": "What must a master do if a vessel or aircraft is accidentally forced to land in EAC States?",
+      "back": "Immediately report the cargo and stores to the nearest Customs or administrative officer.",
+      "topic": "Damaged Cargo & Shipwreck"
+    },
+    {
+      "id": 120,
+      "front": "What happens to cargo and stores of an abandoned vessel or aircraft?",
+      "back": "They are liable to seizure unless satisfactory explanation is given.",
+      "topic": "Damaged Cargo & Shipwreck"
+    },
+    {
+      "id": 121,
+      "front": "In case of loss or wreck, what must the master or agent do?",
+      "back": "Report the aircraft or vessel and its cargo and stores with all reasonable speed to the nearest officer.",
+      "topic": "Damaged Cargo & Shipwreck"
+    },
+    {
+      "id": 122,
+      "front": "When are goods deemed to be entered under Section 2(2)(a)?",
+      "back": "When entry is made and lodged properly and duty or deposit is paid, or security is given.",
+      "topic": "Entry of Goods & Timelines"
+    },
+    {
+      "id": 123,
+      "front": "When are goods deemed to be entered for home consumption?",
+      "back": "When declared for use in a Partner State other than temporary use and requirements of entry are fulfilled.",
+      "topic": "Entry of Goods & Timelines"
+    },
+    {
+      "id": 124,
+      "front": "Within how many days must goods be entered?",
+      "back": "Within 21 days after commencement of discharge, or on arrival for vehicles, unless further time is allowed.",
+      "topic": "Entry of Goods & Timelines"
+    },
+    {
+      "id": 125,
+      "front": "What happens if cargo remains unentered after 21 days?",
+      "back": "It becomes liable to Customs warehouse rent.",
+      "topic": "Entry of Goods & Timelines"
+    },
+    {
+      "id": 126,
+      "front": "What if cargo is entered but not removed from the port within 21 days?",
+      "back": "It is deemed to be in a Customs warehouse.",
+      "topic": "Entry of Goods & Timelines"
+    },
+    {
+      "id": 127,
+      "front": "Can goods be entered before arrival?",
+      "back": "Yes, under Section 34(3), allowing pre-arrival processing.",
+      "topic": "Entry of Goods & Timelines"
+    },
+    {
+      "id": 128,
+      "front": "Why is pre-arrival processing important?",
+      "back": "It reduces clearance time and costs.",
+      "topic": "Entry of Goods & Timelines"
+    },
+    {
+      "id": 129,
+      "front": "Who bears the burden of proving correctness of entry particulars?",
+      "back": "The owner, not Customs.",
+      "topic": "Entry of Goods & Timelines"
+    },
+    {
+      "id": 130,
+      "front": "For what purposes may cargo be entered?",
+      "back": "Home consumption, warehousing, transhipment, transit, or export processing zones.",
+      "topic": "Entry of Goods & Timelines"
+    },
+    {
+      "id": 131,
+      "front": "Name five basic supporting documents for import entry.",
+      "back": "Bill of lading/airway bill/road manifest, packing list, commercial invoice, freight invoice, insurance debit note.",
+      "topic": "Supporting Documents & Declarations"
+    },
+    {
+      "id": 132,
+      "front": "Name five more supporting documents.",
+      "back": "Certificate of export, certificate of conformity, registration/incorporation/ID, TIN, certificate of origin.",
+      "topic": "Supporting Documents & Declarations"
+    },
+    {
+      "id": 133,
+      "front": "Name five additional possible supporting documents.",
+      "back": "Import Declaration Form, motor vehicle logbook, certificate of roadworthiness, permits/licenses, chemical analysis report.",
+      "topic": "Supporting Documents & Declarations"
+    },
+    {
+      "id": 134,
+      "front": "What proof of payment may support entry?",
+      "back": "Telegraphic transfer, letter of credit, and similar evidence.",
+      "topic": "Supporting Documents & Declarations"
+    },
+    {
+      "id": 135,
+      "front": "What is Form C36?",
+      "back": "Declaration of Value, a statement by the importer about trading terms with the foreign supplier.",
+      "topic": "Supporting Documents & Declarations"
+    },
+    {
+      "id": 136,
+      "front": "Who must complete Form C36?",
+      "back": "The owner of the goods, not the Customs agent.",
+      "topic": "Supporting Documents & Declarations"
+    },
+    {
+      "id": 137,
+      "front": "Who completes Certificate A on Form C36?",
+      "back": "An importer not related to the supplier.",
+      "topic": "Supporting Documents & Declarations"
+    },
+    {
+      "id": 138,
+      "front": "Who completes Certificate B on Form C36?",
+      "back": "An importer related to the supplier.",
+      "topic": "Supporting Documents & Declarations"
+    },
+    {
+      "id": 139,
+      "front": "What is a provisional entry?",
+      "back": "An entry lodged when there are insufficient documents or information.",
+      "topic": "Supporting Documents & Declarations"
+    },
+    {
+      "id": 140,
+      "front": "What security may the Commissioner require for provisional entry?",
+      "back": "Cash deposit, bank guarantee, or bond.",
+      "topic": "Supporting Documents & Declarations"
+    },
+    {
+      "id": 141,
+      "front": "Within how long must a provisional entry be perfected?",
+      "back": "Within three months, or further period allowed.",
+      "topic": "Supporting Documents & Declarations"
+    },
+    {
+      "id": 142,
+      "front": "What are the uses of a Customs declaration?",
+      "back": "Tax assessment, tax payment arrangement, determination of bond in force, document processing across institutions, and obtaining genuine clearance.",
+      "topic": "Supporting Documents & Declarations"
+    },
+    {
+      "id": 143,
+      "front": "Why must Customs declarations be standardized internationally?",
+      "back": "To facilitate trade and ensure uniform minimum data requirements.",
+      "topic": "Supporting Documents & Declarations"
+    },
+    {
+      "id": 144,
+      "front": "Which international instrument influences declaration layout?",
+      "back": "The Revised Kyoto Convention through the UN layout key.",
+      "topic": "Supporting Documents & Declarations"
+    },
+    {
+      "id": 145,
+      "front": "What did the UN layout key lead to?",
+      "back": "Development of the Single Administrative Document (SAD).",
+      "topic": "Supporting Documents & Declarations"
+    },
+    {
+      "id": 146,
+      "front": "Name goods that may be cleared without an entry.",
+      "back": "Mail bags and postal articles, bona fide passenger baggage, human remains, diplomatic bags.",
+      "topic": "Goods Cleared Without Entry"
+    },
+    {
+      "id": 147,
+      "front": "Which sensitive goods may be cleared without entry subject to an undertaking?",
+      "back": "Bullion, currency notes, coin, and perishable goods.",
+      "topic": "Goods Cleared Without Entry"
+    },
+    {
+      "id": 148,
+      "front": "Within how long must the owner furnish the necessary entry for those exceptions?",
+      "back": "Within 48 hours of delivery.",
+      "topic": "Goods Cleared Without Entry"
+    },
+    {
+      "id": 149,
+      "front": "How are goods in a transit shed legally treated?",
+      "back": "They are deemed to be in the importing vessel or aircraft until delivered.",
+      "topic": "Goods in Transit Shed"
+    },
+    {
+      "id": 150,
+      "front": "Who remains responsible for goods in a transit shed?",
+      "back": "The owner or agent.",
+      "topic": "Goods in Transit Shed"
+    },
+    {
+      "id": 151,
+      "front": "What if reported goods are not duly unloaded and deposited in a transit shed or Customs area?",
+      "back": "The master or agent must pay duty unless he explains satisfactorily.",
+      "topic": "Goods in Transit Shed"
+    },
+    {
+      "id": 152,
+      "front": "Who commits an offence if goods in custody are not accounted for?",
+      "back": "The owner of vessel/aircraft, his agent, or the transit shed owner.",
+      "topic": "Goods in Transit Shed"
+    },
+    {
+      "id": 153,
+      "front": "Who is liable for reshipment or destruction costs of condemned goods?",
+      "back": "The owner of vessel or aircraft, his agent, or the transit shed owner.",
+      "topic": "Goods in Transit Shed"
+    },
+    {
+      "id": 154,
+      "front": "Name the main import Customs regimes in the notes.",
+      "back": "Imports for home use, temporary imports, re-imports, and warehousing.",
+      "topic": "Import Customs Regimes"
+    },
+    {
+      "id": 155,
+      "front": "Give examples under imports for home use.",
+      "back": "Duty paid, provisional import declaration, release of perishables, tax free by tariff.",
+      "topic": "Import Customs Regimes"
+    },
+    {
+      "id": 156,
+      "front": "Give examples of ex-warehouse home use entries.",
+      "back": "Duty paid, duty paid for regional market, tax free, duty exempt under Third Schedule.",
+      "topic": "Import Customs Regimes"
+    },
+    {
+      "id": 157,
+      "front": "Give examples of home use after temporary importation.",
+      "back": "Home use after temporary importation in unaltered state, and after temporary importation for repair.",
+      "topic": "Import Customs Regimes"
+    },
+    {
+      "id": 158,
+      "front": "What is EX-EPZ home use?",
+      "back": "Home use entry for goods moving from an Export Processing Zone into home consumption.",
+      "topic": "Import Customs Regimes"
+    },
+    {
+      "id": 159,
+      "front": "What are the two temporary import regimes listed?",
+      "back": "Temporary importation for return in unaltered state, and temporary importation for repair.",
+      "topic": "Import Customs Regimes"
+    },
+    {
+      "id": 160,
+      "front": "Give examples of re-import regimes.",
+      "back": "Re-import after temporary export for repair with charge, without charge, after substantial change, and rejected/returned exports.",
+      "topic": "Import Customs Regimes"
+    },
+    {
+      "id": 161,
+      "front": "Give examples of warehousing regimes.",
+      "back": "Warehousing of goods, warehousing for regional market, warehousing for crude petroleum products, ex-warehouse removal.",
+      "topic": "Import Customs Regimes"
+    },
+    {
+      "id": 162,
+      "front": "Give examples involving MUB and EPZ.",
+      "back": "Entry into MUB/EPZ from foreign, entry of home-produced goods into MUB/EPZ, and transfer between MUBs or EPZs.",
+      "topic": "Import Customs Regimes"
+    },
+    {
+      "id": 163,
+      "front": "What is Form C17 mainly used for in the notes?",
+      "back": "Customs declaration/entry for goods and for overland arrival declaration.",
+      "topic": "Form C17 & Declaration Data"
+    },
+    {
+      "id": 164,
+      "front": "Name five data items on Form C17.",
+      "back": "Importer details, exporter details, declarant details, processing office, manifest number.",
+      "topic": "Form C17 & Declaration Data"
+    },
+    {
+      "id": 165,
+      "front": "Name five more data items on Form C17.",
+      "back": "Date of arrival, agent details, mode of transport, nationality of transport, marks and numbers.",
+      "topic": "Form C17 & Declaration Data"
+    },
+    {
+      "id": 166,
+      "front": "Name five more data items on Form C17.",
+      "back": "Description of goods, Customs value, total gross weight, net weight, unit of quantity.",
+      "topic": "Form C17 & Declaration Data"
+    },
+    {
+      "id": 167,
+      "front": "Name four more data items on Form C17.",
+      "back": "Country of origin, rate of duty, duty payable, other charges, grand total payable.",
+      "topic": "Form C17 & Declaration Data"
+    },
+    {
+      "id": 168,
+      "front": "What are PGAs?",
+      "back": "Partner Government Agencies involved in clearance of goods; previously called OGAs.",
+      "topic": "Partner Government Agencies"
+    },
+    {
+      "id": 169,
+      "front": "What broad roles do PGAs play?",
+      "back": "Regulatory, security, and tax collection roles.",
+      "topic": "Partner Government Agencies"
+    },
+    {
+      "id": 170,
+      "front": "Name six PGAs from the notes.",
+      "back": "KEBS, KEPHIS, KPA, NIS, KPS, Immigration Department.",
+      "topic": "Partner Government Agencies"
+    },
+    {
+      "id": 171,
+      "front": "Name six more PGAs from the notes.",
+      "back": "Port Health, Kenya Radiation Authority, KMA, NBA, KWS, ACA.",
+      "topic": "Partner Government Agencies"
+    },
+    {
+      "id": 172,
+      "front": "Why are PGAs important in clearance?",
+      "back": "Customs works with them to ensure compliance, regulation, security, and specialized approvals.",
+      "topic": "Partner Government Agencies"
+    },
+    {
+      "id": 173,
+      "front": "Which PGA would most likely handle standards compliance?",
+      "back": "KEBS.",
+      "topic": "Partner Government Agencies"
+    },
+    {
+      "id": 174,
+      "front": "Which PGA would most likely handle plant-health matters?",
+      "back": "KEPHIS.",
+      "topic": "Partner Government Agencies"
+    },
+    {
+      "id": 175,
+      "front": "Which PGA would most likely handle wildlife-related goods?",
+      "back": "KWS.",
+      "topic": "Partner Government Agencies"
+    },
+    {
+      "id": 176,
+      "front": "Which PGA would most likely handle biosafety or GM products?",
+      "back": "NBA.",
+      "topic": "Partner Government Agencies"
+    },
+    {
+      "id": 177,
+      "front": "According to Article 39 of the Customs Union Protocol, what are sources of Customs law?",
+      "back": "Treaty provisions, Customs Union Protocol and annexes, Council regulations/directives, court decisions, Community Acts, and relevant principles of international law.",
+      "topic": "Sources of Customs Law & EAC"
+    },
+    {
+      "id": 178,
+      "front": "What is a common market in simple terms?",
+      "back": "A group of countries working together mainly to promote trade and common interests.",
+      "topic": "Sources of Customs Law & EAC"
+    },
+    {
+      "id": 179,
+      "front": "Which countries formed the EAC in 1967?",
+      "back": "Kenya, Uganda, and Tanzania.",
+      "topic": "Sources of Customs Law & EAC"
+    },
+    {
+      "id": 180,
+      "front": "Name the presidents associated with the 1967 EAC formation.",
+      "back": "Jomo Kenyatta, Julius Nyerere, and Milton Obote.",
+      "topic": "Sources of Customs Law & EAC"
+    },
+    {
+      "id": 181,
+      "front": "Give four aims of the original EAC.",
+      "back": "Promote trade, promote unity/cooperation, create a common market, allow free movement of goods and services.",
+      "topic": "Sources of Customs Law & EAC"
+    },
+    {
+      "id": 182,
+      "front": "Why did the EAC collapse in 1977?",
+      "back": "Political differences, lack of common currency, shortage of funds, misunderstandings among presidents, and differing ideologies.",
+      "topic": "Sources of Customs Law & EAC"
+    },
+    {
+      "id": 183,
+      "front": "When was the EAC revived according to the notes?",
+      "back": "4 March 1996.",
+      "topic": "Sources of Customs Law & EAC"
+    },
+    {
+      "id": 184,
+      "front": "Which heads of state revived the EAC?",
+      "back": "Yoweri Museveni, Daniel arap Moi, and Benjamin Mkapa.",
+      "topic": "Sources of Customs Law & EAC"
+    },
+    {
+      "id": 185,
+      "front": "When was the EAC Treaty signed and when did it enter into force?",
+      "back": "Signed on 30 November 1999 and came into force on 7 July 2000.",
+      "topic": "Sources of Customs Law & EAC"
+    },
+    {
+      "id": 186,
+      "front": "When was the Customs Union Protocol signed?",
+      "back": "2 March 2004 in Arusha, Tanzania.",
+      "topic": "Sources of Customs Law & EAC"
+    },
+    {
+      "id": 187,
+      "front": "What does the EAC Customs Union provide for?",
+      "back": "Elimination of Customs duties among Partner States, removal of non-tariff barriers, and a common external tariff for imports from foreign countries.",
+      "topic": "Sources of Customs Law & EAC"
+    },
+    {
+      "id": 188,
+      "front": "Which countries joined later and when?",
+      "back": "Rwanda and Burundi joined in 2008 and began applying instruments in July 2009; South Sudan joined in 2016.",
+      "topic": "Sources of Customs Law & EAC"
+    },
+    {
+      "id": 189,
+      "front": "What is the role of Council regulations and directives?",
+      "back": "They are binding on Partner States and Community organs within their jurisdictions.",
+      "topic": "Sources of Customs Law & EAC"
+    },
+    {
+      "id": 190,
+      "front": "What is EACCMA, 2004?",
+      "back": "The Act providing for management and administration of Customs and related matters.",
+      "topic": "Sources of Customs Law & EAC"
+    },
+    {
+      "id": 191,
+      "front": "What is the structure of EACCMA, 2004 according to the notes?",
+      "back": "21 parts, 253 sections, and 6 schedules.",
+      "topic": "Sources of Customs Law & EAC"
+    },
+    {
+      "id": 192,
+      "front": "What is EACCMR, 2010?",
+      "back": "Regulations made under Section 251 to give effect to EACCMA and govern Customs business.",
+      "topic": "Sources of Customs Law & EAC"
+    },
+    {
+      "id": 193,
+      "front": "What is covered by the Compliance and Enforcement Regulations, 2012?",
+      "back": "Customs administration, cross-border cooperation, post-clearance audit, AEOs, and information management.",
+      "topic": "Sources of Customs Law & EAC"
+    },
+    {
+      "id": 194,
+      "front": "Why must freight logistics practitioners know other national laws too?",
+      "back": "Because company registration, licensing, standards, phytosanitary, pharmaceutical, and poisons laws also affect operations.",
+      "topic": "Sources of Customs Law & EAC"
+    },
+    {
+      "id": 195,
+      "front": "Name the main organs of the EAC listed in the notes.",
+      "back": "Summit, Council, Coordination Committee, Sectoral Committees, East African Court of Justice, East African Legislative Assembly, and Secretariat.",
+      "topic": "EAC Organs"
+    },
+    {
+      "id": 196,
+      "front": "What is the Summit?",
+      "back": "The Heads of State who provide general direction and impetus.",
+      "topic": "EAC Organs"
+    },
+    {
+      "id": 197,
+      "front": "What is the Council?",
+      "back": "The policy organ made up of ministers responsible for EAC affairs and Attorneys General.",
+      "topic": "EAC Organs"
+    },
+    {
+      "id": 198,
+      "front": "What does the Coordination Committee do?",
+      "back": "Submits reports to Council, implements decisions, and coordinates Sectoral Committees.",
+      "topic": "EAC Organs"
+    },
+    {
+      "id": 199,
+      "front": "What do Sectoral Committees do?",
+      "back": "Prepare implementation programs, monitor implementation, and recommend action.",
+      "topic": "EAC Organs"
+    },
+    {
+      "id": 200,
+      "front": "What is the East African Court of Justice?",
+      "back": "The judicial body ensuring adherence to law in implementing the Treaty.",
+      "topic": "EAC Organs"
+    },
+    {
+      "id": 201,
+      "front": "What is the East African Legislative Assembly?",
+      "back": "The legislative organ of the Community.",
+      "topic": "EAC Organs"
+    },
+    {
+      "id": 202,
+      "front": "What is the Secretariat?",
+      "back": "The executive organ of the Community.",
+      "topic": "EAC Organs"
+    },
+    {
+      "id": 203,
+      "front": "What are Customs instruments?",
+      "back": "Conventions and agreements related to Customs clearance of goods.",
+      "topic": "RKC, WTO TFA & SAFE"
+    },
+    {
+      "id": 204,
+      "front": "Name the three instruments emphasized in the notes.",
+      "back": "Revised Kyoto Convention, WTO Trade Facilitation Agreement, and WCO SAFE Framework.",
+      "topic": "RKC, WTO TFA & SAFE"
+    },
+    {
+      "id": 205,
+      "front": "What is the Revised Kyoto Convention?",
+      "back": "An international agreement providing modern Customs procedures to facilitate legitimate trade while maintaining control.",
+      "topic": "RKC, WTO TFA & SAFE"
+    },
+    {
+      "id": 206,
+      "front": "Give four key principles of the RKC.",
+      "back": "Transparency and predictability, standardization and simplification, simplified procedures for authorized persons, maximum use of IT.",
+      "topic": "RKC, WTO TFA & SAFE"
+    },
+    {
+      "id": 207,
+      "front": "Give four benefits of the RKC to Partner States' economies.",
+      "back": "Reduced transaction costs, increased competitiveness, promotion of FDI and industry, increased SME participation.",
+      "topic": "RKC, WTO TFA & SAFE"
+    },
+    {
+      "id": 208,
+      "front": "Give three benefits of the RKC to the trade community.",
+      "back": "Faster and predictable clearance, transparent procedures and appeals, greater facilitation for compliant traders.",
+      "topic": "RKC, WTO TFA & SAFE"
+    },
+    {
+      "id": 209,
+      "front": "Give three benefits of the RKC to Customs administrations.",
+      "back": "Enhanced controls, increased trade facilitation, better resource deployment.",
+      "topic": "RKC, WTO TFA & SAFE"
+    },
+    {
+      "id": 210,
+      "front": "What is the WTO TFA?",
+      "back": "A WTO agreement aimed at making trade flows smoother, freer, and more predictable.",
+      "topic": "RKC, WTO TFA & SAFE"
+    },
+    {
+      "id": 211,
+      "front": "When did the WTO TFA enter into force?",
+      "back": "22 February 2017.",
+      "topic": "RKC, WTO TFA & SAFE"
+    },
+    {
+      "id": 212,
+      "front": "What impacts of the TFA are mentioned for Partner States?",
+      "back": "Reform of national procedures, less red tape, and added export potential.",
+      "topic": "RKC, WTO TFA & SAFE"
+    },
+    {
+      "id": 213,
+      "front": "What is the SAFE Framework?",
+      "back": "A WCO framework to secure and facilitate global trade and improve supply-chain security.",
+      "topic": "RKC, WTO TFA & SAFE"
+    },
+    {
+      "id": 214,
+      "front": "Give four aims of the SAFE Framework.",
+      "back": "Global security standards, harmonized supply chain management, enhanced Customs capability, better detection of high-risk consignments.",
+      "topic": "RKC, WTO TFA & SAFE"
+    },
+    {
+      "id": 215,
+      "front": "What cooperation does SAFE promote between Customs administrations?",
+      "back": "Information exchange, mutual recognition of controls, recognition of AEOs, and administrative assistance.",
+      "topic": "RKC, WTO TFA & SAFE"
+    },
+    {
+      "id": 216,
+      "front": "What cooperation does SAFE promote beyond Customs?",
+      "back": "Cooperation with other government agencies and with business, including Single Window systems.",
+      "topic": "RKC, WTO TFA & SAFE"
+    },
+    {
+      "id": 217,
+      "front": "Give two benefits of SAFE to governments.",
+      "back": "Secure trade against terrorism/transnational crime and improve economic growth/development.",
+      "topic": "RKC, WTO TFA & SAFE"
+    },
+    {
+      "id": 218,
+      "front": "Give two benefits of SAFE to Customs authorities.",
+      "back": "Better risk management and better allocation of resources.",
+      "topic": "RKC, WTO TFA & SAFE"
+    },
+    {
+      "id": 219,
+      "front": "Give three benefits of SAFE to business.",
+      "back": "Faster processing for AEOs, uniform standards, and reduced multiple reporting requirements.",
+      "topic": "RKC, WTO TFA & SAFE"
+    },
+    {
+      "id": 220,
+      "front": "What is Customs value in the basic import tax example?",
+      "back": "CIF value in local currency.",
+      "topic": "Tax Assessment & Customs Valuation"
+    },
+    {
+      "id": 221,
+      "front": "What does CIF stand for?",
+      "back": "Cost, Insurance, and Freight.",
+      "topic": "Tax Assessment & Customs Valuation"
+    },
+    {
+      "id": 222,
+      "front": "What is the formula for CIF in local currency?",
+      "back": "(FOB + Insurance + Freight) × Exchange rate.",
+      "topic": "Tax Assessment & Customs Valuation"
+    },
+    {
+      "id": 223,
+      "front": "In the whiskey example, what are the FOB, insurance, and freight values?",
+      "back": "FOB USD 5000, insurance USD 200, freight USD 900.",
+      "topic": "Tax Assessment & Customs Valuation"
+    },
+    {
+      "id": 224,
+      "front": "In the whiskey example, what is the CIF in USD?",
+      "back": "USD 6100.",
+      "topic": "Tax Assessment & Customs Valuation"
+    },
+    {
+      "id": 225,
+      "front": "In the whiskey example, what is the CIF in Ksh at 130?",
+      "back": "Ksh 793,000.",
+      "topic": "Tax Assessment & Customs Valuation"
+    },
+    {
+      "id": 226,
+      "front": "How is import duty computed in the example?",
+      "back": "25% × Customs value.",
+      "topic": "Tax Assessment & Customs Valuation"
+    },
+    {
+      "id": 227,
+      "front": "What is the import duty in the whiskey example?",
+      "back": "Ksh 198,250.",
+      "topic": "Tax Assessment & Customs Valuation"
+    },
+    {
+      "id": 228,
+      "front": "How is excise duty computed in the example?",
+      "back": "(CIF + Import Duty) × Excise rate.",
+      "topic": "Tax Assessment & Customs Valuation"
+    },
+    {
+      "id": 229,
+      "front": "What is the excise duty in the whiskey example?",
+      "back": "About Ksh 644,313.",
+      "topic": "Tax Assessment & Customs Valuation"
+    },
+    {
+      "id": 230,
+      "front": "How is VAT computed in the example?",
+      "back": "(CIF + Import Duty + Excise Duty) × VAT rate.",
+      "topic": "Tax Assessment & Customs Valuation"
+    },
+    {
+      "id": 231,
+      "front": "What is the VAT in the whiskey example?",
+      "back": "About Ksh 261,690.",
+      "topic": "Tax Assessment & Customs Valuation"
+    },
+    {
+      "id": 232,
+      "front": "What is the total tax payable in the whiskey example?",
+      "back": "Ksh 1,104,253.",
+      "topic": "Tax Assessment & Customs Valuation"
+    },
+    {
+      "id": 233,
+      "front": "In what order are taxes normally built on imports?",
+      "back": "Customs value first, then import duty, then excise, then VAT.",
+      "topic": "Tax Assessment & Customs Valuation"
+    },
+    {
+      "id": 234,
+      "front": "Why is tax on multiple-item consignments tricky?",
+      "back": "Because freight and insurance may be shared across items.",
+      "topic": "Tax Assessment & Customs Valuation"
+    },
+    {
+      "id": 235,
+      "front": "What is the factor method?",
+      "back": "A method of allocating total CIF to each item using total CIF divided by total FOB.",
+      "topic": "Tax Assessment & Customs Valuation"
+    },
+    {
+      "id": 236,
+      "front": "What is the factor formula?",
+      "back": "Factor = Total CIF in Ksh / Total FOB in USD.",
+      "topic": "Tax Assessment & Customs Valuation"
+    },
+    {
+      "id": 237,
+      "front": "In the hammers and helmets example, what is total CIF in Ksh?",
+      "back": "Ksh 270,000.",
+      "topic": "Tax Assessment & Customs Valuation"
+    },
+    {
+      "id": 238,
+      "front": "In that example, what is the factor?",
+      "back": "150.",
+      "topic": "Tax Assessment & Customs Valuation"
+    },
+    {
+      "id": 239,
+      "front": "How is Customs value per item obtained using the factor?",
+      "back": "FOB of each item × factor.",
+      "topic": "Tax Assessment & Customs Valuation"
+    },
+    {
+      "id": 240,
+      "front": "What are the Customs values of hammers and helmets in the example?",
+      "back": "Hammers Ksh 150,000; helmets Ksh 120,000.",
+      "topic": "Tax Assessment & Customs Valuation"
+    },
+    {
+      "id": 241,
+      "front": "What extra levies, besides duty and VAT, appear in the multiple-item example?",
+      "back": "RDL and IDF.",
+      "topic": "Tax Assessment & Customs Valuation"
+    },
+    {
+      "id": 242,
+      "front": "What does CRSP stand for?",
+      "back": "Current Retail Selling Price.",
+      "topic": "CRSP for Used Motor Vehicles"
+    },
+    {
+      "id": 243,
+      "front": "Why do some Customs administrations use CRSP for used vehicles?",
+      "back": "To levy duties in a transparent, fair, and predictable manner despite pricing variations in used cars.",
+      "topic": "CRSP for Used Motor Vehicles"
+    },
+    {
+      "id": 244,
+      "front": "What is the source of CRSP?",
+      "back": "Local retail selling prices from manufacturers or designated dealers.",
+      "topic": "CRSP for Used Motor Vehicles"
+    },
+    {
+      "id": 245,
+      "front": "What is subtracted from CRSP to move toward Customs value?",
+      "back": "Standard profit margin, depreciation, VAT, excise duty, and import duty loaded in the local price.",
+      "topic": "CRSP for Used Motor Vehicles"
+    },
+    {
+      "id": 246,
+      "front": "What special point is made when reversing from residual value to Customs value?",
+      "back": "The tax calculation is done in reverse order and by subtraction.",
+      "topic": "CRSP for Used Motor Vehicles"
+    },
+    {
+      "id": 247,
+      "front": "In the Hilux example, what was the brand-new CRSP?",
+      "back": "Ksh 2,700,000.",
+      "topic": "CRSP for Used Motor Vehicles"
+    },
+    {
+      "id": 248,
+      "front": "What depreciation was used in the example?",
+      "back": "40%.",
+      "topic": "CRSP for Used Motor Vehicles"
+    },
+    {
+      "id": 249,
+      "front": "What residual value remained after depreciation?",
+      "back": "Ksh 1,620,000.",
+      "topic": "CRSP for Used Motor Vehicles"
+    },
+    {
+      "id": 250,
+      "front": "What Customs value was reached in the example?",
+      "back": "Ksh 816,480.",
+      "topic": "CRSP for Used Motor Vehicles"
+    },
+    {
+      "id": 251,
+      "front": "If transaction value is higher than CRSP-derived value, which one is used?",
+      "back": "The higher value.",
+      "topic": "CRSP for Used Motor Vehicles"
+    },
+    {
+      "id": 252,
+      "front": "What is a Customs warehouse under Section 2?",
+      "back": "A place approved for deposit of unentered, unexamined, abandoned, detained, or seized goods for securing duties.",
+      "topic": "Customs Warehouse Rent"
+    },
+    {
+      "id": 253,
+      "front": "What is warehousing in situ?",
+      "back": "Treating goods as warehoused in another place ordered by the proper officer.",
+      "topic": "Customs Warehouse Rent"
+    },
+    {
+      "id": 254,
+      "front": "When may warehouse rent arise?",
+      "back": "When goods remain unentered beyond 21 days or are entered but not removed within 21 days.",
+      "topic": "Customs Warehouse Rent"
+    },
+    {
+      "id": 255,
+      "front": "Can the Commissioner waive warehouse rent?",
+      "back": "Yes, wholly or partly, but only in exceptional or extraordinary circumstances.",
+      "topic": "Customs Warehouse Rent"
+    },
+    {
+      "id": 256,
+      "front": "How may goods in Customs warehouse be disposed of?",
+      "back": "Public auction, destruction, private treaty, or any method the Commissioner deems fit.",
+      "topic": "Customs Warehouse Rent"
+    },
+    {
+      "id": 257,
+      "front": "Are the 21 days calendar days or working days?",
+      "back": "Working days; weekends and public holidays are excluded.",
+      "topic": "Customs Warehouse Rent"
+    },
+    {
+      "id": 258,
+      "front": "What is the Customs Warehouse Date (CWD)?",
+      "back": "The 22nd working day from the date of discharge.",
+      "topic": "Customs Warehouse Rent"
+    },
+    {
+      "id": 259,
+      "front": "What is the warehouse rent formula?",
+      "back": "CBM × number of rent days × rate per CBM × exchange rate.",
+      "topic": "Customs Warehouse Rent"
+    },
+    {
+      "id": 260,
+      "front": "What simplified rate is given?",
+      "back": "$0.3 × exchange rate × CBM × number of days.",
+      "topic": "Customs Warehouse Rent"
+    },
+    {
+      "id": 261,
+      "front": "Is every restricted good illegal?",
+      "back": "No. It is legal if the required conditions are met.",
+      "topic": "Rapid-Fire Challenge Cards"
+    },
+    {
+      "id": 262,
+      "front": "Is every prohibited good detainable only after permit review?",
+      "back": "No. Prohibited goods are not allowed at all; permits do not legalize them unless the law specifically allows.",
+      "topic": "Rapid-Fire Challenge Cards"
+    },
+    {
+      "id": 263,
+      "front": "Who carries the burden of proving correctness of the entry?",
+      "back": "The owner.",
+      "topic": "Rapid-Fire Challenge Cards"
+    },
+    {
+      "id": 264,
+      "front": "Can goods be entered before the ship lands?",
+      "back": "Yes, through pre-arrival processing.",
+      "topic": "Rapid-Fire Challenge Cards"
+    },
+    {
+      "id": 265,
+      "front": "Can bona fide personal baggage be cleared without entry?",
+      "back": "Yes.",
+      "topic": "Rapid-Fire Challenge Cards"
+    },
+    {
+      "id": 266,
+      "front": "Are goods in a transit shed treated as already delivered?",
+      "back": "No. They are deemed still in the importing vessel or aircraft until delivery.",
+      "topic": "Rapid-Fire Challenge Cards"
+    },
+    {
+      "id": 267,
+      "front": "Can a female suspect be searched by a male officer?",
+      "back": "No.",
+      "topic": "Rapid-Fire Challenge Cards"
+    },
+    {
+      "id": 268,
+      "front": "If excess landed cargo is found, what regularization is used?",
+      "back": "Supplementary manifest.",
+      "topic": "Rapid-Fire Challenge Cards"
+    },
+    {
+      "id": 269,
+      "front": "If cargo was manifested but is absent physically, what is that called?",
+      "back": "Short landed cargo.",
+      "topic": "Rapid-Fire Challenge Cards"
+    },
+    {
+      "id": 270,
+      "front": "If cargo is present physically but absent from the manifest, what is that called?",
+      "back": "Excess landed cargo.",
+      "topic": "Rapid-Fire Challenge Cards"
+    },
+    {
+      "id": 271,
+      "front": "What document authorizes coastwise carriage?",
+      "back": "Transire.",
+      "topic": "Rapid-Fire Challenge Cards"
+    },
+    {
+      "id": 272,
+      "front": "What is the first tax built on Customs value in ordinary import computation?",
+      "back": "Import duty.",
+      "topic": "Rapid-Fire Challenge Cards"
+    },
+    {
+      "id": 273,
+      "front": "What is the last major tax in the whiskey example?",
+      "back": "VAT.",
+      "topic": "Rapid-Fire Challenge Cards"
+    },
+    {
+      "id": 274,
+      "front": "In CRSP reverse computation, do you add taxes or subtract them?",
+      "back": "Subtract them.",
+      "topic": "Rapid-Fire Challenge Cards"
+    },
+    {
+      "id": 275,
+      "front": "What are the three headline roles of PGAs?",
+      "back": "Regulatory, security, and tax collection.",
+      "topic": "Rapid-Fire Challenge Cards"
+    },
+    {
+      "id": 276,
+      "front": "Explain prohibited vs restricted goods in one minute.",
+      "back": "Define both, mention legal effect, give examples, and explain that restricted goods may be cleared only with agency approvals.",
+      "topic": "Mini Oral-Test Prompts"
+    },
+    {
+      "id": 277,
+      "front": "Explain the procedure when cargo arrives overland by vehicle.",
+      "back": "Mention reporting at frontier port, declaration, documents, answering questions, and due entry under Section 29.",
+      "topic": "Mini Oral-Test Prompts"
+    },
+    {
+      "id": 278,
+      "front": "Explain how wet cargo by pipeline is controlled.",
+      "back": "State Section 32 duties: report and record quantities/nature and provide apparatus for records.",
+      "topic": "Mini Oral-Test Prompts"
+    },
+    {
+      "id": 279,
+      "front": "Explain rummaging in one minute.",
+      "back": "Define it, cite officer power, mention crew assistance, order of search, seizure of undeclared goods, and reporting.",
+      "topic": "Mini Oral-Test Prompts"
+    },
+    {
+      "id": 280,
+      "front": "Explain the difference between short landed and excess landed cargo.",
+      "back": "One is manifested but missing; the other is unmanifested but present.",
+      "topic": "Mini Oral-Test Prompts"
+    },
+    {
+      "id": 281,
+      "front": "Explain what it means for goods to be 'entered.'",
+      "back": "Proper lodgment plus payment/deposit/security as required by law.",
+      "topic": "Mini Oral-Test Prompts"
+    },
+    {
+      "id": 282,
+      "front": "Explain why pre-arrival processing is important.",
+      "back": "It speeds up release, reduces delays, and lowers costs.",
+      "topic": "Mini Oral-Test Prompts"
+    },
+    {
+      "id": 283,
+      "front": "Explain what Form C36 is and who completes it.",
+      "back": "It is the declaration of value completed by the owner, not the agent, depending on supplier relationship.",
+      "topic": "Mini Oral-Test Prompts"
+    },
+    {
+      "id": 284,
+      "front": "Explain why Customs declarations are standardized.",
+      "back": "To facilitate international trade and ensure uniform minimum data through the UN layout key/SAD model.",
+      "topic": "Mini Oral-Test Prompts"
+    },
+    {
+      "id": 285,
+      "front": "Explain the legal importance of PGAs at the border.",
+      "back": "Customs does not work alone; PGAs regulate specialized goods, security, health, standards, wildlife, biosafety, etc.",
+      "topic": "Mini Oral-Test Prompts"
+    },
+    {
+      "id": 286,
+      "front": "Explain the main purpose of the Revised Kyoto Convention.",
+      "back": "Modern, efficient, transparent Customs procedures that both facilitate trade and protect control.",
+      "topic": "Mini Oral-Test Prompts"
+    },
+    {
+      "id": 287,
+      "front": "Explain the logic of import tax computation in order.",
+      "back": "Get CIF in local currency, compute import duty, then excise on CIF plus duty, then VAT on CIF plus duty plus excise.",
+      "topic": "Mini Oral-Test Prompts"
+    },
+    {
+      "id": 288,
+      "front": "Memory hook for prohibited vs restricted?",
+      "back": "Prohibited = No entry. Restricted = Entry only with conditions.",
+      "topic": "Memory Anchors"
+    },
+    {
+      "id": 289,
+      "front": "Memory hook for overland arrival duties?",
+      "back": "Report, inform, declare, answer, produce, enter.",
+      "topic": "Memory Anchors"
+    },
+    {
+      "id": 290,
+      "front": "Memory hook for inward report forms?",
+      "back": "C2 vessel, C4 aircraft, C3 parcels, C5 passengers, C6 stores, C7 crew.",
+      "topic": "Memory Anchors"
+    },
+    {
+      "id": 291,
+      "front": "Memory hook for tax order?",
+      "back": "CIF → Duty → Excise → VAT.",
+      "topic": "Memory Anchors"
+    },
+    {
+      "id": 292,
+      "front": "Memory hook for short vs excess landed?",
+      "back": "Short = on paper, not on ship. Excess = on ship, not on paper.",
+      "topic": "Memory Anchors"
+    },
+    {
+      "id": 293,
+      "front": "Memory hook for C36 certificates?",
+      "back": "A = Apart from supplier. B = Bound/related to supplier.",
+      "topic": "Memory Anchors"
+    },
+    {
+      "id": 294,
+      "front": "Memory hook for warehouse rent start?",
+      "back": "21 working days free; 22nd working day starts warehouse status.",
+      "topic": "Memory Anchors"
+    },
+    {
+      "id": 295,
+      "front": "Memory hook for sources of Customs law?",
+      "back": "Treaty, Protocol, Council, Court, Acts, International law.",
+      "topic": "Memory Anchors"
+    }
+  ]
+}
