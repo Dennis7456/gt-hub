@@ -123,18 +123,23 @@ export function LoginForm({ onSuccess, onError }: LoginFormProps) {
         )}
       </div>
       
-      <div className="flex items-center">
-        <input
-          id="remember-me"
-          type="checkbox"
-          checked={rememberMe}
-          onChange={(e) => setRememberMe(e.target.checked)}
-          className="h-4 w-4 text-green-600 focus:ring-green-500 border-gray-300 dark:border-gray-600 rounded"
-          disabled={loading}
-        />
-        <label htmlFor="remember-me" className="ml-2 block text-sm text-gray-700 dark:text-gray-300">
-          Remember me
-        </label>
+      <div className="flex items-center justify-between">
+        <div className="flex items-center">
+          <input
+            id="remember-me"
+            type="checkbox"
+            checked={rememberMe}
+            onChange={(e) => setRememberMe(e.target.checked)}
+            className="h-4 w-4 text-green-600 focus:ring-green-500 border-gray-300 dark:border-gray-600 rounded"
+            disabled={loading}
+          />
+          <label htmlFor="remember-me" className="ml-2 block text-sm text-gray-700 dark:text-gray-300">
+            Remember me
+          </label>
+        </div>
+        <a href="/forgot-password" className="text-sm text-green-700 dark:text-green-400 hover:underline font-medium">
+          Forgot password?
+        </a>
       </div>
       
       <button

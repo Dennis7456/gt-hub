@@ -41,6 +41,12 @@ const FlashcardPage = lazy(() =>
 const SearchPage = lazy(() =>
   import('./pages/SearchPage').then((m) => ({ default: m.SearchPage }))
 );
+const ForgotPassword = lazy(() =>
+  import('./pages/ForgotPassword').then((m) => ({ default: m.ForgotPassword }))
+);
+const ResetPassword = lazy(() =>
+  import('./pages/ResetPassword').then((m) => ({ default: m.ResetPassword }))
+);
 
 /** Shared Suspense fallback rendered while a lazy page chunk is loading. */
 function PageSuspenseFallback() {
@@ -91,6 +97,26 @@ function App() {
                     <PageErrorBoundary>
                       <Suspense fallback={<PageSuspenseFallback />}>
                         <Register />
+                      </Suspense>
+                    </PageErrorBoundary>
+                  }
+                />
+                <Route
+                  path="/forgot-password"
+                  element={
+                    <PageErrorBoundary>
+                      <Suspense fallback={<PageSuspenseFallback />}>
+                        <ForgotPassword />
+                      </Suspense>
+                    </PageErrorBoundary>
+                  }
+                />
+                <Route
+                  path="/reset-password"
+                  element={
+                    <PageErrorBoundary>
+                      <Suspense fallback={<PageSuspenseFallback />}>
+                        <ResetPassword />
                       </Suspense>
                     </PageErrorBoundary>
                   }
