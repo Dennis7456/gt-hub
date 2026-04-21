@@ -1,0 +1,165 @@
+{
+  "module_id": "tax-and-customs-theory",
+  "title": "Tax and Customs Theory",
+  "description": "Overview of Customs — history, evolution, roles, control tools, legal framework, and the future of Customs administration.",
+  "units": [
+    {
+      "unit_id": "unit-1",
+      "title": "Definition and Historical Evolution of Customs",
+      "lessons": [
+        {
+          "lesson_id": "lesson-1-1",
+          "title": "What is Customs?",
+          "goal": "Define Customs and trace the origin of Customs duties.",
+          "micro_steps": [
+            "Section 2 of EACCMA 2004 defines 'Customs' or 'the Customs' as the Customs Departments of the Partner States.",
+            "Customs is one of the oldest professions — after the ruling class, clergy, and military.",
+            "Taxation started with members of communities giving their chiefs or leaders gifts in return for leadership.",
+            "With expanding trade between communities, rulers made it mandatory that traders passing through their land pay a small portion of their goods as gifts.",
+            "Traders returning to their communities also paid a portion of their merchandise into the ruler's treasury.",
+            "With time, specified points — bridges and gates at centers — were arranged where duty collectors were stationed to collect Customs duties from passing traders.",
+            "Customs duties became a common requirement to fund the kings' coffers — easy to collect and the most reliable source of public revenue for many centuries."
+          ]
+        },
+        {
+          "lesson_id": "lesson-1-2",
+          "title": "Customs Across Continents",
+          "goal": "Understand how Customs evolved in different regions of the world.",
+          "micro_steps": [
+            "Europe (England): centralized English Customs system started in 1203–4 during the reign of King John II. English collectors of Customs first appointed in 1298. Board of Customs established by ordinance on 21 January 1643. In 1823, UK merged the separate boards of England, Scotland, and Ireland into one unified Board of Customs, followed by major legislative consolidation in 1825.",
+            "North America (Canada): Customs tariff traced back to Edward I (1272–1307). American Board of Customs established 1767, headquarters in Massachusetts 1788. First interior Customs office for US-Canada border trade established at St. Jean, Quebec in 1788. 63 Customs ports in Canada by 1845. Customs Act drafted and operationalized in 1868.",
+            "Asia (China): 1854 — Chinese Maritime Customs Service founded in Shanghai by foreign Consuls to collect taxes from maritime traders during the Taiping Rebellion. By 1900, 20,000 people working in 40 main Custom houses across China in a unified tax system.",
+            "Africa (Ghana): 1839 — Department of Customs established in Ghana, headed by a Principal Collector who also acted as colonial Treasurer at Cape Coast. In 1897, the Customs Preventive Service (semi-military outfit) was created. Department of Customs and Excise formed in 1947.",
+            "East Africa: Kenya–Uganda Customs Union formed in 1917 under colonial rule with a single Customs territory and CET; internal free trade began in 1923. Tanganyika joined the Common Customs Administration in 1927. Treaty for EAC Cooperation established in 1967. EAC collapsed in 1977 due to political tensions, ideological differences, and national interest conflicts. EAC Mediation Agreement signed in 1984. EAC re-established in 2000."
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "unit-2",
+      "title": "Development of Customs as a Global Institution",
+      "lessons": [
+        {
+          "lesson_id": "lesson-2-1",
+          "title": "From National to Global Customs",
+          "goal": "Understand how Customs evolved from a national function to a globally coordinated institution.",
+          "micro_steps": [
+            "After World War I, countries became protective of their territories, imposing high tariffs and complex Customs procedures, which led international traders to demand change.",
+            "At that time, the only international Customs body was the 'Union Internationale pour la Publication des Tariffs Douaniers', established in Brussels in 1890 to publish Customs tariffs.",
+            "International cooperation in Customs matters began under the League of Nations in 1924.",
+            "The favorable post-war climate facilitated negotiations leading to the establishment of an international body responsible for promoting international trade through reduction of taxes and harmonization of Customs procedures.",
+            "1948: Creation of the European Customs Union Study Group.",
+            "15 December 1950: Signing of the Convention establishing the Customs Cooperation Council (CCC) in Brussels. Convention entered into force 4 November 1952.",
+            "26 January 1953: Inaugural session of the CCC — now celebrated as International Customs Day.",
+            "1994: The CCC adopted the working name World Customs Organisation (WCO) to reflect its transition to a truly global intergovernmental institution.",
+            "WCO today: independent intergovernmental body headquartered in Brussels. Mission: to improve the administration of Customs. Maintains the International Harmonized System (HS). Administers the technical aspects of WTO Agreements on Customs Valuation and Rules of Origin. Secretariat: 151 staff, over 45 nationalities, headed by a Secretary General. Working languages: English and French."
+          ]
+        },
+        {
+          "lesson_id": "lesson-2-2",
+          "title": "WCO Roles and Objectives",
+          "goal": "Identify the roles and objectives of the World Customs Organization.",
+          "micro_steps": [
+            "Facilitate international trade: simplification and harmonization of Customs procedures (economic competitiveness package).",
+            "Promote security.",
+            "Promote fair, efficient, and effective revenue collection (revenue package).",
+            "Protect society, public health, and safety (compliance and enforcement package).",
+            "Strengthen capacity building (organizational development package): support implementation of modern Customs standards, procedures, and systems.",
+            "Promote exchange of information and experience between Member administrations, other government agencies, international organizations, the private sector, and other stakeholders.",
+            "Raise the performance and profile of Customs through cooperation, communication, and partnership with governments, international and regional organizations, donors, and the private sector.",
+            "Conduct research and analysis on Customs and international trade to promote a professional, knowledge-based service culture."
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "unit-3",
+      "title": "Roles of Customs",
+      "lessons": [
+        {
+          "lesson_id": "lesson-3-1",
+          "title": "Core Functions of Customs Administrations",
+          "goal": "Understand the main roles that Customs administrations perform.",
+          "micro_steps": [
+            "Facilitation of legitimate trade: systematic rationalization of procedures and documents in line with the Revised Kyoto Convention; acceptance of Incoterms (CIF/LC); adoption of technology (ICMS); working in partnership with stakeholders (AEO); training of Customs officers and agents; facilitation incentives such as SEZ, EPZ, EPAs, AfCFTA, AGOA, EAC, and COMESA.",
+            "Collection of taxes: assessment, collection, and accounting of all taxes on imported goods through — valuation of goods; verification of trading documents; classification of goods; computation of taxes; checking declarations; monitoring exemptions.",
+            "Protection of society and industry: enforcing laws relating to import and export prohibitions; import and export restrictions; environmental conservation; counterfeits and contraband; import and export quotas; money laundering; human trafficking.",
+            "Prevention of smuggling: requiring conveyances to dock or depart; patrol of Customs entry and exit points; stopping any conveyance suspected of carrying uncustomed goods; boarding and searching any conveyance; questioning any person coming into or leaving a Partner State; power to arrest (Sections 156/7).",
+            "Collection of statistics: records of imports and exports; statistics on international trade; statistics on regional trade; statistics on money movements; statistics for internal planning; statistics for computation of balance of trade.",
+            "Enforcing international treaties and conventions that protect fauna, flora, and the environment.",
+            "Enforcing intellectual property rights (IPR).",
+            "Enforcing compliance and best international trade practices."
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "unit-4",
+      "title": "Customs Control",
+      "lessons": [
+        {
+          "lesson_id": "lesson-4-1",
+          "title": "What is Customs Control?",
+          "goal": "Understand the concept of Customs control and the tools used to enforce it.",
+          "micro_steps": [
+            "Customs control: measures put in place to ensure compliance with Customs laws — mainly to regulate movement of resources from, into, and within a country. Customs laws apply to fiscal obligations as well as prohibitions and restrictions.",
+            "Customs barriers: physical or non-physical structures used to regulate movement of resources.",
+            "Physical barriers: physical structures put in place to hinder movement of people and goods (e.g. walls, trenches — once used in China and Germany).",
+            "Legislative barriers: non-physical but have the effect of regulating movement of resources. Two types: (1) Tariff barriers — taxes on imports or exports. (2) Non-tariff barriers — conditions or restrictions.",
+            "Non-tariff barriers: restriction or total ban; quota system; pre-shipment inspection; strict quality control; exchange rate control policies; import and export licenses.",
+            "Justification of barriers: protection of infant industries; control of arms and ammunition; maintenance of food security; protection of religion and culture; protection of national heritage; protection of human, animal, and plant health.",
+            "Cons of barriers: decrease in trade; protection of inefficient industries; increased cost of transactions; imbalance in trade and growth; restriction of investment opportunities."
+          ]
+        },
+        {
+          "lesson_id": "lesson-4-2",
+          "title": "Basic Control Tools and Customs Areas",
+          "goal": "Identify the basic control tools used by Customs and understand the concept of Customs areas.",
+          "micro_steps": [
+            "Basic control tools: appointment and gazettement of entry and exit points (seaports, airports, border stations); appointment of Customs areas within the territory; control of entry and exit of conveyances; mandatory declaration of goods upon importation or exportation; designation of the scope of Customs control.",
+            "Customs areas (Sections 11 and 12 EACCMA): Customs air and sea ports; border stations; places of loading and unloading; boarding stations; bonded and Customs warehouses; sufferance wharves; places of landing and embarkation; baggage halls; transit sheds and places of verification; routes for conveyance of goods under Customs control.",
+            "Inward/outward reports: owner or agent of any means of conveyance is obliged by law to submit inward/outward reports. Every vessel, aircraft, or vehicle to be reported on departure/arrival. Report to be made within a specified time of arrival or in advance (generally 24 hours for vessels). For imports, no unloading before the report save with permission of Customs.",
+            "Customs declaration (Sections 34, 73, 94 EACCMA): every importer must make a declaration of goods within a specified period. No unloading or loading of cargo prior to entry.",
+            "Section 16 EACCMA: goods deemed to be under Customs control at all times include all imports until delivery for home use; all goods under drawback until exportation; all dutiable exports from time brought to a place for exportation; all restricted exports; all goods in Customs area pending exportation; all goods in an aircraft or vessel while in a Partner State; all imported dutiable goods on which duty has not been paid; all seized goods."
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "unit-5",
+      "title": "Legal Framework",
+      "lessons": [
+        {
+          "lesson_id": "lesson-5-1",
+          "title": "Legal Authorities Governing Customs",
+          "goal": "Identify the legal authorities that govern Customs work in the EAC.",
+          "micro_steps": [
+            "All Customs work and activities are governed by law. Legal authorities include international agreements, statutes, and administrative instructions.",
+            "EACCMA 2004: the East African Community Customs Management Act — the principal law on Customs. Made and amended by the Council of Ministers at the EAC Legislative Assembly. Structure: 21 parts, 253 sections, 6 schedules.",
+            "EACCMA Schedules: 1st — Declaration by Officers; 2nd — Prohibited and Restricted Imports; 3rd — Prohibited and Restricted Exports; 4th — Valuation of Imported Goods; 5th — Exemption Regime; 6th — Warrant of Distress.",
+            "EACCMR 2010: regulations that explain the Act further and provide required details for Customs procedures. Principal regulation under Customs laws. Made and amended by the Council of Ministers at the EAC Legislative Assembly.",
+            "Other legal references: COMESA Rules of Origin; EAC Common External Tariff (CET); EAC Customs Union Protocol; Revised Kyoto Convention; WTO Trade Facilitation Agreement.",
+            "EAC collapse (1977): lack of strong political will; lack of private sector and civil society participation; disproportionate sharing of benefits; allocation of Customs revenue on basis of derivation; lack of adequate policies to address grievances."
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "unit-6",
+      "title": "The Future of Customs",
+      "lessons": [
+        {
+          "lesson_id": "lesson-6-1",
+          "title": "Smart Customs and the Paradigm Shift",
+          "goal": "Understand how Customs is evolving and what the future of Customs administration looks like.",
+          "micro_steps": [
+            "Smart Customs: minimize Customs clearance time and costs while intelligently managing inbound and outbound goods and vehicles.",
+            "Technologies being embraced: IoT devices (surveillance using drones, smart gates, smart seals); advanced technologies (AI, machine learning); data analytics; green Customs; strategic trade control.",
+            "Key priorities: integrity; international cooperation and sharing of information; capacity building for Customs personnel.",
+            "Paradigm shift — traditional vs modern Customs: from individualistic interest (monarchy) to country's interest; from traditional gatekeeping to adoption of risk management; from manual declarations to automated Customs systems; from physical inspection to non-intrusive inspection (scanners); from enforcement to trade facilitation; from revenue collection to supply chain security and protection of the environment."
+          ]
+        }
+      ]
+    }
+  ]
+}

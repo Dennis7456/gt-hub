@@ -1,0 +1,212 @@
+{
+  "module_id": "eaccma",
+  "title": "EACCMA — East African Community Customs Management Act",
+  "description": "Comprehensive coverage of the EACCMA 2004 — definitions, import/export procedures, offences, enforcement, and schedules.",
+  "units": [
+    {
+      "unit_id": "unit-1",
+      "title": "Definitions and Interpretation",
+      "lessons": [
+        {
+          "lesson_id": "lesson-1-1",
+          "title": "Key Definitions under EACCMA 2004",
+          "goal": "Master the core definitions used throughout the Act.",
+          "micro_steps": [
+            "Short title: The East African Community Customs Management Act, 2004. Applies to all Partner States.",
+            "Agent: a person who acts on behalf of the owner of an aircraft, vehicle, or vessel and does anything required by the Act. If no agent is appointed, the owner or representative may be deemed the agent.",
+            "Approved place of loading/unloading: a quay, jetty, wharf, or other place including part of a Customs airport, appointed by the Commissioner where goods may be loaded or unloaded.",
+            "Boarding station: a place appointed by the Commissioner for aircraft or vessels to bring to for boarding or disembarkation of officers.",
+            "Cargo: all goods imported or exported in any aircraft, vehicle, or vessel — EXCLUDING stores for use by the craft, crew and passengers, and bona fide personal baggage.",
+            "Customs area: a place appointed under Section 12 for carrying out Customs operations, including deposit of goods under Customs control.",
+            "Customs warehouse: a place approved by the Commissioner for deposit of unentered, unexamined, abandoned, detained, or seized goods for security of duties.",
+            "Master: any person having or taking charge or command of any aircraft or vessel.",
+            "Proper officer: any officer whose right or duty it is to require or perform acts referred to in the Act.",
+            "Sufferance wharf: a place other than an approved place of loading or unloading where the Commissioner may allow goods to be loaded or unloaded.",
+            "Transit shed: a building or premises appointed by the Commissioner in writing for deposit of goods under Customs control.",
+            "Uncustomed goods: dutiable goods on which full duties have not been paid, and any goods dealt with contrary to Customs laws.",
+            "Customs or the Customs: the Customs Departments of the Partner States (Section 2 EACCMA 2004).",
+            "Import: to bring or cause to be brought into the Partner States from a foreign country.",
+            "Export: to take or cause to be taken out of the Partner States to a foreign country.",
+            "Port: any place appointed by the Council for Customs purposes; for aircraft, a port means a Customs airport."
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "unit-2",
+      "title": "Arrival, Reporting, and Entry of Goods",
+      "lessons": [
+        {
+          "lesson_id": "lesson-2-1",
+          "title": "Arrival and Reporting Obligations",
+          "goal": "Understand the reporting obligations for all modes of arrival under EACCMA.",
+          "micro_steps": [
+            "Section 29: person in charge of a vehicle arriving overland must report arrival, furnish information on Form C17, declare truth of particulars, answer questions, produce documents, and make due entry.",
+            "Section 30: station master or person in charge of a railway station must submit copies of invoices, consignment notes, and waybills on arrival of an international train. Goods must not leave the Customs area without permission.",
+            "Section 31: persons conveying goods by any other means (not vehicle or train) must fulfil the same obligations as Section 29.",
+            "Section 32: wet cargo (petroleum and gas) arriving by pipeline — operator must report and record nature and quantities, and provide apparatus for proper record keeping.",
+            "Cargo manifest (Section 24): must be submitted before arrival of the vessel or aircraft.",
+            "Inward reports: Form C2 for vessels; Form C4 for aircraft. Must be submitted on arrival.",
+            "Other arrival documents: Form C3 (parcels list); crew list; Form C5 (passenger list); Form C6 (consumable stores declaration); Form C7 (crew declaration of dutiable goods); last port of call list; arms and ammunition list; narcotics list.",
+            "Dutiable stores: may be sealed by the proper officer. Allowable duty-free stores per crew member: 200 cigarettes or 200g tobacco, 750ml spirits, 3 litres wine or beer. Breaking a seal without approval is an offence.",
+            "Certificate of clearance: issued once the proper officer is satisfied all legal requirements are met."
+          ]
+        },
+        {
+          "lesson_id": "lesson-2-2",
+          "title": "Entry of Goods — Timelines, Purposes, and Documents",
+          "goal": "Understand when goods are deemed entered, entry timelines, purposes, and supporting documents.",
+          "micro_steps": [
+            "Section 2(2)(a): goods are deemed entered when entry is made and lodged in the prescribed manner AND duty or deposit is paid, or security is given.",
+            "Section 2(2)(b): goods are deemed entered for home consumption when declared for use in a Partner State (other than temporary use) and the above requirements are fulfilled.",
+            "Section 34(1): goods must be entered within 21 days after commencement of discharge, or on arrival for vehicles.",
+            "Section 34(4): cargo remaining unentered after 21 days is liable to Customs warehouse rent.",
+            "Section 34(5): cargo entered but not removed within 21 days is deemed to be in a Customs warehouse.",
+            "Section 34(3): goods may be entered before arrival — enabling pre-arrival processing.",
+            "Purposes of entry: home consumption; warehousing; transhipment; transit; export processing zones.",
+            "Section 34(2): the onus to prove correctness of entry particulars lies on the owner, not Customs.",
+            "Form C36 (Declaration of Value): completed by the owner of goods (not the Customs agent). Certificate A — importer not related to supplier. Certificate B — importer related to supplier.",
+            "Section 37(1): provisional entry allowed when documents or information are insufficient. Must be perfected within 3 months.",
+            "Section 36(1): goods cleared without entry — mail bags and postal articles; bona fide personal baggage; human remains; diplomatic bags. Bullion, currency notes, coin, and perishable goods may be cleared without entry subject to undertaking to furnish entry within 48 hours."
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "unit-3",
+      "title": "Customs Control and Rummaging",
+      "lessons": [
+        {
+          "lesson_id": "lesson-3-1",
+          "title": "Goods Under Customs Control",
+          "goal": "Identify which goods are under Customs control and understand the legal basis.",
+          "micro_steps": [
+            "Section 16 EACCMA: gives authority to regulate movement of all imports and exports and develop procedures for goods under Customs control.",
+            "Goods automatically under Customs control: all imports from time of importation until delivery for home use or exportation; all goods under drawback from time of claim until exportation; all dutiable exports from time brought to a place for exportation until exportation; all restricted exports from time brought to a place for exportation; all goods stored in Customs area pending exportation; all goods in an aircraft or vessel while in a Partner State; all imported dutiable goods on which duty has not been paid; all seized goods and goods under notice of seizure.",
+            "Customs areas (Sections 11 and 12): Customs air and sea ports; border stations; places of loading and unloading; boarding stations; bonded and Customs warehouses; sufferance wharves; places of landing and embarkation; baggage halls; transit sheds and places of verification; routes for conveyance of goods under Customs control."
+          ]
+        },
+        {
+          "lesson_id": "lesson-3-2",
+          "title": "Rummaging and Search Powers",
+          "goal": "Understand the legal basis and procedure for rummaging vessels and aircraft, and searching persons.",
+          "micro_steps": [
+            "Section 246 EACCMA: gives the proper officer power to search any aircraft or vessel. Regulation 25 EACCMR: crew must give all possible assistance.",
+            "Before rummage: inform the Master (or Chief Officer in his absence); request a ship's officer to accompany the squad.",
+            "Order of search: (1) crew quarters first — check declarations on Form C.9; (2) passenger accommodation and public rooms; (3) storerooms, galleys, lockers, pantries; (4) forepeaks, afterpeaks, holds, bunker spaces, engine rooms, tunnels; (5) structural fittings — only with care.",
+            "Living quarters: at least one occupant must be present. Personal effects and lockers: only searched in the presence of the owner.",
+            "When undeclared goods are found: note concealment; seize goods; report to officer in charge; show to Master; trace owner; mark goods and take to Customs warehouse.",
+            "Section 155: search of persons — officer must have reasonable grounds. If objection raised, person may be taken before station manager or senior officer. Searches must be in a private place. Females may only be searched by a female officer.",
+            "Coastal vessels: occasional rummages as a revenue precaution. Non-scheduled, charter, and private aircraft from foreign: rummage is mandatory."
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "unit-4",
+      "title": "Import Customs Regimes and Warehousing",
+      "lessons": [
+        {
+          "lesson_id": "lesson-4-1",
+          "title": "Import Regimes and Transit Shed Rules",
+          "goal": "Understand the main import Customs regimes and the legal status of goods in a transit shed.",
+          "micro_steps": [
+            "Goods in a transit shed are deemed to be in the importing vessel or aircraft until delivered. The owner or agent remains responsible.",
+            "If goods reported for discharge are not duly unloaded and deposited in a transit shed or Customs area, the master/agent must pay duty unless a satisfactory explanation is given.",
+            "Failure to account for goods in custody is an offence. Owner of vessel/aircraft, agent, or transit shed owner is liable for costs of reshipment or destruction of condemned goods.",
+            "Main import Customs regimes: (1) imports for home use — duty paid, provisional import declaration, release of perishables, tax free by tariff; (2) temporary imports — for return in unaltered state, or for repair; (3) re-imports — after temporary export for repair (with or without charge), after substantial change, rejected/returned exports; (4) warehousing — warehousing of goods, for regional market, for crude petroleum, ex-warehouse removal.",
+            "Special regimes: ex-warehouse home use; ex-EPZ home use; ex-MUB home use; entry into MUB/EPZ from foreign; transfers between MUBs or EPZs.",
+            "Warehousing in situ: where the proper officer orders goods deposited in a place other than the designated Customs warehouse — those goods are deemed to be in a Customs warehouse.",
+            "Customs Warehouse Date (CWD): the 22nd working day from the date of discharge (21 days are working days — weekends and public holidays excluded).",
+            "Warehouse rent formula: CBM × number of rent days × rate per CBM × exchange rate. Simplified: $0.3 × exchange rate × CBM × number of days.",
+            "Disposal of goods in Customs warehouse: public auction; destruction; private treaty; or as the Commissioner deems fit."
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "unit-5",
+      "title": "Prohibited and Restricted Goods",
+      "lessons": [
+        {
+          "lesson_id": "lesson-5-1",
+          "title": "Prohibited and Restricted Imports and Exports",
+          "goal": "Identify prohibited and restricted goods and understand the legal framework for their control.",
+          "micro_steps": [
+            "Prohibited goods: goods whose importation, exportation, or carriage coastwise is prohibited under the Act or any law in force in the Partner States.",
+            "Examples of prohibited goods: false money and counterfeit currency; pornographic materials; matches made with white phosphorus; narcotic drugs under international control; hazardous wastes; distilled beverages containing injurious chemical products.",
+            "Restricted goods: goods whose importation or exportation is subject to meeting specific conditions. Controlled by specific government agencies depending on their nature.",
+            "Examples of restricted goods: postal franking machines (require written permit); traps for game animals; unwrought precious metals and precious stones; arms and ammunition (Chapter 93); worked ivory; genetically modified products; endangered species under CITES; commercial casings (second-hand tyres).",
+            "Section 70 EACCMA: goods in Part A of the Third Schedule are prohibited exports. Goods in Part B are restricted exports.",
+            "Prohibited exports include: used or scrap cables and conductors of aluminium, steel, and copper.",
+            "Restricted exports include: waste and scrap of ferrous cast iron; timber from Partner States; fresh unprocessed Nile perch and tilapia; wood charcoal; used automobile batteries, lead scrap, and all forms of scrap metals.",
+            "Vessel size rule: warehoused goods, goods under duty drawback, and transshipped goods shall not be exported in vessels of less than 250 tons register.",
+            "Clearance for restricted goods: only granted against import permits, certificates, or other authority from a relevant agency.",
+            "Reasons for prohibition or restriction: political, health, economic, safety and security, environmental and agricultural, and social reasons."
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "unit-6",
+      "title": "Offences, Penalties, and Enforcement",
+      "lessons": [
+        {
+          "lesson_id": "lesson-6-1",
+          "title": "Customs Offences and Penalties",
+          "goal": "Understand the main Customs offences and the penalties prescribed under EACCMA.",
+          "micro_steps": [
+            "Smuggling: importing or exporting goods without paying duties or in contravention of any prohibition or restriction. Goods liable to forfeiture; person liable to prosecution.",
+            "Making false declarations: providing incorrect information on a Customs declaration. Liable to penalties and prosecution.",
+            "Removal of goods without permission: removing goods from a Customs area, transit shed, or Customs warehouse without the permission of the proper officer. An offence under EACCMA.",
+            "Breaking Customs seals: breaking or tampering with a Customs seal without approval. An offence.",
+            "Failure to account for goods in custody: owner of vessel/aircraft, agent, or transit shed owner who fails to account for goods in their custody commits an offence.",
+            "Failure to meet costs of reshipment or destruction: owner or agent of aircraft or vessel or transit shed owner who fails to meet costs of reshipment or destruction of condemned goods commits an offence.",
+            "Section 156/Section 7: powers of arrest — Customs officers have power to arrest persons suspected of committing Customs offences.",
+            "Forfeiture: goods involved in Customs offences are liable to forfeiture. Forfeited goods may be disposed of by public auction, destruction, private treaty, or as the Commissioner deems fit.",
+            "Penalties: fines and/or imprisonment depending on the nature and severity of the offence. Specific penalty provisions are set out in the relevant sections of EACCMA."
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "unit-7",
+      "title": "Schedules of EACCMA",
+      "lessons": [
+        {
+          "lesson_id": "lesson-7-1",
+          "title": "The Six Schedules of EACCMA 2004",
+          "goal": "Identify the six schedules of EACCMA and understand what each covers.",
+          "micro_steps": [
+            "EACCMA 2004 structure: 21 parts, 253 sections, and 6 schedules.",
+            "First Schedule: Declaration by Officers — oath/affirmation of office for Customs officers.",
+            "Second Schedule: Prohibited and Restricted Imports — lists goods whose importation is prohibited or restricted.",
+            "Third Schedule: Prohibited and Restricted Exports — Part A (prohibited exports); Part B (restricted exports).",
+            "Fourth Schedule: Valuation of Imported Goods — sets out the methods for determining Customs value, based on the WTO Customs Valuation Agreement. Primary method: transaction value (price actually paid or payable). Alternative methods applied in sequence if transaction value cannot be used.",
+            "Fifth Schedule: Exemption Regime — lists goods and persons entitled to exemption from import duties and taxes (e.g. diplomatic goods, goods for official use, goods for development projects).",
+            "Sixth Schedule: Warrant of Distress — provides the legal mechanism for recovery of unpaid Customs duties through distress proceedings."
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "unit-8",
+      "title": "Legal Framework and Partner Government Agencies",
+      "lessons": [
+        {
+          "lesson_id": "lesson-8-1",
+          "title": "Legal Authorities and PGAs",
+          "goal": "Understand the legal framework governing Customs and the role of Partner Government Agencies.",
+          "micro_steps": [
+            "Primary legal authorities: EACCMA 2004 (principal Customs Act — made and amended by the EAC Council of Ministers); EACCMR 2010 (regulations giving effect to the Act — covers importation, ICD, warehousing, exportation, departure and clearance of aircraft and vessels); EACCMA Compliance and Enforcement Regulations 2012 (covers cross-border cooperation, post-clearance audit, AEOs, use and management of information).",
+            "Other legal references: EAC Common External Tariff (CET); EAC Rules of Origin; COMESA Rules of Origin; Revised Kyoto Convention; WTO Trade Facilitation Agreement.",
+            "Article 39 of the Customs Union Protocol — sources of Customs law: Treaty provisions; Protocol and annexes; Council regulations and directives; applicable court decisions; Community Acts; relevant principles of international law.",
+            "PGAs (Partner Government Agencies): previously called OGAs. Work with Customs in clearance of goods and services through borders. May perform regulatory, security, and tax collection roles.",
+            "Key PGAs: KEBS (standards); KEPHIS (plant health); KPA (port authority); NIS (intelligence/security); KPS (police); Immigration Department; Port Health; Kenya Radiation Authority; KMA (marine authority); NBA (biosafety); KWS (wildlife); ACA.",
+            "Smart Customs of the future: IoT devices (drones, smart gates, smart seals); AI and machine learning; data analytics; green Customs; strategic trade control; integrity; international cooperation; capacity building."
+          ]
+        }
+      ]
+    }
+  ]
+}
