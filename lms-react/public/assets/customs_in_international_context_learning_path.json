@@ -1,1311 +1,256 @@
 {
-  "topic": "Customs in International Context - International Trade",
-  "format": "duolingo_style_learning_path",
-  "source": "Customs in International Context validated(1).pptx",
-  "design_principles": {
-    "structure": "map_based_progression",
-    "progression_style": "terms_to_process_to_documents_to_payment_to_trade_rules_to_application",
-    "lesson_pattern": [
-      "learn",
-      "match",
-      "quiz",
-      "scenario",
-      "checkpoint"
-    ],
-    "scoring": {
-      "xp_per_micro_lesson": 10,
-      "xp_per_quiz": 15,
-      "xp_per_scenario": 20,
-      "xp_per_checkpoint": 30,
-      "perfect_lesson_bonus": 5,
-      "streak_bonus_every_5_days": 20
-    },
-    "hearts_system": {
-      "starting_hearts": 5,
-      "heart_loss_per_wrong_answer": 1,
-      "heart_recovery": [
-        "practice_old_lesson",
-        "daily_review",
-        "wait_timer"
-      ]
-    },
-    "mastery_levels": [
-      "introduced",
-      "practicing",
-      "strong",
-      "mastered"
-    ]
-  },
-  "course_outcomes": [
-    "Define international trade and key related terms",
-    "Identify players involved in international trade transactions",
-    "Outline the main steps in international trade transactions and the documents used",
-    "Explain methods of payment, modes of transport, Incoterms, and selected trade agreements"
-  ],
+  "module_id": "customs-in-international-context",
+  "title": "Customs in International Context",
+  "description": "Covers international trade, Incoterms, payment methods, WTO, WCO, regional integration, and key Customs instruments.",
   "units": [
     {
-      "unit_id": 1,
-      "title": "What International Trade Is",
-      "theme": "Foundations",
-      "unlock_rule": "available_from_start",
-      "unit_goal": "Understand the meaning of international trade and its most important core terms.",
-      "recommended_days": 2,
+      "unit_id": "unit-1",
+      "title": "International Trade — Foundations",
       "lessons": [
         {
-          "lesson_id": "1.1",
-          "title": "Meaning of International Trade",
-          "type": "learn",
-          "goal": "Understand what international trade means.",
-          "skills": [
-            "international trade",
-            "exchange across borders",
-            "global economy"
-          ],
+          "lesson_id": "lesson-1-1",
+          "title": "What is International Trade?",
+          "goal": "Define international trade, explain why it occurs, and identify the key players involved.",
           "micro_steps": [
-            "Learn the meaning of international trade",
-            "Connect trade to goods, services, and capital",
-            "Explain why it is called a pillar of the global economy"
-          ],
-          "xp": 10
+            "International trade is the exchange of goods, services, and capital across national borders — a pillar of the global economy.",
+            "Key terms: Export — selling goods/services produced in one country to another. Import — buying goods/services from another country. Trade Balance — difference between exports and imports (surplus = more exports; deficit = more imports).",
+            "HS Code (Harmonized System): a standardized numerical method for classifying traded products used to determine tariffs.",
+            "Dumping: selling goods in a foreign market at a lower price than in the home market, often to drive out competitors.",
+            "Trade bloc: a group of countries that have established a free trade area or customs union to promote trade among themselves.",
+            "Why international trade occurs: (1) Unequal distribution of resources — countries cannot satisfy all their own needs. (2) Comparative advantage — each nation specializes in goods where its domestic opportunity costs are lower. (3) Government policies — tax and subsidy programs can generate production advantages.",
+            "Players: Seller/Exporter; Buyer/Importer; Selling Agent; Buying Agent; Carriers; Customs Administration; Overseas shipping/airline agent; Local shipping agent; Banks; Consolidator."
+          ]
         },
         {
-          "lesson_id": "1.2",
-          "title": "Import, Export, and Trade Balance",
-          "type": "learn",
-          "goal": "Understand imports, exports, and trade balance.",
-          "skills": [
-            "import",
-            "export",
-            "trade balance",
-            "surplus",
-            "deficit"
-          ],
+          "lesson_id": "lesson-1-2",
+          "title": "Advantages and Disadvantages of International Trade",
+          "goal": "Evaluate the benefits and drawbacks of international trade for countries and businesses.",
           "micro_steps": [
-            "Define import and export",
-            "Define trade balance",
-            "Differentiate trade surplus and trade deficit",
-            "Memorize the trade balance formula"
-          ],
-          "xp": 10
+            "Advantages: monetary gains and foreign exchange earnings; improved relations between countries; specialization and economies of scale; increased competition leading to lower prices and better quality; technology transfer; breaking down domestic monopolies; increased employment.",
+            "Types of trade: (1) Import Trade — buying goods from another country (e.g. Kenya importing vehicles from Japan). (2) Export Trade — selling goods to another country (e.g. Kenya exporting tea to UK). (3) Entrepôt/Re-export Trade — importing then re-exporting without major processing (e.g. Dubai as a trading hub).",
+            "Classification by number of countries: Bilateral Trade — between two countries. Multilateral Trade — between more than two countries (e.g. WTO framework).",
+            "Disadvantages: over-specialization risk; infant industries cannot grow against established foreign firms; economic dependency and vulnerability (e.g. food, energy, medicine supply disruptions); local producers may be destroyed by cheaper imports; environmental degradation; labour exploitation; trade deficits and financial strain; logistical and cultural barriers."
+          ]
         },
         {
-          "lesson_id": "1.3",
-          "title": "Trade Terms Match",
-          "type": "match",
-          "goal": "Match basic trade terms to their meanings.",
-          "skills": [
-            "HS Code",
-            "tariff",
-            "trade finance",
-            "trade bloc",
-            "supply chain",
-            "dumping"
-          ],
+          "lesson_id": "lesson-1-3",
+          "title": "Steps and Documents in International Trade",
+          "goal": "Outline the main steps in an international trade transaction and identify the documents used at each step.",
           "micro_steps": [
-            "Match HS Code to product classification",
-            "Match tariff to tax on imports or exports",
-            "Match trade finance to financing trade transactions",
-            "Match dumping to below-home-market foreign pricing"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "1.4",
-          "title": "Starter Quiz",
-          "type": "quiz",
-          "goal": "Test your understanding of the basic language of international trade.",
-          "skills": [
-            "core recall",
-            "term recognition"
-          ],
-          "micro_steps": [
-            "Identify the right definition of trade terms",
-            "Apply the trade balance formula",
-            "Distinguish surplus from deficit"
-          ],
-          "xp": 15
-        },
-        {
-          "lesson_id": "1.5",
-          "title": "Unit 1 Checkpoint",
-          "type": "checkpoint",
-          "goal": "Show you can define international trade and the core terms that support it.",
-          "skills": [
-            "foundation mastery"
-          ],
-          "micro_steps": [
-            "Define international trade",
-            "Define import, export, and trade balance",
-            "Explain at least four common trade terms"
-          ],
-          "xp": 30
+            "Steps in a trade transaction: (1) ORDER — buyer requests goods from seller. Documents: requisition, purchase order, proforma invoice. (2) CONFIRMATION — seller confirms terms. Documents: invoice, contract of sale, packing list. (3) SHIPMENT — goods dispatched. Documents: bill of lading, airway bill, rail consignment note, road consignment note, cargo manifest. (4) PAYMENT — depends on agreement. Documents: bill of exchange, letter of credit, banker's draft.",
+            "Five categories of trade documents: (1) Commercial documents — outline transaction details (e.g. commercial invoice, packing list). (2) Transport documents — evidence of contract of carriage (e.g. bill of lading, airway bill, rail waybill). (3) Financial documents — facilitate payment (e.g. bill of exchange, letter of credit). (4) Insurance documents — protect against loss/damage (e.g. insurance certificate). (5) Official/Regulatory documents — for customs clearance and compliance (e.g. certificate of origin, consular invoice).",
+            "Requisition Order: internal document notifying purchasing department of items needed. Not a purchase order.",
+            "Purchase Order: written sales contract between buyer and seller detailing goods, payment terms, delivery date, quantities.",
+            "Proforma Invoice: estimated invoice sent before shipment — used as a preliminary quotation or for Customs purposes. Not a demand for payment.",
+            "Commercial Invoice: required by Customs to determine transaction value for duties and taxes. Must identify seller and buyer, date, terms of sale, quantity, description, unit cost, total cost, insurance, shipping charges.",
+            "Consular Invoice: commercial invoice visaed (sighted, signed, stamped) by the consul of the importing country in the exporting country.",
+            "Packing List: itemises cargo details — importer name, gross/tare/net weight, nature and type of package, dimensions, number of packages, contents. No pricing information required.",
+            "Bill of Lading: legal document issued by carrier to shipper. Three purposes: (1) receipt for goods; (2) evidence of contract of carriage; (3) document of title. Types include original B/L, seaway bill, telex release.",
+            "Airway Bill: non-negotiable transport document for airport-to-airport carriage. Does not specify flight or arrival time.",
+            "Rail Waybill: document indicating goods received for shipment by rail — contract identifying parties, goods, and responsibilities.",
+            "Cargo Manifest: list of all goods by consignment to be landed at a particular port — lists all bills of lading issued for that shipment. Used by Customs and other officials.",
+            "Road Consignment Note: proof of receipt for road transport, evidence of contract of carriage, invoice for freight, and guide for handling and delivery."
+          ]
         }
       ]
     },
     {
-      "unit_id": 2,
-      "title": "Why Countries Trade",
-      "theme": "Economic Logic",
-      "unlock_rule": "complete_unit_1_checkpoint",
-      "unit_goal": "Understand why international trade occurs and what benefits and problems it creates.",
-      "recommended_days": 3,
-      "lessons": [
-        {
-          "lesson_id": "2.1",
-          "title": "Why Trade Happens",
-          "type": "learn",
-          "goal": "Understand the main causes of international trade.",
-          "skills": [
-            "unequal resources",
-            "comparative advantage",
-            "government policy"
-          ],
-          "micro_steps": [
-            "Explain unequal distribution of resources",
-            "Explain comparative advantage in simple terms",
-            "Explain how government taxes and subsidies can create trade advantages"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "2.2",
-          "title": "Advantages of Trade",
-          "type": "learn",
-          "goal": "Understand the major benefits of international trade.",
-          "skills": [
-            "monetary gains",
-            "specialization",
-            "competition",
-            "technology transfer",
-            "employment",
-            "economies of scale"
-          ],
-          "micro_steps": [
-            "Explain how trade creates monetary gains",
-            "Explain specialization and economies of scale",
-            "Explain competition and product quality improvement",
-            "Explain technology transfer and employment effects"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "2.3",
-          "title": "Disadvantages of Trade",
-          "type": "learn",
-          "goal": "Understand the major risks and costs of international trade.",
-          "skills": [
-            "over-specialization",
-            "infant industry pressure",
-            "dependency",
-            "trade deficits",
-            "environmental damage",
-            "ethical concerns"
-          ],
-          "micro_steps": [
-            "Explain over-specialization risk",
-            "Explain dangers to infant industries and local producers",
-            "Explain dependency and vulnerability",
-            "Explain environmental, labor, and deficit-related concerns"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "2.4",
-          "title": "Benefit or Risk?",
-          "type": "match",
-          "goal": "Sort trade outcomes into advantages and disadvantages.",
-          "skills": [
-            "classification",
-            "economic reasoning"
-          ],
-          "micro_steps": [
-            "Match competition to benefit",
-            "Match over-specialization to risk",
-            "Match technology transfer to benefit",
-            "Match trade deficit strain to risk"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "2.5",
-          "title": "Unit 2 Checkpoint",
-          "type": "checkpoint",
-          "goal": "Prove you understand why countries trade and what trade can do well or badly.",
-          "skills": [
-            "economic logic mastery"
-          ],
-          "micro_steps": [
-            "Explain why trade occurs",
-            "Give several advantages of trade",
-            "Give several disadvantages of trade"
-          ],
-          "xp": 30
-        }
-      ]
-    },
-    {
-      "unit_id": 3,
-      "title": "Types of Trade and Trade Structure",
-      "theme": "Classification",
-      "unlock_rule": "complete_unit_2_checkpoint",
-      "unit_goal": "Understand the main types and classifications of international trade.",
-      "recommended_days": 2,
-      "lessons": [
-        {
-          "lesson_id": "3.1",
-          "title": "Import, Export, and Re-export",
-          "type": "learn",
-          "goal": "Understand the three basic trade forms.",
-          "skills": [
-            "import trade",
-            "export trade",
-            "entrepôt trade"
-          ],
-          "micro_steps": [
-            "Define import trade",
-            "Define export trade",
-            "Define entrepôt or re-export trade",
-            "Recognize practical examples"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "3.2",
-          "title": "Bilateral and Multilateral Trade",
-          "type": "learn",
-          "goal": "Understand classification by number of countries.",
-          "skills": [
-            "bilateral trade",
-            "multilateral trade"
-          ],
-          "micro_steps": [
-            "Define bilateral trade",
-            "Define multilateral trade",
-            "Compare agreements between two countries and broader systems"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "3.3",
-          "title": "Trade Form Match",
-          "type": "match",
-          "goal": "Match trade examples to the right trade type.",
-          "skills": [
-            "example recognition"
-          ],
-          "micro_steps": [
-            "Match Kenya importing vehicles to import trade",
-            "Match Kenya exporting tea to export trade",
-            "Match Dubai re-export example to entrepôt trade",
-            "Match UK-Kenya agreement to bilateral trade"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "3.4",
-          "title": "Unit 3 Checkpoint",
-          "type": "checkpoint",
-          "goal": "Show you can classify trade correctly.",
-          "skills": [
-            "classification mastery"
-          ],
-          "micro_steps": [
-            "Differentiate import, export, and re-export",
-            "Differentiate bilateral and multilateral trade",
-            "Classify sample trade scenarios correctly"
-          ],
-          "xp": 30
-        }
-      ]
-    },
-    {
-      "unit_id": 4,
-      "title": "Players in International Trade",
-      "theme": "Who Does What",
-      "unlock_rule": "complete_unit_3_checkpoint",
-      "unit_goal": "Identify all major players in an international trade transaction and understand their roles.",
-      "recommended_days": 3,
-      "lessons": [
-        {
-          "lesson_id": "4.1",
-          "title": "Core Commercial Players",
-          "type": "learn",
-          "goal": "Understand the seller, buyer, and their agents.",
-          "skills": [
-            "seller",
-            "buyer",
-            "selling agent",
-            "buying agent"
-          ],
-          "micro_steps": [
-            "Identify the seller's possible roles",
-            "Identify the buyer's possible roles",
-            "Differentiate selling agent and buying agent"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "4.2",
-          "title": "Transport and Customs Players",
-          "type": "learn",
-          "goal": "Understand the logistics actors in international trade.",
-          "skills": [
-            "carriers",
-            "overseas shipping agent",
-            "local shipping agent",
-            "customs administration"
-          ],
-          "micro_steps": [
-            "Define carriers",
-            "Explain the role of the overseas shipping or airline agent",
-            "Explain the role of the shipping agent in the importing country",
-            "Explain customs administration"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "4.3",
-          "title": "Banks and Consolidators",
-          "type": "learn",
-          "goal": "Understand support roles in international trade.",
-          "skills": [
-            "banks",
-            "consolidator",
-            "capital",
-            "documentation"
-          ],
-          "micro_steps": [
-            "Explain the role of banks",
-            "Explain the role of a consolidator",
-            "Connect these roles to financing and grouped shipment handling"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "4.4",
-          "title": "Player Role Match",
-          "type": "match",
-          "goal": "Match each player to the correct role.",
-          "skills": [
-            "role mapping"
-          ],
-          "micro_steps": [
-            "Match customs administration to compliance and duty collection",
-            "Match banks to finance and payment support",
-            "Match consolidator to grouped consignments",
-            "Match carrier to movement of goods"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "4.5",
-          "title": "Unit 4 Checkpoint",
-          "type": "checkpoint",
-          "goal": "Demonstrate that you know the players and their functions.",
-          "skills": [
-            "actor mastery"
-          ],
-          "micro_steps": [
-            "List the major players",
-            "Explain what each does",
-            "Connect each role to the trade transaction process"
-          ],
-          "xp": 30
-        }
-      ]
-    },
-    {
-      "unit_id": 5,
-      "title": "Steps in International Trade",
-      "theme": "Process Flow",
-      "unlock_rule": "complete_unit_4_checkpoint",
-      "unit_goal": "Understand the main stages in an international trade transaction.",
-      "recommended_days": 3,
-      "lessons": [
-        {
-          "lesson_id": "5.1",
-          "title": "Order and Confirmation",
-          "type": "learn",
-          "goal": "Understand the early commercial stages of a trade transaction.",
-          "skills": [
-            "order",
-            "confirmation",
-            "buyer request",
-            "seller confirmation"
-          ],
-          "micro_steps": [
-            "Define order",
-            "Identify order-stage documents",
-            "Define confirmation",
-            "Identify confirmation-stage documents"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "5.2",
-          "title": "Shipment and Payment",
-          "type": "learn",
-          "goal": "Understand the transport and settlement stages.",
-          "skills": [
-            "shipment",
-            "payment",
-            "transport documents",
-            "financial documents"
-          ],
-          "micro_steps": [
-            "Define shipment",
-            "Identify shipment-stage documents",
-            "Define payment",
-            "Identify payment-stage documents"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "5.3",
-          "title": "Customs Clearance Reminder",
-          "type": "learn",
-          "goal": "Understand that customs clearance is broader than tax payment.",
-          "skills": [
-            "customs clearance",
-            "administrative compliance"
-          ],
-          "micro_steps": [
-            "Explain customs clearance",
-            "Separate payment of duties from administrative compliance",
-            "Connect customs clearance to the wider process"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "5.4",
-          "title": "Transaction Flow Match",
-          "type": "match",
-          "goal": "Put the trade transaction in the right order.",
-          "skills": [
-            "sequence logic"
-          ],
-          "micro_steps": [
-            "Match order to buyer request",
-            "Match confirmation to seller terms",
-            "Match shipment to carriage stage",
-            "Match payment to settlement stage"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "5.5",
-          "title": "Unit 5 Checkpoint",
-          "type": "checkpoint",
-          "goal": "Prove you can explain the steps of an international trade transaction.",
-          "skills": [
-            "process mastery"
-          ],
-          "micro_steps": [
-            "List the main transaction steps in order",
-            "Explain what happens at each step",
-            "Name example documents at each step"
-          ],
-          "xp": 30
-        }
-      ]
-    },
-    {
-      "unit_id": 6,
-      "title": "Documents Used in International Trade",
-      "theme": "Documentation",
-      "unlock_rule": "complete_unit_5_checkpoint",
-      "unit_goal": "Master the main document categories and important individual documents used in trade.",
-      "recommended_days": 5,
-      "lessons": [
-        {
-          "lesson_id": "6.1",
-          "title": "Document Categories",
-          "type": "learn",
-          "goal": "Understand the five main categories of trade documents.",
-          "skills": [
-            "commercial",
-            "transport",
-            "financial",
-            "insurance",
-            "official/regulatory"
-          ],
-          "micro_steps": [
-            "Learn the five categories",
-            "Match each category to its function",
-            "Recognize why different trades need different document mixes"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "6.2",
-          "title": "Commercial Documents",
-          "type": "learn",
-          "goal": "Understand requisition orders, purchase orders, contracts of sale, proforma invoices, commercial invoices, consular invoices, and packing lists.",
-          "skills": [
-            "requisition order",
-            "purchase order",
-            "contract of sale",
-            "proforma invoice",
-            "commercial invoice",
-            "consular invoice",
-            "packing list"
-          ],
-          "micro_steps": [
-            "Differentiate requisition order from purchase order",
-            "Define contract of sale",
-            "Differentiate proforma invoice from commercial invoice",
-            "Explain consular invoice and packing list"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "6.3",
-          "title": "Transport Documents",
-          "type": "learn",
-          "goal": "Understand the main transport documents.",
-          "skills": [
-            "bill of lading",
-            "seaway bill",
-            "telex release",
-            "airway bill",
-            "house airway bill",
-            "rail waybill",
-            "cargo manifest",
-            "delivery order",
-            "road consignment note"
-          ],
-          "micro_steps": [
-            "Explain the bill of lading and its three functions",
-            "Differentiate original bill of lading and seaway bill",
-            "Explain airway bill and why it is not a document of title",
-            "Explain cargo manifest, delivery order, and road/rail documents"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "6.4",
-          "title": "Document Role Match",
-          "type": "match",
-          "goal": "Match individual documents to their legal or practical function.",
-          "skills": [
-            "function mapping"
-          ],
-          "micro_steps": [
-            "Match commercial invoice to customs valuation",
-            "Match packing list to cargo itemization",
-            "Match bill of lading to receipt, contract, and title",
-            "Match airway bill to movement certificate"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "6.5",
-          "title": "Document Scenario Lab",
-          "type": "scenario",
-          "goal": "Apply the right documents to realistic trade situations.",
-          "skills": [
-            "document choice",
-            "practical application"
-          ],
-          "micro_steps": [
-            "Choose the right document for customs valuation",
-            "Choose the right document for title control in sea freight",
-            "Choose the right document for grouped air cargo"
-          ],
-          "xp": 20
-        },
-        {
-          "lesson_id": "6.6",
-          "title": "Unit 6 Checkpoint",
-          "type": "checkpoint",
-          "goal": "Demonstrate strong mastery of international trade documentation.",
-          "skills": [
-            "documentation mastery"
-          ],
-          "micro_steps": [
-            "List the five document categories",
-            "Explain major commercial and transport documents",
-            "Explain why the right document matters in customs and logistics"
-          ],
-          "xp": 30
-        }
-      ]
-    },
-    {
-      "unit_id": 7,
+      "unit_id": "unit-2",
       "title": "Methods of Payment in International Trade",
-      "theme": "Trade Finance and Risk",
-      "unlock_rule": "complete_unit_6_checkpoint",
-      "unit_goal": "Understand the major payment methods and the risks they create for exporter and importer.",
-      "recommended_days": 4,
       "lessons": [
         {
-          "lesson_id": "7.1",
-          "title": "Cash in Advance and Letters of Credit",
-          "type": "learn",
-          "goal": "Understand two major payment methods with very different risk profiles.",
-          "skills": [
-            "cash-in-advance",
-            "letters of credit",
-            "risk allocation"
-          ],
+          "lesson_id": "lesson-2-1",
+          "title": "Payment Methods — From Safest to Riskiest",
+          "goal": "Understand the five main methods of payment in international trade and their risk profiles.",
           "micro_steps": [
-            "Explain cash-in-advance",
-            "Identify its risk for buyer and exporter",
-            "Explain a letter of credit",
-            "Explain how an LC protects both sides differently"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "7.2",
-          "title": "Documentary Collections",
-          "type": "learn",
-          "goal": "Understand documentary collections and their two forms.",
-          "skills": [
-            "documentary collections",
-            "D/P",
-            "D/A",
-            "draft",
-            "bill of exchange"
-          ],
-          "micro_steps": [
-            "Explain documentary collections",
-            "Differentiate D/P and D/A",
-            "Explain why title control differs across sea and air freight"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "7.3",
-          "title": "Open Account and Consignment",
-          "type": "learn",
-          "goal": "Understand exporter-risk-heavy payment arrangements.",
-          "skills": [
-            "open account",
-            "consignment",
-            "exporter risk",
-            "importer advantage"
-          ],
-          "micro_steps": [
-            "Explain open account",
-            "Explain why it favors the importer",
-            "Explain consignment",
-            "Explain why consignment is risky for the exporter"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "7.4",
-          "title": "Risk Ladder Match",
-          "type": "match",
-          "goal": "Arrange payment methods from safer to riskier for exporter and importer.",
-          "skills": [
-            "risk comparison"
-          ],
-          "micro_steps": [
-            "Match cash-in-advance to high importer risk",
-            "Match open account to high exporter risk",
-            "Match LC to stronger bank-backed security",
-            "Compare D/P and D/A"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "7.5",
-          "title": "Unit 7 Checkpoint",
-          "type": "checkpoint",
-          "goal": "Show you understand trade payment methods and the risk logic behind them.",
-          "skills": [
-            "payment mastery"
-          ],
-          "micro_steps": [
-            "Explain the main payment methods",
-            "Compare their risks",
-            "Explain when each method is likely to be used"
-          ],
-          "xp": 30
+            "Risk spectrum: Cash-in-Advance (safest for exporter) → Letters of Credit → Documentary Collections → Open Account → Consignment (riskiest for exporter).",
+            "Cash-in-Advance: importer pays BEFORE shipment. Safest for exporter — payment received before ownership transfers. Riskiest for importer — goods may not be sent. Common methods: wire transfers and credit cards. Appropriate for high-risk transactions (new importer, politically unstable country).",
+            "Letters of Credit (LC): bank commitment on behalf of buyer that payment will be made to seller once terms and conditions are met through presentation of required documents. Protects both parties. Expensive (bank fees) and document-intensive. Bank is not concerned with quality of goods — only documents.",
+            "Documentary Collections (D/C): exporter entrusts payment collection to its bank (remitting bank), which sends documents to importer's bank (collecting bank). Two types: (1) Documents against Payment (D/P) — 'cash against documents', buyer pays immediately to receive documents. (2) Documents against Acceptance (D/A) — buyer accepts a draft to pay on a future agreed date, then receives documents. Banks do not guarantee payment.",
+            "Open Account: goods shipped and delivered before payment is due (usually 30–90 days). Most advantageous for importer; highest risk for exporter. Common in competitive export markets.",
+            "Consignment: payment sent to exporter only after goods are sold by foreign distributor to end customer. Exporter retains title until goods are sold. Very risky — no guaranteed payment. Requires reputable distributor and appropriate insurance."
+          ]
         }
       ]
     },
     {
-      "unit_id": 8,
-      "title": "Modes of Transport and Logistics Choice",
-      "theme": "Movement of Goods",
-      "unlock_rule": "complete_unit_7_checkpoint",
-      "unit_goal": "Understand transport modes and how to choose among them.",
-      "recommended_days": 3,
-      "lessons": [
-        {
-          "lesson_id": "8.1",
-          "title": "Main Transport Modes",
-          "type": "learn",
-          "goal": "Identify the main transport modes listed in the presentation.",
-          "skills": [
-            "air",
-            "maritime",
-            "rail",
-            "road",
-            "pipeline",
-            "intermodal"
-          ],
-          "micro_steps": [
-            "List the major transport modes",
-            "Recognize that more than one mode is often used",
-            "Connect transport mode to cargo needs"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "8.2",
-          "title": "Choosing the Right Mode",
-          "type": "learn",
-          "goal": "Understand the practical criteria used in transport selection.",
-          "skills": [
-            "speed",
-            "cost",
-            "accessibility",
-            "flexibility",
-            "specialized cargo"
-          ],
-          "micro_steps": [
-            "Compare speed versus cost",
-            "Explain accessibility and connectivity",
-            "Explain flexibility and resilience",
-            "Explain specialized cargo handling"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "8.3",
-          "title": "Intermodal and Development Impact",
-          "type": "learn",
-          "goal": "Understand integration and broader economic value of transport systems.",
-          "skills": [
-            "intermodal integration",
-            "regional development",
-            "globalization"
-          ],
-          "micro_steps": [
-            "Explain intermodal transportation",
-            "Explain why maritime transport matters globally",
-            "Explain how roads, ports, and railways support local development"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "8.4",
-          "title": "Mode Selection Challenge",
-          "type": "scenario",
-          "goal": "Pick the most suitable mode for different goods and destinations.",
-          "skills": [
-            "applied logistics reasoning"
-          ],
-          "micro_steps": [
-            "Choose a mode for urgent cargo",
-            "Choose a mode for bulk long-distance cargo",
-            "Choose a mode for specialized liquid or gas cargo"
-          ],
-          "xp": 20
-        },
-        {
-          "lesson_id": "8.5",
-          "title": "Unit 8 Checkpoint",
-          "type": "checkpoint",
-          "goal": "Demonstrate that you can explain and choose transport modes intelligently.",
-          "skills": [
-            "transport mastery"
-          ],
-          "micro_steps": [
-            "List the main transport modes",
-            "Explain their strengths and weaknesses",
-            "Apply mode choice to business scenarios"
-          ],
-          "xp": 30
-        }
-      ]
-    },
-    {
-      "unit_id": 9,
+      "unit_id": "unit-3",
       "title": "Incoterms 2020",
-      "theme": "Responsibilities and Risk",
-      "unlock_rule": "complete_unit_8_checkpoint",
-      "unit_goal": "Understand what Incoterms do, what they do not do, and how the 11 rules are organized.",
-      "recommended_days": 5,
       "lessons": [
         {
-          "lesson_id": "9.1",
-          "title": "Purpose of Incoterms",
-          "type": "learn",
-          "goal": "Understand why Incoterms were created and what they solve.",
-          "skills": [
-            "ICC",
-            "trade terms",
-            "risk transfer",
-            "responsibilities"
-          ],
+          "lesson_id": "lesson-3-1",
+          "title": "Introduction to Incoterms",
+          "goal": "Understand what Incoterms are, what they cover, and how they are categorized.",
           "micro_steps": [
-            "Explain why Incoterms were created",
-            "Identify ICC as publisher",
-            "Explain how Incoterms reduce disputes"
-          ],
-          "xp": 10
+            "Incoterms (International Commercial Terms): 11 globally recognized, three-letter rules published by the International Chamber of Commerce (ICC), headquartered in Paris. They define responsibilities of buyers and sellers for delivery of goods under a sales contract.",
+            "History: first introduced in 1936; revised in 1957, 1967, 1976, 1980, 1990, 2000, 2010, and 2020 (effective 1 January 2020).",
+            "What Incoterms cover: Risk Transfer (precise point where risk passes from seller to buyer); Customs Clearance (who handles export/import clearance); Cost Allocation (freight, insurance, loading/unloading); Obligations (documentation, licenses); Point of Delivery.",
+            "What Incoterms do NOT cover: transfer of ownership; product liability or force majeure; payment terms; breach of contract or dispute resolution.",
+            "Key changes in Incoterms 2020: DAT renamed to DPU (Delivered at Place Unloaded); FCA allows on-board B/L notation; security obligations more clearly assigned; CIP now requires all-risk (Institute Clause A) insurance; own transport provisions recognized under FCA, DAP, DPU, DDP.",
+            "Two categories: (1) Seven rules for ANY mode of transport: EXW, FCA, CPT, CIP, DAP, DPU, DDP. (2) Four rules for SEA and INLAND WATERWAY only: FAS, FOB, CFR, CIF."
+          ]
         },
         {
-          "lesson_id": "9.2",
-          "title": "What Incoterms Cover and Do Not Cover",
-          "type": "learn",
-          "goal": "Understand the boundaries of Incoterms.",
-          "skills": [
-            "risk transfer",
-            "customs clearance",
-            "cost allocation",
-            "ownership",
-            "liability",
-            "payment terms"
-          ],
+          "lesson_id": "lesson-3-2",
+          "title": "The 11 Incoterms Rules Explained",
+          "goal": "Identify and apply each of the 11 Incoterms 2020 rules.",
           "micro_steps": [
-            "List the things Incoterms cover",
-            "List the things Incoterms do not cover",
-            "Differentiate risk transfer from ownership transfer"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "9.3",
-          "title": "Key Changes in Incoterms 2020",
-          "type": "learn",
-          "goal": "Understand the major updates from older versions.",
-          "skills": [
-            "DAT to DPU",
-            "FCA onboard notation",
-            "insurance transparency",
-            "security obligations",
-            "own transport"
-          ],
-          "micro_steps": [
-            "Explain DAT becoming DPU",
-            "Explain FCA onboard bill of lading change",
-            "Explain CIP versus CIF insurance changes"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "9.4",
-          "title": "11 Rules Map",
-          "type": "match",
-          "goal": "Sort the 11 Incoterms into the correct categories.",
-          "skills": [
-            "any mode",
-            "sea/inland waterway"
-          ],
-          "micro_steps": [
-            "Group EXW to DDP under any mode(s)",
-            "Group FAS to CIF under sea/inland waterway",
-            "Recognize why sea rules differ from multimodal rules"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "9.5",
-          "title": "Unit 9 Checkpoint",
-          "type": "checkpoint",
-          "goal": "Show you understand the structure and purpose of Incoterms 2020.",
-          "skills": [
-            "incoterms foundation mastery"
-          ],
-          "micro_steps": [
-            "Explain what Incoterms are",
-            "Explain what they cover and do not cover",
-            "Classify all 11 rules correctly"
-          ],
-          "xp": 30
+            "EXW (Ex Works): seller places goods at buyer's disposal at named place (e.g. factory/warehouse). Seller does NOT load goods or clear for export. Maximum obligation on buyer.",
+            "FCA (Free Carrier): seller delivers goods cleared for export to carrier nominated by buyer at named place. Risk transfers when goods handed to carrier.",
+            "CPT (Carriage Paid To): seller delivers to nominated carrier AND pays cost of carriage to named destination. Buyer bears all additional costs and risks after delivery to carrier.",
+            "CIP (Carriage and Insurance Paid To): same as CPT plus seller must procure all-risk insurance (Institute Cargo Clauses A) at own expense against buyer's risk during carriage.",
+            "DAP (Delivered at Place): seller delivers goods to agreed destination, NOT cleared for import, NOT unloaded. Risk transfers at destination.",
+            "DPU (Delivered at Place Unloaded): seller unloads goods from arriving transport at agreed destination at own risk and expense. Destination may be any place including a port terminal.",
+            "DDP (Delivered Duty Paid): maximum obligation on seller — delivers goods cleared for import, duties paid, at named destination. Buyer only unloads.",
+            "FAS (Free Alongside Ship) — sea/inland waterway only: seller delivers goods alongside vessel at named port of loading. Buyer bears all costs and risks from that point.",
+            "FOB (Free on Board) — sea/inland waterway only: seller delivers goods on board vessel at named port of loading. Risk transfers when goods are on board.",
+            "CFR (Cost and Freight) — sea/inland waterway only: seller pays cost and freight to bring goods to named port of destination. Risk transfers when goods are on board at port of loading.",
+            "CIF (Cost, Insurance and Freight) — sea/inland waterway only: same as CFR plus seller procures minimum insurance (Institute Cargo Clauses C) against buyer's risk during carriage."
+          ]
         }
       ]
     },
     {
-      "unit_id": 10,
-      "title": "The 11 Incoterms in Practice",
-      "theme": "Rule-by-Rule Mastery",
-      "unlock_rule": "complete_unit_9_checkpoint",
-      "unit_goal": "Understand the meaning and basic seller-buyer responsibility split under each Incoterm.",
-      "recommended_days": 5,
+      "unit_id": "unit-4",
+      "title": "Economic Partnership Agreements",
       "lessons": [
         {
-          "lesson_id": "10.1",
-          "title": "Any-Mode Rules: EXW to CIP",
-          "type": "learn",
-          "goal": "Understand EXW, FCA, CPT, and CIP.",
-          "skills": [
-            "EXW",
-            "FCA",
-            "CPT",
-            "CIP"
-          ],
+          "lesson_id": "lesson-4-1",
+          "title": "Kenya–EU and Kenya–UK EPAs",
+          "goal": "Understand the key features, objectives, and implementation of Kenya's EPAs with the EU and UK.",
           "micro_steps": [
-            "Explain EXW",
-            "Explain FCA",
-            "Explain CPT",
-            "Explain CIP and added insurance duty"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "10.2",
-          "title": "Any-Mode Rules: DAP to DDP",
-          "type": "learn",
-          "goal": "Understand DAP, DPU, and DDP.",
-          "skills": [
-            "DAP",
-            "DPU",
-            "DDP"
-          ],
-          "micro_steps": [
-            "Explain DAP",
-            "Explain DPU and unloading responsibility",
-            "Explain DDP and maximum seller responsibility"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "10.3",
-          "title": "Sea Rules: FAS to CIF",
-          "type": "learn",
-          "goal": "Understand FAS, FOB, CFR, and CIF.",
-          "skills": [
-            "FAS",
-            "FOB",
-            "CFR",
-            "CIF"
-          ],
-          "micro_steps": [
-            "Explain FAS",
-            "Explain FOB",
-            "Explain CFR",
-            "Explain CIF and minimum insurance"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "10.4",
-          "title": "Incoterm Scenario Lab",
-          "type": "scenario",
-          "goal": "Choose the right term for practical trade situations.",
-          "skills": [
-            "rule application"
-          ],
-          "micro_steps": [
-            "Pick the term where seller bears maximum risk",
-            "Pick the term where seller unloads at destination",
-            "Pick a sea-only rule where seller pays freight and insurance"
-          ],
-          "xp": 20
-        },
-        {
-          "lesson_id": "10.5",
-          "title": "Unit 10 Checkpoint",
-          "type": "checkpoint",
-          "goal": "Demonstrate rule-by-rule understanding of Incoterms 2020.",
-          "skills": [
-            "incoterms operational mastery"
-          ],
-          "micro_steps": [
-            "Explain all 11 terms in brief",
-            "Differentiate similar terms",
-            "Apply them to shipping and risk scenarios"
-          ],
-          "xp": 30
+            "An Economic Partnership Agreement (EPA) is a trade agreement between two or more countries or regions aimed at promoting economic cooperation, reducing trade barriers, and encouraging development through improved market access.",
+            "Kenya–EU EPA: signed 18 December 2023, came into force 1 July 2024. The EU has 27 member states and is Kenya's biggest export destination (21.1% of Kenya's total exports in 2024). Total EU–Kenya trade reached €3.36 billion in 2024.",
+            "Kenya–EU EPA implementation: Kenyan goods enter EU duty-free from date of entry into force. EU goods entering Kenya: Annex II(a) — duty-free immediately; Annex II(b) — 10% duty, phased down from Year 7–15; Annex II(c) — 25% duty, gradually abolished Year 12–25; Annex II(d) — excluded from tariff phasedown.",
+            "Kenya–UK EPA: signed December 2020, came into force 1 January 2021. Creates a Free Trade Area with asymmetrical tariff elimination. UK goods entering Kenya: Annex II(a) — 1,934 tariff lines duty-free immediately; Annex II(b) — 1,082 lines at 10%, abolished from Year 7 at 1% per year; Annex II(c) — 990 lines at 25%, abolished from Year 12 at 1.5% per year; Annex II(d) — 1,432 lines excluded. Kenyan goods entering UK — fully duty-free from January 2021.",
+            "Challenges of EPAs: balancing EAC Common External Tariff; increased competition for local industries; loss of customs revenue; export concentration in few products (flowers, vegetables, tea).",
+            "Mitigation measures: collective EAC negotiation; industrial upgrading programs; tax reforms to widen domestic tax base; export diversification into manufactured and processed goods."
+          ]
         }
       ]
     },
     {
-      "unit_id": 11,
-      "title": "Kenya-EU and Kenya-UK EPAs",
-      "theme": "Trade Agreements in Practice",
-      "unlock_rule": "complete_unit_10_checkpoint",
-      "unit_goal": "Understand the two EPAs, their objectives, implementation, challenges, and mitigation measures.",
-      "recommended_days": 4,
+      "unit_id": "unit-5",
+      "title": "The World Trade Organization (WTO)",
       "lessons": [
         {
-          "lesson_id": "11.1",
-          "title": "Kenya-EU EPA Basics",
-          "type": "learn",
-          "goal": "Understand the purpose and broad structure of the Kenya-EU EPA.",
-          "skills": [
-            "EPA",
-            "market access",
-            "economic integration",
-            "development cooperation",
-            "sustainable development"
-          ],
+          "lesson_id": "lesson-5-1",
+          "title": "History and Structure of the WTO",
+          "goal": "Trace the history from GATT to WTO and understand the WTO's structure and functions.",
           "micro_steps": [
-            "Define EPA",
-            "Explain Kenya-EU EPA objectives",
-            "Recall signature and entry-into-force dates"
-          ],
-          "xp": 10
+            "Pre-GATT: after WW1, extensive trade barriers (tariffs, quotas, licensing controls, foreign exchange controls) disrupted world trade. The 1944 Bretton Woods Conference created the World Bank and IMF and recommended reducing trade obstacles.",
+            "GATT (General Agreement on Tariffs and Trade): formed after WW2 to boost economic recovery by eliminating/reducing tariffs, quotas, and subsidies. Signed by 23 countries on 30 October 1947; became law 1 January 1948.",
+            "From GATT to WTO: over 47 years, GATT contracting parties grew from 23 to 128 countries. Eight rounds of trade liberalization under GATT. The Uruguay Round (1986–1994) ended the GATT era and ushered in the WTO on 1 January 1995.",
+            "WTO vs GATT: WTO extended GATT in two ways — (1) GATT became one of three major agreements (alongside GATS for services and TRIPS for intellectual property); (2) WTO is a corporate body recognized under international law, while GATT was only an agreement between contracting parties.",
+            "WTO functions: (1) administering WTO trade agreements; (2) forum for trade negotiations; (3) handling trade disputes; (4) monitoring national trade policy; (5) technical assistance and training; (6) cooperation with other international organizations.",
+            "WTO structure: Ministerial Conference (MC) — supreme body, meets at least every two years, appoints Director General. General Council — acts on behalf of MC, operates as Dispute Settlement Body and Trade Policy Review Body. Secretariat — headed by Director General appointed for four years.",
+            "WTO areas of concern: (1) Goods; (2) Services (GATS); (3) Intellectual Property Rights (TRIPS)."
+          ]
         },
         {
-          "lesson_id": "11.2",
-          "title": "Kenya-EU EPA Implementation",
-          "type": "learn",
-          "goal": "Understand duty treatment and phasedown structure under the Kenya-EU EPA.",
-          "skills": [
-            "Annex II(a)",
-            "Annex II(b)",
-            "Annex II(c)",
-            "Annex II(d)",
-            "tariff phasedown"
-          ],
+          "lesson_id": "lesson-5-2",
+          "title": "WTO Principles and GATT Articles",
+          "goal": "Understand the core principles of the WTO and the key GATT articles.",
           "micro_steps": [
-            "Explain treatment of Kenyan exports to the EU",
-            "Explain duty-free treatment in Annex II(a)",
-            "Explain 10% phasedown under Annex II(b)",
-            "Explain 25% phasedown under Annex II(c)",
-            "Explain non-liberalized treatment under Annex II(d)"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "11.3",
-          "title": "Kenya-UK EPA Basics and Implementation",
-          "type": "learn",
-          "goal": "Understand the Kenya-UK EPA and how it is implemented.",
-          "skills": [
-            "Kenya-UK EPA",
-            "FTA",
-            "tariff lines",
-            "UK access",
-            "phase-down"
-          ],
-          "micro_steps": [
-            "Recall signing and entry-into-force dates",
-            "Explain asymmetrical tariff elimination",
-            "Explain Annex II(a) to II(d) structure",
-            "Explain UK duty-free access for Kenyan goods"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "11.4",
-          "title": "EPA Challenges and Mitigation",
-          "type": "match",
-          "goal": "Link EPA risks to proposed solutions.",
-          "skills": [
-            "competition risk",
-            "revenue loss",
-            "export concentration",
-            "industrial upgrading",
-            "tax reforms",
-            "diversification"
-          ],
-          "micro_steps": [
-            "Match revenue loss to domestic tax reform",
-            "Match local competition pressure to industrial upgrading",
-            "Match export concentration to diversification",
-            "Match EAC coordination challenge to broader ratification"
-          ],
-          "xp": 10
-        },
-        {
-          "lesson_id": "11.5",
-          "title": "Unit 11 Checkpoint",
-          "type": "checkpoint",
-          "goal": "Show you understand the EPAs as practical trade policy instruments.",
-          "skills": [
-            "EPA mastery"
-          ],
-          "micro_steps": [
-            "Explain the purpose of each EPA",
-            "Explain how tariff treatment works",
-            "Explain major challenges and mitigation measures"
-          ],
-          "xp": 30
+            "WTO principles: (1) Non-discrimination — through Most Favoured Nation (MFN) and National Treatment. (2) Liberalization — lowering trade barriers (tariffs, quotas, bans). (3) Predictability — binding and transparency of trade rules. (4) Fair competition — rules against dumping and subsidies. (5) Promotion of economic development — special treatment for developing countries.",
+            "MFN (Most Favoured Nation): a trade concession granted to one WTO member must immediately and unconditionally be given to ALL other members. Exceptions: regional integration (GATT Art. XXIV); economic development (S&D treatment); security exceptions (Art. XXI); historical preferences.",
+            "National Treatment (GATT Art. III): imported and locally-produced goods must be treated equally after foreign goods enter the market.",
+            "Key GATT Articles: Art. I — MFN treatment. Art. II — schedules of concessions (bound rates). Art. V — freedom of transit. Art. VI — anti-dumping and countervailing duties. Art. VII — customs valuation. Art. X — publication and transparency of trade regulations. Art. XI — general elimination of quantitative restrictions. Art. XIX — emergency safeguard action. Art. XX — general exceptions (public morals, health, environment). Art. XXI — security exceptions. Art. XXIV — customs unions and free trade areas.",
+            "Part IV (Trade and Development): Art. XXXVI — special and differential (S&D) treatment for developing countries under the Generalized System of Preferences (GSP). Developed members commit to higher priority for eliminating barriers on products of interest to developing countries.",
+            "WTO agreements cover: agriculture; trade remedies; trade-related investment measures (TRIMs); trade in services (GATS); government procurement; technical barriers to trade (TBT); sanitary and phytosanitary measures (SPS); trade-related intellectual property rights (TRIPS); rules of origin; customs valuation; pre-shipment inspection."
+          ]
         }
       ]
     },
     {
-      "unit_id": 12,
-      "title": "Grand Mastery Path",
-      "theme": "Full Synthesis",
-      "unlock_rule": "complete_unit_11_checkpoint",
-      "unit_goal": "Bring the full topic together from terms to transaction flow, documents, payments, logistics, Incoterms, and EPAs.",
-      "recommended_days": 4,
+      "unit_id": "unit-6",
+      "title": "The World Customs Organization (WCO)",
       "lessons": [
         {
-          "lesson_id": "12.1",
-          "title": "Mixed Process Quiz",
-          "type": "quiz",
-          "goal": "Review the entire trade transaction process from beginning to end.",
-          "skills": [
-            "mixed recall",
-            "transaction logic"
-          ],
+          "lesson_id": "lesson-6-1",
+          "title": "WCO History, Structure, and Functions",
+          "goal": "Understand the WCO's origins, structure, objectives, and key instruments.",
           "micro_steps": [
-            "Recognize players",
-            "Sequence trade steps",
-            "Match documents to the correct stage"
-          ],
-          "xp": 15
+            "History: in 1947, 13 governments set up two committees — an Economic Committee and a Customs Committee. The Customs Committee became the Customs Cooperation Council (CCC) in 1952. Inaugural session in Brussels on 26 January 1953. In 1994, adopted the working name World Customs Organisation (WCO).",
+            "WCO today: 180 members responsible for processing more than 98% of all international trade. Official languages: English and French. Headquarters: Brussels, Belgium.",
+            "WCO mission: to improve the effectiveness and efficiency of its Member Customs administrations across the globe.",
+            "WCO objective: to secure the highest degree of harmony and uniformity in Customs systems.",
+            "WCO structure: (1) The Council — supreme body, meets at least twice a year, each member has one delegate. (2) Secretariat — headed by Secretary General, based in Brussels, implements WCO Strategic Plan, provides technical support. (3) Policy Commission — steering group chaired by Council Chairperson, 17 members elected regionally. (4) Working Committees — including Harmonised System Committee, Technical Committee on Customs Valuation, Technical Committee on Rules of Origin, Permanent Technical Committee, Finance Committee.",
+            "WCO objectives/goals: modernisation and capacity building; security and enforcement; harmonisation and simplification of Customs procedures; fair, efficient and effective revenue collection; promote Digital Customs and Coordinated Border Management; raise performance and profile of Customs; conduct research and analysis; promote partnership and cooperation.",
+            "WCO functions: develops and maintains international Customs instruments (HS, RKC, Istanbul Convention, Nairobi Convention); fights transnational organised crime and commercial fraud; facilitates enforcement cooperation through CEN (Customs Enforcement Network) and RADDEx; supports members through RILOs (Regional Intelligence Liaison Offices) in Cameroon, Chile, Germany, Japan, Kenya, Morocco, Russia, Poland, Puerto Rico, Saudi Arabia, Senegal; administers WTO Agreements on Customs Valuation and Origin; promotes integrity through the Arusha Declaration."
+          ]
         },
         {
-          "lesson_id": "12.2",
-          "title": "Risk and Responsibility Quiz",
-          "type": "quiz",
-          "goal": "Review payment methods, transport decisions, and Incoterms.",
-          "skills": [
-            "risk allocation",
-            "mode selection",
-            "incoterm recall"
-          ],
+          "lesson_id": "lesson-6-2",
+          "title": "WCO Instruments",
+          "goal": "Identify the types of WCO instruments and understand the key ones.",
           "micro_steps": [
-            "Compare payment risks",
-            "Choose suitable transport modes",
-            "Apply Incoterms to trade cases"
-          ],
-          "xp": 15
+            "Types of WCO instruments: (1) Conventions — legally binding to signatory states, passed by the WCO Council. (2) Recommendations — non-binding, encourage uniform application of rules. (3) Resolutions — non-binding, address issues of global interest. (4) Declarations — address issues of global interest (e.g. Arusha Declaration on Integrity). (5) Opinions — non-prescriptive, give directions on how things should be done (e.g. how to apply Customs Valuation methods).",
+            "Key WCO instruments: Revised Kyoto Convention (RKC); SAFE Framework of Standards; Arusha Declaration on Customs Integrity; ATA Convention and Istanbul Convention (temporary admission); Harmonised Commodity Description and Coding System (HS Convention).",
+            "Revised Kyoto Convention (RKC): international agreement providing comprehensive Customs procedures to facilitate legitimate international trade while effecting Customs controls. Full title: International Convention on the Simplification and Harmonisation of Customs Procedures. Original convention concluded in Kyoto in 1973, entered into force September 1974. Revised in 1999, came into force in 2006.",
+            "RKC structure: three parts — (1) Body (obligatory) — basic provisions, preamble, scope, administration, accession; (2) General Annex (obligatory) — 10 chapters of core principles, all Standards and Transitional Standards are mandatory; (3) Ten Specific Annexes (optional) — cover different aspects of Customs procedures, contain both Standards and Recommended Practices.",
+            "RKC General Annex chapters: Ch.1 General Principles; Ch.2 Definitions; Ch.3 Clearance and other Customs formalities; Ch.4 Duties and Taxes; Ch.5 Security; Ch.6 Customs Control; Ch.7 Application of IT; Ch.8 Relationship with third parties; Ch.9 Information, decisions and rulings; Ch.10 Appeals.",
+            "RKC Specific Annexes: A — Arrival of Goods; B — Importation (home use, re-importation, relief); C — Exportation; D — Customs warehouses and free zones; E — Transit (Customs transit, transhipment, coastwise); F — Processing (inward, outward, drawback); G — Temporary admission; H — Offences; J — Special procedures (travellers, postal, transport, stores, relief); K — Origin.",
+            "RKC key principles/benefits: transparency and predictability; standardisation and simplification of declarations; simplified procedures for authorised persons; maximum use of IT; minimum necessary Customs control; risk management and audit-based controls; coordinated interventions with other border agencies; partnership with trade; faster release and lower trade costs; increased revenue; more FDI.",
+            "SAFE Framework of Standards: adopted June 2005 at WCO Council Sessions in Brussels. Revised 2007. As of 2015, 169 WCO members expressed intention to implement it. Three pillars: (1) Customs-to-Customs network arrangements; (2) Customs-to-Business partnerships; (3) Customs-to-other Government Agencies cooperation.",
+            "SAFE core elements: (1) harmonised advance electronic cargo information; (2) consistent risk management approach; (3) outbound inspection of high-risk cargo at sending nation's request; (4) benefits for businesses meeting supply chain security standards (AEO concept); (5) close cooperation with other governmental agencies.",
+            "SAFE objectives: establish global supply chain security and facilitation standards; enable integrated supply chain management for all transport modes; strengthen Customs-to-Customs networking; promote Customs-business cooperation; champion seamless movement of goods through secure supply chains.",
+            "ATA Convention / Istanbul Convention: ATA = Admission Temporaire / Temporary Admission. System allowing free movement of goods across frontiers and temporary admission with relief from duties and taxes. Goods covered by a single ATA carnet secured by an international guarantee. Carnet serves as goods declaration at export, transit, and import.",
+            "Arusha Declaration on Customs Integrity: adopted 1993, revised 2003. Non-binding instrument providing basic principles to promote integrity and combat corruption within Customs administrations.",
+            "HS Convention (Harmonised System): international nomenclature for classification of products allowing participating countries to classify traded goods on a common basis for Customs purposes."
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "unit-7",
+      "title": "Regional Economic Integration",
+      "lessons": [
+        {
+          "lesson_id": "lesson-7-1",
+          "title": "Stages and Benefits of Regional Integration",
+          "goal": "Describe the six stages of regional economic integration and evaluate their benefits and drawbacks.",
+          "micro_steps": [
+            "Regional integration: process whereby countries within a geographical area collaborate to reduce or eliminate barriers to the international flow of products, people, or capital. A Regional Trade Bloc is a group of states in a geographic region undergoing economic integration.",
+            "Six stages of economic integration: (1) Preferential Trade Area (PTA) — preferential tariffs to specific group of countries while maintaining autonomy over third-party tariffs. Example: PTA of Eastern and Southern Africa (1980–1998, predecessor to COMESA). (2) Free Trade Area (FTA) — eliminate tariffs, quotas, and preferences among members; each member maintains own protection for non-members. Examples: SADC, NAFTA, COMESA. (3) Customs Union — FTA plus common external tariff (CET) on trade with non-members. Examples: SACU, EAC. (4) Common Market — customs union plus free movement of factors of production (labour, capital, land). (5) Economic and Monetary Union — common fiscal, monetary, and social-economic policies. Example: Eurozone. (6) Complete Economic/Political Integration — unified economic structure and regulation, full monetary union, near-complete fiscal harmonisation. Examples: USA, Federal Republic of Germany.",
+            "Reasons for regional integration: trade gains (competition reduces prices); increased returns and economies of scale; FDI attraction; lock-in to domestic reforms; signalling policy approach to attract investment; insurance against macroeconomic instability; coordination and bargaining power in multilateral negotiations; security (reduces risk of conflict).",
+            "Benefits: trade creation and FDI; wider choice of goods and services at lower costs; economic growth (increased GDP); enhanced political cooperation and greater political weight; greater consensus in smaller groups; employment creation; improved governance; common development projects with greater synergy.",
+            "Drawbacks: trade diversion (trade shifts from efficient non-member to less efficient member); shifts in employment (brain drain); reduced discretionary powers (surrender of sovereignty); reduced government revenue from tariffs; unclear effect on global welfare.",
+            "Regional integration in Africa: key groupings include CEMAC, EAC, CEPGL, IOC, MRU, SACU, UEMOA. The EAC consists of DRC, Somalia, Burundi, Kenya, Rwanda, South Sudan, Uganda, and Tanzania."
+          ]
         },
         {
-          "lesson_id": "12.3",
-          "title": "Integrated Trade Scenario Lab",
-          "type": "scenario",
-          "goal": "Handle a realistic international trade case using everything learned.",
-          "skills": [
-            "synthesis",
-            "practical application"
-          ],
+          "lesson_id": "lesson-7-2",
+          "title": "The East African Community (EAC)",
+          "goal": "Understand the history, objectives, legal framework, and management of the EAC.",
           "micro_steps": [
-            "Identify the right players and documents",
-            "Choose a payment method",
-            "Choose a transport mode",
-            "Choose a suitable Incoterm",
-            "Recognize customs and EPA implications"
-          ],
-          "xp": 20
-        },
+            "EAC history: Kenya–Uganda Customs Union 1917 (Tanganyika joined 1927); East African High Commission 1948–1961; East African Common Services Organization 1961–1967; East African Community 1967–1977; Mediation Agreement 1984; EAC re-established 2000.",
+            "Treaty for the Establishment of the EAC: signed 30 November 1999, entered into force 7 July 2000 by Kenya, Uganda, and Tanzania. Rwanda and Burundi acceded 18 June 2007, became full members 1 July 2007. South Sudan joined April 2016, full member September 2016. Current membership: 8 states (DRC, Somalia, Burundi, Kenya, Rwanda, South Sudan, Uganda, Tanzania).",
+            "EAC Customs Union: signed March 2004, commenced 1 January 2005. First stage of EAC integration (unlike the standard theory where Customs Union is the third stage). Kenya, as the largest exporter, continued paying duties on goods entering other four countries until 2010 on a declining scale.",
+            "EAC objectives: improvement of physical infrastructure; improvement of business environment; reduction of utility service costs; improvement of financial services; improvement of transportation efficiency; reduction and harmonisation of taxes; creating capacity for multilateral trade negotiations.",
+            "EAC legal framework: (1) Treaty for Establishment of the EAC; (2) Protocol on the Establishment of the EAC Customs Union; (3) EACCMA 2004; (4) Annexes to the Protocol — EAC Common External Tariff, Programme for Elimination of Internal Tariff, Rules of Origin, Safeguard Measures.",
+            "EAC management organs: Summit of Heads of State; Council of Ministers; Coordination Committee; Sectoral Committees; East African Court of Justice; East African Legislative Assembly; Secretariat."
+          ]
+        }
+      ]
+    },
+    {
+      "unit_id": "unit-8",
+      "title": "AGOA and Trade Preferences",
+      "lessons": [
         {
-          "lesson_id": "12.4",
-          "title": "Grand Checkpoint",
-          "type": "checkpoint",
-          "goal": "Demonstrate full mastery of customs in international context.",
-          "skills": [
-            "full-topic synthesis"
-          ],
+          "lesson_id": "lesson-8-1",
+          "title": "African Growth and Opportunity Act (AGOA)",
+          "goal": "Understand what AGOA is, its history, eligibility requirements, and current status.",
           "micro_steps": [
-            "Define and explain the major trade terms",
-            "Explain the transaction steps and documents",
-            "Explain payment methods and transport choices",
-            "Explain Incoterms and the two EPAs"
-          ],
-          "xp": 30
-        },
-        {
-          "lesson_id": "12.5",
-          "title": "Legendary Review Path",
-          "type": "quiz",
-          "goal": "Final mixed review for long-term retention.",
-          "skills": [
-            "retention",
-            "mixed application",
-            "exam readiness"
-          ],
-          "micro_steps": [
-            "Mixed trade term questions",
-            "Mixed documentation questions",
-            "Mixed payment and Incoterm questions",
-            "Mixed EPA questions"
-          ],
-          "xp": 15
+            "AGOA (African Growth and Opportunity Act): a U.S. trade preference program enacted in 2000 providing duty-free access to the U.S. market for over 6,800 products. Primary goal: jumpstart African industrialization through Trade, not Aid. Goods must be imported directly into the U.S. from the beneficiary country.",
+            "Kenya and AGOA: Kenya is one of the top 32 eligible Sub-Saharan African beneficiaries, accounting for approximately USD 700 million annually, primarily through EPZ (Export Processing Zones) and apparel exports.",
+            "Notable history: 2000 — signed into law by Bill Clinton; 2015 — 10-year extension (longest in history), enabling Kenya's textile boom; September 2025 — program officially lapsed; February 3, 2026 — reauthorized retroactively for one year only. The shift is from non-reciprocal aid to reciprocal trade — the U.S. now expects Kenya to lower barriers for American goods.",
+            "Eligibility requirements: market economy; rule of law; political pluralism; right to due process; open trade (remove obstacles to U.S. trade and investment); poverty reduction strategies; anti-corruption efforts; protection of human rights and worker rights.",
+            "Current status (March 2026): one-year extension expires December 31, 2026. U.S. has introduced reciprocal surcharges (10–15%). US–Kenya STIP (Strategic Trade and Investment Partnership) negotiations resumed February 2026. U.S. pushing for AGOA 2.0 demanding more market access for American farmers and businesses."
+          ]
         }
       ]
     }
-  ],
-  "review_system": {
-    "daily_practice": {
-      "description": "Recycles weak lessons, commonly confused documents, similar payment methods, and similar Incoterms.",
-      "daily_target_xp": 30
-    },
-    "spaced_repetition_buckets": [
-      {
-        "bucket": "same_day",
-        "trigger": "after first lesson completion"
-      },
-      {
-        "bucket": "next_day",
-        "trigger": "if learner scores below 80 percent"
-      },
-      {
-        "bucket": "three_day_review",
-        "trigger": "for all new concepts"
-      },
-      {
-        "bucket": "seven_day_review",
-        "trigger": "for all checkpoint skills"
-      },
-      {
-        "bucket": "mastery_refresh",
-        "trigger": "every 14 days for mastered units"
-      }
-    ]
-  },
-  "gamification": {
-    "badges": [
-      {
-        "name": "Trade Terms Rookie",
-        "unlock": "complete Units 1 and 2"
-      },
-      {
-        "name": "Transaction Tracker",
-        "unlock": "complete Units 3 to 5"
-      },
-      {
-        "name": "Documentation Specialist",
-        "unlock": "complete Unit 6"
-      },
-      {
-        "name": "Trade Finance Analyst",
-        "unlock": "complete Unit 7"
-      },
-      {
-        "name": "Logistics Navigator",
-        "unlock": "complete Unit 8"
-      },
-      {
-        "name": "Incoterms Strategist",
-        "unlock": "complete Units 9 and 10"
-      },
-      {
-        "name": "EPA Interpreter",
-        "unlock": "complete Unit 11"
-      },
-      {
-        "name": "International Trade Master",
-        "unlock": "complete Unit 12"
-      }
-    ],
-    "streak_rewards": [
-      {
-        "days": 3,
-        "reward": "bonus review chest"
-      },
-      {
-        "days": 7,
-        "reward": "checkpoint retry without heart loss"
-      },
-      {
-        "days": 14,
-        "reward": "legendary review unlock"
-      },
-      {
-        "days": 30,
-        "reward": "course mastery badge"
-      }
-    ]
-  },
-  "estimated_course_totals": {
-    "total_units": 12,
-    "total_lessons": 62,
-    "estimated_base_xp": 895,
-    "estimated_completion_days": 36
-  }
+  ]
 }
